@@ -1,0 +1,283 @@
+{
+    "id": "UCJcKh9mwJH4zhHsU4NDs54g",
+    "header": {
+        "name": "Rumii Ch. 如月ルミィ【HKVTuber】",
+        "image": "https://yt3.ggpht.com/crKt9EpDNulH_mMXCozXmacL7Tb7RROazYtFeS9lnapvC_yplU95DemkkLhmcPV4KIsfr1Uy=s176-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/AVQqsaxruc9s4lPGs0bKqCryFbGligpM3iRr9FwSX_hQxOyLFct0H5SxpPRhgzOarZzI7xmG9w=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/EoO5OYJVEAA7TCu?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/EoO5OYJVEAA7TCu?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "魔界大魔王的女兒。可惡的人類多次侵略魔王城，以致魔王需要大量金錢支付士兵的薪水、幫補傷亡的士兵(魔王城已通過法例保障勞動階層)、維修城堡的費用，造成魔王城庫房乾涸。Rumii為了幫補家計，逼不得已離開魔界來到人類世界當VTUBER賣藝。Rumii努力練習唱歌魔法，希望有一天可以成為大家的偶像，用歌聲魅惑人類，然後盡量匯多點家用回去給魔王城。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "如月ルミィ\n如月瑠美\nRumiiKisaragi",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "11月10日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "人類19歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "155cm",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "喜歡",
+                        "content": "唱歌\nVocaloid\nEDM(Dustep/FutureCore)\n推理解謎作品\n音樂街機\n兔子\n太陽蛋",
+                        "heightRate": "4.67"
+                    },
+                    {
+                        "key": "討厭",
+                        "content": "一切恐怖的東西\n色士風\nFPSGAME\n紅豆",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "Artist",
+                        "content": "GipaP\nDeco*27\nKIRA\nReol\nYOASOBI PSYQUI\nTerminite\nVirtual Riot\nDt+pazolite",
+                        "heightRate": "5.33"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播內容",
+                        "content": "唱歌\n遊戲\n聊天\n多語言直播",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#itsRumiinous",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Rumii48kHz",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag(可用)",
+                        "content": "#RumiiArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#R18miiArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#如月病",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#Rumiime",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Mark",
+                        "content": "🎀 🕯",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "打call/應援棒",
+                        "content": "❓❔",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCJcKh9mwJH4zhHsU4NDs54g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "rumiikisaragi"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/pages/category/Music-Video/Rumii-Ch-%E5%A6%82%E6%9C%88%E3%83%AB%E3%83%9F%E3%82%A3HKVTuber-104404504840255/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4hpxyVidUIo",
+                        "image": "https://i.ytimg.com/vi/4hpxyVidUIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_P4Se13mTGp5VmdkaYGyCUa3EBQ",
+                        "title": "【自我介紹】你要來點惡魔IDOL嗎♡【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "7YR5WcZw9cY",
+                        "image": "https://i.ytimg.com/vi/7YR5WcZw9cY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTM0r3BRZNmDnl7QAlG3sITiL17Q",
+                        "title": "一事無成公益金2021｜雪見縚那如月瑠美獻唱為失業家庭打氣",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ghPJVtP2ysU",
+                        "image": "https://i.ytimg.com/vi/ghPJVtP2ysU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXgOT1ojjMlzVR4ccUJD1rXPLXvA",
+                        "title": "【リモコン】粵語翻唱「遙控人間」【如月瑠美 x DS】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "kfnzBVcoe9I",
+                        "image": "https://i.ytimg.com/vi/kfnzBVcoe9I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2zn5JJu__nlnAE053cGIGRu-5tg",
+                        "title": "世界盡頭的舞廳 -ワールズエンド・ダンスホール 粵語ver.- / covered by 如月瑠美・LAAM",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "LwGED-Me43I",
+                        "image": "https://i.ytimg.com/vi/LwGED-Me43I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2eUPTOQGWYWIQCCGKESdsCD-8iw",
+                        "title": "夜に駆ける -THE HOME TAKE ver.- / covered by 如月瑠美【HKVTuber】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "oyOzKIIYwGk",
+                        "image": "https://i.ytimg.com/vi/oyOzKIIYwGk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB87ximQNUdslkA8QkEr17fgeBMTA",
+                        "title": "【約會一天】在魔界跟Rumii的約會..♡【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "_TUH0qI-ANM",
+                        "image": "https://i.ytimg.com/vi/_TUH0qI-ANM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQr0h2YjrAQOpTUeSkkc2eZid-_A",
+                        "title": "【港台聯動 ft. 平平子】首次國語直播！台語vs粵語教學台、哪邊比較難？！【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "VjepVw3EUHs",
+                        "image": "https://i.ytimg.com/vi/VjepVw3EUHs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYD0YZjrdIHDLzoHOZHYeEWd9CVw",
+                        "title": "【一萬訂閱多L謝晒♡】仲吾入泥聽我唱歌？系米想死v0v【HKVTuber/醉曖老味】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "8PwTYLAhJ-4",
+                        "image": "https://i.ytimg.com/vi/8PwTYLAhJ-4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4lPQWwUK_af4tcZUGUJ_10d6ofA",
+                        "title": "【SINGING】要見識一下惡魔IDOL的美妙歌聲嗎【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "-GTx-cievm8",
+                        "image": "https://i.ytimg.com/vi/-GTx-cievm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6yM1GZv1-u4PoRNiMILlbhbsKLw",
+                        "title": "【初次直播】NICE RUMII UUU!! 最清楚純潔友善的惡魔IDOL在這邊真心不騙。【HKVTuber/如月瑠美】",
+                        "author": "Rumii Ch. 如月ルミィ【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "烤肉/精華",
+                "video_list": [
+                    {
+                        "video_code": "Da_1UtJ9INI",
+                        "image": "https://i.ytimg.com/vi/Da_1UtJ9INI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1aLuc3dWKSO8h319oTXiwU_lOaQ",
+                        "title": "【如月ルミィ/如月瑠美】畫畫接龍一直歪樓 最終Rumii變成了蟑螂？【香港VTuber】",
+                        "author": "PANDORA"
+                    },
+                    {
+                        "video_code": "-wsfP_3fTGQ",
+                        "image": "https://i.ytimg.com/vi/-wsfP_3fTGQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKQo1N8k0C0z2oUXpADQiQVdFfJA",
+                        "title": "【如月瑠美】Rumii慘被叫姨姨 摘名記住你們【香港VTuber】",
+                        "author": "湯姆烤肉店【在幸國患如月病的黑騎】"
+                    },
+                    {
+                        "video_code": "EOkgdraF_sc",
+                        "image": "https://i.ytimg.com/vi/EOkgdraF_sc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGE-mgldboPZ9Pex_e-xVxwnu6Uw",
+                        "title": "【如月ルミィ/ 如月瑠美】Ru寶，一款真正人性化的智能語音【香港VTuber】",
+                        "author": "PANDORA"
+                    },
+                    {
+                        "video_code": "BLEoo8yajXU",
+                        "image": "https://i.ytimg.com/vi/BLEoo8yajXU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0k2Y-V1ZDXgmg6RQrCB0KvN18fg",
+                        "title": "【如月瑠美】發動SC陷阱 Rumii大意了沒有閃【香港VTuber】",
+                        "author": "湯姆烤肉店【在幸國患如月病的黑騎】"
+                    },
+                    {
+                        "video_code": "sRz5oZVe2uc",
+                        "image": "https://i.ytimg.com/vi/sRz5oZVe2uc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVrHxcUZ8dEMTdVAhPQw0Iv_RCVQ",
+                        "title": "全港最純潔的vtuber慘遭觀眾陷害【如月ルミィ】",
+                        "author": "勇者大人"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_ar",
+            "data": {
+                "title": "AR",
+                "ar_path": "https://hkvtuber.github.io/ar_page_dev/",
+                "ar_list": [
+                    {
+                        "image": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/preview/test.webp",
+                        "path": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/glb/test.glb",
+                        "ios_path": "https://raw.githubusercontent.com/hkvtuber/dev_data/master/resource/ar/usdz/test.usdz"
+                    }
+                ]
+            }
+        }
+    ]
+}
