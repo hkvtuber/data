@@ -1,0 +1,40 @@
+{
+    "id": "UCPbZzX8Uq3iCsPtclDcIlfQ",
+    "header": {
+        "name": "蒼月ユキ【香港VTuber】",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSmaKtc1VhYIXZzF9UcmB7p1Kvm0o032Yo8oVtgEw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCPbZzX8Uq3iCsPtclDcIlfQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "yuki_sougetsuv"
+                    }
+                ]
+            }
+        }
+    ]
+}
