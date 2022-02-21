@@ -1,7 +1,7 @@
 {
     "id": "UCGnse5xn3X8BuY3bRbQWNyA",
     "header": {
-        "name": "Maya Ch.獅子堂マヤ",
+        "name": "Maya Ch. 獅子堂マヤ ~HKVtuber~",
         "image": "https://yt3.ggpht.com/z7wBGw4uTa7xhZVcOnVFIafE7F02Zq7KeL_IIqxprM3zvHj9w2Kqv3bQWDq2MEjCNY3j0U_5xrs=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/F9t3VmRxnRouhpdvcpwc2FFmxzeLTmdmwb36j1LDXimF5DUMxmdG3NDgTiMAceNQovFJ6PXt_A"
     },
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "獅子堂マヤ\nMaya",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "7月16日",

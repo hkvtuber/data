@@ -1,7 +1,7 @@
 {
     "id": "UCFXM3VpMha0H5a-0M4bgwZQ",
     "header": {
-        "name": "凱特斯Kates{準備中HKVtuber}",
+        "name": "凱特斯Kates{HKVtuber}",
         "image": "https://yt3.ggpht.com/F2yq1P8ZGojt6h250wMSgNfuLXJsFHvH8mWXru3oCZSb9A8-zqKTFwrdGAUg4JiXiFo1amR8=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/5-7Zj6f4OL8Sc5krqa8v6rU4bZ4KwxtGMOh2eDlsm5YXMR-ZsQBOeWbXzmiMr4L-yz9a9jhZmsQ"
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "凱特斯\nKates",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "3月27日",

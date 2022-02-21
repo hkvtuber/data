@@ -1,7 +1,7 @@
 {
     "id": "UCYsrn7Ygy4jgJd4muJ85MbQ",
     "header": {
-        "name": "🍁羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]",
+        "name": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]",
         "image": "https://yt3.ggpht.com/gyBg629YbAaWwce87Oz8ni4AvLz3xrM_PvPcms325ha1KClDE9dzmhdYBOo19NOEjPtIgjhuf44=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/btrIARhLlxlzgOpS1VMKeyn0SjIyBqGEcYwdI1YfX2b5vKdzGY6yNgHZpqwJKfE-DdqyOE0E"
     },
@@ -18,6 +18,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "羽鳥楓鈴\nHatori Karin",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "11月4日",

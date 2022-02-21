@@ -1,7 +1,7 @@
 {
     "id": "UCRLOQ3XCFpZtTcMmjL7U6uw",
     "header": {
-        "name": "柔木月 HKVtuber",
+        "name": "柔木月 YawaragiTsuki Ch.(HKvtuber ) ",
         "image": "https://yt3.ggpht.com/tTJHLcZMFYvyfDyWxgJuXpBuDx1ElGAYTzBjW3SvyLktA9uKWRpFbAjCNHY6w9wIOfrgxCih=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
@@ -30,6 +30,11 @@
             "data": {
                 "title": "個人資料",
                 "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "柔木月\nYawaragiTsuki",
+                        "heightRate": "2"
+                    },
                     {
                         "key": "生日",
                         "content": "2月2日",

@@ -35,6 +35,11 @@
                 "title": "個人資料",
                 "map_list": [
                     {
+                        "key": "名字",
+                        "content": "木星とき\ntoki",
+                        "heightRate": "2"
+                    },
+                    {
                         "key": "生日",
                         "content": "10月23日",
                         "heightRate": "1"

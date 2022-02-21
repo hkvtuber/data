@@ -1,7 +1,7 @@
 {
     "id": "UCnMFfos8WkCksapXm9X-LMA",
     "header": {
-        "name": "Inuneko Inochi【HKVTUBER】",
+        "name": "Inuneko Inochi",
         "image": "https://yt3.ggpht.com/IJX00i0waHRtnJQx8SlsfYQCS0BQ8GnHd4ZrqXJ90R-YSlE84nr0ejGDYlOTGzB-_RO0gzwIG70=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/ZBaneL5NLyEmNpfY2OAgVK5uuU7vYxnwzLGJersalduhXVUlVziBZR7OzDP8aeil4JWhGbFP"
     },
@@ -11,6 +11,19 @@
             "data": {
                 "title": "描述",
                 "content": "從香城牧場脫出，在西方牧場尋找舊雇主的旅途中\n作為奴隸獸，希望能在空餘時間也為GDP進貢\n我最中意就係返工!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Inuneko Inochi",
+                        "heightRate": "1"
+                    }
+                ]
             }
         },
         {
