@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/E8GoPY9VIAA_OD0?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E8GoPY9VIAA_OD0?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -37,7 +25,7 @@
                     },
                     {
                         "key": "生日",
-                        "content": "8月3日",
+                        "content": "3月8日",
                         "heightRate": "1"
                     },
                     {
