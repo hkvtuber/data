@@ -78,6 +78,10 @@
                     {
                         "key": "twitter",
                         "path": "sawadayuuchan"
+                    },
+                    {
+                        "key": "twitcast",
+                        "path": "https://twitcasting.tv/sawadayuuchan"
                     }
                 ]
             }

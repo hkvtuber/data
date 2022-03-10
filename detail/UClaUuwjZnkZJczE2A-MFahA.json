@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FNXjsIbVQAMqJT3?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FNXjsIbVQAMqJT3?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -47,8 +59,23 @@
                         "heightRate": "1"
                     },
                     {
+                        "key": "直播Tag",
+                        "content": "#9muionair",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#玖盡腦汁",
+                        "heightRate": "1"
+                    },
+                    {
                         "key": "Fan Name Tag",
-                        "content": "#玖點半",
+                        "content": "#炭燒企鵝",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "時間表Tag",
+                        "content": "#玖妹扮工時間表",
                         "heightRate": "1"
                     }
                 ]
@@ -62,6 +89,10 @@
                     {
                         "key": "youtube",
                         "path": "UClaUuwjZnkZJczE2A-MFahA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "9muimui"
                     },
                     {
                         "key": "IG",

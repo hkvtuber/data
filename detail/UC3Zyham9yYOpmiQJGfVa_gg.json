@@ -12,12 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/E8xAK_UUYAUWPTm?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E8xAK_UUYAUWPTm?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/E8xAK_QUcAYWObG?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E8xAK_QUcAYWObG?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FLpVi7wXwAUMfsm?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FLpVi7wXwAUMfsm?format=jpg&name=medium"
                     }
                 ]
             }
@@ -83,6 +79,11 @@
                         "heightRate": "1"
                     },
                     {
+                        "key": "Fan Name Tag",
+                        "content": "#熊糰子",
+                        "heightRate": "1"
+                    },
+                    {
                         "key": "烤肉/精華Tag",
                         "content": "#熊遊記錄",
                         "heightRate": "1"
@@ -101,11 +102,15 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "kuma_asame"
+                        "path": "Shiro_Asame"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/profile.php?id=100075704812203"
                     },
                     {
                         "key": "IG",
-                        "path": "https://www.instagram.com/shiro_asame_v"
+                        "path": "https://www.instagram.com/shiro_asame"
                     }
                 ]
             }

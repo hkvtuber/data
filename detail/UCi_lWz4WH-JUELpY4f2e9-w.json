@@ -61,6 +61,10 @@
                     {
                         "key": "IG",
                         "path": "https://www.instagram.com/bakasyoutuber/"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/hkbakass"
                     }
                 ]
             }

@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FDkKL9waAAEGd-S?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FDkKL9waAAEGd-S?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FMwi1wKakAMPUTq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FMwi1wKakAMPUTq?format=jpg&name=medium"
                     }
                 ]
             }
@@ -87,7 +87,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "mizukiDD1"
+                        "path": "StRineHK_mizuki"
                     }
                 ]
             }

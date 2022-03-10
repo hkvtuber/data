@@ -34,6 +34,11 @@
                         "key": "名字",
                         "content": "迪妮雅・朱莉\nDiria Julie",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "5月23日",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -102,7 +107,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "[{\"video_code\": \"R-y04sgFGJk\",\"image\": \"https://i.ytimg.com/vi/R-y04sgFGJk/hqdefault.jpg\", \"title\": \"Monsters - Katie Sky / Diria Julie (Cover)\",\"author\": \"Diria Julie / 迪妮雅・朱莉【HKVtuber】\"}]"
+                        "path": "Diria_J"
                     },
                     {
                         "key": "IG",
@@ -115,6 +120,20 @@
             "type": "title_youtube",
             "data": {
                 "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "R-y04sgFGJk",
+                        "image": "https://i.ytimg.com/vi/R-y04sgFGJk/hqdefault.jpg",
+                        "title": "Monsters - Katie Sky / Diria Julie (Cover)",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "gsVuwkazMg8",
