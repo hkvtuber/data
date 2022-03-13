@@ -1,0 +1,86 @@
+{
+    "id": "UCc_BLuy2TLGR7QitI0_NOfg",
+    "header": {
+        "name": "Ten Ch.アストラ天【Debut準備中】",
+        "image": "https://yt3.ggpht.com/NqEr9gn94TjlX2qIih_FljKiY6zEtHYPYL6MNj7S_dH9gJA5icepRQhXJfb_ldBAiryfogP1RA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/jiDF_NMUyMuw0tWPP-FwnXkEGZsenzi1Msx8odjGXIPhzSRXdEvHITxKeqJpyA56LVsb1bclWg"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FLAmaMOaAAIbmYK?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FLAmaMOaAAIbmYK?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "天\n十號\nアストラ天\nTen",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "10月10日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "180cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCc_BLuy2TLGR7QitI0_NOfg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "astra_ten"
+                    }
+                ]
+            }
+        }
+    ]
+}
