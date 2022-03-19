@@ -3,21 +3,9 @@
     "header": {
         "name": "Kasumi Ch. ワル霞 [HKVtuber]",
         "image": "https://yt3.ggpht.com/Yu6XYEmr_gnxeEbAkV5i98-uvKMClfDSAIpbFAylByM371Dyxm-xn2oWQPfnDeZG5-P_fNXoog=s88-c-k-c0x00ffffff-no-rj",
-        "bg": ""
+        "bg": "https://yt3.ggpht.com/zYXCD5gljbKNmhLAE8Ge9wCRq01sJKhb7Q7yTwu4iiW84zV11NLVEufbxZJpOS8aZtU4h_nq"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://yt3.ggpht.com/zYXCD5gljbKNmhLAE8Ge9wCRq01sJKhb7Q7yTwu4iiW84zV11NLVEufbxZJpOS8aZtU4h_nq",
-                        "image_big": "https://yt3.ggpht.com/zYXCD5gljbKNmhLAE8Ge9wCRq01sJKhb7Q7yTwu4iiW84zV11NLVEufbxZJpOS8aZtU4h_nq"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
