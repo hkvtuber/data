@@ -1,9 +1,9 @@
 {
-    "id": "UC0SnJBMJiLt3LulYncGqDqQ",
+    "id": "UCzjSO2u_9WBqot0P8FRBnPw",
     "header": {
-        "name": "Arina Hoshimi★星見アリナ",
-        "image": "https://yt3.ggpht.com/6FgCjzlagKvgGfuRyeNkPBb8NEwcwqJpvqMIEfM74FDVzpv17yP9P6eZ1j-yB4NoZarnCvgwDgg=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/MgiIw77nAVzum0xsalcCKdRj2F-ueyjl7BSOKdfCQZwmJK6YhJ5AuOZ8om-Q9aBEwjE5F2q2YA"
+        "name": "Kasumi Ch. ワル霞 [HKVtuber]",
+        "image": "https://yt3.ggpht.com/Yu6XYEmr_gnxeEbAkV5i98-uvKMClfDSAIpbFAylByM371Dyxm-xn2oWQPfnDeZG5-P_fNXoog=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FKb0VRqaQAMl76c?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FKb0VRqaQAMl76c?format=jpg&name=medium"
+                        "image": "https://yt3.ggpht.com/zYXCD5gljbKNmhLAE8Ge9wCRq01sJKhb7Q7yTwu4iiW84zV11NLVEufbxZJpOS8aZtU4h_nq",
+                        "image_big": "https://yt3.ggpht.com/zYXCD5gljbKNmhLAE8Ge9wCRq01sJKhb7Q7yTwu4iiW84zV11NLVEufbxZJpOS8aZtU4h_nq"
                     }
                 ]
             }
@@ -32,17 +32,22 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "星見アリナ\nArina Hoshimi",
+                        "content": "ワル霞\nKasumi",
                         "heightRate": "2"
                     },
                     {
                         "key": "生日",
-                        "content": "4月27日",
+                        "content": "1月13日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "20歲",
                         "heightRate": "1"
                     },
                     {
                         "key": "身高",
-                        "content": "160cm",
+                        "content": "170cm",
                         "heightRate": "1"
                     }
                 ]
@@ -62,21 +67,6 @@
                         "key": "語言",
                         "content": "廣東話\n普通話\n日文\n英文",
                         "heightRate": "2.67"
-                    },
-                    {
-                        "key": "通用Tag",
-                        "content": "#ArinaHoshimi",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "Fan Art Tag\n(有機會用在封面)",
-                        "content": "#ArinaPaint",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "Fan Name Tag",
-                        "content": "#Twinkles",
-                        "heightRate": "1"
                     }
                 ]
             }
@@ -88,11 +78,15 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UC0SnJBMJiLt3LulYncGqDqQ"
+                        "path": "UCzjSO2u_9WBqot0P8FRBnPw"
                     },
                     {
                         "key": "twitter",
-                        "path": "arina_hoshimi"
+                        "path": "y6kasumi"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/y6kasumi"
                     }
                 ]
             }

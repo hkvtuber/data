@@ -1,0 +1,84 @@
+{
+    "id": "UCoGepl2YpFVtUEHw5OADGtA",
+    "header": {
+        "name": "Maru Ch. 丸太郎【HKvtuber】",
+        "image": "https://yt3.ggpht.com/WX5eVZrUV2nCZIyfY-N6XdyhIjQlKI_KQVKL5FQPno_VPbaZpUZ-bx7RDoLwX_sfco3aGulquQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "超級強壯的式神柴犬一隻"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "丸太郎\nMaru",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#maru拉夫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#taro生活照",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#軟太粉",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#maru拉夫",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCoGepl2YpFVtUEHw5OADGtA"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/marutaro00"
+                    }
+                ]
+            }
+        }
+    ]
+}
