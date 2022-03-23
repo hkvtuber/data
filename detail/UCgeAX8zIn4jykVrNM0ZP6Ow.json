@@ -1,0 +1,80 @@
+{
+    "id": "UCgeAX8zIn4jykVrNM0ZP6Ow",
+    "header": {
+        "name": "糰子露璐 Iruka LuLu Ch. 【VTuber】",
+        "image": "https://yt3.ggpht.com/LMg9ziwrO1EgHMM607OCrjgyn11jdSgjDFUVNyF8JUrEmx8G-DItnAV3-_-3cVlH6rPFDqeQbQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/IKbv8GXvOIv__LNa8UZdFQJgtmdGpUJPYumOCz-Z-_ZJiAwPM36_vIRjGRrai6bJlW7uoSt_Mw"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FOY3d3LagAU_eIa?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FOY3d3LagAU_eIa?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "GBear 海豚，最鍾意咬人٩(˃̶͈̀௰˂̶͈́)و"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "糰子露璐\nIruka LuLu",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCgeAX8zIn4jykVrNM0ZP6Ow"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Iruka_Lulu"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/iruka_lulu"
+                    }
+                ]
+            }
+        }
+    ]
+}
