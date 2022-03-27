@@ -34,6 +34,11 @@
                         "key": "名字",
                         "content": "夜皮",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "3月27日",
+                        "heightRate": "1"
                     }
                 ]
             }
