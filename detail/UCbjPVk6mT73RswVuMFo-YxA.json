@@ -1,0 +1,105 @@
+{
+    "id": "UCbjPVk6mT73RswVuMFo-YxA",
+    "header": {
+        "name": "古泉 噺 Banashi 【準備中Vtuber】",
+        "image": "https://yt3.ggpht.com/byqCxDcJnBcgHze1TOkOftyyI8j9QvSerUzATv0RWj53hI6bQuDXbFEOrc4MeLjP-EoD5NAy=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/K4PQYbXqF4BdI_JHNVBcpvDJsb1kqcauX8El_dFmvzZ2WS9NDv5bbuilO7BWHhN83D-Liul70Q"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FMh9ZEGaUA07LVA?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FMh9ZEGaUA07LVA?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FMh9ZHDaQAUT9Ro?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FMh9ZHDaQAUT9Ro?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自冥王星的外星人(?)，在夢境中進行直播。\n直播以外的時間基本上都在睡覺。\n並沒有不可告人的目的，只是個性情不定的混蛋。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "古泉 噺\nBanashi",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "4月13日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#夜噺",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#BanARTshi",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(不會被使用)",
+                        "content": "#BaNOshi",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#BaNOshi",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCbjPVk6mT73RswVuMFo-YxA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KoIzumiBanashi"
+                    }
+                ]
+            }
+        }
+    ]
+}

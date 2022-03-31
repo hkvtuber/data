@@ -1,0 +1,60 @@
+{
+    "id": "UCJw7U1LWd-hudKsfc6SOK-w",
+    "header": {
+        "name": "Dango ch. 團子",
+        "image": "https://yt3.ggpht.com/ILivvNs8KtmGvozxZtuy-NTjl_UJNFIdiOCscjCatOsc82kLdxDdwCWOvA4RO2pYQRBKeSaDBA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/IIeqKnDjy6So2b3QpLxVWlvibcmndcQ87qtkxcuOCan5tjSNPNvQT7z8ugqzR0kw9-pYY31QxP0"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "團子\nDango",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCJw7U1LWd-hudKsfc6SOK-w"
+                    }
+                ]
+            }
+        }
+    ]
+}
