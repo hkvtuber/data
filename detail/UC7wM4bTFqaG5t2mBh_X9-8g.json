@@ -1,0 +1,89 @@
+{
+    "id": "UC7wM4bTFqaG5t2mBh_X9-8g",
+    "header": {
+        "name": "男コトリ Kotori Ch.",
+        "image": "https://yt3.ggpht.com/6T4RPNZh4ngfxrBpoT13HMuuCdEI_FhUdV1mYsUd3d4Kh1rsrg672upYybybggrvIiGZuqslkVc=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "嚟自鳥類文明亞菲斯嘅知更鳥大法官~\n因為魔力短缺所以就嚟到人類世界做VTuber"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "男コトリ\nKotori",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "11月21日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#小鳥審判",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#小鳥呈堂證供",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#雀粟陪審團\n#陪審員",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#小鳥法庭報告",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC7wM4bTFqaG5t2mBh_X9-8g"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "otoko_kotori"
+                    }
+                ]
+            }
+        }
+    ]
+}

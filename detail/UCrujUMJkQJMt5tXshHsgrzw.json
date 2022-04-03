@@ -1,0 +1,116 @@
+{
+    "id": "UCrujUMJkQJMt5tXshHsgrzw",
+    "header": {
+        "name": "南楓一白【HKVtuber】",
+        "image": "https://yt3.ggpht.com/UOTx3eQaUH6O2CAWCDzQXjUyIITf64_XDzSsg_xjRzkH-C2PkofJpvltGF4ZC1sxRTKnXb1Q0Q=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/oaDJeNvEvu-xyXwF03h9b4NujMDJJDOdf54kBpU2dLlBlJ3njqdfnhDwUXnco16PDu9Y8Fz4"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FJyN56aagAAEMfB?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FJyN56aagAAEMfB?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "🌾來自平新時空的草原巫女 🌾"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "南楓一白",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月20日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "20歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "168cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#南楓一白",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#草原有大台",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#雪山風馬旗",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#草山小",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#草原信徒",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCrujUMJkQJMt5tXshHsgrzw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "naamfungHoliday"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 {
-    "id": "UCfCKRvacGRC70GJfwwvCK_A",
+    "id": "UCUBrjsCS8tyuLxpzjfpPUPQ",
     "header": {
-        "name": "閃光火狐狸ShinyFireFox【HKVTuber】",
-        "image": "https://yt3.ggpht.com/rHhdiVjTsswLYETPsrV9gU_uoXbsGvA-MYKhFEB9ZXwP0of9qzxq-PIISaMmIyR9aP8nwR79iQ=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Yukishira Channel【HKVtuber】",
+        "image": "https://yt3.ggpht.com/e9Heoh48LyiLICrpAF8y_LVuEwBrZ1EFvpi5IyqG5lghJzq4vsRPAJyiQGlAa9ZfFYqu25OkRg=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
     "body": [
@@ -20,8 +20,13 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "閃光火狐狸\nShinyFireFox",
+                        "content": "雪羽 さとり\n白羽 くるり",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "9月27日",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -51,7 +56,15 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UCfCKRvacGRC70GJfwwvCK_A"
+                        "path": "UCUBrjsCS8tyuLxpzjfpPUPQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "yukishira620"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/Yukishira-Ch%E9%9B%AA%E7%BE%BD%E3%81%95%E3%81%A8%E3%82%8A%E7%99%BD%E7%BE%BD%E3%81%8F%E3%82%8B%E3%82%8A-110544861607967"
                     }
                 ]
             }
