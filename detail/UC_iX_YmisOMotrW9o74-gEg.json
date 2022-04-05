@@ -1,0 +1,82 @@
+{
+    "id": "UC_iX_YmisOMotrW9o74-gEg",
+    "header": {
+        "name": "千惠里 ちゆり(香港Vtuber)",
+        "image": "https://yt3.ggpht.com/9djt148HXiJ_DedKCR2Y8dqn70SX7md5goctNwzhsM70mxhG8aP5pND-PC7KZBzNq1ki8UTVtA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/di9WC6PV-I32GPlTvze256TwQz-iumsOCR1QHt64kpLfZmgqAD3eNNNx3JZOEq5XjDj_Pkk9"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "牛大人由魔界去日本旅行既時候 \n留低咗我係機場 ,不過我長期係牛大人嘅左邊耳仔\n 所以有牛大人啲啲魔力化咗做人形\n我唔知點算嗰陣 我見YouTube有好多唔同嘅類型既人，魔王、學生妹、熱狗。\n見佢地都做緊vtuber ，我都想喺到累積多啲魔力返魔界，同牛大人&右邊airpod 團聚呀!!!!!٩(˃̶͈̀௰˂̶͈́)"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "千惠里\nちゆり",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月25日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "164cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_iX_YmisOMotrW9o74-gEg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "airpodpro__"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/people/%E5%8D%83%E6%83%A0%E7%90%86-%E3%81%A1%E3%82%86%E3%82%8A/100077976995666/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/chi_yuri.pod_pro"
+                    }
+                ]
+            }
+        }
+    ]
+}
