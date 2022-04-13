@@ -1,0 +1,72 @@
+{
+    "id": "UC2a_aNVcew6ljGoiZUckI2g",
+    "header": {
+        "name": "紫弘 Hiroshi Ch. Vtuber準備中",
+        "image": "https://yt3.ggpht.com/v7GIkiAfBA7a7BaUTizUSDdV9bPSKGZhDfAFLdWJmOfCLEqLj3gunsrSIhaP7udp_CumQDcXcA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/ak_0UubTWK7AOUJRyxfJzTCmUrEP0gFmnf4___54i49Ir_Q-xeWzMNK2dOJWOsW45TZnSwX9P7I=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FPwI0QVaAAA6yFD?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FPwI0QVaAAA6yFD?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "從遊戲世界中誕生的AI👾👾\n很喜歡人類玩遊戲時的反應\n為了可以更易觀測人類\n特意偽裝成普通人的樣子"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "紫弘\nHiroshi",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC2a_aNVcew6ljGoiZUckI2g"
+                    }
+                ]
+            }
+        }
+    ]
+}

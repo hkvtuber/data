@@ -27,6 +27,11 @@
                         "key": "生日",
                         "content": "9月14日",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "152cm",
+                        "heightRate": "1"
                     }
                 ]
             }
