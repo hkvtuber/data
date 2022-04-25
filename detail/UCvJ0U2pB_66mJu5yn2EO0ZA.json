@@ -1,9 +1,9 @@
 {
-    "id": "UCeKP6DTF4ltcvQmm4T3EOzA",
+    "id": "UCvJ0U2pB_66mJu5yn2EO0ZA",
     "header": {
-        "name": "MONLI Channel [HKVtubers]",
-        "image": "https://yt3.ggpht.com/DmFWe4RT7ybXEEMAT5Le28bIpHjpo3tRNa8Tqmw-CyiTGE6UsCFn3MdF9mBRM9YE2CvTTopfjg=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/F7RGLt7CeAxeX6aInqyLJN6SzjFn_YK0sL_eItxzRHC2HeRzBz0bb205xbrXj8m06anbSS4CkA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "name": "兔澤瑛芽【HKVtuber準備中】",
+        "image": "https://yt3.ggpht.com/tBeYWDQGTHinZfAlpAMxea68W9djAnk1UfVx7rW6QnYpzlm2TsWJwwvaE4L7w6BnrE3eAGcA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/s1raNM-PKL4wS8jOJiu90k7jY7nBHiu-63c5F7MhbogrKI5N6nGv5tUctPKmJmEHWq8ynyyFCg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FQi-DbHacAU2lj3?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FQi-DbHacAU2lj3?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FQnu_vtVsAMPpsY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQnu_vtVsAMPpsY?format=jpg&name=medium"
                     }
                 ]
             }
@@ -32,22 +32,17 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "MONLI",
+                        "content": "兔澤瑛芽",
                         "heightRate": "1"
                     },
                     {
                         "key": "生日",
-                        "content": "8月25日",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "年齡",
-                        "content": "15歲",
+                        "content": "3月23日",
                         "heightRate": "1"
                     },
                     {
                         "key": "身高",
-                        "content": "163cm",
+                        "content": "175cm",
                         "heightRate": "1"
                     }
                 ]
@@ -65,18 +60,8 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話\n普通話\n日文\n法文\n韓文\n英文",
-                        "heightRate": "4.00"
-                    },
-                    {
-                        "key": "直播Tag",
-                        "content": "#heliLIVE",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "Fan Art Tag\n(有機會用在封面)",
-                        "content": "#heliheliART",
-                        "heightRate": "1"
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
                     }
                 ]
             }
@@ -88,15 +73,11 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UCeKP6DTF4ltcvQmm4T3EOzA"
+                        "path": "UCvJ0U2pB_66mJu5yn2EO0ZA"
                     },
                     {
                         "key": "twitter",
-                        "path": "heli_heli_0825"
-                    },
-                    {
-                        "key": "IG",
-                        "path": "https://www.instagram.com/heli.monli_/"
+                        "path": "TozawaEiga"
                     }
                 ]
             }
