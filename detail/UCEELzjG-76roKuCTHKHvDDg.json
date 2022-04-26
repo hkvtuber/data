@@ -38,8 +38,8 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話",
-                        "heightRate": "1"
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
                     }
                 ]
             }

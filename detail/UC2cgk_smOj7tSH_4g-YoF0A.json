@@ -46,6 +46,11 @@
                         "key": "名字",
                         "content": "Enn",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "1月10日",
+                        "heightRate": "1"
                     }
                 ]
             }

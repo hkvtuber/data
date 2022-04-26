@@ -22,6 +22,11 @@
                         "key": "名字",
                         "content": "神戸ねこめ\n神戸猫目",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "9月15日",
+                        "heightRate": "1"
                     }
                 ]
             }

@@ -22,6 +22,11 @@
                         "key": "名字",
                         "content": "淺夏清風",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "4月10日",
+                        "heightRate": "1"
                     }
                 ]
             }

@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FHN4ZU7aUAA1vkH?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FHN4ZU7aUAA1vkH?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -22,6 +34,16 @@
                         "key": "名字",
                         "content": "水月\nIzuki",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "5月25日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "164cm",
+                        "heightRate": "1"
                     }
                 ]
             }

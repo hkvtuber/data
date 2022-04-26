@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FQFMcOJaMAErlKb?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQFMcOJaMAErlKb?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -52,6 +64,14 @@
                     {
                         "key": "youtube",
                         "path": "UCTk_W5RbapTcqYX4WRT8-og"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KoEri_HKvtuber"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/%E7%90%A5%E6%A9%9E%E9%87%8C-KoEri%E9%A6%99%E6%B8%AFvtuber-102168052451907/"
                     }
                 ]
             }

@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FGLHRGSUUBIg7qX?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FGLHRGSUUBIg7qX?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FL1bRDXVUAAhGAc?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FL1bRDXVUAAhGAc?format=jpg&name=medium"
                     }
                 ]
             }
@@ -34,6 +34,11 @@
                         "key": "名字",
                         "content": "ユラ\nYura",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "10月31日",
+                        "heightRate": "1"
                     }
                 ]
             }

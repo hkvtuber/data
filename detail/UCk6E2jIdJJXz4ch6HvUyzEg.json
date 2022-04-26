@@ -22,6 +22,16 @@
                         "key": "名字",
                         "content": "夜瀬ゆうと",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "1月15日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "173cm",
+                        "heightRate": "1"
                     }
                 ]
             }
