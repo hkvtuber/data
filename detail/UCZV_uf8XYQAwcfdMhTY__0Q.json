@@ -1,0 +1,99 @@
+{
+    "id": "UCZV_uf8XYQAwcfdMhTY__0Q",
+    "header": {
+        "name": "Maru Ch. 熊川まる【HKVTuber】",
+        "image": "https://yt3.ggpht.com/PbeKMLGWe3P3sMxANgsFe7eG4Dac4GeKECyD-EpOMNklrS8WCo6R1avpNGIx3EKwJTXfvagl=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/DFXKtvISqiLpKUUqw9ZipO-pWAw12c13dHAr509gHZVSVVxXD2YzsF2pArCOKXCCKpICV4hnvQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "吼吼～♡︎ 我是棉獸人族の熊川まる！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "熊川まる\nMaru",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "5月24日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#まる配信",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#まるの食糧",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#まると熊団子の秘密",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#熊団子",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#まるの精華",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#まる跌咗個腦",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCZV_uf8XYQAwcfdMhTY__0Q"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kumakawamaru"
+                    }
+                ]
+            }
+        }
+    ]
+}
