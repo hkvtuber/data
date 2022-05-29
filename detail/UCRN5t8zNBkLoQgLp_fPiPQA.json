@@ -1,9 +1,9 @@
 {
-    "id": "UCQ-gcxPseCNqrHb3VJvVynQ",
+    "id": "UCRN5t8zNBkLoQgLp_fPiPQA",
     "header": {
-        "name": "Yumemi Kanna Ch. 夢見カンナ",
-        "image": "https://yt3.ggpht.com/jn2X1_AqLMWIzeqnVI88tKG6A-6M9mukQg4ACXz6tI9H6X7yVw8sykMrZPqs1EJlFjzpHm6vxQ=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/hpPKZzvgbGZPsr0f6V416P7KPFC9Stj2NhszWdpTWKaZEQK3zNqeaZbEXUbSfezdEcQuzSMVug=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "name": "荒木今泉 【HKVtuber】(準備中)",
+        "image": "https://yt3.ggpht.com/jAM0GVj-hmI4lw9hDRgmUEjLk10N_2IgRflLOmvciYmrqOTeXH9CHapqYBuGuzpqgCXVsOjAwA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/-WamvqWAOj2veqcz6MADEqoD_Q393IRdcjowiOO4hK4V-H8toaXOjprvVqs0P8Uwa79M6lJu3Ow=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,12 +12,16 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FQ69tNeagAAckY8?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FQ69tNeagAAckY8?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FQokIe0aMAAoOuK?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQokIe0aMAAoOuK?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/FQ69sQAaQAAwJRN?format=png&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FQ69sQAaQAAwJRN?format=png&name=medium"
+                        "image": "https://pbs.twimg.com/media/FTsjPCBVIAEalmz?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FTsjPCBVIAEalmz?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FTsjPi6UYAAuVEO?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FTsjPi6UYAAuVEO?format=jpg&name=medium"
                     }
                 ]
             }
@@ -36,22 +40,12 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "夢見カンナ\nYumemi Kanna",
-                        "heightRate": "2"
+                        "content": "荒木今泉",
+                        "heightRate": "1"
                     },
                     {
                         "key": "生日",
-                        "content": "6月6日",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "年齡",
-                        "content": "5000歲",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "身高",
-                        "content": "165cm",
+                        "content": "10月19日",
                         "heightRate": "1"
                     }
                 ]
@@ -73,23 +67,23 @@
                         "heightRate": "2.67"
                     },
                     {
-                        "key": "通用Tag",
-                        "content": "#魔王の眷屬",
-                        "heightRate": "1"
-                    },
-                    {
                         "key": "直播Tag",
-                        "content": "#魔王打工日記",
+                        "content": "#荒木講章",
                         "heightRate": "1"
                     },
                     {
                         "key": "Fan Art Tag\n(有機會用在封面)",
-                        "content": "#魔王の畫像",
+                        "content": "#今心奉獻壇",
                         "heightRate": "1"
                     },
                     {
-                        "key": "Fan Name Tag",
-                        "content": "#眷屬們",
+                        "key": "Fan Art Tag\n(不會被使用)",
+                        "content": "#今泉奉獻箱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#今泉精華",
                         "heightRate": "1"
                     }
                 ]
@@ -102,11 +96,11 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UCQ-gcxPseCNqrHb3VJvVynQ"
+                        "path": "UCRN5t8zNBkLoQgLp_fPiPQA"
                     },
                     {
                         "key": "twitter",
-                        "path": "KannaYumemi"
+                        "path": "Araki_Imaizumi"
                     }
                 ]
             }

@@ -1,0 +1,69 @@
+{
+    "id": "UCyqXq-Eae_lqjksO1yGHXJw",
+    "header": {
+        "name": "苺谷 唯乃Yuino Ch.",
+        "image": "https://yt3.ggpht.com/V3ofHcUy1DuTERae0c8R58CU2s4e4BQDNGKXatWlcad6bauGv11jEQ8WMj6497c7Y1PEGPle=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/-BCGTpRPy4bXqqfQSwvQCfGgVzypaT0F2JMNQaDIjs7hDxTIljfc4v-ynjfxa5Yu1fA6AM8e=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "苺谷 唯乃\nYuino",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "1月15日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCyqXq-Eae_lqjksO1yGHXJw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Yuino_berry"
+                    }
+                ]
+            }
+        }
+    ]
+}

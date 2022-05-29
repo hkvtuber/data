@@ -1,9 +1,9 @@
 {
-    "id": "UCQ-gcxPseCNqrHb3VJvVynQ",
+    "id": "UCHW5-3JhZYWz6KhreIsskfA",
     "header": {
-        "name": "Yumemi Kanna Ch. 夢見カンナ",
-        "image": "https://yt3.ggpht.com/jn2X1_AqLMWIzeqnVI88tKG6A-6M9mukQg4ACXz6tI9H6X7yVw8sykMrZPqs1EJlFjzpHm6vxQ=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/hpPKZzvgbGZPsr0f6V416P7KPFC9Stj2NhszWdpTWKaZEQK3zNqeaZbEXUbSfezdEcQuzSMVug=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "name": "雛姫愛 Hina Hime AI (HK Vtuber)",
+        "image": "https://yt3.ggpht.com/Ek8DygoPeX6PIR3i_J0_xLYeiS7CP_a2D52p97vM-mWLvqR_Y47lEbDf0bNhz7rzJ2EAjsclERY=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/hX0nUGkVJEqXuJgMQpj-bZHvUHlWETnG5VPrXuiaeIU5SEIIEEc2hHZDURViBEILIUWmbsTwzA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,12 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FQ69tNeagAAckY8?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FQ69tNeagAAckY8?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FQ69sQAaQAAwJRN?format=png&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FQ69sQAaQAAwJRN?format=png&name=medium"
+                        "image": "https://pbs.twimg.com/media/FQKex6CaUAAcZk4?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQKex6CaUAAcZk4?format=jpg&name=medium"
                     }
                 ]
             }
@@ -36,22 +32,22 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "夢見カンナ\nYumemi Kanna",
+                        "content": "雛姫愛\nHina Hime AI",
                         "heightRate": "2"
                     },
                     {
                         "key": "生日",
-                        "content": "6月6日",
+                        "content": "4月26日",
                         "heightRate": "1"
                     },
                     {
                         "key": "年齡",
-                        "content": "5000歲",
+                        "content": "15歲",
                         "heightRate": "1"
                     },
                     {
                         "key": "身高",
-                        "content": "165cm",
+                        "content": "140cm",
                         "heightRate": "1"
                     }
                 ]
@@ -69,27 +65,12 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話\n普通話\n日文\n英文",
-                        "heightRate": "2.67"
-                    },
-                    {
-                        "key": "通用Tag",
-                        "content": "#魔王の眷屬",
-                        "heightRate": "1"
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
                     },
                     {
                         "key": "直播Tag",
-                        "content": "#魔王打工日記",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "Fan Art Tag\n(有機會用在封面)",
-                        "content": "#魔王の畫像",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "Fan Name Tag",
-                        "content": "#眷屬們",
+                        "content": "#姬畫hinart",
                         "heightRate": "1"
                     }
                 ]
@@ -102,11 +83,11 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UCQ-gcxPseCNqrHb3VJvVynQ"
+                        "path": "UCHW5-3JhZYWz6KhreIsskfA"
                     },
                     {
                         "key": "twitter",
-                        "path": "KannaYumemi"
+                        "path": "Hina_Hime_Ai"
                     }
                 ]
             }
