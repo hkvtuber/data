@@ -7,6 +7,22 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Ed_7CuTU8AEmgb0?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Ed_7CuTU8AEmgb0?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/Ed_7G5lU4AIfvTT?format=png&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Ed_7G5lU4AIfvTT?format=png&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",

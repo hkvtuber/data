@@ -12,8 +12,12 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FKmiQ9fUcAU5ktG?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FKmiQ9fUcAU5ktG?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FQj1XpMVEAsm759?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQj1XpMVEAsm759?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FQj1X71VsAMB4Mg?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQj1X71VsAMB4Mg?format=jpg&name=medium"
                     }
                 ]
             }
@@ -32,7 +36,7 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "鎖拉白老鼠",
+                        "content": "鎖拉",
                         "heightRate": "1"
                     },
                     {
@@ -70,17 +74,17 @@
                     },
                     {
                         "key": "直播Tag",
-                        "content": "#白老鼠逃走中",
+                        "content": "#鎖拉Hi咗嘢",
                         "heightRate": "1"
                     },
                     {
                         "key": "音樂Tag",
-                        "content": "#啦啦吱吱吱",
+                        "content": "#鎖拉啦啦啦",
                         "heightRate": "1"
                     },
                     {
                         "key": "Fan Art Tag\n(有機會用在封面)",
-                        "content": "#鎖匙拉鍊畫",
+                        "content": "#鎖匙拉鏈畫",
                         "heightRate": "1"
                     },
                     {
@@ -102,7 +106,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "ZiZiSORA_"
+                        "path": "ASORADAYO"
                     }
                 ]
             }

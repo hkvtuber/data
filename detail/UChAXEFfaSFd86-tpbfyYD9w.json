@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FQeKfk4aUAQwTlY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FQeKfk4aUAQwTlY?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -68,7 +80,7 @@
                     },
                     {
                         "key": "R18 Fan Art Tag",
-                        "content": "#NSFWSuzuran",
+                        "content": "#蘭花寶典",
                         "heightRate": "1"
                     },
                     {

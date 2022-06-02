@@ -12,16 +12,16 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FC--tIEaQAE-Ksa?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FC--tIEaQAE-Ksa?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FSDAPw3aQAAphKC?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FSDAPw3aQAAphKC?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/FC--tIDagAAiNCx?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FC--tIDagAAiNCx?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FSDAPw1agAEE-2Y?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FSDAPw1agAEE-2Y?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/FC--tIEaUAA-MlD?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FC--tIEaUAA-MlD?format=jpg&name=medium"
+                        "image": "",
+                        "image_big": ""
                     }
                 ]
             }

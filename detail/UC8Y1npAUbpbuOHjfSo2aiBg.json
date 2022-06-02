@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FF1fcH7VIAEg_15?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FF1fcH7VIAEg_15?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FMjSO0baQAAqIvz?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FMjSO0baQAAqIvz?format=jpg&name=medium"
                     }
                 ]
             }
@@ -81,6 +81,11 @@
                     {
                         "key": "Fan Art Tag\n(有機會用在封面)",
                         "content": "#小雲端圖庫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#雲船仔",
                         "heightRate": "1"
                     }
                 ]
