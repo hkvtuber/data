@@ -117,6 +117,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "9tgXPvTK-pc",
+                        "image": "https://i.ytimg.com/vi/9tgXPvTK-pc/mqdefault.jpg",
+                        "title": "【歌ってみた】ポジティブ・パレード【雨宮みずき】",
+                        "author": "雨宮みずき"
+                    },
+                    {
                         "video_code": "uFAR6FW91eE",
                         "image": "https://i.ytimg.com/vi/uFAR6FW91eE/mqdefault.jpg",
                         "title": "【自我介紹】入黎我唱支歌仔比你聽丫",
@@ -129,9 +135,15 @@
                         "author": "雨宮みずき"
                     },
                     {
-                        "video_code": "9tgXPvTK-pc",
-                        "image": "https://i.ytimg.com/vi/9tgXPvTK-pc/mqdefault.jpg",
-                        "title": "【歌ってみた】ポジティブ・パレード【雨宮みずき】",
+                        "video_code": "1KWhhcsoUho",
+                        "image": "https://i.ytimg.com/vi/1KWhhcsoUho/mqdefault.jpg",
+                        "title": "【香港Vtuber｜DBH精華】雨宮所長跟安卓於天台上的愛恨情仇【雨宮みずき】",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "-adZ3eQD4qk",
+                        "image": "https://i.ytimg.com/vi/-adZ3eQD4qk/mqdefault.jpg",
+                        "title": "【雜談精華】致滿身油的助手【雨宮みずき】",
                         "author": "雨宮みずき"
                     }
                 ]
@@ -143,9 +155,9 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "sQN1yenhzNs",
-                        "image": "https://i.ytimg.com/vi/sQN1yenhzNs/mqdefault.jpg",
-                        "title": "【雨宮みずき】研究所大翻新！！【お披露目】",
+                        "video_code": "znMzO3W7YUE",
+                        "image": "https://i.ytimg.com/vi/znMzO3W7YUE/mqdefault.jpg",
+                        "title": "【Re-Debut】研究所再出發自我介紹！！【雨宮みずき】",
                         "author": "雨宮みずき"
                     },
                     {
@@ -158,6 +170,12 @@
                         "video_code": "N4u7LmGwveo",
                         "image": "https://i.ytimg.com/vi/N4u7LmGwveo/mqdefault.jpg",
                         "title": "【Detroit:become humen】唔玩完唔瞓挑戰",
+                        "author": "雨宮みずき"
+                    },
+                    {
+                        "video_code": "sQN1yenhzNs",
+                        "image": "https://i.ytimg.com/vi/sQN1yenhzNs/mqdefault.jpg",
+                        "title": "【雨宮みずき】研究所大翻新！！【お披露目】",
                         "author": "雨宮みずき"
                     },
                     {

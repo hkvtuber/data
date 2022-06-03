@@ -105,6 +105,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "WYM3anIbRPo",
+                        "image": "https://i.ytimg.com/vi/WYM3anIbRPo/mqdefault.jpg",
+                        "title": "萬物皆蘿蔔。。快加入蘿蔔教吧！！(HKVTuber/鈴萌兎琉)",
+                        "author": "鈴萌兎琉HKVtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "1WPK1VgSaO0",
+                        "image": "https://i.ytimg.com/vi/1WPK1VgSaO0/mqdefault.jpg",
+                        "title": "【初配訊】  來自玩偶兔的訊息   【HKVtuber /鈴萌兎琉】",
+                        "author": "鈴萌兎琉HKVtuber"
+                    },
+                    {
+                        "video_code": "z5vWJ2IbtUQ",
+                        "image": "https://i.ytimg.com/vi/z5vWJ2IbtUQ/mqdefault.jpg",
+                        "title": "【初見Gang Beasts】與大家的大亂鬥！來自蘿蔔的暗器，小心屁后不保！！【HKVtuber /鈴萌兎琉】",
+                        "author": "鈴萌兎琉HKVtuber"
+                    },
+                    {
+                        "video_code": "43RIjLH2W9o",
+                        "image": "https://i.ytimg.com/vi/43RIjLH2W9o/mqdefault.jpg",
+                        "title": "【Phasmophobia】第３集 - 初見好友，一起洗劫屋主家【HKVtuber /鈴萌兎琉】",
+                        "author": "鈴萌兎琉HKVtuber"
+                    },
+                    {
+                        "video_code": "GzBV6ipz9zQ",
+                        "image": "https://i.ytimg.com/vi/GzBV6ipz9zQ/mqdefault.jpg",
+                        "title": "【Phasmophobia】第２集 - 和媽媽初次貼貼探鬼記 【HKVtuber /鈴萌兎琉】",
+                        "author": "鈴萌兎琉HKVtuber"
+                    },
+                    {
+                        "video_code": "2b_5ZfOXgqw",
+                        "image": "https://i.ytimg.com/vi/2b_5ZfOXgqw/mqdefault.jpg",
+                        "title": "【初見Phasmophobia】作死作死團！被嚇到阿巴阿巴！？【HKVtuber /鈴萌兎琉】",
+                        "author": "鈴萌兎琉HKVtuber"
+                    }
+                ]
+            }
         }
     ]
 }

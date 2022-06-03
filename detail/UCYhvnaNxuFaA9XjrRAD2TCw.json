@@ -64,6 +64,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "kP_s0kgWbe4",
+                        "image": "https://i.ytimg.com/vi/kP_s0kgWbe4/mqdefault.jpg",
+                        "title": "Live2d特別模組",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    },
+                    {
+                        "video_code": "lxnKCSCCgRE",
+                        "image": "https://i.ytimg.com/vi/lxnKCSCCgRE/mqdefault.jpg",
+                        "title": "live2d&表情~🍑",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    },
+                    {
+                        "video_code": "AroI605DhxY",
+                        "image": "https://i.ytimg.com/vi/AroI605DhxY/mqdefault.jpg",
+                        "title": "宣傳片",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    },
+                    {
+                        "video_code": "N8lHmfjwP-0",
+                        "image": "https://i.ytimg.com/vi/N8lHmfjwP-0/mqdefault.jpg",
+                        "title": "星野桃子Hoshino Momoko[HK-Vtuber]的texting",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    },
+                    {
+                        "video_code": "-AarN0gRLBg",
+                        "image": "https://i.ytimg.com/vi/-AarN0gRLBg/mqdefault.jpg",
+                        "title": "慢版宣傳片",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "uNBL1sx6CLU",
+                        "image": "https://i.ytimg.com/vi/uNBL1sx6CLU/mqdefault.jpg",
+                        "title": "My情報解放",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    },
+                    {
+                        "video_code": "qmQ39uXOSBo",
+                        "image": "https://i.ytimg.com/vi/qmQ39uXOSBo/mqdefault.jpg",
+                        "title": "自介配信",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    },
+                    {
+                        "video_code": "VJJZLsx1DHQ",
+                        "image": "https://i.ytimg.com/vi/VJJZLsx1DHQ/mqdefault.jpg",
+                        "title": "提早一天的生日慶祝配信",
+                        "author": "星野ももこ 魔桃 Ch.[HK-Vtuber]"
+                    }
+                ]
+            }
         }
     ]
 }

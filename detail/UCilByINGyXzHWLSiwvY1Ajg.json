@@ -76,16 +76,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "UdBHMK65RKg",
-                        "image": "https://i.ytimg.com/vi/UdBHMK65RKg/mqdefault.jpg",
-                        "title": "廢片",
-                        "author": "Charles_L _Vtuber"
+                        "video_code": "sNBILQpSmKg",
+                        "image": "https://i.ytimg.com/vi/sNBILQpSmKg/mqdefault.jpg",
+                        "title": "ただ君に晴れ / ヨルシカ Covered by Charles_L",
+                        "author": "CharlesLupus _HKVtuber"
+                    },
+                    {
+                        "video_code": "4H5ARpO21nM",
+                        "image": "https://i.ytimg.com/vi/4H5ARpO21nM/mqdefault.jpg",
+                        "title": "[翻唱] 講你知123！covered by Charles_Lupus",
+                        "author": "CharlesLupus _HKVtuber"
                     },
                     {
                         "video_code": "kPl6A0iEARc",
                         "image": "https://i.ytimg.com/vi/kPl6A0iEARc/mqdefault.jpg",
                         "title": "[自家製ボンコツCOVER] 月に吠える/ Charles_L",
-                        "author": "Charles_L _Vtuber"
+                        "author": "CharlesLupus _HKVtuber"
+                    },
+                    {
+                        "video_code": "UdBHMK65RKg",
+                        "image": "https://i.ytimg.com/vi/UdBHMK65RKg/mqdefault.jpg",
+                        "title": "廢片",
+                        "author": "CharlesLupus _HKVtuber"
+                    },
+                    {
+                        "video_code": "_gxv0eEY5hE",
+                        "image": "https://i.ytimg.com/vi/_gxv0eEY5hE/mqdefault.jpg",
+                        "title": "[自家製ボンコツClip] Just Be Friends [🐺Charles_L/HKVtuber]",
+                        "author": "CharlesLupus _HKVtuber"
                     }
                 ]
             }
@@ -99,25 +117,31 @@
                         "video_code": "jJWNXa-ld8U",
                         "image": "https://i.ytimg.com/vi/jJWNXa-ld8U/mqdefault.jpg",
                         "title": "[初配信]🐺宅狼出沒注意🐺☠️[Charles_L/HKVtuber]",
-                        "author": "Charles_L _Vtuber"
+                        "author": "CharlesLupus _HKVtuber"
                     },
                     {
-                        "video_code": "SUhaFatnoPc",
-                        "image": "https://i.ytimg.com/vi/SUhaFatnoPc/mqdefault.jpg",
-                        "title": "[NieR Replicant  Episode 7] 係時候面對カイネ線 [🐺Charles_L/HKVtuber]",
-                        "author": "Charles_L _Vtuber"
+                        "video_code": "8pXhAhOfKuI",
+                        "image": "https://i.ytimg.com/vi/8pXhAhOfKuI/mqdefault.jpg",
+                        "title": "[失戀歌回] 我都想有女啊!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [🐺Charles_L/HKVtuber]",
+                        "author": "CharlesLupus _HKVtuber"
                     },
                     {
-                        "video_code": "5wSP-3ZckO8",
-                        "image": "https://i.ytimg.com/vi/5wSP-3ZckO8/mqdefault.jpg",
-                        "title": "[ENDER LILIES Episode 1]謎之少女X黑騎士之旅[🐺Charles_L/HKVtuber]",
-                        "author": "Charles_L _Vtuber"
+                        "video_code": "1sNuTq9vytg",
+                        "image": "https://i.ytimg.com/vi/1sNuTq9vytg/mqdefault.jpg",
+                        "title": "[真早晨台] R6歡樂台 [🐺Charles_L/HKVtuber]",
+                        "author": "CharlesLupus _HKVtuber"
                     },
                     {
-                        "video_code": "JlZKMfp1iNc",
-                        "image": "https://i.ytimg.com/vi/JlZKMfp1iNc/mqdefault.jpg",
-                        "title": "[漫漫長夜] 比我直播好唔好 [🐺Charles_L/HKVtuber]",
-                        "author": "Charles_L _Vtuber"
+                        "video_code": "s_h-uWeilps",
+                        "image": "https://i.ytimg.com/vi/s_h-uWeilps/mqdefault.jpg",
+                        "title": "[Barotrauma] 你們不用這麼怕啦 w/好多人 [🐺Charles_L/HKVtuber]",
+                        "author": "CharlesLupus _HKVtuber"
+                    },
+                    {
+                        "video_code": "Gjzn7hAFeyQ",
+                        "image": "https://i.ytimg.com/vi/Gjzn7hAFeyQ/mqdefault.jpg",
+                        "title": "[突發失眠之後嘅早上] 食完飯之後唱一陣歌 [🐺Charles_L/HKVtuber]",
+                        "author": "CharlesLupus _HKVtuber"
                     }
                 ]
             }

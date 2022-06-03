@@ -106,6 +106,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "hokxmrAgICQ",
+                        "image": "https://i.ytimg.com/vi/hokxmrAgICQ/mqdefault.jpg",
+                        "title": "月月才不色0////0(帶好耳機!!!!!)【柔木月】【香港VTuber】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "HOJ8PL4_7mk",
+                        "image": "https://i.ytimg.com/vi/HOJ8PL4_7mk/mqdefault.jpg",
+                        "title": "想幫你打打氣^^",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "hkrY9yeZUJA",
+                        "image": "https://i.ytimg.com/vi/hkrY9yeZUJA/mqdefault.jpg",
+                        "title": "Shall we talk 參加月月好聲音 0////0",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "aAI8Hg-tqKs",
+                        "image": "https://i.ytimg.com/vi/aAI8Hg-tqKs/mqdefault.jpg",
+                        "title": "【雀魂三麻】來打低我La~不過你地做唔到㗎喇~【柔木月】【香港VTuber】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "YxQ2wQKsDk0",
+                        "image": "https://i.ytimg.com/vi/YxQ2wQKsDk0/mqdefault.jpg",
+                        "title": "【雀魂三麻】來打低我La~不過你地做唔到㗎喇~2復仇【柔木月】【香港VTuber】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "9tm122_NvOs",
+                        "image": "https://i.ytimg.com/vi/9tm122_NvOs/mqdefault.jpg",
+                        "title": "【初配信】天使降臨0///0 【柔木月】【香港VTuber/新人Vtuber】2",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "Z8s4vmayjD0",
+                        "image": "https://i.ytimg.com/vi/Z8s4vmayjD0/mqdefault.jpg",
+                        "title": "港V桌遊企劃 山中小屋 第一回 Ft.Yona Moana,天葉あり(Ari),白昼夢ティアラ(Tiara) 米亞MYA【香港VTuber/新人Vtuber】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "JI0E5yyB-CY",
+                        "image": "https://i.ytimg.com/vi/JI0E5yyB-CY/mqdefault.jpg",
+                        "title": "【初配信】天使降臨0///0 【柔木月】【香港VTuber/新人Vtuber】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "NaOVvpKu1gU",
+                        "image": "https://i.ytimg.com/vi/NaOVvpKu1gU/mqdefault.jpg",
+                        "title": "【月9噏 月認真】 一齊討論下對港V圈嘅睇法 (頭盔: 非客觀) (炎上準備)【香港VTuber】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    },
+                    {
+                        "video_code": "IGILbp18w8M",
+                        "image": "https://i.ytimg.com/vi/IGILbp18w8M/mqdefault.jpg",
+                        "title": "港V桌遊企劃  第二回 賭城之夜間!!賭賭賭~Ft.白昼夢ティアラ(Tiara),Nagisa 凪砂,猫宮あゆめ,蒼神こねこ 木星とき toki 【香港VTuberr】",
+                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                    }
+                ]
+            }
         }
     ]
 }

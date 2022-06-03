@@ -128,16 +128,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "idW1fM-cE8Q",
+                        "image": "https://i.ytimg.com/vi/idW1fM-cE8Q/mqdefault.jpg",
+                        "title": "【粵語翻唱】Chocolate Box 【LiliumSM】",
+                        "author": "真黑makuro【HKVTuber】"
+                    },
+                    {
                         "video_code": "RHmDdytfoVQ",
                         "image": "https://i.ytimg.com/vi/RHmDdytfoVQ/mqdefault.jpg",
                         "title": "【自我介紹】我真的不是不良！ 【真黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
+                        "author": "真黑makuro【HKVTuber】"
                     },
                     {
                         "video_code": "yML7fQoCZZg",
                         "image": "https://i.ytimg.com/vi/yML7fQoCZZg/mqdefault.jpg",
                         "title": "【精華】廢片【蘿莉黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
+                        "author": "真黑makuro【HKVTuber】"
+                    },
+                    {
+                        "video_code": "bXmDvRsRDL0",
+                        "image": "https://i.ytimg.com/vi/bXmDvRsRDL0/mqdefault.jpg",
+                        "title": "エリート/真黒【歌ってみた】",
+                        "author": "真黑makuro【HKVTuber】"
+                    },
+                    {
+                        "video_code": "uwyckhT2-ws",
+                        "image": "https://i.ytimg.com/vi/uwyckhT2-ws/mqdefault.jpg",
+                        "title": "對不起。",
+                        "author": "真黑makuro【HKVTuber】"
                     }
                 ]
             }
@@ -151,31 +169,31 @@
                         "video_code": "i8VH_hKCnQc",
                         "image": "https://i.ytimg.com/vi/i8VH_hKCnQc/mqdefault.jpg",
                         "title": "【初配信】我不是屎屎！！！【真黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
-                    },
-                    {
-                        "video_code": "UjyZDeaOZAE",
-                        "image": "https://i.ytimg.com/vi/UjyZDeaOZAE/mqdefault.jpg",
-                        "title": "【???】嘿【真黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
+                        "author": "真黑makuro【HKVTuber】"
                     },
                     {
                         "video_code": "5BtPB-3RXL0",
                         "image": "https://i.ytimg.com/vi/5BtPB-3RXL0/mqdefault.jpg",
                         "title": "【練歌台】今日至少練好一首！！！ 如果唔係找數日就真係等死qwq【真黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
+                        "author": "真黑makuro【HKVTuber】"
+                    },
+                    {
+                        "video_code": "SUW4UawHQYw",
+                        "image": "https://i.ytimg.com/vi/SUW4UawHQYw/mqdefault.jpg",
+                        "title": "【蘿莉台詞回　後半歌回】哼【真黑/香港VTuber】",
+                        "author": "真黑makuro【HKVTuber】"
+                    },
+                    {
+                        "video_code": "StrihUQcA6I",
+                        "image": "https://i.ytimg.com/vi/StrihUQcA6I/mqdefault.jpg",
+                        "title": "【冇見一日】估下我邊到唔同咗~💛【真黑/香港VTuber】",
+                        "author": "真黑makuro【HKVTuber】"
                     },
                     {
                         "video_code": "zFF-LpHabRk",
                         "image": "https://i.ytimg.com/vi/zFF-LpHabRk/mqdefault.jpg",
                         "title": "【一日真黑】早晨~~應該好無聊ww【真黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
-                    },
-                    {
-                        "video_code": "8JsPTl37pQ0",
-                        "image": "https://i.ytimg.com/vi/8JsPTl37pQ0/mqdefault.jpg",
-                        "title": "【槍彈辯駁V3】終於過完序章...【真黑/香港VTuber】",
-                        "author": "真黒makuro【HKVTuber】"
+                        "author": "真黑makuro【HKVTuber】"
                     }
                 ]
             }

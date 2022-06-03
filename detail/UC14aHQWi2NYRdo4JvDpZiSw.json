@@ -80,15 +80,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "adTtEvonres",
+                        "image": "https://i.ytimg.com/vi/adTtEvonres/mqdefault.jpg",
+                        "title": "[EN] Can your PS5 support PCIe 3.0 SSD? Let's find it out!",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
                         "video_code": "6OmYHL6jgv0",
                         "image": "https://i.ytimg.com/vi/6OmYHL6jgv0/mqdefault.jpg",
                         "title": "[10分鐘科技] Apple M1X / M2 性能設計流出! MacBook Pro 14/16 預計會快4倍？新MacPro有40Core CPU 128Core GPU?",
                         "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
                     },
                     {
-                        "video_code": "adTtEvonres",
-                        "image": "https://i.ytimg.com/vi/adTtEvonres/mqdefault.jpg",
-                        "title": "[EN] Can your PS5 support PCIe 3.0 SSD? Let's find it out!",
+                        "video_code": "Ilz0obMKZFQ",
+                        "image": "https://i.ytimg.com/vi/Ilz0obMKZFQ/mqdefault.jpg",
+                        "title": "[10分鐘流言終結者] PS5開放M.2 SSD，PCIe3.0 M.2 SSD到底用唔用得？",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "Az5RWVdW4sY",
+                        "image": "https://i.ytimg.com/vi/Az5RWVdW4sY/mqdefault.jpg",
+                        "title": "[EN] new iPad mini 6th Gen 2021 Review - No 4K 60Hz external display support???",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "_D3GZyHMawU",
+                        "image": "https://i.ytimg.com/vi/_D3GZyHMawU/mqdefault.jpg",
+                        "title": "Excel tips🔥 how to separate name in excel in 3 seconds😂",
                         "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
                     }
                 ]
@@ -100,15 +118,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "XvNolvNFstg",
-                        "image": "https://i.ytimg.com/vi/XvNolvNFstg/mqdefault.jpg",
-                        "title": "[廢片直播] 任天堂係好野既，同你一齊玩平民化MOBA Pokemon Unite",
+                        "video_code": "lrEVLzn94Ik",
+                        "image": "https://i.ytimg.com/vi/lrEVLzn94Ik/mqdefault.jpg",
+                        "title": "[首播] 英國銀行系統介紹, 容易中伏位 及HSBC UK開戶簡易教學 最快30日即批！",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "f6n49uVprCs",
+                        "image": "https://i.ytimg.com/vi/f6n49uVprCs/mqdefault.jpg",
+                        "title": "[首播] 英國上網點算好？手機又點及早準備？一次幫你解答！",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "0vp8Wk4JpVw",
+                        "image": "https://i.ytimg.com/vi/0vp8Wk4JpVw/mqdefault.jpg",
+                        "title": "[No Ads] lofi hiphop/jazz cafe music - beats to relax, coding and study for 3 hours",
                         "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
                     },
                     {
                         "video_code": "h8gSVteiFCg",
                         "image": "https://i.ytimg.com/vi/h8gSVteiFCg/mqdefault.jpg",
                         "title": "[廢片直播] 同你一齊一邊傾計一邊安裝試玩最新 Microsoft Windows 11 測驗版 (Build 22000)",
+                        "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
+                    },
+                    {
+                        "video_code": "XvNolvNFstg",
+                        "image": "https://i.ytimg.com/vi/XvNolvNFstg/mqdefault.jpg",
+                        "title": "[廢片直播] 任天堂係好野既，同你一齊玩平民化MOBA Pokemon Unite",
                         "author": "Nox Sayin (駱晨) 法律系x科技系【HKvTuber】"
                     }
                 ]

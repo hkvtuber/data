@@ -96,6 +96,52 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "yFh5aazGbFY",
+                        "image": "https://i.ytimg.com/vi/yFh5aazGbFY/mqdefault.jpg",
+                        "title": "モンスター娘TD 4-8 巨大魔導巡洋艦カッツォ",
+                        "author": "Cou ch. 火神 紅"
+                    },
+                    {
+                        "video_code": "wCi_fYPMwwk",
+                        "image": "https://i.ytimg.com/vi/wCi_fYPMwwk/mqdefault.jpg",
+                        "title": "モンスター娘TD - EX1 神秘の果実を見極めろ",
+                        "author": "Cou ch. 火神 紅"
+                    },
+                    {
+                        "video_code": "9TwTi84njOw",
+                        "image": "https://i.ytimg.com/vi/9TwTi84njOw/mqdefault.jpg",
+                        "title": "【2分動画】 起 承 転 結 【火神コウ/HKVTuber】",
+                        "author": "Cou ch. 火神 紅"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "StVMguuzSiQ",
+                        "image": "https://i.ytimg.com/vi/StVMguuzSiQ/mqdefault.jpg",
+                        "title": "【初配信】　降　臨　【火神コウ/HKVTuber】",
+                        "author": "Cou ch. 火神 紅"
+                    },
+                    {
+                        "video_code": "n-GUjvaDg5A",
+                        "image": "https://i.ytimg.com/vi/n-GUjvaDg5A/mqdefault.jpg",
+                        "title": "【塊魂アンコール】 快 暈 【火神コウ/HKVTuber】",
+                        "author": "Cou ch. 火神 紅"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -112,15 +112,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "2XwwBY4IA6w",
-                        "image": "https://i.ytimg.com/vi/2XwwBY4IA6w/mqdefault.jpg",
-                        "title": "愛露露好想可以快點見大家QWQ",
-                        "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
-                    },
-                    {
                         "video_code": "CtrCsynDLjM",
                         "image": "https://i.ytimg.com/vi/CtrCsynDLjM/mqdefault.jpg",
                         "title": "【ASMR#1/粵語】你想要咩安慰呀？【HKVTuber/愛露露エルル】",
+                        "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "2XwwBY4IA6w",
+                        "image": "https://i.ytimg.com/vi/2XwwBY4IA6w/mqdefault.jpg",
+                        "title": "愛露露好想可以快點見大家QWQ",
                         "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
                     },
                     {
@@ -168,15 +168,15 @@
                         "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
                     },
                     {
-                        "video_code": "l_k8PkDLyDI",
-                        "image": "https://i.ytimg.com/vi/l_k8PkDLyDI/mqdefault.jpg",
-                        "title": "【粵/滿一個月紀念】塔羅解憂台【HKVTuber/愛露露エルル】",
-                        "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
-                    },
-                    {
                         "video_code": "5YdcGJe1T28",
                         "image": "https://i.ytimg.com/vi/5YdcGJe1T28/mqdefault.jpg",
                         "title": "【廣東歌回】想你了【HKVTuber/愛露露エルル】",
+                        "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "l_k8PkDLyDI",
+                        "image": "https://i.ytimg.com/vi/l_k8PkDLyDI/mqdefault.jpg",
+                        "title": "【粵/滿一個月紀念】塔羅解憂台【HKVTuber/愛露露エルル】",
                         "author": "Eruru ch. 修女.愛露露【HK Vtuber】"
                     }
                 ]

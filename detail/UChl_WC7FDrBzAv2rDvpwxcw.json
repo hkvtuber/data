@@ -59,6 +59,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "O7FnimGirAM",
+                        "image": "https://i.ytimg.com/vi/O7FnimGirAM/mqdefault.jpg",
+                        "title": "睇下我對耳仔👀👀 ω香港Vtuberω",
+                        "author": "阿草 Kusa Ch. / BLOSSOMY【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Xq_z2lhE7ns",
+                        "image": "https://i.ytimg.com/vi/Xq_z2lhE7ns/mqdefault.jpg",
+                        "title": "畀你望下...係囉😳😳 ω香港Vtuberω",
+                        "author": "阿草 Kusa Ch. / BLOSSOMY【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

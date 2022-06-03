@@ -74,6 +74,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "wpY5larrc2o",
+                        "image": "https://i.ytimg.com/vi/wpY5larrc2o/mqdefault.jpg",
+                        "title": "@念慈@ 台灣食野真係咁平嗎？！ 【香港Vtuber】",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    },
+                    {
+                        "video_code": "S8xtr3L6wUo",
+                        "image": "https://i.ytimg.com/vi/S8xtr3L6wUo/mqdefault.jpg",
+                        "title": "@念慈@ 香港人第一次在台灣過年！一個充滿儀式感的國度！ 【香港Vtuber】",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    },
+                    {
+                        "video_code": "KJF4NVfjhCc",
+                        "image": "https://i.ytimg.com/vi/KJF4NVfjhCc/mqdefault.jpg",
+                        "title": "@念慈@ Vtuber問答 自我介紹 【香港Vtuber]",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    },
+                    {
+                        "video_code": "4JLw8jxpLyM",
+                        "image": "https://i.ytimg.com/vi/4JLw8jxpLyM/mqdefault.jpg",
+                        "title": "@念慈@ 香港人感到震撼！台灣獨有的中秋節文化 【香港Vtuber】",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    },
+                    {
+                        "video_code": "iTC6qSAFuJ0",
+                        "image": "https://i.ytimg.com/vi/iTC6qSAFuJ0/mqdefault.jpg",
+                        "title": "@念慈@ 台灣飲食十萬個為什麼？ 7蚊個魯肉飯？！係唔係都會落青瓜？！總匯等於三文治？十一點就食午餐？ 【香港Vtuber】",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    }
+                ]
+            }
         }
     ]
 }

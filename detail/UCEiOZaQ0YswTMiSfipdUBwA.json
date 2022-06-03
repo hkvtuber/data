@@ -86,6 +86,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "CEERGIc4QKU",
+                        "image": "https://i.ytimg.com/vi/CEERGIc4QKU/mqdefault.jpg",
+                        "title": "【 咩都玩】游戲王 master duel 中。。。【ユラ】",
+                        "author": "ユラ Ch. 幽羅ヒカリ"
+                    },
+                    {
+                        "video_code": "IeVs82NbmF8",
+                        "image": "https://i.ytimg.com/vi/IeVs82NbmF8/mqdefault.jpg",
+                        "title": "【 玩咩你話事！】Splatoon2 - MonHun Rise - 雀魂麻將(觀衆場) - 讀棉花糖【ユラ】",
+                        "author": "ユラ Ch. 幽羅ヒカリ"
+                    },
+                    {
+                        "video_code": "ptFNXHPs9SE",
+                        "image": "https://i.ytimg.com/vi/ptFNXHPs9SE/mqdefault.jpg",
+                        "title": "【100訂紀念】100訂紀念之乜都玩【幽羅ヒカリ / HKVTUBER】",
+                        "author": "ユラ Ch. 幽羅ヒカリ"
+                    },
+                    {
+                        "video_code": "8AQsWUsV5ZE",
+                        "image": "https://i.ytimg.com/vi/8AQsWUsV5ZE/mqdefault.jpg",
+                        "title": "【寶可夢傳說 阿爾宙斯】魔物＂獵＂人 洗翠【幽羅ヒカリ / HKVTUBER】",
+                        "author": "ユラ Ch. 幽羅ヒカリ"
+                    },
+                    {
+                        "video_code": "bsd5KH8g8YA",
+                        "image": "https://i.ytimg.com/vi/bsd5KH8g8YA/mqdefault.jpg",
+                        "title": "【寶可夢大集結】上唔到 大師唔收台（大概） 【Yuura /HKVtuber】",
+                        "author": "ユラ Ch. 幽羅ヒカリ"
+                    }
+                ]
+            }
         }
     ]
 }

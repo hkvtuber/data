@@ -96,15 +96,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "EEp9uoYcOn8",
-                        "image": "https://i.ytimg.com/vi/EEp9uoYcOn8/mqdefault.jpg",
-                        "title": "【教學】10分鐘學識成為vtuber！ | Fuko Hikari 【HKVtuber】",
-                        "author": "Fuko 風子【HKVtuber】"
-                    },
-                    {
                         "video_code": "ekHkuL1W3D8",
                         "image": "https://i.ytimg.com/vi/ekHkuL1W3D8/mqdefault.jpg",
                         "title": "R18【女性向ASMR】早上的慾求◯◯（含大量嬌喘）（日／廣東話）",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "VY_qqg56jzM",
+                        "image": "https://i.ytimg.com/vi/VY_qqg56jzM/mqdefault.jpg",
+                        "title": "R18【女性向ASMR】晚上我忍不住和你◯◯（日／廣東話）",
                         "author": "Fuko 風子【HKVtuber】"
                     },
                     {
@@ -114,9 +114,9 @@
                         "author": "Fuko 風子【HKVtuber】"
                     },
                     {
-                        "video_code": "VY_qqg56jzM",
-                        "image": "https://i.ytimg.com/vi/VY_qqg56jzM/mqdefault.jpg",
-                        "title": "R18【女性向ASMR】晚上我忍不住和你◯◯（日／廣東話）",
+                        "video_code": "fIl6Oloe9DI",
+                        "image": "https://i.ytimg.com/vi/fIl6Oloe9DI/mqdefault.jpg",
+                        "title": "【女性向ASMR】想做卻被男友挑弄身體（廣東話）",
                         "author": "Fuko 風子【HKVtuber】"
                     },
                     {
@@ -134,9 +134,9 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "8mH_nuBeUPY",
-                        "image": "https://i.ytimg.com/vi/8mH_nuBeUPY/mqdefault.jpg",
-                        "title": "19.6.2021 | 21:30:00",
+                        "video_code": "8gsWmGzvlKg",
+                        "image": "https://i.ytimg.com/vi/8gsWmGzvlKg/mqdefault.jpg",
+                        "title": "【女性向ASMR】掏耳朵聲音 Ear Cleaning (淨聲音sound only) 睡眠用",
                         "author": "Fuko 風子【HKVtuber】"
                     },
                     {
@@ -146,9 +146,21 @@
                         "author": "Fuko 風子【HKVtuber】"
                     },
                     {
-                        "video_code": "oWuP2nDZS9c",
-                        "image": "https://i.ytimg.com/vi/oWuP2nDZS9c/mqdefault.jpg",
-                        "title": "【女性向ASMR】直播台詞+傾計傾心【Fuko風子】7/7/2021",
+                        "video_code": "mHDOISIevqg",
+                        "image": "https://i.ytimg.com/vi/mHDOISIevqg/mqdefault.jpg",
+                        "title": "【女性向ASMR】無音樂直播 台詞+傾計【Fuko風子】17/8/2021",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "8mH_nuBeUPY",
+                        "image": "https://i.ytimg.com/vi/8mH_nuBeUPY/mqdefault.jpg",
+                        "title": "19.6.2021 | 21:30:00",
+                        "author": "Fuko 風子【HKVtuber】"
+                    },
+                    {
+                        "video_code": "WQ7j8GCfV5k",
+                        "image": "https://i.ytimg.com/vi/WQ7j8GCfV5k/mqdefault.jpg",
+                        "title": "【大叔的愛】阿牧會唔會搶婚？！【Fuko風子】16/7/2021",
                         "author": "Fuko 風子【HKVtuber】"
                     }
                 ]

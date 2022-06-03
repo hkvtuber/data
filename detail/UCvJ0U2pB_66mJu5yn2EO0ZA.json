@@ -81,6 +81,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "GZTdZMMqRLk",
+                        "image": "https://i.ytimg.com/vi/GZTdZMMqRLk/mqdefault.jpg",
+                        "title": "《Fly Me To The Moon》粵語翻唱 / 兔澤瑛芽",
+                        "author": "兔澤瑛芽【HKVtuber準備中】"
+                    },
+                    {
+                        "video_code": "SHBoic40pco",
+                        "image": "https://i.ytimg.com/vi/SHBoic40pco/mqdefault.jpg",
+                        "title": "《Fly Me To The Moon》英語翻唱 / 兔澤瑛芽",
+                        "author": "兔澤瑛芽【HKVtuber準備中】"
+                    }
+                ]
+            }
         }
     ]
 }

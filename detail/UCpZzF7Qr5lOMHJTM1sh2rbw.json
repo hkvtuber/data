@@ -95,6 +95,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "3CqRAd-z8v4",
+                        "image": "https://i.ytimg.com/vi/3CqRAd-z8v4/mqdefault.jpg",
+                        "title": "【幕後精華?】原來向Xeno比一百二十蚊就可以。。。(並沒有",
+                        "author": "Suraimu Xeno Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -104,21 +118,27 @@
                         "author": "Suraimu Xeno Ch."
                     },
                     {
-                        "video_code": "kaFB5H-CPaQ",
-                        "image": "https://i.ytimg.com/vi/kaFB5H-CPaQ/mqdefault.jpg",
-                        "title": "【BIOHAZARD7 RESIDENT EVIL】#6！一邊食咖哩一邊完埋個Bio7。",
-                        "author": "Suraimu Xeno Ch."
-                    },
-                    {
                         "video_code": "_HUpum1INCI",
                         "image": "https://i.ytimg.com/vi/_HUpum1INCI/mqdefault.jpg",
                         "title": "【初配信之BIO7遊戲部份】從前從前，有一隻史萊姆流浪到地球。。。",
                         "author": "Suraimu Xeno Ch."
                     },
                     {
-                        "video_code": "fF66cdxLMP8",
-                        "image": "https://i.ytimg.com/vi/fF66cdxLMP8/mqdefault.jpg",
-                        "title": "【Getting Over It With Bennett Foddy】聽聞係做V都會爬既山。",
+                        "video_code": "u0ccHAxmMl4",
+                        "image": "https://i.ytimg.com/vi/u0ccHAxmMl4/mqdefault.jpg",
+                        "title": "【2021除夕倒數】倒數梗係唔少得一齊比賽同拆聖誕禮物啦!  【Xeno拆禮物主視角兼MC比賽視角】",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
+                        "video_code": "kaFB5H-CPaQ",
+                        "image": "https://i.ytimg.com/vi/kaFB5H-CPaQ/mqdefault.jpg",
+                        "title": "【BIOHAZARD7 RESIDENT EVIL】#6！一邊食咖哩一邊完埋個Bio7。",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
+                        "video_code": "AhsRQflvLaU",
+                        "image": "https://i.ytimg.com/vi/AhsRQflvLaU/mqdefault.jpg",
+                        "title": "【Elden Ring 艾爾登法環】正式踏入高原前既清埋之前已知既支線！～EP10",
                         "author": "Suraimu Xeno Ch."
                     }
                 ]

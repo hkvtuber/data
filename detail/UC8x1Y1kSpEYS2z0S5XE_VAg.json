@@ -96,6 +96,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "tKY9d8LRssI",
+                        "image": "https://i.ytimg.com/vi/tKY9d8LRssI/mqdefault.jpg",
+                        "title": "無料 新聞報道 NO GOOD News｜2022年5月23日｜非知名虛擬實況主GP07頻道已被終止",
+                        "author": "GP07 (修復中)"
+                    },
+                    {
+                        "video_code": "0ZgLCp8b4PQ",
+                        "image": "https://i.ytimg.com/vi/0ZgLCp8b4PQ/mqdefault.jpg",
+                        "title": "【GP07記錄】Vtuber一問一答自我介紹",
+                        "author": "GP07 (修復中)"
+                    },
+                    {
+                        "video_code": "PdE8sB-VyUA",
+                        "image": "https://i.ytimg.com/vi/PdE8sB-VyUA/mqdefault.jpg",
+                        "title": "【07改詞】無情疫情中（原曲：無情夜冷風）",
+                        "author": "GP07 (修復中)"
+                    },
+                    {
+                        "video_code": "fPh9spxY7o8",
+                        "image": "https://i.ytimg.com/vi/fPh9spxY7o8/mqdefault.jpg",
+                        "title": "【翻唱】もう何も怖くない、怖くはない",
+                        "author": "GP07 (修復中)"
+                    },
+                    {
+                        "video_code": "AF9fi0D_JfU",
+                        "image": "https://i.ytimg.com/vi/AF9fi0D_JfU/mqdefault.jpg",
+                        "title": "【MORTAL KOMBAT/真人快打】一起跟雷電跳舞吧！",
+                        "author": "GP07 (修復中)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "h90gWNsRsiE",
+                        "image": "https://i.ytimg.com/vi/h90gWNsRsiE/mqdefault.jpg",
+                        "title": "重大通知",
+                        "author": "GP07 (修復中)"
+                    },
+                    {
+                        "video_code": "cHegxLdEY_A",
+                        "image": "https://i.ytimg.com/vi/cHegxLdEY_A/mqdefault.jpg",
+                        "title": "【猜猜畫畫】第一屆港V聖杯戰爭！開始！",
+                        "author": "GP07 (修復中)"
+                    },
+                    {
+                        "video_code": "bcPV8Y1CZIc",
+                        "image": "https://i.ytimg.com/vi/bcPV8Y1CZIc/mqdefault.jpg",
+                        "title": "【隨心遊戲台】玩累了，直接睡覺！",
+                        "author": "GP07 (修復中)"
+                    }
+                ]
+            }
         }
     ]
 }

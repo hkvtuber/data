@@ -111,6 +111,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "JS4fn87U9TA",
+                        "image": "https://i.ytimg.com/vi/JS4fn87U9TA/mqdefault.jpg",
+                        "title": "【初配信】才不是愚人節的Debut！【南楓一白KAEDE】",
+                        "author": "南楓一白【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ZE14MGydVvQ",
+                        "image": "https://i.ytimg.com/vi/ZE14MGydVvQ/mqdefault.jpg",
+                        "title": "【跑Online】跑亂碼【南楓一白KAEDE】",
+                        "author": "南楓一白【HKVtuber】"
+                    },
+                    {
+                        "video_code": "r60cDqE_MqE",
+                        "image": "https://i.ytimg.com/vi/r60cDqE_MqE/mqdefault.jpg",
+                        "title": "【英雄聯盟】給我上10Lv【南楓一白KAEDE】",
+                        "author": "南楓一白【HKVtuber】"
+                    },
+                    {
+                        "video_code": "c562lN4fCns",
+                        "image": "https://i.ytimg.com/vi/c562lN4fCns/mqdefault.jpg",
+                        "title": "【跑Online】我玩爆乘法王【南楓一白KAEDE】",
+                        "author": "南楓一白【HKVtuber】"
+                    },
+                    {
+                        "video_code": "9edw4ie1iYQ",
+                        "image": "https://i.ytimg.com/vi/9edw4ie1iYQ/mqdefault.jpg",
+                        "title": "【突發】其實就是想唱幾首歌【南楓一白KAEDE】",
+                        "author": "南楓一白【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

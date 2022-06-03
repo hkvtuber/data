@@ -111,6 +111,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "W2BxpLiPFpo",
+                        "image": "https://i.ytimg.com/vi/W2BxpLiPFpo/mqdefault.jpg",
+                        "title": "【自我紹介】#Vtuber一問一答自己紹介 粵語【小林具瓏 Ch. HK Vtuber】",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "put-CE-3z7c",
+                        "image": "https://i.ytimg.com/vi/put-CE-3z7c/mqdefault.jpg",
+                        "title": "MC Ruka卯月瑠花 - 我鐘意左好耐 (remix精華)",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "kO8khMF9ubc",
+                        "image": "https://i.ytimg.com/vi/kO8khMF9ubc/mqdefault.jpg",
+                        "title": "聖誕快樂",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "uH2tQR0wWKo",
+                        "image": "https://i.ytimg.com/vi/uH2tQR0wWKo/mqdefault.jpg",
+                        "title": "NOOT NOOT",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "8SZUPwbEl0k",
+                        "image": "https://i.ytimg.com/vi/8SZUPwbEl0k/mqdefault.jpg",
+                        "title": "【廣】【學韓文台】可能係最健康的一日【CH.Vtuber/小林具瓏】",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "xD1RaOM4bPM",
+                        "image": "https://i.ytimg.com/vi/xD1RaOM4bPM/mqdefault.jpg",
+                        "title": "【初配信】龍族女高中生亂入人間?! 【CH.Vtuber/小林具瓏】",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "orBvaV4uTjs",
+                        "image": "https://i.ytimg.com/vi/orBvaV4uTjs/mqdefault.jpg",
+                        "title": "【廣】【跑Online】留在具瓏的身邊♡【CH.Vtuber/小林具瓏】",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "Or5qAC-VjYk",
+                        "image": "https://i.ytimg.com/vi/Or5qAC-VjYk/mqdefault.jpg",
+                        "title": "【廣】【MARIO CAT】MARIO大亂鬥!喵喵喵喵喵喵【CH.Vtuber/小林具瓏】",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "Y5hm35zT8OY",
+                        "image": "https://i.ytimg.com/vi/Y5hm35zT8OY/mqdefault.jpg",
+                        "title": "【廣】【明將壽司】♡DIY明將壽司好吃嗎? 【CH.Vtuber/小林具瓏】ft.津路あさひ ,月見香夜 ,Zeta",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    },
+                    {
+                        "video_code": "MV9OPlYedc4",
+                        "image": "https://i.ytimg.com/vi/MV9OPlYedc4/mqdefault.jpg",
+                        "title": "【廣】【腳藝人!】找到朋朋一起用腳畫畫了!!♡【CH.Vtuber/小林具瓏】ft.卯月瑠花,津路あさひ",
+                        "author": "小林具瓏 Ch. HK vtuber"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -77,6 +77,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "A1-I0onFyA4",
+                        "image": "https://i.ytimg.com/vi/A1-I0onFyA4/mqdefault.jpg",
+                        "title": "♪ 歌ってみた ♪ 　アルカホリック・ランデヴー　【霧羅埼かげ】",
+                        "author": "Kage ch. 霧羅埼かげ"
+                    },
+                    {
+                        "video_code": "wN2yxgkufrk",
+                        "image": "https://i.ytimg.com/vi/wN2yxgkufrk/mqdefault.jpg",
+                        "title": "絶え間なく藍色 / 獅子志司 (Cover) 霧羅埼かげ",
+                        "author": "Kage ch. 霧羅埼かげ"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -81,6 +81,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "BE9j6X-8vHo",
+                        "image": "https://i.ytimg.com/vi/BE9j6X-8vHo/mqdefault.jpg",
+                        "title": "［PV］突發！某工廈靈異影像流出！",
+                        "author": "狐師傅 【HKV道長】"
+                    },
+                    {
+                        "video_code": "3ki8Cw9-VUw",
+                        "image": "https://i.ytimg.com/vi/3ki8Cw9-VUw/mqdefault.jpg",
+                        "title": "【國難當前】師傅與虛師兄的 \" 法環之旅 \" # 1  [ HKVtube 道士 ]",
+                        "author": "狐師傅 【HKV道長】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "AVQOl1ubv8E",
+                        "image": "https://i.ytimg.com/vi/AVQOl1ubv8E/mqdefault.jpg",
+                        "title": "【初配信】狐師傅出山大典 !!! [ HKVtube 道士 ]",
+                        "author": "狐師傅 【HKV道長】"
+                    },
+                    {
+                        "video_code": "RYHInSchZDU",
+                        "image": "https://i.ytimg.com/vi/RYHInSchZDU/mqdefault.jpg",
+                        "title": "【全新招式】第一屆 \" 狐言論語 \" 大會 [ HKVtube 道士 ]",
+                        "author": "狐師傅 【HKV道長】"
+                    },
+                    {
+                        "video_code": "eNCWBkV9jEs",
+                        "image": "https://i.ytimg.com/vi/eNCWBkV9jEs/mqdefault.jpg",
+                        "title": "「【特別大會】狐師傅的第一個聖誕 !!! [ HKVtube 道士 ]」",
+                        "author": "狐師傅 【HKV道長】"
+                    },
+                    {
+                        "video_code": "pMDYXO3nsdg",
+                        "image": "https://i.ytimg.com/vi/pMDYXO3nsdg/mqdefault.jpg",
+                        "title": "【案件跟進】婚外情與精神問題關注組 [HKVtube 道士]",
+                        "author": "狐師傅 【HKV道長】"
+                    },
+                    {
+                        "video_code": "1YJDdy1eXBw",
+                        "image": "https://i.ytimg.com/vi/1YJDdy1eXBw/mqdefault.jpg",
+                        "title": "【案件跟進】悲劇家庭如何破鏡重圓 ? [HKVtube 道士]",
+                        "author": "狐師傅 【HKV道長】"
+                    }
+                ]
+            }
         }
     ]
 }

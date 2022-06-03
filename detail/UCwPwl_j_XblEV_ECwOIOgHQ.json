@@ -99,12 +99,56 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "DxE4TK9aapQ",
+                        "image": "https://i.ytimg.com/vi/DxE4TK9aapQ/mqdefault.jpg",
+                        "title": "【不務正業系列】ヒバナ cover by KaraM (前方高能反応、慎入)",
+                        "author": "卡南KaraM Channel[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "7-U3LEL3tuI",
+                        "image": "https://i.ytimg.com/vi/7-U3LEL3tuI/mqdefault.jpg",
+                        "title": "【歌Cover】ユアハイネス☆マイプリンセス",
+                        "author": "卡南KaraM Channel[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "GysayqCgMyY",
+                        "image": "https://i.ytimg.com/vi/GysayqCgMyY/mqdefault.jpg",
+                        "title": "雜魚晩安!",
+                        "author": "卡南KaraM Channel[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "HpozkKDOBOo",
+                        "image": "https://i.ytimg.com/vi/HpozkKDOBOo/mqdefault.jpg",
+                        "title": "【不務正業系列】カラムは。。。女の子になりたい！！！(前方高能反応、慎入) (重新upload大聲ver.)",
+                        "author": "卡南KaraM Channel[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "jlXdUawifxU",
+                        "image": "https://i.ytimg.com/vi/jlXdUawifxU/mqdefault.jpg",
+                        "title": "【MBON】技術故障 係敵人嘅襲擊呀【KaraM資料傳輸】",
+                        "author": "卡南KaraM Channel[香港Vtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "yX_HwOidFyA",
                         "image": "https://i.ytimg.com/vi/yX_HwOidFyA/mqdefault.jpg",
                         "title": "【KaraMカラム】初次見面! 俺様はカラムだ!!! (自我介紹&新Body披露目)",
+                        "author": "卡南KaraM Channel[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "zaFoqgM_2Tc",
+                        "image": "https://i.ytimg.com/vi/zaFoqgM_2Tc/mqdefault.jpg",
+                        "title": "【瑪利歐賽車8DX】   第一屆激鬪瑪車V",
                         "author": "卡南KaraM Channel[香港Vtuber]"
                     },
                     {
@@ -123,18 +167,6 @@
                         "video_code": "VIb9RK732vw",
                         "image": "https://i.ytimg.com/vi/VIb9RK732vw/mqdefault.jpg",
                         "title": "【Apex Legends】親眼目睹本大爺喺戰場上奮勇殺敵嘅英姿啦!!!!【KaraM資料傳輸】",
-                        "author": "卡南KaraM Channel[香港Vtuber]"
-                    },
-                    {
-                        "video_code": "5VEIqqkkuLo",
-                        "image": "https://i.ytimg.com/vi/5VEIqqkkuLo/mqdefault.jpg",
-                        "title": "[噪音台] 等喉嚨痛好番哂就開 [KaraM卡南]",
-                        "author": "卡南KaraM Channel[香港Vtuber]"
-                    },
-                    {
-                        "video_code": "FemiQD0X_Qc",
-                        "image": "https://i.ytimg.com/vi/FemiQD0X_Qc/mqdefault.jpg",
-                        "title": "突發聯動!!! KaraM x Yonaさん三文魚打工 [ Splatoon2 ]",
                         "author": "卡南KaraM Channel[香港Vtuber]"
                     }
                 ]

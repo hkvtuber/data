@@ -103,21 +103,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "6YrqjwCUEbM",
+                        "image": "https://i.ytimg.com/vi/6YrqjwCUEbM/mqdefault.jpg",
+                        "title": "[Cover][自彈自唱] 講你知123！(Short Ver) #講你知123 Cover by Nia",
+                        "author": "Eji Nia 衛士ニア[香港VTuber]"
+                    },
+                    {
                         "video_code": "S3u_HGpvs6g",
                         "image": "https://i.ytimg.com/vi/S3u_HGpvs6g/mqdefault.jpg",
                         "title": "Hello World! //",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     },
                     {
-                        "video_code": "tlIFxEw0SL8",
-                        "image": "https://i.ytimg.com/vi/tlIFxEw0SL8/mqdefault.jpg",
-                        "title": "[廢片] 給次機會…?",
+                        "video_code": "fCeiDdHK9po",
+                        "image": "https://i.ytimg.com/vi/fCeiDdHK9po/mqdefault.jpg",
+                        "title": "[咲娜 Sakira / HKVTuber] 咲娜可愛聲音合集 Sakira Cute Noises Compilation [香港VTuber直播精華]",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     },
                     {
-                        "video_code": "wXzTzJmfGug",
-                        "image": "https://i.ytimg.com/vi/wXzTzJmfGug/mqdefault.jpg",
-                        "title": "You are special",
+                        "video_code": "1ZqNmaAeJOY",
+                        "image": "https://i.ytimg.com/vi/1ZqNmaAeJOY/mqdefault.jpg",
+                        "title": "[精華] Kuiro 大廚獻唱：爺夜惹Yeah",
+                        "author": "Eji Nia 衛士ニア[香港VTuber]"
+                    },
+                    {
+                        "video_code": "0FC-8KFHz4g",
+                        "image": "https://i.ytimg.com/vi/0FC-8KFHz4g/mqdefault.jpg",
+                        "title": "[廢片] 沉船多老婆 （原：藍色多瑙河）",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     }
                 ]
@@ -129,27 +141,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "dcPdWS0K0EA",
-                        "image": "https://i.ytimg.com/vi/dcPdWS0K0EA/mqdefault.jpg",
-                        "title": "[歌回] 來試DJ Mixer哦 EDM聽歌回？w",
+                        "video_code": "d1tucHSanJ4",
+                        "image": "https://i.ytimg.com/vi/d1tucHSanJ4/mqdefault.jpg",
+                        "title": "[深夜歌回] 下雨綿綿，來唱點平和的歌吧",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     },
                     {
-                        "video_code": "GIV_Vso8DZE",
-                        "image": "https://i.ytimg.com/vi/GIV_Vso8DZE/mqdefault.jpg",
-                        "title": "[歌回] 久違的歌回",
+                        "video_code": "nwKGMw3UY94",
+                        "image": "https://i.ytimg.com/vi/nwKGMw3UY94/mqdefault.jpg",
+                        "title": "[一起挑戰人類的智慧！] 齊來做數學",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     },
                     {
-                        "video_code": "1Bw-X8yeWxs",
-                        "image": "https://i.ytimg.com/vi/1Bw-X8yeWxs/mqdefault.jpg",
-                        "title": "[Portal 2] [雙人聯動] 藍色雙人的科學實驗室",
+                        "video_code": "9xiEzV4SSnE",
+                        "image": "https://i.ytimg.com/vi/9xiEzV4SSnE/mqdefault.jpg",
+                        "title": "[Overcooked 2!] [雙人聯動] 炸掉廚房就能安心吃肉了",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     },
                     {
-                        "video_code": "S5bkTs7esA8",
-                        "image": "https://i.ytimg.com/vi/S5bkTs7esA8/mqdefault.jpg",
-                        "title": "[Bus Simulator 18] 渣的不是巴士 是寂寞",
+                        "video_code": "MsPcwuVeXu8",
+                        "image": "https://i.ytimg.com/vi/MsPcwuVeXu8/mqdefault.jpg",
+                        "title": "Let's Code! Keep Talking and Nobody Explodes Solver",
+                        "author": "Eji Nia 衛士ニア[香港VTuber]"
+                    },
+                    {
+                        "video_code": "3hK08m2bvQI",
+                        "image": "https://i.ytimg.com/vi/3hK08m2bvQI/mqdefault.jpg",
+                        "title": "[osu!] 玩一會兒osu提提神...",
                         "author": "Eji Nia 衛士ニア[香港VTuber]"
                     }
                 ]

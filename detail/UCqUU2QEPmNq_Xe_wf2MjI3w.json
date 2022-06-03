@@ -127,27 +127,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "WX-qxj-cEwE",
-                        "image": "https://i.ytimg.com/vi/WX-qxj-cEwE/mqdefault.jpg",
-                        "title": "Kanaria - KING / 月陽炎寺 Cover【歌ってみた】",
+                        "video_code": "QFcY-bdEFCM",
+                        "image": "https://i.ytimg.com/vi/QFcY-bdEFCM/mqdefault.jpg",
+                        "title": "[PVZ] A Fanatic of Brains ~ Brainiac Maniac",
                         "author": "Honodera Ch. 月陽炎寺"
                     },
                     {
-                        "video_code": "icsx5WFgu_s",
-                        "image": "https://i.ytimg.com/vi/icsx5WFgu_s/mqdefault.jpg",
-                        "title": "Kanaria - エンヴィーベイビー / 月陽炎寺 Cover【歌ってみた】",
+                        "video_code": "QnVuNdbMivE",
+                        "image": "https://i.ytimg.com/vi/QnVuNdbMivE/mqdefault.jpg",
+                        "title": "[PvZ] Lawn of the Undead ~ Ultimate Battle",
                         "author": "Honodera Ch. 月陽炎寺"
                     },
                     {
-                        "video_code": "oXV5B-eeJbM",
-                        "image": "https://i.ytimg.com/vi/oXV5B-eeJbM/mqdefault.jpg",
-                        "title": "Kanaria - KING【紺珠傳風】",
+                        "video_code": "Qol_TkOkhjo",
+                        "image": "https://i.ytimg.com/vi/Qol_TkOkhjo/mqdefault.jpg",
+                        "title": "[Touhou 17] Entrusting This World to Idols ~ UFO Mix [Reed Romance] [Hybrid Saw]",
                         "author": "Honodera Ch. 月陽炎寺"
                     },
                     {
-                        "video_code": "3hWGcKxBZuQ",
-                        "image": "https://i.ytimg.com/vi/3hWGcKxBZuQ/mqdefault.jpg",
-                        "title": "【廢片】good morning weather hackers",
+                        "video_code": "zvShZCw7Qzc",
+                        "image": "https://i.ytimg.com/vi/zvShZCw7Qzc/mqdefault.jpg",
+                        "title": "[Undertale] Battle Against a True Hero (TH12 Mix)",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "ZxEGWUFL4m4",
+                        "image": "https://i.ytimg.com/vi/ZxEGWUFL4m4/mqdefault.jpg",
+                        "title": "[Touhou 18] Ore from the Age of the Gods (TH11 Mix)",
                         "author": "Honodera Ch. 月陽炎寺"
                     }
                 ]
@@ -159,15 +165,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "KUL9aS3STV8",
+                        "image": "https://i.ytimg.com/vi/KUL9aS3STV8/mqdefault.jpg",
+                        "title": "[Arranged Soundtrack] Plants vs Zombies - Touhou Arrange Album",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
                         "video_code": "9BREALP5WsM",
                         "image": "https://i.ytimg.com/vi/9BREALP5WsM/mqdefault.jpg",
                         "title": "【初配信】來自地獄的鬼族劍士！我不是邪惡的鬼哦？【HKVtuber/Honodera Ch.】",
                         "author": "Honodera Ch. 月陽炎寺"
                     },
                     {
-                        "video_code": "Lru06xuc4eg",
-                        "image": "https://i.ytimg.com/vi/Lru06xuc4eg/mqdefault.jpg",
-                        "title": "【Hamsterball】幻想游戲之一，小小倉鼠大比賽！【HKVtuber/Honodera Ch.】",
+                        "video_code": "r14gInjH2g4",
+                        "image": "https://i.ytimg.com/vi/r14gInjH2g4/mqdefault.jpg",
+                        "title": "[Original Album] Musical of Sinned Spirits ~ 罪霊音楽劇 [2021]",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "JoCzvF8yIAo",
+                        "image": "https://i.ytimg.com/vi/JoCzvF8yIAo/mqdefault.jpg",
+                        "title": "Touhou 18 ~ Unconnected Marketeers [STREAM]",
+                        "author": "Honodera Ch. 月陽炎寺"
+                    },
+                    {
+                        "video_code": "mbJggvjyhhk",
+                        "image": "https://i.ytimg.com/vi/mbJggvjyhhk/mqdefault.jpg",
+                        "title": "【東方風神錄】彈 幕 時 間【HKVtuber/Honodera Ch.】",
                         "author": "Honodera Ch. 月陽炎寺"
                     }
                 ]

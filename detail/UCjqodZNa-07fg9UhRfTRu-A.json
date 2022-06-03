@@ -114,6 +114,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "B1uTVPZ2huE",
+                        "image": "https://i.ytimg.com/vi/B1uTVPZ2huE/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【Leliea | HKVtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "vcPYNO-CvCA",
+                        "image": "https://i.ytimg.com/vi/vcPYNO-CvCA/mqdefault.jpg",
+                        "title": "INTERNET OVERDOSE ／Cantonese version 粵語翻唱 Covered by Leliea",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "opPfxaqtQ5M",
+                        "image": "https://i.ytimg.com/vi/opPfxaqtQ5M/mqdefault.jpg",
+                        "title": "【Original BGM & Live2D Showcase】Leliea HKVtuber",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "fdnZjnn3XzY",
+                        "image": "https://i.ytimg.com/vi/fdnZjnn3XzY/mqdefault.jpg",
+                        "title": "【初配信預告】2月27日晚上8點，願意與皇女共舞嗎【Leliea | 新人HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "JRqxppMLLAw",
+                        "image": "https://i.ytimg.com/vi/JRqxppMLLAw/mqdefault.jpg",
+                        "title": "我的炸雞呢，為什麼沒有我的炸雞【Leliea | HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "KdQj8xEUG4Q",
+                        "image": "https://i.ytimg.com/vi/KdQj8xEUG4Q/mqdefault.jpg",
+                        "title": "【初配信】來自皇女大人的初次問候～️【Leliea | HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "jC90NO9fkmg",
+                        "image": "https://i.ytimg.com/vi/jC90NO9fkmg/mqdefault.jpg",
+                        "title": "【Super Mario Maker 2】手殘挑戰水管工【Leliea | HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "5hm45Ln4l4w",
+                        "image": "https://i.ytimg.com/vi/5hm45Ln4l4w/mqdefault.jpg",
+                        "title": "【雜談】皇女200訂感謝祭！【Leliea | HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "131vJBJlOfE",
+                        "image": "https://i.ytimg.com/vi/131vJBJlOfE/mqdefault.jpg",
+                        "title": "【滿月雜談】初配信補完計劃！【Leliea | HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    },
+                    {
+                        "video_code": "yXhkB_o5tls",
+                        "image": "https://i.ytimg.com/vi/yXhkB_o5tls/mqdefault.jpg",
+                        "title": "【Nintendo Switch Sports】衝300訂運動台【Leliea | HKvtuber】",
+                        "author": "Leliea 莉莉亞 【HKvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

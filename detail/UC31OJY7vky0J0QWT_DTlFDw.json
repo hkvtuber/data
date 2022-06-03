@@ -105,15 +105,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "9QH3kN71F7k",
+                        "image": "https://i.ytimg.com/vi/9QH3kN71F7k/mqdefault.jpg",
+                        "title": "[ 港V/自我介紹 ] 香港vtuber 小薯偶像--- 冰咲ユキセ 登場!! [ HKvtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "QGy2VFfKss4",
+                        "image": "https://i.ytimg.com/vi/QGy2VFfKss4/mqdefault.jpg",
+                        "title": "【 歌ってみた 】フォニィ-Phony- / Covered by 冰咲ユキセ",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
                         "video_code": "4aWcWI1vGBQ",
                         "image": "https://i.ytimg.com/vi/4aWcWI1vGBQ/mqdefault.jpg",
                         "title": "[ #冰織碎片 | 背景故事 ] 冰粒聽我講…其實…我…係…［ HK vtuber/Yukise ]",
                         "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
                     },
                     {
-                        "video_code": "9QH3kN71F7k",
-                        "image": "https://i.ytimg.com/vi/9QH3kN71F7k/mqdefault.jpg",
-                        "title": "[ 港V/自我介紹 ] 香港vtuber 小薯偶像--- 冰咲ユキセ 登場!! [ HKvtuber/Yukise ]",
+                        "video_code": "soQr1y6lonk",
+                        "image": "https://i.ytimg.com/vi/soQr1y6lonk/mqdefault.jpg",
+                        "title": "［ 重大公告 ］情境語音發售中！ 發售公告 & 購入須知  [ HKvtuber/Yukise ]",
+                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "_SNCOF9dsIk",
+                        "image": "https://i.ytimg.com/vi/_SNCOF9dsIk/mqdefault.jpg",
+                        "title": "[ 顏色敏感度 ] 一齊嚟測試下...你可以睇到幾相似嘅顏色呢？[ HKvtuber/Yukise ]",
                         "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
                     }
                 ]
@@ -128,12 +146,6 @@
                         "video_code": "TV31YWUSWi4",
                         "image": "https://i.ytimg.com/vi/TV31YWUSWi4/mqdefault.jpg",
                         "title": "[ 生日正日 | 一週年紀念配信 ] 原來咁快…就已經1年啦…之後都要多多指教呀！ [ HK vtuber/Yukise ]",
-                        "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
-                    },
-                    {
-                        "video_code": "2hmsKGZukbs",
-                        "image": "https://i.ytimg.com/vi/2hmsKGZukbs/mqdefault.jpg",
-                        "title": "[ 初配信 x 雜談 ] 大家一齊了解下我啦！^.^ [ HKvtuber/Yukise ]",
                         "author": "冰咲ユキセ / Yukise.Ch. 【HK Vtuber】"
                     },
                     {

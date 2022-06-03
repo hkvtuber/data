@@ -81,6 +81,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "8FL_v_1LS3M",
+                        "image": "https://i.ytimg.com/vi/8FL_v_1LS3M/mqdefault.jpg",
+                        "title": "【Cover】 《熾熱審判》Time Judged all 粵語版 （幪面超人OOO插曲）【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "0x4R9YM5HHU",
+                        "image": "https://i.ytimg.com/vi/0x4R9YM5HHU/mqdefault.jpg",
+                        "title": "【一問一答】半鬼降魔師的Freestyle【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "1spPPsIu7es",
+                        "image": "https://i.ytimg.com/vi/1spPPsIu7es/mqdefault.jpg",
+                        "title": "【單人靈探】當鬼遇上鬼 預告篇 【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "xQ-TsHUO4Tw",
+                        "image": "https://i.ytimg.com/vi/xQ-TsHUO4Tw/mqdefault.jpg",
+                        "title": "【單人靈探】當鬼遇上鬼 第一集 沙嶺公墓 【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "1-elV_WFchA",
+                        "image": "https://i.ytimg.com/vi/1-elV_WFchA/mqdefault.jpg",
+                        "title": "ゆめは的畢業禮【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "T1v2YH-1UxU",
+                        "image": "https://i.ytimg.com/vi/T1v2YH-1UxU/mqdefault.jpg",
+                        "title": "【地理達人】香港地理達人大挑戰！【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "0R7NUov7Fk0",
+                        "image": "https://i.ytimg.com/vi/0R7NUov7Fk0/mqdefault.jpg",
+                        "title": "【香港VTuber】第一屆港V界MD法老王大賽",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Ev_DvCvfXc0",
+                        "image": "https://i.ytimg.com/vi/Ev_DvCvfXc0/mqdefault.jpg",
+                        "title": "【初配信】虛之降臨祭！半人半鬼的降魔師終於出道啦！ 【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "1TgzIqQzFsk",
+                        "image": "https://i.ytimg.com/vi/1TgzIqQzFsk/mqdefault.jpg",
+                        "title": "【血壓上升中】空耳翻譯大師【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "eVgpU8X8SXI",
+                        "image": "https://i.ytimg.com/vi/eVgpU8X8SXI/mqdefault.jpg",
+                        "title": "【暴風雨之日】茶繪！黎畫情人節送出送必定分手既禮物！Feat.小林あいす、神崎涼子【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

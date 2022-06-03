@@ -106,6 +106,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "kuoUEFia68c",
+                        "image": "https://i.ytimg.com/vi/kuoUEFia68c/mqdefault.jpg",
+                        "title": "【自我介紹】⚡最有營養的機械人空鈦參上！【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "idTaYIlO2kc",
+                        "image": "https://i.ytimg.com/vi/idTaYIlO2kc/mqdefault.jpg",
+                        "title": "⚡倒轉地球 - 陶大宇版 Cover⚡【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "VMvm-BXP0W8",
+                        "image": "https://i.ytimg.com/vi/VMvm-BXP0W8/mqdefault.jpg",
+                        "title": "【齊學廣東話#1】⚡香港、台灣或內地的朋友也適合收聽的齊學廣東話⚡「你都霎戇既！」【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "lP9Cv9Ff8cY",
+                        "image": "https://i.ytimg.com/vi/lP9Cv9Ff8cY/mqdefault.jpg",
+                        "title": "【齊學廣東話#2】⚡香港、台灣或內地的朋友也適合收聽的齊學廣東話⚡「大佬呀！你唔好咁痴線啦！」【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "G_zEZDKvFmI",
+                        "image": "https://i.ytimg.com/vi/G_zEZDKvFmI/mqdefault.jpg",
+                        "title": "【空鈦食播 #1】⚡挑戰十分鐘內完成譚仔三哥大辣米線！中途辣到失去語言能力了！？⚡【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "1hOMxLtBm7k",
+                        "image": "https://i.ytimg.com/vi/1hOMxLtBm7k/mqdefault.jpg",
+                        "title": "【AMONG US】⚡參加了Tik Lee的AMONG US觀眾場 ！不要殺我不要殺我.jpg⚡feat. Tik Lee @TIK LEE",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "esrARHK5N5E",
+                        "image": "https://i.ytimg.com/vi/esrARHK5N5E/mqdefault.jpg",
+                        "title": "【初配信】⚡比那個舊式機械人多啦●夢更有營養的機械人空鈦參上！⚡【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "a2zk2EbZCfg",
+                        "image": "https://i.ytimg.com/vi/a2zk2EbZCfg/mqdefault.jpg",
+                        "title": "【空鈦牛郎店】⚡有不開心的事嗎?歡迎進來跟空鈦放鬆閒聊喔。🌹【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "mcpskPn6zDo",
+                        "image": "https://i.ytimg.com/vi/mcpskPn6zDo/mqdefault.jpg",
+                        "title": "【PHONE-IN節目 】⚡全新節目！無論對事情理性討論、對觀眾大放厥詞、對主持破口大罵都無任歡迎！今集主題：菠蘿Pizza應否存在於世上！？⚡【空鈦／HKVTuber】",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "CmbyAKYtHug",
+                        "image": "https://i.ytimg.com/vi/CmbyAKYtHug/mqdefault.jpg",
+                        "title": "【直播】⚡空鈦隨意唱⚡",
+                        "author": "空鈦SORATA【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

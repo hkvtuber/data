@@ -115,6 +115,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "cluZU3mKERM",
+                        "image": "https://i.ytimg.com/vi/cluZU3mKERM/mqdefault.jpg",
+                        "title": "【Royalty Free Music / No Copyright】 Bossanova for Tea Time",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "oP5uI_hW3kw",
+                        "image": "https://i.ytimg.com/vi/oP5uI_hW3kw/mqdefault.jpg",
+                        "title": "【Original Music】Fire Hedgehog",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "_YM21ay6-Ek",
+                        "image": "https://i.ytimg.com/vi/_YM21ay6-Ek/mqdefault.jpg",
+                        "title": "【Original Music】 Violet Feather",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "5ieaw6sFZkQ",
+                        "image": "https://i.ytimg.com/vi/5ieaw6sFZkQ/mqdefault.jpg",
+                        "title": "【Original Music】 Himawari",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "orQiwpzV47Y",
+                        "image": "https://i.ytimg.com/vi/orQiwpzV47Y/mqdefault.jpg",
+                        "title": "【Royalty Free Music / No Copyright】 2022 LNY Piano | Chinese | Oriental | Eastern Music",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "mOagpcJeNSg",
+                        "image": "https://i.ytimg.com/vi/mOagpcJeNSg/mqdefault.jpg",
+                        "title": "【講座直播】 身為音樂作曲系畢業生對於COLLAR & YOASOBI 抄襲嫌疑事件看法 & 樂理講座",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "ZtlGNDxdq2s",
+                        "image": "https://i.ytimg.com/vi/ZtlGNDxdq2s/mqdefault.jpg",
+                        "title": "Camp Buddy Scoutmaster Season Music Lecture",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "uT-8a5HqJu0",
+                        "image": "https://i.ytimg.com/vi/uT-8a5HqJu0/mqdefault.jpg",
+                        "title": "【繪畫直播】 五人連動玩Skribbl.io 和 Gartic Phone (ft. Arata / Taiyo / Mine)",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "czsEWLVvIL0",
+                        "image": "https://i.ytimg.com/vi/czsEWLVvIL0/mqdefault.jpg",
+                        "title": "【日麻直播】 第一次YouTube 日麻直播",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "UH_Hwr0oNK4",
+                        "image": "https://i.ytimg.com/vi/UH_Hwr0oNK4/mqdefault.jpg",
+                        "title": "【作曲直播】 人形の回旋曲",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    }
+                ]
+            }
         }
     ]
 }

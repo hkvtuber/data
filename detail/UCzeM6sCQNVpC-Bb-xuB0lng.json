@@ -117,6 +117,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "kMabI-IRtTE",
+                        "image": "https://i.ytimg.com/vi/kMabI-IRtTE/mqdefault.jpg",
+                        "title": "【同步視聽】『2021年華語VTuber紅白綜藝秀』直播節目",
+                        "author": "矢花まい魅 Yabana MaiMei【HK Vtuber】"
+                    },
+                    {
                         "video_code": "eqdvuMPgFmk",
                         "image": "https://i.ytimg.com/vi/eqdvuMPgFmk/mqdefault.jpg",
                         "title": "【初配信】要出道了♡  ✞香港Vtuber/矢花まい魅✞",
@@ -135,15 +141,9 @@
                         "author": "矢花まい魅 Yabana MaiMei【HK Vtuber】"
                     },
                     {
-                        "video_code": "w3HlTjXVryU",
-                        "image": "https://i.ytimg.com/vi/w3HlTjXVryU/mqdefault.jpg",
-                        "title": "【繪圖日/Drawing】幫V朋們設計專屬甜品♡ ✞香港Vtuber/矢花まい魅✞",
-                        "author": "矢花まい魅 Yabana MaiMei【HK Vtuber】"
-                    },
-                    {
-                        "video_code": "ns1eEjndDuA",
-                        "image": "https://i.ytimg.com/vi/ns1eEjndDuA/mqdefault.jpg",
-                        "title": "【雜談】❥放鬆心情，聊個天吧 ✞香港Vtuber/矢花まい魅✞",
+                        "video_code": "lBQQKyqhVDI",
+                        "image": "https://i.ytimg.com/vi/lBQQKyqhVDI/mqdefault.jpg",
+                        "title": "(*≧∀≦*)修女的初個生誕祭! Let's partyyyyyyyyy💉🩸🩸🩸🩸",
                         "author": "矢花まい魅 Yabana MaiMei【HK Vtuber】"
                     }
                 ]

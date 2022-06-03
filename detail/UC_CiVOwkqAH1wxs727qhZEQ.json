@@ -110,6 +110,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "duktK7PH5oQ",
+                        "image": "https://i.ytimg.com/vi/duktK7PH5oQ/mqdefault.jpg",
+                        "title": "【香港VTuber】鸚鵡 啊啦呢 終於可以出現係大家眼前啦owo【初見面】",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Q5BlC5nV5-A",
+                        "image": "https://i.ytimg.com/vi/Q5BlC5nV5-A/mqdefault.jpg",
+                        "title": "新觀眾專用:3 類似自我介紹的東東w",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "EYYNXma2JOo",
+                        "image": "https://i.ytimg.com/vi/EYYNXma2JOo/mqdefault.jpg",
+                        "title": "Me Dead",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Kpm-3V6x_EI",
+                        "image": "https://i.ytimg.com/vi/Kpm-3V6x_EI/mqdefault.jpg",
+                        "title": "雪櫃 | ft.猫宮あゆめ",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "SiAZWdmKeLM",
+                        "image": "https://i.ytimg.com/vi/SiAZWdmKeLM/mqdefault.jpg",
+                        "title": "Assassin's Creed Doomicate",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "HfkWqR-Wr1A",
+                        "image": "https://i.ytimg.com/vi/HfkWqR-Wr1A/mqdefault.jpg",
+                        "title": "鸚鵡 啊啦呢 ★ 自我介紹 雜談 棉花糖owo【初配信】",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "AByfLg1hXgg",
+                        "image": "https://i.ytimg.com/vi/AByfLg1hXgg/mqdefault.jpg",
+                        "title": "【直播配信】 12人 心結 太空狼人殺 - 大大大聯動 - Ft.去下低睇 唔夠位:3  | 2021-06-23 | Among Us ★ 鸚鵡 啊啦呢",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "pENyoJgnJ2c",
+                        "image": "https://i.ytimg.com/vi/pENyoJgnJ2c/mqdefault.jpg",
+                        "title": "安安靜靜// 時間表 同埋 縮圖 | 2021-07-26 | 雜談。工作生態？ ★ 鸚鵡 啊啦呢",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "TloPF3GMVXw",
+                        "image": "https://i.ytimg.com/vi/TloPF3GMVXw/mqdefault.jpg",
+                        "title": "復活雜談! ft.遲來的生日蛋糕  | 2021-12-05 | 雜談 ★ 鸚鵡 啊啦呢",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    },
+                    {
+                        "video_code": "vrxKwn-zwZk",
+                        "image": "https://i.ytimg.com/vi/vrxKwn-zwZk/mqdefault.jpg",
+                        "title": "MINECRAFT SKIN 委託繪製 -猫宮あゆめ- | 2021-08-20 | 委託繪製 ★ 鸚鵡 啊啦呢",
+                        "author": "Arare Ch. 津雲啊啦呢【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

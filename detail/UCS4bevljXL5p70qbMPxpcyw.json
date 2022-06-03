@@ -81,6 +81,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Llo7IVsL_Ko",
+                        "image": "https://i.ytimg.com/vi/Llo7IVsL_Ko/mqdefault.jpg",
+                        "title": "2.0 (Life) - 槻智惠 「香港Vtuber」",
+                        "author": "Tomoe Ch. 槻智惠"
+                    },
+                    {
+                        "video_code": "-QW2Hhl41Oo",
+                        "image": "https://i.ytimg.com/vi/-QW2Hhl41Oo/mqdefault.jpg",
+                        "title": "[模模惠惠]食玩 ANIMAGEAR DE2 開箱 - 槻智惠「香港Vtuber」",
+                        "author": "Tomoe Ch. 槻智惠"
+                    },
+                    {
+                        "video_code": "Oe_lT4Gob40",
+                        "image": "https://i.ytimg.com/vi/Oe_lT4Gob40/mqdefault.jpg",
+                        "title": "[魔物獵人2(Dos)] 芒 亨 新 作 (十六年前) - 槻智惠「香港Vtuber」",
+                        "author": "Tomoe Ch. 槻智惠"
+                    },
+                    {
+                        "video_code": "bu8_gg5hHWw",
+                        "image": "https://i.ytimg.com/vi/bu8_gg5hHWw/mqdefault.jpg",
+                        "title": "[模模惠惠中古篇] 一直以來的怨念物開箱 - 槻智惠「香港Vtuber」",
+                        "author": "Tomoe Ch. 槻智惠"
+                    },
+                    {
+                        "video_code": "37BDYEkVCsA",
+                        "image": "https://i.ytimg.com/vi/37BDYEkVCsA/mqdefault.jpg",
+                        "title": "[頭文字D Extreme Stage] 妄想成神 - 槻智惠「香港Vtuber」",
+                        "author": "Tomoe Ch. 槻智惠"
+                    }
+                ]
+            }
         }
     ]
 }

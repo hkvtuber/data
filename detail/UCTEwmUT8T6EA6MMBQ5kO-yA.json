@@ -70,10 +70,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "NeN98MNoV9Q",
+                        "image": "https://i.ytimg.com/vi/NeN98MNoV9Q/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】🤔震撼三觀系列🤔屯門色狼有樣睇！扮訓電話偷拍裙底！",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
+                    },
+                    {
+                        "video_code": "Iy3PoUi6on8",
+                        "image": "https://i.ytimg.com/vi/Iy3PoUi6on8/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】🎒旅遊歷🎒公海遊🚢星夢郵輪「雲頂夢號郵輪」Dream Cruises：Genting Dream（相片專輯）",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
+                    },
+                    {
+                        "video_code": "SuivuvjYiwc",
+                        "image": "https://i.ytimg.com/vi/SuivuvjYiwc/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】🐾有貓又有狗🐾奴才膽敢公然用貓棒調戲本喵！",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
+                    },
+                    {
+                        "video_code": "TYKU3lHq4Ds",
+                        "image": "https://i.ytimg.com/vi/TYKU3lHq4Ds/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】🎮UFO CATCHER GET！🎮2020 年 06 月 21 日（1）カードキャプターさくら クリアカード編 夢の杖",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
+                    },
+                    {
                         "video_code": "7IAmkKBiTN0",
                         "image": "https://i.ytimg.com/vi/7IAmkKBiTN0/mqdefault.jpg",
-                        "title": "【MxM • MIR】公告板 • MIR 潛水多月，終以 VTuber 身份浮回水面！",
-                        "author": "MxM • MIR VTuber"
+                        "title": "【MIR 的日常角度】📰公告板📰潛水多月，終以 VTuber 身份浮回水面！",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
                     }
                 ]
             }
@@ -86,20 +110,32 @@
                     {
                         "video_code": "6kuDE7debbg",
                         "image": "https://i.ytimg.com/vi/6kuDE7debbg/mqdefault.jpg",
-                        "title": "【MxM • MIR】旅遊歷：3 晚公海遊 - 星夢郵輪「雲頂夢號」Dream Cruises：Genting Dream",
-                        "author": "MxM • MIR VTuber"
+                        "title": "【MIR 的日常角度】🎒旅遊歷🎒MIR 人生的第一次 3 晚公海遊🚢星夢郵輪「雲頂夢號郵輪」Dream Cruises：Genting🚢登船前準備及流程、船上設施、活動、趣事分享",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
+                    },
+                    {
+                        "video_code": "sQESX7JrPcs",
+                        "image": "https://i.ytimg.com/vi/sQESX7JrPcs/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】📱手遊系列📱宮廷計 - 成就妳的宮廷大夢",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
                     },
                     {
                         "video_code": "fuRSjrViqC4",
                         "image": "https://i.ytimg.com/vi/fuRSjrViqC4/mqdefault.jpg",
-                        "title": "【MxM • MIR】超時空之鑰 / 時空之輪 / クロノ・トリガー /（Chrono Trigger）（1）",
-                        "author": "MxM • MIR VTuber"
+                        "title": "【MIR 的日常角度】🎮超時空之鑰 /  クロノ・トリガー（Chrono Trigger）（1）",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
                     },
                     {
-                        "video_code": "9giW9H2-ZhI",
-                        "image": "https://i.ytimg.com/vi/9giW9H2-ZhI/mqdefault.jpg",
-                        "title": "【MxM • MIR】刀劍神域彼岸遊境 / ソードアート・オンライン アリシゼーションリコリス / （SWORD ART ONLINE Alicization Lycoris）（6）",
-                        "author": "MxM • MIR VTuber"
+                        "video_code": "Ov84fxDFFB0",
+                        "image": "https://i.ytimg.com/vi/Ov84fxDFFB0/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】🎮超時空之鑰 /  クロノ・トリガー（Chrono Trigger）（6）",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
+                    },
+                    {
+                        "video_code": "-dP4qxnRdYY",
+                        "image": "https://i.ytimg.com/vi/-dP4qxnRdYY/mqdefault.jpg",
+                        "title": "【MIR 的日常角度】🧪測試遊戲🧪",
+                        "author": "MIR 的日常角度 ︳MIR's Daily Angle"
                     }
                 ]
             }

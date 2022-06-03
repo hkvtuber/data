@@ -97,10 +97,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "3aqjAQmLwS0",
+                        "image": "https://i.ytimg.com/vi/3aqjAQmLwS0/mqdefault.jpg",
+                        "title": "【講你知123♡~米亞&甘米】Cover(摧毀) By 雪骨小白_Shiro",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
+                        "video_code": "vc9nZeQOgOI",
+                        "image": "https://i.ytimg.com/vi/vc9nZeQOgOI/mqdefault.jpg",
+                        "title": "[自我介绍]本殿下想出道啊!~世上最尷尬的自我介紹片w~",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
                         "video_code": "QPL01J-x3z8",
                         "image": "https://i.ytimg.com/vi/QPL01J-x3z8/mqdefault.jpg",
                         "title": "【Vtuber一問一答自我介紹】第二次出尷尬嘅自我介紹【雪骨小白_Shiro】",
-                        "author": "雪骨小白_Shiro[HKVtuber]"
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
+                        "video_code": "h9kVnOGOOOk",
+                        "image": "https://i.ytimg.com/vi/h9kVnOGOOOk/mqdefault.jpg",
+                        "title": "【漫漫長夜】希望今日故事線可以通關!~",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
+                        "video_code": "dKB2L68DzmM",
+                        "image": "https://i.ytimg.com/vi/dKB2L68DzmM/mqdefault.jpg",
+                        "title": "【Ark】 一個人想捉到風神翼龍是否搞錯了什麼www",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
                     }
                 ]
             }
@@ -111,28 +135,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "xs3zoFK6_MU",
+                        "image": "https://i.ytimg.com/vi/xs3zoFK6_MU/mqdefault.jpg",
+                        "title": "【24小時200訂閱慶祝!】#2 一邊打機一邊等突待la!超期待w",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
+                        "video_code": "sYd3CE2qG-g",
+                        "image": "https://i.ytimg.com/vi/sYd3CE2qG-g/mqdefault.jpg",
+                        "title": "【猜猜我是誰】休息前想記住所有朋友!~",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uXZRF6dI4KA",
+                        "image": "https://i.ytimg.com/vi/uXZRF6dI4KA/mqdefault.jpg",
+                        "title": "【24小時200訂閱慶祝!】一邊打機一邊等突待la!超期待w",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
+                    },
+                    {
                         "video_code": "5dw85-zmMAw",
                         "image": "https://i.ytimg.com/vi/5dw85-zmMAw/mqdefault.jpg",
                         "title": "[HKVtuber/雪骨小白&Wishes]初配信!齊來拜見小白殿下,火星&小樱公主La!~",
-                        "author": "雪骨小白_Shiro[HKVtuber]"
+                        "author": "雪骨小白_Shiro【HKVtuber】"
                     },
                     {
-                        "video_code": "g3RcyDodlUg",
-                        "image": "https://i.ytimg.com/vi/g3RcyDodlUg/mqdefault.jpg",
-                        "title": "[HKVtuber/雪骨小白&Wishes]第一次歌华！",
-                        "author": "雪骨小白_Shiro[HKVtuber]"
-                    },
-                    {
-                        "video_code": "6Y61_JI-tbs",
-                        "image": "https://i.ytimg.com/vi/6Y61_JI-tbs/mqdefault.jpg",
-                        "title": "[HKVtuber/雪骨小白]惡狼遊戲+雜談{幻想}",
-                        "author": "雪骨小白_Shiro[HKVtuber]"
-                    },
-                    {
-                        "video_code": "ENDmHPMalJw",
-                        "image": "https://i.ytimg.com/vi/ENDmHPMalJw/mqdefault.jpg",
-                        "title": "[HKVtuber/雪骨小白]又一次嘅Among us , 唔知今次有冇得做鬼呢?",
-                        "author": "雪骨小白_Shiro[HKVtuber]"
+                        "video_code": "g2sQNyUDxB8",
+                        "image": "https://i.ytimg.com/vi/g2sQNyUDxB8/mqdefault.jpg",
+                        "title": "【99%係耐久台】 終於到未瞓醒嘅小白去冒險啦!~第一隻係?",
+                        "author": "雪骨小白_Shiro【HKVtuber】"
                     }
                 ]
             }

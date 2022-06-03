@@ -82,6 +82,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "hpZSKoHQVMY",
+                        "image": "https://i.ytimg.com/vi/hpZSKoHQVMY/mqdefault.jpg",
+                        "title": "【自己介绍】Vtuber一問一答自我介紹【霧巢霍艾斯KirisuFoxac】",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uf5Qn9fJphU",
+                        "image": "https://i.ytimg.com/vi/uf5Qn9fJphU/mqdefault.jpg",
+                        "title": "發癲又發情的辣個男人【ワル霞 / HKVtuber】",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "HNdLh_mM8l4",
+                        "image": "https://i.ytimg.com/vi/HNdLh_mM8l4/mqdefault.jpg",
+                        "title": "公開新model及介紹小伙伴【霧巢霍艾斯KirisuFoxac】",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "WQWNZpMilfY",
+                        "image": "https://i.ytimg.com/vi/WQWNZpMilfY/mqdefault.jpg",
+                        "title": "狗 ’苟‘",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "dlKPNG4qjaU",
+                        "image": "https://i.ytimg.com/vi/dlKPNG4qjaU/mqdefault.jpg",
+                        "title": "Apex排位6殺精華短片【無字幕】",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "3CE8AtUunrE",
+                        "image": "https://i.ytimg.com/vi/3CE8AtUunrE/mqdefault.jpg",
+                        "title": "【Among Us聯動】我一定會盡力揭開兇手的面具！(ft. Raku/9mui /Shiro/KUMO/莉絲/hina /Neir / Noa /哈里/ 艾露)",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "B9ubnMJAvQ0",
+                        "image": "https://i.ytimg.com/vi/B9ubnMJAvQ0/mqdefault.jpg",
+                        "title": "【虹彩六號】打排位被小白殿下亂入！？ (ft. 雪骨小白 Shiro)",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "aE2Nsf_I3CM",
+                        "image": "https://i.ytimg.com/vi/aE2Nsf_I3CM/mqdefault.jpg",
+                        "title": "【Within Skerry | 星期三恐怖遊戲】一人鬼屋探險（腦子是有問題嗎 ＜Part 1＞",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "dL0_nE8Mq18",
+                        "image": "https://i.ytimg.com/vi/dL0_nE8Mq18/mqdefault.jpg",
+                        "title": "【Devour聯動】四個第一次玩呢一隻恐怖遊戲既人，將會變得幾混亂呢？（水月 Izuki, 上原愛子, ワル霞)",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nxpCNvt1E2w",
+                        "image": "https://i.ytimg.com/vi/nxpCNvt1E2w/mqdefault.jpg",
+                        "title": "【DSE加油站】《始得西山宴遊記》",
+                        "author": "霧巣 FOXAC 【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

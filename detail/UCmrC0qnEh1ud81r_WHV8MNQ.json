@@ -98,6 +98,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "vXvMOXLz0Ms",
+                        "image": "https://i.ytimg.com/vi/vXvMOXLz0Ms/mqdefault.jpg",
+                        "title": "【歌ってみた】flos / KanaArora・花奈アロラ (Cover)",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "Azmt6B9uoP4",
+                        "image": "https://i.ytimg.com/vi/Azmt6B9uoP4/mqdefault.jpg",
+                        "title": "Vtuber Q&A Self Introduction #Vtuber一問一答自己紹介 【花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "Gozzt8SuQUM",
+                        "image": "https://i.ytimg.com/vi/Gozzt8SuQUM/mqdefault.jpg",
+                        "title": "係咁先啦 / KanaArora・花奈アロラ (Cover)",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "PX7njmwEihA",
+                        "image": "https://i.ytimg.com/vi/PX7njmwEihA/mqdefault.jpg",
+                        "title": "【UNDERTALE・アンダーテール】HIT ME HARDER!!! ( ͡° ͜ʖ ͡°)【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "4ZagnmnYzCU",
+                        "image": "https://i.ytimg.com/vi/4ZagnmnYzCU/mqdefault.jpg",
+                        "title": "【UNDERTALE・アンダーテール】From Rage to Cry! True Ending! 怒りから泣きへ！真のエンディング！【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "qDZZFYuVMKY",
+                        "image": "https://i.ytimg.com/vi/qDZZFYuVMKY/mqdefault.jpg",
+                        "title": "【Singing Stream・歌枠】1000人訂閱感謝！・1000 Subs Celebration!【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "lXegqu7ImYs",
+                        "image": "https://i.ytimg.com/vi/lXegqu7ImYs/mqdefault.jpg",
+                        "title": "【FF14/FFXIV】Chatting with Warriors of Light・光の戦士と雑談【花奈アロラ】Ft. 豚田誠太、繭眠、K.T",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "DanXrpcZ3UM",
+                        "image": "https://i.ytimg.com/vi/DanXrpcZ3UM/mqdefault.jpg",
+                        "title": "【APEX LEGENDS】S11 EP.4 I'm bored, just play a little・暇だからちょっと遊び【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "HZF52ZQXu-M",
+                        "image": "https://i.ytimg.com/vi/HZF52ZQXu-M/mqdefault.jpg",
+                        "title": "【ELDEN RING】EP.1 踏上不歸路【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "ViNnJQ5yIoo",
+                        "image": "https://i.ytimg.com/vi/ViNnJQ5yIoo/mqdefault.jpg",
+                        "title": "【Duolingo】EP.2 Learning Japanese ・日本語の勉強【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    }
+                ]
+            }
         }
     ]
 }

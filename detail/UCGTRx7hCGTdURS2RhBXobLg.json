@@ -94,15 +94,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "D2kYtrS6XVs",
+                        "image": "https://i.ytimg.com/vi/D2kYtrS6XVs/mqdefault.jpg",
+                        "title": "【賽馬娘直擊】ウマ娘 賽馬娘直擊開場片頭 Live OP",
+                        "author": "Peace 2 Animation Studio"
+                    },
+                    {
+                        "video_code": "uRGLPtgy08s",
+                        "image": "https://i.ytimg.com/vi/uRGLPtgy08s/mqdefault.jpg",
+                        "title": "[ 第一條片!!! ] Peace ² Animation Studio出戰!",
+                        "author": "Peace 2 Animation Studio"
+                    },
+                    {
                         "video_code": "BrxPW1vr7pA",
                         "image": "https://i.ytimg.com/vi/BrxPW1vr7pA/mqdefault.jpg",
                         "title": "【自我介紹】作為毒L出道嘅香港VTuber！【香港VTuber】",
                         "author": "Peace 2 Animation Studio"
                     },
                     {
-                        "video_code": "D2kYtrS6XVs",
-                        "image": "https://i.ytimg.com/vi/D2kYtrS6XVs/mqdefault.jpg",
-                        "title": "【賽馬娘直擊】ウマ娘 賽馬娘直擊開場片頭 Live OP",
+                        "video_code": "YDqIZT0R_vI",
+                        "image": "https://i.ytimg.com/vi/YDqIZT0R_vI/mqdefault.jpg",
+                        "title": "【👻靈界廚房】乾蒸意粉🍝vs吉列牛扒🥩 | 為咗贏可以去到幾盡？",
+                        "author": "Peace 2 Animation Studio"
+                    },
+                    {
+                        "video_code": "Zmx324IYTw4",
+                        "image": "https://i.ytimg.com/vi/Zmx324IYTw4/mqdefault.jpg",
+                        "title": "【GarticPhone】點解咩題目都變成VTuber？玩到去雪人強〇Elsa🔞？【香港VTuber】",
                         "author": "Peace 2 Animation Studio"
                     }
                 ]
@@ -114,15 +132,9 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "SwPA90hvqzQ",
-                        "image": "https://i.ytimg.com/vi/SwPA90hvqzQ/mqdefault.jpg",
-                        "title": "【初配信】作為打工仔出道嘅香港VTuber！【香港VTuber】",
-                        "author": "Peace 2 Animation Studio"
-                    },
-                    {
-                        "video_code": "IGt9isnoTtE",
-                        "image": "https://i.ytimg.com/vi/IGt9isnoTtE/mqdefault.jpg",
-                        "title": "【一生推不如一生戀 18+版】最初相遇的兩人【香港VTuber】",
+                        "video_code": "0-0Y_H1-MG8",
+                        "image": "https://i.ytimg.com/vi/0-0Y_H1-MG8/mqdefault.jpg",
+                        "title": "【一生推不如一生戀 18+版】愛情來的太快就像龍捲風 #3【香港VTuber】",
                         "author": "Peace 2 Animation Studio"
                     },
                     {
@@ -132,9 +144,21 @@
                         "author": "Peace 2 Animation Studio"
                     },
                     {
-                        "video_code": "wi9V8sbnjTs",
-                        "image": "https://i.ytimg.com/vi/wi9V8sbnjTs/mqdefault.jpg",
-                        "title": "賽馬娘直播｜目白麥昆育成計劃 | 競馬娘Fake Check Live直播【香港VTuber】",
+                        "video_code": "EjBUn-VKthc",
+                        "image": "https://i.ytimg.com/vi/EjBUn-VKthc/mqdefault.jpg",
+                        "title": "【一生推不如一生戀 18+版】墮入情網 #4【香港VTuber】",
+                        "author": "Peace 2 Animation Studio"
+                    },
+                    {
+                        "video_code": "ZOWof0lZNkk",
+                        "image": "https://i.ytimg.com/vi/ZOWof0lZNkk/mqdefault.jpg",
+                        "title": "【一生推不如一生戀 love or die 18+版】百合的戀愛太難 #4【香港VTuber】",
+                        "author": "Peace 2 Animation Studio"
+                    },
+                    {
+                        "video_code": "nhCVpLFuonc",
+                        "image": "https://i.ytimg.com/vi/nhCVpLFuonc/mqdefault.jpg",
+                        "title": "【一生推不如一生戀 love or die 18+版】我哋結婚啦♥~ #1【香港VTuber】",
                         "author": "Peace 2 Animation Studio"
                     }
                 ]

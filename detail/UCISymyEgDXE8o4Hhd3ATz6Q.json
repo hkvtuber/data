@@ -96,6 +96,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "xP2hHms4XbQ",
+                        "image": "https://i.ytimg.com/vi/xP2hHms4XbQ/mqdefault.jpg",
+                        "title": "初次見面！初配信！【澪音 / 香港vtuber】",
+                        "author": "澪音 【香港vtuber】"
+                    },
+                    {
+                        "video_code": "7TuUvc500sk",
+                        "image": "https://i.ytimg.com/vi/7TuUvc500sk/mqdefault.jpg",
+                        "title": "Minecraft：到新世界探險！【澪音 / 香港vtuber】",
+                        "author": "澪音 【香港vtuber】"
+                    },
+                    {
+                        "video_code": "V6_oRjDps9s",
+                        "image": "https://i.ytimg.com/vi/V6_oRjDps9s/mqdefault.jpg",
+                        "title": "雜談+來畫畫自己的Minecraft Skin吧！【澪音 / 香港vtuber】",
+                        "author": "澪音 【香港vtuber】"
+                    },
+                    {
+                        "video_code": "ZNYl3hkwzRo",
+                        "image": "https://i.ytimg.com/vi/ZNYl3hkwzRo/mqdefault.jpg",
+                        "title": "Getting Over It ：落山容易上山難【澪音 / 香港vtuber】",
+                        "author": "澪音 【香港vtuber】"
+                    },
+                    {
+                        "video_code": "mo7NvI2X3ro",
+                        "image": "https://i.ytimg.com/vi/mo7NvI2X3ro/mqdefault.jpg",
+                        "title": "Apex Legends 真 ‧ 新手雷街場【澪音 / 香港vtuber】",
+                        "author": "澪音 【香港vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

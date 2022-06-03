@@ -112,21 +112,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "LAaFV1XPiU8",
-                        "image": "https://i.ytimg.com/vi/LAaFV1XPiU8/mqdefault.jpg",
-                        "title": "🐐【初配信公告 | DEBUT ANNOUNCEMENT 】🐐",
-                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
-                    },
-                    {
                         "video_code": "QmECFBNAETE",
                         "image": "https://i.ytimg.com/vi/QmECFBNAETE/mqdefault.jpg",
                         "title": "【自己紹介 | Q&A Self Introduction】🐐Vtuber 一問一答自己紹介【黑木ヤギ/HKVTuber】",
                         "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
                     },
                     {
-                        "video_code": "zwO1KjfD31o",
-                        "image": "https://i.ytimg.com/vi/zwO1KjfD31o/mqdefault.jpg",
-                        "title": "【SPEEDPAINT】Hololive - Ouro Kronii🚁縮時繪圖過程",
+                        "video_code": "1QZGxnPnd5I",
+                        "image": "https://i.ytimg.com/vi/1QZGxnPnd5I/mqdefault.jpg",
+                        "title": "🐐🔥炎上山羊 (物理) 【黑木ヤギ | HKVtuber】【香港Vtuber精華】(繁中字幕/ENG SUB)",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "IZ4IZ2FvREg",
+                        "image": "https://i.ytimg.com/vi/IZ4IZ2FvREg/mqdefault.jpg",
+                        "title": "壺男A夢 (粗口注意！)【黑木ヤギ | HKVtuber】【香港Vtuber精華】",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "5rNd9QQU8XI",
+                        "image": "https://i.ytimg.com/vi/5rNd9QQU8XI/mqdefault.jpg",
+                        "title": "🐐暴走山羊的奇妙冒險 Bug Simulator【黑木ヤギ | HKVtuber】【香港Vtuber精華 | 山羊模擬器 Goat Simulator】(繁中字幕)",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "1irLRocmkXw",
+                        "image": "https://i.ytimg.com/vi/1irLRocmkXw/mqdefault.jpg",
+                        "title": "當捉鬼大師遇上三條淆底廢柴 🐐🐸🐱🎮 Ft. 猫村彌音 / Kappa卡帕 / 阿爾文.阿魯卡【黑木ヤギ/HKVtuber】【香港Vtuber精華 | 恐鬼症 PHASMOPHOBIA】",
                         "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
                     }
                 ]
@@ -144,15 +156,27 @@
                         "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
                     },
                     {
-                        "video_code": "ymk-dYetr_w",
-                        "image": "https://i.ytimg.com/vi/ymk-dYetr_w/mqdefault.jpg",
-                        "title": "【深夜畫畫天光台】🐐又失眠啦！好耶！【黑木ヤギ/HKVtuber】",
+                        "video_code": "ZLtwGXNtcrQ",
+                        "image": "https://i.ytimg.com/vi/ZLtwGXNtcrQ/mqdefault.jpg",
+                        "title": "【頹過半週年】🐐❤🍲一日ヤギ【黑木ヤギ/HKVtuber】",
                         "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
                     },
                     {
-                        "video_code": "bhmPtS4GqRQ",
-                        "image": "https://i.ytimg.com/vi/bhmPtS4GqRQ/mqdefault.jpg",
-                        "title": "【深夜耍廢天光台】🐐我就廢【黑木ヤギ/HKVtuber】",
+                        "video_code": "njid6CjgKsE",
+                        "image": "https://i.ytimg.com/vi/njid6CjgKsE/mqdefault.jpg",
+                        "title": "【初見壺男 & Jer Game | Getting Over it】🐐Goat喜發財，步步Goat升🧧 【黑木ヤギ/HKVtuber】",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ymk-dYetr_w",
+                        "image": "https://i.ytimg.com/vi/ymk-dYetr_w/mqdefault.jpg",
+                        "title": "【深夜畫畫天光台 | Drawing】🐐又失眠啦！好耶！【黑木ヤギ/HKVtuber】",
+                        "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "GvYClKlxaWk",
+                        "image": "https://i.ytimg.com/vi/GvYClKlxaWk/mqdefault.jpg",
+                        "title": "【Gartic.io】猜猜畫畫觀眾場",
                         "author": "Yagi Ch. 黑木ヤギ【HKVtuber】"
                     }
                 ]

@@ -101,6 +101,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "5K5pLN0QYNg",
+                        "image": "https://i.ytimg.com/vi/5K5pLN0QYNg/mqdefault.jpg",
+                        "title": "#OPENSEA #NFT FUMI EAT SALMON FISH",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "bTQQkSoLFJo",
+                        "image": "https://i.ytimg.com/vi/bTQQkSoLFJo/mqdefault.jpg",
+                        "title": "不為人知嘅一個小故事 (前傳)",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "HTR_J9yFasg",
+                        "image": "https://i.ytimg.com/vi/HTR_J9yFasg/mqdefault.jpg",
+                        "title": "虎咪 #Vtuber一問一答自己紹介 in my style~",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "8eNITNUxJh0",
+                        "image": "https://i.ytimg.com/vi/8eNITNUxJh0/mqdefault.jpg",
+                        "title": "試唱兩段仔FLOS 音量注意 (~￣▽￣)~",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "Qp6juimlc1w",
+                        "image": "https://i.ytimg.com/vi/Qp6juimlc1w/mqdefault.jpg",
+                        "title": "虎咪(自HIGH) STYLE~~~o(-`д´- ｡)",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "LmnH7ZXfYcY",
+                        "image": "https://i.ytimg.com/vi/LmnH7ZXfYcY/mqdefault.jpg",
+                        "title": "初配信  玩自己整的遊戲初配信遊戲 owo",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "rjC9IQAFs-M",
+                        "image": "https://i.ytimg.com/vi/rjC9IQAFs-M/mqdefault.jpg",
+                        "title": "~APEX 虎咪要成為弓箭 小幫手達人~",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "jEcMY_nNCso",
+                        "image": "https://i.ytimg.com/vi/jEcMY_nNCso/mqdefault.jpg",
+                        "title": "虎咪 600米巨人歌回~",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "3INgnPXnji0",
+                        "image": "https://i.ytimg.com/vi/3INgnPXnji0/mqdefault.jpg",
+                        "title": "#SIFU #師父 打過爛仔交嘅虎咪 教大家保護自己 ?",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    },
+                    {
+                        "video_code": "k9mN3W5OsRM",
+                        "image": "https://i.ytimg.com/vi/k9mN3W5OsRM/mqdefault.jpg",
+                        "title": "同虎咪一齊打麻雀 雀魂麻雀~2",
+                        "author": "虎咪 ♂️Ch [元宇宙RPG巨大系香港VTUBER]"
+                    }
+                ]
+            }
         }
     ]
 }

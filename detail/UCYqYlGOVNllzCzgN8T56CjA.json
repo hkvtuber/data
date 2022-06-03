@@ -59,6 +59,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-aRbayxG8Vs",
+                        "image": "https://i.ytimg.com/vi/-aRbayxG8Vs/mqdefault.jpg",
+                        "title": "Addio",
+                        "author": "Vito Valentaila【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

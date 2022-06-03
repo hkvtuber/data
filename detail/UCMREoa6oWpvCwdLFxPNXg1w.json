@@ -117,16 +117,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "CJ2T5yweSOI",
+                        "image": "https://i.ytimg.com/vi/CJ2T5yweSOI/mqdefault.jpg",
+                        "title": "【尼爾：人工生命】全武器詳細入手方法介紹",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Iz9BjK9WB2Y",
+                        "image": "https://i.ytimg.com/vi/Iz9BjK9WB2Y/mqdefault.jpg",
+                        "title": "【尼爾:人工生命】OST－『Ashes of Dreams/夢之灰燼』【中日英歌詞】",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "GkGMD2eNYfs",
+                        "image": "https://i.ytimg.com/vi/GkGMD2eNYfs/mqdefault.jpg",
+                        "title": "【尼爾：人工生命】遊玩前12件你需要知道的事",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
+                    },
+                    {
                         "video_code": "-1BnUccVI2g",
                         "image": "https://i.ytimg.com/vi/-1BnUccVI2g/mqdefault.jpg",
                         "title": "【自我介紹】關於誕生自人類怨恨的惡魔【香港Vtuber/百孤－バグ】",
-                        "author": "百孤－バグ .ch【HKVtuber】 "
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
                     },
                     {
-                        "video_code": "NpdrWQbvha4",
-                        "image": "https://i.ytimg.com/vi/NpdrWQbvha4/mqdefault.jpg",
-                        "title": "឵឵឵",
-                        "author": "百孤－バグ .ch【HKVtuber】 "
+                        "video_code": "VNZHFEE29tM",
+                        "image": "https://i.ytimg.com/vi/VNZHFEE29tM/mqdefault.jpg",
+                        "title": "【直播精華】 發生啲咁嘅事我都唔想㗎....【香港Vtuber精華】",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
                     }
                 ]
             }
@@ -137,28 +155,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "o9fMQJjAfu0",
+                        "image": "https://i.ytimg.com/vi/o9fMQJjAfu0/mqdefault.jpg",
+                        "title": "【同步視聽】月光騎士(Marvel)影集第四集【百孤 | 白狐はくこ】",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "mrJXANbmOo4",
+                        "image": "https://i.ytimg.com/vi/mrJXANbmOo4/mqdefault.jpg",
+                        "title": "【HKDSE】ICT就開考幫大家重温下外加個小(?)挑戰【百孤 | 白狐はくこ】",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
+                    },
+                    {
                         "video_code": "NohXnUC8vWY",
                         "image": "https://i.ytimg.com/vi/NohXnUC8vWY/mqdefault.jpg",
                         "title": "【初配信】惡魔降臨 [百孤/バグ- HKVTuber]",
-                        "author": "百孤－バグ .ch【HKVtuber】 "
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
                     },
                     {
-                        "video_code": "o9zjOs52xLg",
-                        "image": "https://i.ytimg.com/vi/o9zjOs52xLg/mqdefault.jpg",
-                        "title": "【VTuber模擬器】成為VTuber真係咁簡單?",
-                        "author": "百孤－バグ .ch【HKVtuber】 "
+                        "video_code": "EzoVXiTxuSg",
+                        "image": "https://i.ytimg.com/vi/EzoVXiTxuSg/mqdefault.jpg",
+                        "title": "【小百子半週年】今次百孤又入咗咩身體到？",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
                     },
                     {
-                        "video_code": "LYcIQLi2MvE",
-                        "image": "https://i.ytimg.com/vi/LYcIQLi2MvE/mqdefault.jpg",
-                        "title": "【Virtual City】是日探險日",
-                        "author": "百孤－バグ .ch【HKVtuber】 "
-                    },
-                    {
-                        "video_code": "4q2i7QqJoyQ",
-                        "image": "https://i.ytimg.com/vi/4q2i7QqJoyQ/mqdefault.jpg",
-                        "title": "【港澳聯動｜雙人成行 It takes two】 #2 到底認識多年我哋嘅默契會係..... ft.Piro",
-                        "author": "百孤－バグ .ch【HKVtuber】 "
+                        "video_code": "IWj5Ufuv8rM",
+                        "image": "https://i.ytimg.com/vi/IWj5Ufuv8rM/mqdefault.jpg",
+                        "title": "【重大告知?重大發表?】",
+                        "author": "白狐🦊はくこ .ch【HKVtuber】"
                     }
                 ]
             }

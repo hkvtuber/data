@@ -122,15 +122,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "_wF5B1ofu5s",
-                        "image": "https://i.ytimg.com/vi/_wF5B1ofu5s/mqdefault.jpg",
-                        "title": "【自我介紹】稲荷小狐狸登場! [稲荷ゆりあ/HKVtuber]",
-                        "author": "Yuria Ch. 稲荷ゆりあ"
-                    },
-                    {
                         "video_code": "zZAvMusrgLA",
                         "image": "https://i.ytimg.com/vi/zZAvMusrgLA/mqdefault.jpg",
                         "title": "【手描き】おなじ話 cover［稲荷ゆりあ/葵鼠たろう］",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "_wF5B1ofu5s",
+                        "image": "https://i.ytimg.com/vi/_wF5B1ofu5s/mqdefault.jpg",
+                        "title": "【自我介紹】稲荷小狐狸登場! [稲荷ゆりあ/HKVtuber]",
                         "author": "Yuria Ch. 稲荷ゆりあ"
                     },
                     {
@@ -154,6 +154,12 @@
                         "author": "Yuria Ch. 稲荷ゆりあ"
                     },
                     {
+                        "video_code": "stvw4Th8L1Y",
+                        "image": "https://i.ytimg.com/vi/stvw4Th8L1Y/mqdefault.jpg",
+                        "title": "【歌回+配音配信】狐狸坐等500 訂閱！！[稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
                         "video_code": "oi0CmwxHNRg",
                         "image": "https://i.ytimg.com/vi/oi0CmwxHNRg/mqdefault.jpg",
                         "title": "【誕生日配信と歌枠】16歲二周目！友達雜談 [稲荷ゆりあ/HKVtuber]",
@@ -163,6 +169,12 @@
                         "video_code": "kVzFsp5a_Sg",
                         "image": "https://i.ytimg.com/vi/kVzFsp5a_Sg/mqdefault.jpg",
                         "title": "【歌回配信】練歌回！同狐一齊學唱歌！！！［歌回系列］[稲荷ゆりあ/HKVtuber]",
+                        "author": "Yuria Ch. 稲荷ゆりあ"
+                    },
+                    {
+                        "video_code": "C9TwaVicpz4",
+                        "image": "https://i.ytimg.com/vi/C9TwaVicpz4/mqdefault.jpg",
+                        "title": "【2.0新衣裝+歌回配信】狐狸500 訂閱配信！！[稲荷ゆりあ/HKVtuber]",
                         "author": "Yuria Ch. 稲荷ゆりあ"
                     }
                 ]

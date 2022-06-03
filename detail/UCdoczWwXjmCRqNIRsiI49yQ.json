@@ -48,6 +48,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "V7l2aYHBBwE",
+                        "image": "https://i.ytimg.com/vi/V7l2aYHBBwE/mqdefault.jpg",
+                        "title": "【Minecraft觀眾場企劃】木劍勇者屠龍記 預告【香港vtuber虛擬組合「青爐」】",
+                        "author": "☭ 青爐 ☭"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "eWSjgKLjnqA",
+                        "image": "https://i.ytimg.com/vi/eWSjgKLjnqA/mqdefault.jpg",
+                        "title": "【告知】關於紫萊姆的一些事",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "8Iw0EYAF7Iw",
+                        "image": "https://i.ytimg.com/vi/8Iw0EYAF7Iw/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 0【22/5/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "p7SLCj7SFHY",
+                        "image": "https://i.ytimg.com/vi/p7SLCj7SFHY/mqdefault.jpg",
+                        "title": "【青爐TRPG】EP 1 完全隨興跑【16/03/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "5dV--ThHAQo",
+                        "image": "https://i.ytimg.com/vi/5dV--ThHAQo/mqdefault.jpg",
+                        "title": "【青爐TRPG】EP 2 長青爐團【20/03/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "UnvE6C1l3AU",
+                        "image": "https://i.ytimg.com/vi/UnvE6C1l3AU/mqdefault.jpg",
+                        "title": "【愚人節特企】9UP 無上限 with 特別形象！",
+                        "author": "☭ 青爐 ☭"
+                    }
+                ]
+            }
         }
     ]
 }

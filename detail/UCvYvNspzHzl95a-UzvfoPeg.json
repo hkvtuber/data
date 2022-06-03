@@ -74,6 +74,38 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "8FbA91BcoXY",
+                        "image": "https://i.ytimg.com/vi/8FbA91BcoXY/mqdefault.jpg",
+                        "title": "【初配信】尋找記憶的旅程開始了...?✨【HKVtuber/白夜零衣歌】",
+                        "author": "Reyika Ch. 白夜れいか"
+                    },
+                    {
+                        "video_code": "oA-P0rJ5Pf4",
+                        "image": "https://i.ytimg.com/vi/oA-P0rJ5Pf4/mqdefault.jpg",
+                        "title": "【初雜談】想到甚麼就聊甚麼(?【HKVtuber/白夜零衣歌】",
+                        "author": "Reyika Ch. 白夜れいか"
+                    },
+                    {
+                        "video_code": "mlDa9jBHjqM",
+                        "image": "https://i.ytimg.com/vi/mlDa9jBHjqM/mqdefault.jpg",
+                        "title": "【探索RPG - 紅色森林的魔女】紅色森林的魔女...?🍎【HKVtuber/白夜零衣歌】",
+                        "author": "Reyika Ch. 白夜れいか"
+                    },
+                    {
+                        "video_code": "l4VaxBU0nUc",
+                        "image": "https://i.ytimg.com/vi/l4VaxBU0nUc/mqdefault.jpg",
+                        "title": "【探索RPG - 紅色森林的魔女】魔女さん到底是何方神聖呢?【HKVtuber/白夜零衣歌】",
+                        "author": "Reyika Ch. 白夜れいか"
+                    }
+                ]
+            }
         }
     ]
 }

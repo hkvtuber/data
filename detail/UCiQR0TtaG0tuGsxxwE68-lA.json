@@ -73,6 +73,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "kAz3Llqmv_E",
+                        "image": "https://i.ytimg.com/vi/kAz3Llqmv_E/mqdefault.jpg",
+                        "title": "【自我介紹】馬騮國王要出道!!!",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "7FMtr3UwU2E",
+                        "image": "https://i.ytimg.com/vi/7FMtr3UwU2E/mqdefault.jpg",
+                        "title": "【灰上ヤト】Vtuber一問一答自我介紹！【新人Vtuber/灰上ヤト】",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "RdxcHZtcqac",
+                        "image": "https://i.ytimg.com/vi/RdxcHZtcqac/mqdefault.jpg",
+                        "title": "【Apex】S11世界邊緣從銅牌到鑽石!!【新人Vtuber/灰上ヤト】",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "vzO7vz8k-xQ",
+                        "image": "https://i.ytimg.com/vi/vzO7vz8k-xQ/mqdefault.jpg",
+                        "title": "講你知123！Cover by Yato",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "gnnKpc5Kz1U",
+                        "image": "https://i.ytimg.com/vi/gnnKpc5Kz1U/mqdefault.jpg",
+                        "title": "先爆後鎖",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "OVAT87XCrTo",
+                        "image": "https://i.ytimg.com/vi/OVAT87XCrTo/mqdefault.jpg",
+                        "title": "【Apex legends】單排上大師!!【新人Vtuber/灰上ヤト】vol.33",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "WnWq6FWKKvg",
+                        "image": "https://i.ytimg.com/vi/WnWq6FWKKvg/mqdefault.jpg",
+                        "title": "【Apex legends】Discord群已開放歡迎加入!繼續我的鑽石之旅!【新人Vtuber/灰上ヤト】vol.31",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "-iNQVG1hPx8",
+                        "image": "https://i.ytimg.com/vi/-iNQVG1hPx8/mqdefault.jpg",
+                        "title": "【真。初配信】馬騮國國王降臨！！",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "EgyL6_kzDqQ",
+                        "image": "https://i.ytimg.com/vi/EgyL6_kzDqQ/mqdefault.jpg",
+                        "title": "【Apex】調整狀態後返嚟!!【新人Vtuber/灰上ヤト】vol.37",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    },
+                    {
+                        "video_code": "24wWXF5E8s8",
+                        "image": "https://i.ytimg.com/vi/24wWXF5E8s8/mqdefault.jpg",
+                        "title": "【VFPS補習班】今集練習生:753【新人Vtuber/灰上ヤト】vol.1",
+                        "author": "Yato ch.灰上 ヤト【HKvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

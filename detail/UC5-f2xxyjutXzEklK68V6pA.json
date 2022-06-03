@@ -55,6 +55,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ioVYYFCd_zU",
+                        "image": "https://i.ytimg.com/vi/ioVYYFCd_zU/mqdefault.jpg",
+                        "title": "~初配信~努力唔出事故????? 【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "cXHz3KUo7mo",
+                        "image": "https://i.ytimg.com/vi/cXHz3KUo7mo/mqdefault.jpg",
+                        "title": "【雜談】講下初配信後的感想 (●´ϖ`●) 【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

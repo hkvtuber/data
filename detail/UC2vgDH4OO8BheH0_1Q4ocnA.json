@@ -59,6 +59,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "q2whgy9YFwA",
+                        "image": "https://i.ytimg.com/vi/q2whgy9YFwA/mqdefault.jpg",
+                        "title": "【初燈台(?)🏫🏮】世界は恋に落ちている【歌ってみた(?)🎤】【香港VTuber】",
+                        "author": "宮燈 Tomori Ch. / BLOSSOMY【香港Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

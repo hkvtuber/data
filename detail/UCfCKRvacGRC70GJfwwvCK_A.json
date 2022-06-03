@@ -55,6 +55,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "pFfcEPEcHs4",
+                        "image": "https://i.ytimg.com/vi/pFfcEPEcHs4/mqdefault.jpg",
+                        "title": "【Live2d模型展示/HKVtuber】火狐狸ShinyFireFox",
+                        "author": "閃光火狐狸ShinyFireFox【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

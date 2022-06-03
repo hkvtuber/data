@@ -96,6 +96,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "5yN8F4559U4",
+                        "image": "https://i.ytimg.com/vi/5yN8F4559U4/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【香港VTuber 白鱗 星】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "HvKBkHBSzjo",
+                        "image": "https://i.ytimg.com/vi/HvKBkHBSzjo/mqdefault.jpg",
+                        "title": "【主題雜談 】大家一起恥力爆炸吧~那些年我們做過的中二行為【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "CU1u3uLvw0c",
+                        "image": "https://i.ytimg.com/vi/CU1u3uLvw0c/mqdefault.jpg",
+                        "title": "[APEX] 新賽季新賽制 回歸鑽石之旅 第二季 【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "167gYj_MlL8",
+                        "image": "https://i.ytimg.com/vi/167gYj_MlL8/mqdefault.jpg",
+                        "title": "[APEX] 新賽季新賽制 回歸鑽石之旅 第二季 【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "GbOiZ2kGFF8",
+                        "image": "https://i.ytimg.com/vi/GbOiZ2kGFF8/mqdefault.jpg",
+                        "title": "[APEX] 新賽季新賽制 回歸鑽石之旅 第二季 【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "0aTO51NiDX8",
+                        "image": "https://i.ytimg.com/vi/0aTO51NiDX8/mqdefault.jpg",
+                        "title": "[APEX] 即將結算日是時候作最後的衝刺 耐久台【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "iPb8F8AGJXQ",
+                        "image": "https://i.ytimg.com/vi/iPb8F8AGJXQ/mqdefault.jpg",
+                        "title": "【初配信】初次見面~!今日開始踏上地球的旅程【香港Vtuber/白鱗 星】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

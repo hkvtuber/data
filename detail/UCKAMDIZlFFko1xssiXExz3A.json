@@ -89,6 +89,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "9XbYDd0TKoA",
+                        "image": "https://i.ytimg.com/vi/9XbYDd0TKoA/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【灰原ひのき/香港VTuber】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "mlXuZVfls6g",
+                        "image": "https://i.ytimg.com/vi/mlXuZVfls6g/mqdefault.jpg",
+                        "title": "【灰原ひのき】カタオモイ 歌回練習cut【香港Vtuber】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "VvreA0WjG4g",
+                        "image": "https://i.ytimg.com/vi/VvreA0WjG4g/mqdefault.jpg",
+                        "title": "【APEX精華】其實都是躺上去的嘻嘻【灰原ひのき】#apex",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "IhuS1G-369Q",
+                        "image": "https://i.ytimg.com/vi/IhuS1G-369Q/mqdefault.jpg",
+                        "title": "【APEX精華】我地唔係馬戲團啊!!!!【灰原ひのき】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "68clLUkLQog",
+                        "image": "https://i.ytimg.com/vi/68clLUkLQog/mqdefault.jpg",
+                        "title": "【灰原ひのき】依個係咩垃圾GAME黎?呃埋隊友嘅幻象先係好幻象【香港Vtuber精華】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "TjWRO4wlUgk",
+                        "image": "https://i.ytimg.com/vi/TjWRO4wlUgk/mqdefault.jpg",
+                        "title": "【香港Vtuber】繼續係APEX俾鑽場打 w/00，00嘅友人十【灰原ひのき】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "c2PogHEig_s",
+                        "image": "https://i.ytimg.com/vi/c2PogHEig_s/mqdefault.jpg",
+                        "title": "【香港Vtuber】100訂回饋歌回!開心鳩唱【灰原ひのき】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "Ix8SMyjBUDQ",
+                        "image": "https://i.ytimg.com/vi/Ix8SMyjBUDQ/mqdefault.jpg",
+                        "title": "【香港Vtuber】只係一個耐久台【灰原ひのき】#夜勤事件 #marthaisdead",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "GEhibWLJZBM",
+                        "image": "https://i.ytimg.com/vi/GEhibWLJZBM/mqdefault.jpg",
+                        "title": "【香港Vtuber】垃圾game【灰原ひのき】APEX",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    },
+                    {
+                        "video_code": "QWAyvOJlolg",
+                        "image": "https://i.ytimg.com/vi/QWAyvOJlolg/mqdefault.jpg",
+                        "title": "【香港Vtuber】唔G做咩好就打下機【灰原ひのき】",
+                        "author": "Hinoki ch. 灰原ひのき【HKvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

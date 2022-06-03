@@ -79,6 +79,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Zh9I4GmuZgc",
+                        "image": "https://i.ytimg.com/vi/Zh9I4GmuZgc/mqdefault.jpg",
+                        "title": "歌之王子殿下 Shining Live 蓮亞蒂教授的謀略活動 真愛1000%（Hard)",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "sJqn4acYfWY",
+                        "image": "https://i.ytimg.com/vi/sJqn4acYfWY/mqdefault.jpg",
+                        "title": "歌之王子殿下 Shining Live-Beautiful Love (Hard)",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Bd4_Ew8Ak-s",
+                        "image": "https://i.ytimg.com/vi/Bd4_Ew8Ak-s/mqdefault.jpg",
+                        "title": "歌之王子殿下 Shining Live - Force Live (Hard)",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "S7vXsUaC0U4",
+                        "image": "https://i.ytimg.com/vi/S7vXsUaC0U4/mqdefault.jpg",
+                        "title": "歌之王子殿下 Shining Live-Evolution Eve (Hard)",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "kzOF4GZywT0",
+                        "image": "https://i.ytimg.com/vi/kzOF4GZywT0/mqdefault.jpg",
+                        "title": "打機的日常 Apex",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wMeskBO4MVU",
+                        "image": "https://i.ytimg.com/vi/wMeskBO4MVU/mqdefault.jpg",
+                        "title": "冒險休閒任務之便利商店開業日記",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "PZdO_C4xdNE",
+                        "image": "https://i.ytimg.com/vi/PZdO_C4xdNE/mqdefault.jpg",
+                        "title": "冒險休閒任務之便利商店開業日記#2",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "oc4tmjqMcDk",
+                        "image": "https://i.ytimg.com/vi/oc4tmjqMcDk/mqdefault.jpg",
+                        "title": "第一次咁多人去冒險+第一次同小白去冒險但係可能係最後一次係小白休息前同小白去冒險的Goose Goose Duck旅程",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "h1GJPB_pydM",
+                        "image": "https://i.ytimg.com/vi/h1GJPB_pydM/mqdefault.jpg",
+                        "title": "百訂慶祝活動",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    },
+                    {
+                        "video_code": "DMZBuixjU3E",
+                        "image": "https://i.ytimg.com/vi/DMZBuixjU3E/mqdefault.jpg",
+                        "title": "打機的日常 哆啦A夢 牧場物語",
+                        "author": "桐時言 Tong Shi Yan【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

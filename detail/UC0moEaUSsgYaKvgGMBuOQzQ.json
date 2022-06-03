@@ -78,6 +78,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ilnEODeEVfw",
+                        "image": "https://i.ytimg.com/vi/ilnEODeEVfw/mqdefault.jpg",
+                        "title": "【初配信】◈初次見面，請多多指教◈",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

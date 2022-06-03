@@ -111,10 +111,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "2x5eTuqYlNs",
+                        "image": "https://i.ytimg.com/vi/2x5eTuqYlNs/mqdefault.jpg",
+                        "title": "[🐧HKvTuber玖妹妹]《#講你知123！》cover",
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
+                        "video_code": "Pbj1r3oQ2Ds",
+                        "image": "https://i.ytimg.com/vi/Pbj1r3oQ2Ds/mqdefault.jpg",
+                        "title": "[🐧HKvTuber玖妹妹] 第一次撻Q啊 qwq",
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
+                        "video_code": "aApuY2tmMq4",
+                        "image": "https://i.ytimg.com/vi/aApuY2tmMq4/mqdefault.jpg",
+                        "title": "[🐧HKvTuber玖妹妹] [廢片w]padoruuu~",
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
                         "video_code": "iB2wGRMZisI",
                         "image": "https://i.ytimg.com/vi/iB2wGRMZisI/mqdefault.jpg",
                         "title": "【HKvTuber 玖妹妹🐧】玖妹去大排檔竟然想食呢樣野？究竟大排檔侍應面對呢個神奇嘅要求會有啲乜嘢反應..?",
-                        "author": "【HKvTuber】織夢 玖璃 Kuri ch."
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
+                        "video_code": "GXGCi_j-tZg",
+                        "image": "https://i.ytimg.com/vi/GXGCi_j-tZg/mqdefault.jpg",
+                        "title": "[0401台] 咪估下我想做咩囉 [🐧HKvTuber玖璃]",
+                        "author": "Kuri ch. 織夢 玖璃"
                     }
                 ]
             }
@@ -128,31 +152,31 @@
                         "video_code": "Ba6X7I7JfcY",
                         "image": "https://i.ytimg.com/vi/Ba6X7I7JfcY/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] 初配信!和大家聊聊天+Q&A~",
-                        "author": "【HKvTuber】織夢 玖璃 Kuri ch."
+                        "author": "Kuri ch. 織夢 玖璃"
                     },
                     {
-                        "video_code": "q1pcCXIK5lc",
-                        "image": "https://i.ytimg.com/vi/q1pcCXIK5lc/mqdefault.jpg",
-                        "title": "[🐧HKvTuber玖妹妹] 繞樑玖日🎵 第一回",
-                        "author": "【HKvTuber】織夢 玖璃 Kuri ch."
+                        "video_code": "6ARZIhdVxPU",
+                        "image": "https://i.ytimg.com/vi/6ARZIhdVxPU/mqdefault.jpg",
+                        "title": "[1.0 byebye 2.0 hihi ] 2.0新樣開箱！大家請繼續多多指教💕 [🐧HKvTuber玖璃]",
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
+                        "video_code": "usADZIi5fUw",
+                        "image": "https://i.ytimg.com/vi/usADZIi5fUw/mqdefault.jpg",
+                        "title": "[達人問答] 老師對不起企劃... 地理&性知識問答挑戰！ [🐧HKvTuber玖璃]",
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
+                        "video_code": "j6B6G4Ehkow",
+                        "image": "https://i.ytimg.com/vi/j6B6G4Ehkow/mqdefault.jpg",
+                        "title": "［歌雜］今日我生日我大晒！[🐧HKvTuber玖妹妹 ]",
+                        "author": "Kuri ch. 織夢 玖璃"
                     },
                     {
                         "video_code": "qXqPI7AeNNs",
                         "image": "https://i.ytimg.com/vi/qXqPI7AeNNs/mqdefault.jpg",
                         "title": "[🐧HKvTuber玖妹妹] 玖talk🎙 第一回～",
-                        "author": "【HKvTuber】織夢 玖璃 Kuri ch."
-                    },
-                    {
-                        "video_code": "CXCSR29Obw4",
-                        "image": "https://i.ytimg.com/vi/CXCSR29Obw4/mqdefault.jpg",
-                        "title": "[🐧HKvTuber玖妹妹] 你哋竟然夾埋恰我？Minecraft [鵝地一齊玩🎮]",
-                        "author": "【HKvTuber】織夢 玖璃 Kuri ch."
-                    },
-                    {
-                        "video_code": "TEdaVjdQyyA",
-                        "image": "https://i.ytimg.com/vi/TEdaVjdQyyA/mqdefault.jpg",
-                        "title": "[🐧HKvTuber玖妹妹] (((用新電腦玖talk!!)))))🎙二回目",
-                        "author": "【HKvTuber】織夢 玖璃 Kuri ch."
+                        "author": "Kuri ch. 織夢 玖璃"
                     }
                 ]
             }

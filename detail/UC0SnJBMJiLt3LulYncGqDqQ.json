@@ -96,6 +96,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "lcM7nui4XRg",
+                        "image": "https://i.ytimg.com/vi/lcM7nui4XRg/mqdefault.jpg",
+                        "title": "【自我介紹 Self Introduction】Vtuber一問一答自己紹介【星見アリナ・Arina Hoshimi】",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    },
+                    {
+                        "video_code": "ULl0WLL9THo",
+                        "image": "https://i.ytimg.com/vi/ULl0WLL9THo/mqdefault.jpg",
+                        "title": "Fly me to the moon acoustic version【Cover/歌ってみた by Arina Hoshimi・星見アリナ】",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "saxczFfP2Fs",
+                        "image": "https://i.ytimg.com/vi/saxczFfP2Fs/mqdefault.jpg",
+                        "title": "【Debut Stream】Welcome the Space Alpaca! (And witness chaos maybe) 見證宇宙羊駝的初配信！（EN/廣東話）",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    },
+                    {
+                        "video_code": "iaag_XI4Rl0",
+                        "image": "https://i.ytimg.com/vi/iaag_XI4Rl0/mqdefault.jpg",
+                        "title": "【Birthday Stream】星見アリナ爆誕祭★Arina's Birthday Stream【Arina Hoshimi | 星見アリナ】",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    },
+                    {
+                        "video_code": "8jSssYJZX10",
+                        "image": "https://i.ytimg.com/vi/8jSssYJZX10/mqdefault.jpg",
+                        "title": "【Thank you stream】初配感謝祭！後日談+台詞棉花糖回【Arina Hoshimi | 星見アリナ】",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    },
+                    {
+                        "video_code": "bkDve9o5-cc",
+                        "image": "https://i.ytimg.com/vi/bkDve9o5-cc/mqdefault.jpg",
+                        "title": "【DRAWING】作業台 - Minecraft Skin Drawing Stream【Arina Hoshimi | 星見アリナ】",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    },
+                    {
+                        "video_code": "U8WLyhrq6pU",
+                        "image": "https://i.ytimg.com/vi/U8WLyhrq6pU/mqdefault.jpg",
+                        "title": "【Arina's Starry Room】星の部屋 - 五月病的大家過得好嗎？【Arina Hoshimi | 星見アリナ】",
+                        "author": "Arina Hoshimi★星見アリナ"
+                    }
+                ]
+            }
         }
     ]
 }

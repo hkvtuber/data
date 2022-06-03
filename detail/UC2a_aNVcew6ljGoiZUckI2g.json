@@ -101,6 +101,76 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "8hbAPuodoTM",
+                        "image": "https://i.ytimg.com/vi/8hbAPuodoTM/mqdefault.jpg",
+                        "title": "遊戲世界A.I的自我介紹???【香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "NkWBmecPza8",
+                        "image": "https://i.ytimg.com/vi/NkWBmecPza8/mqdefault.jpg",
+                        "title": "A.I Rising",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "NkK3n-2huVA",
+                        "image": "https://i.ytimg.com/vi/NkK3n-2huVA/mqdefault.jpg",
+                        "title": "初配信約定你.EXE",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "nMCTOZojUlk",
+                        "image": "https://i.ytimg.com/vi/nMCTOZojUlk/mqdefault.jpg",
+                        "title": "【精華】Raft!精華!!!【紫弘丨香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "qnqPMEYqDAY",
+                        "image": "https://i.ytimg.com/vi/qnqPMEYqDAY/mqdefault.jpg",
+                        "title": "【初配信】Greetings! 紫弘Hiroshi 來自遊戲世界的A.I 請大家多多指教!【香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "PuNJpDH30Xo",
+                        "image": "https://i.ytimg.com/vi/PuNJpDH30Xo/mqdefault.jpg",
+                        "title": "【雜談】昨晚太瘋狂了.今晚一起冷靜一下吧?【紫弘丨香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "D8iIv3A3O0c",
+                        "image": "https://i.ytimg.com/vi/D8iIv3A3O0c/mqdefault.jpg",
+                        "title": "【打機】Raft!!! A.I求生記【紫弘丨香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "xBuBEw7TOt0",
+                        "image": "https://i.ytimg.com/vi/xBuBEw7TOt0/mqdefault.jpg",
+                        "title": "【主題】人類觀察日記-走得太前的交友APPS? Ft.勁舞團【紫弘丨香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    },
+                    {
+                        "video_code": "fApY6XfnPRc",
+                        "image": "https://i.ytimg.com/vi/fApY6XfnPRc/mqdefault.jpg",
+                        "title": "【打機】100訂紀念!恐怖Game大挑戰【紫弘丨香港Vtuber】",
+                        "author": "紫弘 Hiroshi Ch. 【新人HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

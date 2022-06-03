@@ -104,6 +104,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Ikixth8V91o",
+                        "image": "https://i.ytimg.com/vi/Ikixth8V91o/mqdefault.jpg",
+                        "title": "(Re-upload) 來自虛擬香港教會的牧師 - 荒木今泉的第一個「極」簡單自我介紹 「HKVtuber_荒木今泉」",
+                        "author": "荒木今泉 【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ts5_P58mJ4U",
+                        "image": "https://i.ytimg.com/vi/ts5_P58mJ4U/mqdefault.jpg",
+                        "title": "「初配信」 虛擬香港教會的牧師出道做Vtuber? 荒木今泉的正式介紹",
+                        "author": "荒木今泉 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "OxTqNZ3Vfvw",
+                        "image": "https://i.ytimg.com/vi/OxTqNZ3Vfvw/mqdefault.jpg",
+                        "title": "「HKVtuber」 初配信後日談: 食棉花糖啦~",
+                        "author": "荒木今泉 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "L7qpcQReviQ",
+                        "image": "https://i.ytimg.com/vi/L7qpcQReviQ/mqdefault.jpg",
+                        "title": "「FFXIV」 光之戰士 (牧師) 的傳教 (推坑) 台 「荒木今泉_HKVtuber」",
+                        "author": "荒木今泉 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uhLuaxRj93U",
+                        "image": "https://i.ytimg.com/vi/uhLuaxRj93U/mqdefault.jpg",
+                        "title": "「MH:RISE」 無情突發台 - 升MR之旅 (康健MHR台) 「荒木今泉_HKVtuber」",
+                        "author": "荒木今泉 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "mn2DqzyMNMM",
+                        "image": "https://i.ytimg.com/vi/mn2DqzyMNMM/mqdefault.jpg",
+                        "title": "「雜談」 被困的香港人, 如果可以去旅行, 你會往哪裡去? 「荒木今泉_HKVtuber」",
+                        "author": "荒木今泉 【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

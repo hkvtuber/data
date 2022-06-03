@@ -133,15 +133,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "6K6n9mfxvXI",
-                        "image": "https://i.ytimg.com/vi/6K6n9mfxvXI/mqdefault.jpg",
-                        "title": "米亞 MYA《講你知123！》ft. 甘米 (Official Music Video)",
+                        "video_code": "x7-X9snnEZI",
+                        "image": "https://i.ytimg.com/vi/x7-X9snnEZI/mqdefault.jpg",
+                        "title": "甘米 Gummy《失憶症候群》ft. 米亞 (Official Music Video)",
                         "author": "米亞MYA【HKVTuber】"
                     },
                     {
-                        "video_code": "gcph9iq77Rw",
-                        "image": "https://i.ytimg.com/vi/gcph9iq77Rw/mqdefault.jpg",
-                        "title": "【７分鐘輕鬆解釋！】要怎樣成為Vtuber？由設計到製作模組全解釋！",
+                        "video_code": "6K6n9mfxvXI",
+                        "image": "https://i.ytimg.com/vi/6K6n9mfxvXI/mqdefault.jpg",
+                        "title": "米亞 MYA《講你知123！》ft. 甘米 (Official Music Video)",
                         "author": "米亞MYA【HKVTuber】"
                     },
                     {
@@ -151,9 +151,15 @@
                         "author": "米亞MYA【HKVTuber】"
                     },
                     {
-                        "video_code": "LPgi0qV-Gko",
-                        "image": "https://i.ytimg.com/vi/LPgi0qV-Gko/mqdefault.jpg",
-                        "title": "【大叔的愛主題曲】突如其來的心跳感覺 -Arrange ver.- cover【米亞 feat.甘米】",
+                        "video_code": "3YND5LODCfs",
+                        "image": "https://i.ytimg.com/vi/3YND5LODCfs/mqdefault.jpg",
+                        "title": "《夜にGotta Go ! 》Cover. 【COLLAR x YOASOBI】【Gotta Go! & 夜に駆ける Mashup】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "TXTU_UG2dug",
+                        "image": "https://i.ytimg.com/vi/TXTU_UG2dug/mqdefault.jpg",
+                        "title": "【粵語翻唱】シル・ヴ・プレジデント／米亞 MYA【全人類關係關注組總理】",
                         "author": "米亞MYA【HKVTuber】"
                     }
                 ]
@@ -165,15 +171,27 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "XJ-QsftvSlY",
-                        "image": "https://i.ytimg.com/vi/XJ-QsftvSlY/mqdefault.jpg",
-                        "title": "【米亞】偽！第一次直播！我是大家的清楚可愛系IDOL！【HKVtuber】",
-                        "author": "米亞MYA【HKVTuber】"
-                    },
-                    {
                         "video_code": "cuqyJh3sr6M",
                         "image": "https://i.ytimg.com/vi/cuqyJh3sr6M/mqdefault.jpg",
                         "title": "【米亞】看熊貓？強制消費！米亞香港旅行團招募中—【HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "cG3eu3ozPN8",
+                        "image": "https://i.ytimg.com/vi/cG3eu3ozPN8/mqdefault.jpg",
+                        "title": "【投稿徵集中】收到好多人「講你知123！」的翻唱✨能跟大家一起合唱嗎?www【米亞 / HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "6dVTVVxzQ0M",
+                        "image": "https://i.ytimg.com/vi/6dVTVVxzQ0M/mqdefault.jpg",
+                        "title": "【米亞】啊咧...突然一萬訂閱了？...？....？【HKVtuber】",
+                        "author": "米亞MYA【HKVTuber】"
+                    },
+                    {
+                        "video_code": "3Ogt4nB-YJA",
+                        "image": "https://i.ytimg.com/vi/3Ogt4nB-YJA/mqdefault.jpg",
+                        "title": "【米亞】第一次直播！自我介紹及Ｑ＆Ａ環節～【甘米的森林】",
                         "author": "米亞MYA【HKVTuber】"
                     },
                     {

@@ -109,6 +109,52 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "KAHVaEJA4YY",
+                        "image": "https://i.ytimg.com/vi/KAHVaEJA4YY/mqdefault.jpg",
+                        "title": "【繪畫記錄】我畫了霹靂電球（洗翠地區的樣子）【北嶋そうた/Nelson・HKvtuber】#shorts #pokemon",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
+                        "video_code": "o4d3fn96CHg",
+                        "image": "https://i.ytimg.com/vi/o4d3fn96CHg/mqdefault.jpg",
+                        "title": "【北嶋そうた/Nelson・HKvtuber】Cyberpunk2077第一次遇Bug紀念🤣 #shorts #cyberpunk2077",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
+                        "video_code": "mEgO_D5swsk",
+                        "image": "https://i.ytimg.com/vi/mEgO_D5swsk/mqdefault.jpg",
+                        "title": "【北嶋颯太/Nelson・HKvtuber】怕.mp4 #shorts #北嶋颯太LIVE #hkvtuber精華  #香港vtuber #港台vtuber #台灣vtuber #閉店事件",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "7StWTBHkkPU",
+                        "image": "https://i.ytimg.com/vi/7StWTBHkkPU/mqdefault.jpg",
+                        "title": "【深夜放送】怕爆...!【北嶋そうた/Nelson・HKvtuber】直播紀錄",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
+                        "video_code": "Fca40gSp6js",
+                        "image": "https://i.ytimg.com/vi/Fca40gSp6js/mqdefault.jpg",
+                        "title": "【The Closing Shift/閉店事件】你確定這不是咖啡店店員simulator遊戲？【北嶋颯太/Nelson．HKvtuber】",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    }
+                ]
+            }
         }
     ]
 }

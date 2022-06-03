@@ -98,6 +98,38 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "JDnfxkt1JdQ",
+                        "image": "https://i.ytimg.com/vi/JDnfxkt1JdQ/mqdefault.jpg",
+                        "title": "【COVER】往生門(X（原曲：羅生門） ft. HT",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
+                        "video_code": "TIht92z29lA",
+                        "image": "https://i.ytimg.com/vi/TIht92z29lA/mqdefault.jpg",
+                        "title": "【天鳯】bokoboko 觀眾參加型【香港新人VTUBER】",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
+                        "video_code": "VNZk-Y53JB4",
+                        "image": "https://i.ytimg.com/vi/VNZk-Y53JB4/mqdefault.jpg",
+                        "title": "【MHR】j一喵耐久desu (NOT RTA.)【香港新人VTUBER】",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
+                        "video_code": "P_cGoleKvZs",
+                        "image": "https://i.ytimg.com/vi/P_cGoleKvZs/mqdefault.jpg",
+                        "title": "【雀魂】三麻盃現場報導（Final Talk）【香港新人VTUBER】",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -107,33 +139,27 @@
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
-                        "video_code": "GSUHvsovmUw",
-                        "image": "https://i.ytimg.com/vi/GSUHvsovmUw/mqdefault.jpg",
-                        "title": "【歌回】300&400人紀念之都話咗唔會走數歌回【香港新人VTUBER】",
+                        "video_code": "D2X-gisrfkM",
+                        "image": "https://i.ytimg.com/vi/D2X-gisrfkM/mqdefault.jpg",
+                        "title": "【歌回】帶你來回地獄又折返人間之復活節聖詩佈道會（清唱慎入）【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
-                        "video_code": "jRu-H9tx63o",
-                        "image": "https://i.ytimg.com/vi/jRu-H9tx63o/mqdefault.jpg",
-                        "title": "【生日雜談】Happy Birthday To ME！！新發表！！【香港VTUBER】",
+                        "video_code": "9yDBSAfCLoU",
+                        "image": "https://i.ytimg.com/vi/9yDBSAfCLoU/mqdefault.jpg",
+                        "title": "【LOL】With HT【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
-                        "video_code": "odP4DDySeQs",
-                        "image": "https://i.ytimg.com/vi/odP4DDySeQs/mqdefault.jpg",
-                        "title": "【雀魂】三麻盃現場報導（初見雜談）【香港新人VTUBER】",
+                        "video_code": "M8toRJjq8Jg",
+                        "image": "https://i.ytimg.com/vi/M8toRJjq8Jg/mqdefault.jpg",
+                        "title": "【賀】擇日不如撞日之收益化千人訂閱congratulations to MEEEEE【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
-                        "video_code": "duwfWZiSDl4",
-                        "image": "https://i.ytimg.com/vi/duwfWZiSDl4/mqdefault.jpg",
-                        "title": "【Ring fit Adventure】Road to PAIN.【香港VTUBER】",
-                        "author": "Nozomi Ch. 水澄のぞみ"
-                    },
-                    {
-                        "video_code": "FC7xZDa6_Lg",
-                        "image": "https://i.ytimg.com/vi/FC7xZDa6_Lg/mqdefault.jpg",
-                        "title": "【歌回】地獄歌回（有伴唱ｗｗｗｗｗｗｗｗ）【香港新人VTUBER】",
+                        "video_code": "YlMzSxCPAa8",
+                        "image": "https://i.ytimg.com/vi/YlMzSxCPAa8/mqdefault.jpg",
+                        "title": "【香港地理達人挑戰】我是誰 我在哪【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     }
                 ]

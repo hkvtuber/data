@@ -105,6 +105,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "08SjujwfYYk",
+                        "image": "https://i.ytimg.com/vi/08SjujwfYYk/mqdefault.jpg",
+                        "title": "Ado「うっせぇわ」粵語翻唱「收皮啦」【羽山アンナ】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "8Ah4bZ4Vc_0",
+                        "image": "https://i.ytimg.com/vi/8Ah4bZ4Vc_0/mqdefault.jpg",
+                        "title": "【?】?【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "82jBnqC7-sg",
+                        "image": "https://i.ytimg.com/vi/82jBnqC7-sg/mqdefault.jpg",
+                        "title": "【破曉傳奇】講粗口即收台之零粗口爆機......#12【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "7Ies8XHjo50",
+                        "image": "https://i.ytimg.com/vi/7Ies8XHjo50/mqdefault.jpg",
+                        "title": "【///?/?/?///】唔建議入黎睇我67【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "MMRbN9mHT28",
+                        "image": "https://i.ytimg.com/vi/MMRbN9mHT28/mqdefault.jpg",
+                        "title": "【虹彩六號：圍攻行動】我地(Charles)係最低分就會67嘅遊戲 ft. Charles_L , 沐幽【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ow7XqS6dhw4",
+                        "image": "https://i.ytimg.com/vi/ow7XqS6dhw4/mqdefault.jpg",
+                        "title": "【雜談】台灣生活日記(過去式) Ft. あき【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "j2hm84NsBNk",
+                        "image": "https://i.ytimg.com/vi/j2hm84NsBNk/mqdefault.jpg",
+                        "title": "【彩虹六號：圍攻行動】有冇人要6一下!!!!!.......復建台【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    },
+                    {
+                        "video_code": "_pP9AZng58E",
+                        "image": "https://i.ytimg.com/vi/_pP9AZng58E/mqdefault.jpg",
+                        "title": "【半週年+生日會!!】安妮姐姐依然係27歲ヾ(*´∀ ˋ*)ﾉ【羽山アンナHKVTuber】",
+                        "author": "Anna Ch. 羽山アンナ【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

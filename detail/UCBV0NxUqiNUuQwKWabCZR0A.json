@@ -130,9 +130,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "W30ZEYflvbA",
+                        "image": "https://i.ytimg.com/vi/W30ZEYflvbA/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自己紹介 【藻原もずく/香港Vtuber】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
                         "video_code": "qWMNC8yww84",
                         "image": "https://i.ytimg.com/vi/qWMNC8yww84/mqdefault.jpg",
                         "title": "【自我介紹】藻類星球的研究生需要你的協助！【HKVTuber／藻原もずく】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "4tEJs2CKacg",
+                        "image": "https://i.ytimg.com/vi/4tEJs2CKacg/mqdefault.jpg",
+                        "title": "屬於香港人的520【藻原もずく/香港Vtuber】#Shorts",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "6p-d8KeUgMQ",
+                        "image": "https://i.ytimg.com/vi/6p-d8KeUgMQ/mqdefault.jpg",
+                        "title": "【香港Vtuber精華】老闆在留言區指責我的工作態度?! 【藻原もずく/HKVtuber】",
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
@@ -150,39 +168,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "5_QSvXvEFkM",
+                        "image": "https://i.ytimg.com/vi/5_QSvXvEFkM/mqdefault.jpg",
+                        "title": "【縮圖研討會】#1 主次關係｜改善縮圖聚焦力．整理文字資訊｜【藻原もずく/香港Vtuber】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "ki7tWF_b_aE",
+                        "image": "https://i.ytimg.com/vi/ki7tWF_b_aE/mqdefault.jpg",
+                        "title": "【香港地理達人挑戰】家裡蹲使用有限的出外遊玩記憶完成整份試題【藻原もずく/香港Vtuber】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "GQy3lASLaN0",
+                        "image": "https://i.ytimg.com/vi/GQy3lASLaN0/mqdefault.jpg",
+                        "title": "【✞藻原懺悔室✞】✨即使做了壞事也會得到全肯定藻修女的寬恕✨【藻原もずく/香港Vtuber】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
                         "video_code": "kALEe2zRtn4",
                         "image": "https://i.ytimg.com/vi/kALEe2zRtn4/mqdefault.jpg",
                         "title": "【初配信】歡迎參加藻類星人的地球研討會！【HKVTuber／藻原もずく】",
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
-                        "video_code": "_V4bXn4uiGk",
-                        "image": "https://i.ytimg.com/vi/_V4bXn4uiGk/mqdefault.jpg",
-                        "title": "【三個月紀念】2.0 + 棉花糖雜談！【藻原もずく/HKVtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "gwG_Hv6L6Q4",
-                        "image": "https://i.ytimg.com/vi/gwG_Hv6L6Q4/mqdefault.jpg",
-                        "title": "【100曲耐久】10x10=100! 就來唱100首歌【藻原もずく/HKVtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "abcnN3D42ak",
-                        "image": "https://i.ytimg.com/vi/abcnN3D42ak/mqdefault.jpg",
-                        "title": "【繪圖】上色耐久！抓住夏天的尾巴  一口氣完成之前的泳裝草稿【藻原もずく/HKVtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "AoDuMnzSp5I",
-                        "image": "https://i.ytimg.com/vi/AoDuMnzSp5I/mqdefault.jpg",
-                        "title": "【400訂紀念】不作4就不會4！冒4消費觀眾【藻原もずく/HKVtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "5LcnHw_fZVE",
-                        "image": "https://i.ytimg.com/vi/5LcnHw_fZVE/mqdefault.jpg",
-                        "title": "【繪圖】夏天了，是時候來點有夏天氣息的妄想...【藻原もずく/HKVtuber】",
+                        "video_code": "g0oZTwPeREY",
+                        "image": "https://i.ytimg.com/vi/g0oZTwPeREY/mqdefault.jpg",
+                        "title": "【678百訂紀念＋まりもの日】將組員們畫成藻【藻原もずく/香港Vtuber】",
                         "author": "藻原もずく【香港Vtuber】"
                     }
                 ]

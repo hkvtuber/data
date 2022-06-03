@@ -90,6 +90,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "t73_cZyulu0",
+                        "image": "https://i.ytimg.com/vi/t73_cZyulu0/mqdefault.jpg",
+                        "title": "【再配信‼️新衣披露目✨50訂閱突破】重新初配!順便慶祝50訂同新衫🌟設現場call in✨‼️",
+                        "author": "冬夜x咕嚕【hkvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "oVZX9syhFmc",
+                        "image": "https://i.ytimg.com/vi/oVZX9syhFmc/mqdefault.jpg",
+                        "title": "【初配信】咕嚕Kuru出道直播💜22/5💜",
+                        "author": "冬夜x咕嚕【hkvtuber】"
+                    },
+                    {
+                        "video_code": "4WLVqveDncc",
+                        "image": "https://i.ytimg.com/vi/4WLVqveDncc/mqdefault.jpg",
+                        "title": "【冬夜Touyalandとうや】10/24初配信 出道直播",
+                        "author": "冬夜x咕嚕【hkvtuber】"
+                    },
+                    {
+                        "video_code": "6wid8x5rvdI",
+                        "image": "https://i.ytimg.com/vi/6wid8x5rvdI/mqdefault.jpg",
+                        "title": "【Minecraft 人生重來服】神社⛩️內裝‼️起埋鳥居❓",
+                        "author": "冬夜x咕嚕【hkvtuber】"
+                    },
+                    {
+                        "video_code": "VEQBWvftUq0",
+                        "image": "https://i.ytimg.com/vi/VEQBWvftUq0/mqdefault.jpg",
+                        "title": "【Minecraft realms聯動 】realms開服日✨新系列開啟‼️‼️",
+                        "author": "冬夜x咕嚕【hkvtuber】"
+                    },
+                    {
+                        "video_code": "YiYnbuxOz3g",
+                        "image": "https://i.ytimg.com/vi/YiYnbuxOz3g/mqdefault.jpg",
+                        "title": "【冬夜講嘢❄️】新系列開始！✨今日訪問一下紫色物體？",
+                        "author": "冬夜x咕嚕【hkvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

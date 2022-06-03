@@ -102,6 +102,12 @@
                         "image": "https://i.ytimg.com/vi/NmUpzquk6dg/mqdefault.jpg",
                         "title": "彼岸るり 「Flamingo」",
                         "author": "彼岸るりRuri Channel"
+                    },
+                    {
+                        "video_code": "qxc0l2xM9wc",
+                        "image": "https://i.ytimg.com/vi/qxc0l2xM9wc/mqdefault.jpg",
+                        "title": "🥀 🌹",
+                        "author": "彼岸るりRuri Channel"
                     }
                 ]
             }
@@ -111,12 +117,6 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
-                    {
-                        "video_code": "-INBcnwipzo",
-                        "image": "https://i.ytimg.com/vi/-INBcnwipzo/mqdefault.jpg",
-                        "title": "【初配信】雑談+打陣遊戲 【香港Vtuber】",
-                        "author": "彼岸るりRuri Channel"
-                    },
                     {
                         "video_code": "4SzNcH1VlKw",
                         "image": "https://i.ytimg.com/vi/4SzNcH1VlKw/mqdefault.jpg",
@@ -130,15 +130,21 @@
                         "author": "彼岸るりRuri Channel"
                     },
                     {
+                        "video_code": "-INBcnwipzo",
+                        "image": "https://i.ytimg.com/vi/-INBcnwipzo/mqdefault.jpg",
+                        "title": "【初配信】雑談+打陣遊戲 【香港Vtuber】",
+                        "author": "彼岸るりRuri Channel"
+                    },
+                    {
                         "video_code": "Y5mSfj4XUWA",
                         "image": "https://i.ytimg.com/vi/Y5mSfj4XUWA/mqdefault.jpg",
                         "title": "【復活配信】各位我返嚟啦!近況雜談同埋清問題時間~【彼岸るり】",
                         "author": "彼岸るりRuri Channel"
                     },
                     {
-                        "video_code": "yplowe89-8o",
-                        "image": "https://i.ytimg.com/vi/yplowe89-8o/mqdefault.jpg",
-                        "title": "【誕生日配信】大家和我一起過生日!多謝大家!但是......",
+                        "video_code": "RI1zgXJ9FN8",
+                        "image": "https://i.ytimg.com/vi/RI1zgXJ9FN8/mqdefault.jpg",
+                        "title": "【2.0】解放 ! 彼岸るり新造型發佈會 !【#りり配信】",
                         "author": "彼岸るりRuri Channel"
                     }
                 ]

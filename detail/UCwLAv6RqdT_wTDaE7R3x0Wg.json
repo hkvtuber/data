@@ -59,6 +59,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "mOWktCKVEv4",
+                        "image": "https://i.ytimg.com/vi/mOWktCKVEv4/mqdefault.jpg",
+                        "title": "【小川よしと】RG27現地拍攝 第一個收得最多好人卡既V? 收卡企劃「你...係個好人」VLOG",
+                        "author": "小川よしと【HKvtuber準備中】"
+                    }
+                ]
+            }
         }
     ]
 }

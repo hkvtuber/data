@@ -89,6 +89,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "QJI5ZJUbgT0",
+                        "image": "https://i.ytimg.com/vi/QJI5ZJUbgT0/mqdefault.jpg",
+                        "title": "【自我介紹】初次見面！不魔鬼的魔鬼魚水原愛理登陸~! :3【Mizuhara Airi丨HKVtuber】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "9f7iaovig5c",
+                        "image": "https://i.ytimg.com/vi/9f7iaovig5c/mqdefault.jpg",
+                        "title": "おじゃま虫／水原愛理Mizuhara Airi ♡ Cover【半週年記念💕】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "v-omS-oRjQg",
+                        "image": "https://i.ytimg.com/vi/v-omS-oRjQg/mqdefault.jpg",
+                        "title": "【Fall Guys遊戲實況#1】自稱No Fall Guy - 曾經的王者【水原愛理丨HKVtuber】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "m9y9Njx0QCU",
+                        "image": "https://i.ytimg.com/vi/m9y9Njx0QCU/mqdefault.jpg",
+                        "title": "Helltaker Music & Airi Dance Half Version【Mizuhara Airi丨HKvtuber】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "qI0ycVe-Ks8",
+                        "image": "https://i.ytimg.com/vi/qI0ycVe-Ks8/mqdefault.jpg",
+                        "title": "【日系COC團錄】達摩車站 節錄宣傳片 | 慎入!有血腥重口描寫以及劇透 | 香港人 廣東話 | 克蘇魯的呼喚 TRPG | 愛理 聲演",
+                        "author": "水原 愛理【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ZOIPjtzwo7w",
+                        "image": "https://i.ytimg.com/vi/ZOIPjtzwo7w/mqdefault.jpg",
+                        "title": "【半週年紀念日】同步視聽初Cover 傾下計💗【HKVtuber | 水原 愛理】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "gi6OYxhrC6k",
+                        "image": "https://i.ytimg.com/vi/gi6OYxhrC6k/mqdefault.jpg",
+                        "title": "【小型生日慶生歌會】Long Time No See ~ Today is my birthday:3 ❤200訂閱耐久【HKVtuber | 水原 愛理】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nKyT7Ei0oGw",
+                        "image": "https://i.ytimg.com/vi/nKyT7Ei0oGw/mqdefault.jpg",
+                        "title": "【香港地理達人測驗】異世界人參戰!!!Airi目標300分挑戰不可能!!!【HKVtuber | 水原 愛理】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "gtVkv7Z0xug",
+                        "image": "https://i.ytimg.com/vi/gtVkv7Z0xug/mqdefault.jpg",
+                        "title": "【兒童節快樂】今天是個適合暴言的日子呢!!結果0暴【HKVtuber | 水原 愛理】",
+                        "author": "水原 愛理【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nPFiVEmPReM",
+                        "image": "https://i.ytimg.com/vi/nPFiVEmPReM/mqdefault.jpg",
+                        "title": "【Outlast#2】精神病院突擊小隊!!!!終於到Airi中午台Happy!!【HKVtuber | 水原 愛理】",
+                        "author": "水原 愛理【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

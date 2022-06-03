@@ -103,39 +103,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "vJWGW7BIM84",
-                        "image": "https://i.ytimg.com/vi/vJWGW7BIM84/mqdefault.jpg",
-                        "title": "自己紹介【新人香港Vtuber 獅子山りお】",
+                        "video_code": "BaHYhpx3slA",
+                        "image": "https://i.ytimg.com/vi/BaHYhpx3slA/mqdefault.jpg",
+                        "title": "2022年3月　給大家的說話【香港Vtuber 獅子山りお】",
+                        "author": "Rio Channel [HKVtuber]"
+                    },
+                    {
+                        "video_code": "4PLB-_Qb1cQ",
+                        "image": "https://i.ytimg.com/vi/4PLB-_Qb1cQ/mqdefault.jpg",
+                        "title": "[Cover] 平安夜 (Silent Night) 【香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
                         "video_code": "XF0Ia1IaR5A",
                         "image": "https://i.ytimg.com/vi/XF0Ia1IaR5A/mqdefault.jpg",
-                        "title": "[翻唱] 主能夠 【新人香港Vtuber 獅子山りお】",
+                        "title": "[翻唱] 主能夠 【香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
-                        "video_code": "LAQsBA8ZWlE",
-                        "image": "https://i.ytimg.com/vi/LAQsBA8ZWlE/mqdefault.jpg",
-                        "title": "[惡搞] 香港早抖 (改編再改編) 【新人香港Vtuber 獅子山りお】",
+                        "video_code": "YviJn8Dfk2Y",
+                        "image": "https://i.ytimg.com/vi/YviJn8Dfk2Y/mqdefault.jpg",
+                        "title": "[Cover] 普世歡騰 (Joy to the world) 【香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
                         "video_code": "bBN6d-WSjXI",
                         "image": "https://i.ytimg.com/vi/bBN6d-WSjXI/mqdefault.jpg",
                         "title": "[惡搞] 屯馬開通 (屯馬開通真的很興奮)【新人香港Vtuber 獅子山りお】",
-                        "author": "Rio Channel [HKVtuber]"
-                    },
-                    {
-                        "video_code": "xSPLlozD6XI",
-                        "image": "https://i.ytimg.com/vi/xSPLlozD6XI/mqdefault.jpg",
-                        "title": "[Cover] KING 【新人香港Vtuber 獅子山りお】",
-                        "author": "Rio Channel [HKVtuber]"
-                    },
-                    {
-                        "video_code": "UkvbrCbnPBY",
-                        "image": "https://i.ytimg.com/vi/UkvbrCbnPBY/mqdefault.jpg",
-                        "title": "[電腦野] 資訊科技業 入行須知及簡介 【新人香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     }
                 ]
@@ -153,15 +147,27 @@
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
-                        "video_code": "7KaRIXGVKgo",
-                        "image": "https://i.ytimg.com/vi/7KaRIXGVKgo/mqdefault.jpg",
-                        "title": "[獅子山電台] 搵工要注意ｄ乜？ 【新人香港Vtuber 獅子山りお】",
+                        "video_code": "yBkWtgS_u6E",
+                        "image": "https://i.ytimg.com/vi/yBkWtgS_u6E/mqdefault.jpg",
+                        "title": "[突發] Switch Sports 【香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
-                        "video_code": "RXs0uzYkwgo",
-                        "image": "https://i.ytimg.com/vi/RXs0uzYkwgo/mqdefault.jpg",
-                        "title": "[推坑] Craftopia (創世理想鄉) 【新人香港Vtuber 獅子山りお】",
+                        "video_code": "S-JYe6Sno1E",
+                        "image": "https://i.ytimg.com/vi/S-JYe6Sno1E/mqdefault.jpg",
+                        "title": "[FFXIV]  觀眾場打副本 Lv.50【香港Vtuber 獅子山りお】",
+                        "author": "Rio Channel [HKVtuber]"
+                    },
+                    {
+                        "video_code": "9DML_ht8ifY",
+                        "image": "https://i.ytimg.com/vi/9DML_ht8ifY/mqdefault.jpg",
+                        "title": "[3D+找數] 生日特別回？ 【香港Vtuber 獅子山りお】",
+                        "author": "Rio Channel [HKVtuber]"
+                    },
+                    {
+                        "video_code": "ZF2FmxVyoNc",
+                        "image": "https://i.ytimg.com/vi/ZF2FmxVyoNc/mqdefault.jpg",
+                        "title": "[推坑] 獅子山機場，開幕！！ 【香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     }
                 ]

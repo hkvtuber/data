@@ -118,6 +118,18 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "uXtNwYSeIKg",
+                        "image": "https://i.ytimg.com/vi/uXtNwYSeIKg/mqdefault.jpg",
+                        "title": "【Cover】フクロウ ~フクロウが知らせる客が来たと【森乃あき / HKVtuber】",
+                        "author": "Aki Ch. 森乃あき【HKVTuber】"
+                    },
+                    {
+                        "video_code": "JX6F7zpCa24",
+                        "image": "https://i.ytimg.com/vi/JX6F7zpCa24/mqdefault.jpg",
+                        "title": "【Cover】アニマル【森乃あき / HKVtuber】",
+                        "author": "Aki Ch. 森乃あき【HKVTuber】"
+                    },
+                    {
                         "video_code": "buJdanSX5Hc",
                         "image": "https://i.ytimg.com/vi/buJdanSX5Hc/mqdefault.jpg",
                         "title": "【自我介紹】要加入信奉山神嗎?【森乃あき / HKVtuber】",
@@ -127,6 +139,12 @@
                         "video_code": "Y57gxSkbXts",
                         "image": "https://i.ytimg.com/vi/Y57gxSkbXts/mqdefault.jpg",
                         "title": "【一問一答】Vtuber一問一答自己紹介【森乃あき / HKVtuber】",
+                        "author": "Aki Ch. 森乃あき【HKVTuber】"
+                    },
+                    {
+                        "video_code": "iesI2zKdG0A",
+                        "image": "https://i.ytimg.com/vi/iesI2zKdG0A/mqdefault.jpg",
+                        "title": "【 4/3 半週年搞乜嘢 】 請勿期待~ (๑´(00)`๑) 【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     }
                 ]
@@ -138,39 +156,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "CdpD47OblOU",
-                        "image": "https://i.ytimg.com/vi/CdpD47OblOU/mqdefault.jpg",
-                        "title": "【初配信】噗~  (๑´(00)`๑) 【森乃あき / HKVtuber】",
+                        "video_code": "ZEi6yiIAg8s",
+                        "image": "https://i.ytimg.com/vi/ZEi6yiIAg8s/mqdefault.jpg",
+                        "title": "【走音台】聊天室爆耳中風TIME【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     },
                     {
-                        "video_code": "AV6z3zY_TeM",
-                        "image": "https://i.ytimg.com/vi/AV6z3zY_TeM/mqdefault.jpg",
-                        "title": "【神力覺醒】好耐冇見~~ヽ(✿ﾟ▽ﾟ)ノ【森乃あき / HKVtuber】",
+                        "video_code": "QAstDhKLwfY",
+                        "image": "https://i.ytimg.com/vi/QAstDhKLwfY/mqdefault.jpg",
+                        "title": "【早神】叻叻豬【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     },
                     {
-                        "video_code": "YozWHOjwNqQ",
-                        "image": "https://i.ytimg.com/vi/YozWHOjwNqQ/mqdefault.jpg",
-                        "title": "【酒雜】我冇醉! 黎傾下出道感想~  Ft.安妮【森乃あき / HKVtuber】",
+                        "video_code": "J__1OV0EwmA",
+                        "image": "https://i.ytimg.com/vi/J__1OV0EwmA/mqdefault.jpg",
+                        "title": "【Box Cats Puzzle】 單純太悶冇野做 【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     },
                     {
-                        "video_code": "WoIijBMwpYM",
-                        "image": "https://i.ytimg.com/vi/WoIijBMwpYM/mqdefault.jpg",
-                        "title": "【The Room 4: Old Sins】一心多用，解謎同時傾計台 【森乃あき / HKVtuber】",
+                        "video_code": "GLNUHI6comU",
+                        "image": "https://i.ytimg.com/vi/GLNUHI6comU/mqdefault.jpg",
+                        "title": "【早神】情人節......快樂 (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥ `) ?【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     },
                     {
-                        "video_code": "vPRphpv4X20",
-                        "image": "https://i.ytimg.com/vi/vPRphpv4X20/mqdefault.jpg",
-                        "title": "【廢Up台】每日安妮初配進度關注組【森乃あき / HKVtuber】",
-                        "author": "Aki Ch. 森乃あき【HKVTuber】"
-                    },
-                    {
-                        "video_code": "7ISCU0BpC6Y",
-                        "image": "https://i.ytimg.com/vi/7ISCU0BpC6Y/mqdefault.jpg",
-                        "title": "【畫畫台】冇野做、順便唸下食咩好【森乃あき / HKVtuber】",
+                        "video_code": "nYnQqtzzSJA",
+                        "image": "https://i.ytimg.com/vi/nYnQqtzzSJA/mqdefault.jpg",
+                        "title": "【繼續廢噏】假傾計真洗地【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     }
                 ]

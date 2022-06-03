@@ -100,6 +100,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "bnCSLVU7hV4",
+                        "image": "https://i.ytimg.com/vi/bnCSLVU7hV4/mqdefault.jpg",
+                        "title": "【初配信】迎噺日【古泉 噺 BANASHI / 香港Vtuber】",
+                        "author": "古泉 噺 Banashi 【香港Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

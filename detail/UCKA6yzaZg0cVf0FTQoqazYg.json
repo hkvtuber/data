@@ -100,6 +100,26 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "MUqds5GGOyE",
+                        "image": "https://i.ytimg.com/vi/MUqds5GGOyE/mqdefault.jpg",
+                        "title": "時隔半年終於開台啦～！雜談＋講下之後會點發展",
+                        "author": "阿爾文.阿魯卡[香港vtuber]"
+                    },
+                    {
+                        "video_code": "zT3d4-aC4q4",
+                        "image": "https://i.ytimg.com/vi/zT3d4-aC4q4/mqdefault.jpg",
+                        "title": "【阿爾文單車日誌】 踩車大凶日，唯有自己救自己",
+                        "author": "阿爾文.阿魯卡[香港vtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -109,27 +129,27 @@
                         "author": "阿爾文.阿魯卡[香港vtuber]"
                     },
                     {
-                        "video_code": "eJxNQMWYr58",
-                        "image": "https://i.ytimg.com/vi/eJxNQMWYr58/mqdefault.jpg",
-                        "title": "「GTA5」EP1。洛聖都的日與夜「阿爾文.阿魯卡」「新人香港Vtuber」",
+                        "video_code": "N54ZnFv7AU8",
+                        "image": "https://i.ytimg.com/vi/N54ZnFv7AU8/mqdefault.jpg",
+                        "title": "「APEX」超級炸彈人（💣💣炸彈&拳頭💣💣 限定）「阿爾文.阿魯卡」ft.空鈦SORATA 、加藤小麻雀",
                         "author": "阿爾文.阿魯卡[香港vtuber]"
                     },
                     {
-                        "video_code": "ekfg4OaNOwU",
-                        "image": "https://i.ytimg.com/vi/ekfg4OaNOwU/mqdefault.jpg",
-                        "title": "「Left 4 Dead 2」希望唔好卡太耐，有大佬Carry唔怕嘅「阿爾文.阿魯卡」ft.櫻庭良,粟米,触愛ネロロ",
+                        "video_code": "Qy69dcb22Kw",
+                        "image": "https://i.ytimg.com/vi/Qy69dcb22Kw/mqdefault.jpg",
+                        "title": "「APEX」三人行必有雞食？（❌❌大量粗口注意❌❌）「阿爾文.阿魯卡」",
                         "author": "阿爾文.阿魯卡[香港vtuber]"
                     },
                     {
-                        "video_code": "MUqds5GGOyE",
-                        "image": "https://i.ytimg.com/vi/MUqds5GGOyE/mqdefault.jpg",
-                        "title": "時隔半年終於開台啦～！雜談＋講下之後會點發展",
+                        "video_code": "oO07RuK1u8o",
+                        "image": "https://i.ytimg.com/vi/oO07RuK1u8o/mqdefault.jpg",
+                        "title": "「APEX」機器人與單車佬的NG氣氛台（❌❌大量粗口注意❌❌）「阿爾文.阿魯卡」",
                         "author": "阿爾文.阿魯卡[香港vtuber]"
                     },
                     {
-                        "video_code": "Xzed7NT1tl0",
-                        "image": "https://i.ytimg.com/vi/Xzed7NT1tl0/mqdefault.jpg",
-                        "title": "「Rainbow Six Siege」「阿爾文.阿魯卡」「新人香港Vtuber」",
+                        "video_code": "tyod96EMP80",
+                        "image": "https://i.ytimg.com/vi/tyod96EMP80/mqdefault.jpg",
+                        "title": "「APEX」機器人+單車佬+偵探貓的RK氣氛台（❌❌大量粗口注意❌❌）「阿爾文.阿魯卡」",
                         "author": "阿爾文.阿魯卡[香港vtuber]"
                     }
                 ]

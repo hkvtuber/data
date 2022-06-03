@@ -100,6 +100,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "WQq5oFBqAd8",
+                        "image": "https://i.ytimg.com/vi/WQq5oFBqAd8/mqdefault.jpg",
+                        "title": "(· ∞ · =⊃ )3",
+                        "author": "星琉 SERU Ch. SERUKI · YURU"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "BF5n_wTa14Q",
+                        "image": "https://i.ytimg.com/vi/BF5n_wTa14Q/mqdefault.jpg",
+                        "title": "✧ 初配信 ✧ 請問您願意來水族館… …帶海豹一起出去玩嗎？✦ 星琉希 · 羽露 | Seruki · Yuru ✦",
+                        "author": "星琉 SERU Ch. SERUKI · YURU"
+                    },
+                    {
+                        "video_code": "PP-ZCxnwXH8",
+                        "image": "https://i.ytimg.com/vi/PP-ZCxnwXH8/mqdefault.jpg",
+                        "title": "✧ 聯動溫習 ✧海豹教你一些DSE中的通用技巧！！Ft. @~Kaano~ 白鼬かあの 【 HKVtuber】   ✦ 星琉希 · 羽露 | Seruki · Yuru ✦",
+                        "author": "星琉 SERU Ch. SERUKI · YURU"
+                    },
+                    {
+                        "video_code": "ojPSn37W-kU",
+                        "image": "https://i.ytimg.com/vi/ojPSn37W-kU/mqdefault.jpg",
+                        "title": "✧ OVERWATCH ✧ 首次聯動… …看海豹狩獵人類？Ft. Enn、BASA、月球、犬飼征二、諾海 ✦ 星琉希 · 羽露 | Seruki · Yuru ✦",
+                        "author": "星琉 SERU Ch. SERUKI · YURU"
+                    },
+                    {
+                        "video_code": "QUvtZ_wx-Pk",
+                        "image": "https://i.ytimg.com/vi/QUvtZ_wx-Pk/mqdefault.jpg",
+                        "title": "✧ 雜談 · 棉花糖 ✧ 想要更瞭解海豹嗎？聊聊天吃吃棉花糖！✦ 星琉希 · 羽露 | Seruki · Yuru ✦",
+                        "author": "星琉 SERU Ch. SERUKI · YURU"
+                    },
+                    {
+                        "video_code": "LbzTZw1anbg",
+                        "image": "https://i.ytimg.com/vi/LbzTZw1anbg/mqdefault.jpg",
+                        "title": "✧ 雜談 · 凸待 ✧ 今天海豹生日哦！來簽卡聊天凸待一下 ✦ 星琉希 · 羽露 | Seruki · Yuru ✦",
+                        "author": "星琉 SERU Ch. SERUKI · YURU"
+                    }
+                ]
+            }
         }
     ]
 }

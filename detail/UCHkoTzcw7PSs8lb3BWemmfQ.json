@@ -105,6 +105,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Ni_1f2z5kKE",
+                        "image": "https://i.ytimg.com/vi/Ni_1f2z5kKE/mqdefault.jpg",
+                        "title": "【VTuber】100訂閲找數歌回",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    },
+                    {
+                        "video_code": "tLkkh_vUkj4",
+                        "image": "https://i.ytimg.com/vi/tLkkh_vUkj4/mqdefault.jpg",
+                        "title": "【VTuber】鐘錶師的第一個廣東話YouTube初配信！",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    },
+                    {
+                        "video_code": "H8zL_FX8CgI",
+                        "image": "https://i.ytimg.com/vi/H8zL_FX8CgI/mqdefault.jpg",
+                        "title": "【VTuber】Arata和Reimond的白色情人節特典直播",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    },
+                    {
+                        "video_code": "4xuP02yVOgg",
+                        "image": "https://i.ytimg.com/vi/4xuP02yVOgg/mqdefault.jpg",
+                        "title": "【VTuber】雪櫃大大帶我打大大隻嘅怪怪",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    },
+                    {
+                        "video_code": "w6xfvBimwVY",
+                        "image": "https://i.ytimg.com/vi/w6xfvBimwVY/mqdefault.jpg",
+                        "title": "【VTuber】英國短途旅行雜談！ Newcastle篇",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    }
+                ]
+            }
         }
     ]
 }

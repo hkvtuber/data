@@ -97,33 +97,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "k5FGV-hlstA",
+                        "image": "https://i.ytimg.com/vi/k5FGV-hlstA/mqdefault.jpg",
+                        "title": "【香港人が歌ってみた】エンヴィーベイビー／Cover by星原ユリア",
+                        "author": "星原ユリア 【香港VTuber】"
+                    },
+                    {
                         "video_code": "XDGeRPPLahE",
                         "image": "https://i.ytimg.com/vi/XDGeRPPLahE/mqdefault.jpg",
                         "title": "【香港VTuber】史上最尷尬自我介紹誕生！？【星原ユリア】",
                         "author": "星原ユリア 【香港VTuber】"
                     },
                     {
-                        "video_code": "k5FGV-hlstA",
-                        "image": "https://i.ytimg.com/vi/k5FGV-hlstA/mqdefault.jpg",
-                        "title": "【香港人が歌ってみた】エンヴィーベイビー／星原ユリア",
+                        "video_code": "s2IVVi-NyyI",
+                        "image": "https://i.ytimg.com/vi/s2IVVi-NyyI/mqdefault.jpg",
+                        "title": "【香港人が歌ってみた】東京テディベア／Cover by星原ユリア",
                         "author": "星原ユリア 【香港VTuber】"
                     },
                     {
-                        "video_code": "s2IVVi-NyyI",
-                        "image": "https://i.ytimg.com/vi/s2IVVi-NyyI/mqdefault.jpg",
-                        "title": "【香港人が歌ってみた】東京テディベア/星原ユリア",
+                        "video_code": "RBPKeUe8X7s",
+                        "image": "https://i.ytimg.com/vi/RBPKeUe8X7s/mqdefault.jpg",
+                        "title": "【精華剪輯】深夜腦死IQ問答大會www【星原ユリア/銀十】",
                         "author": "星原ユリア 【香港VTuber】"
                     },
                     {
                         "video_code": "sl3DG6LJaBw",
                         "image": "https://i.ytimg.com/vi/sl3DG6LJaBw/mqdefault.jpg",
-                        "title": "【香港人が歌ってみた】恋愛裁判／星原ユリア【再投稿】",
-                        "author": "星原ユリア 【香港VTuber】"
-                    },
-                    {
-                        "video_code": "1OnzWd7RKi0",
-                        "image": "https://i.ytimg.com/vi/1OnzWd7RKi0/mqdefault.jpg",
-                        "title": "【初投稿／香港人が歌ってみた】ファーストレディー／星原ユリア【再投稿】",
+                        "title": "【香港人が歌ってみた】恋愛裁判／Cover by星原ユリア【再投稿】",
                         "author": "星原ユリア 【香港VTuber】"
                     }
                 ]
@@ -135,9 +135,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "JuWMBeW66hI",
-                        "image": "https://i.ytimg.com/vi/JuWMBeW66hI/mqdefault.jpg",
-                        "title": "【香港VTuber/星原ユリア】重大會議、全員集合！！！",
+                        "video_code": "r7FKf_CfguM",
+                        "image": "https://i.ytimg.com/vi/r7FKf_CfguM/mqdefault.jpg",
+                        "title": "【期間限定公開/香港VTuber】感冒未好的歌台【星原ユリア】",
+                        "author": "星原ユリア 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "jRQ1We_Dy_M",
+                        "image": "https://i.ytimg.com/vi/jRQ1We_Dy_M/mqdefault.jpg",
+                        "title": "【香港VTuber】今日嚟訪問確診者【星原ユリア/銀十】",
                         "author": "星原ユリア 【香港VTuber】"
                     },
                     {
@@ -147,15 +153,15 @@
                         "author": "星原ユリア 【香港VTuber】"
                     },
                     {
-                        "video_code": "-39f7i0Mbks",
-                        "image": "https://i.ytimg.com/vi/-39f7i0Mbks/mqdefault.jpg",
-                        "title": "【星原ユリア/銀十】台灣在住與英國在住對談【香港vtuber】",
+                        "video_code": "JuWMBeW66hI",
+                        "image": "https://i.ytimg.com/vi/JuWMBeW66hI/mqdefault.jpg",
+                        "title": "【香港VTuber/星原ユリア】重大會議、全員集合！！！",
                         "author": "星原ユリア 【香港VTuber】"
                     },
                     {
-                        "video_code": "VcTwBYM-kpM",
-                        "image": "https://i.ytimg.com/vi/VcTwBYM-kpM/mqdefault.jpg",
-                        "title": "【香港VTuber】雜談with銀十【星原ユリア/銀十】",
+                        "video_code": "GeOK2z74f6E",
+                        "image": "https://i.ytimg.com/vi/GeOK2z74f6E/mqdefault.jpg",
+                        "title": "【香港VTuber】首次挑戰劇情向遊戲！【揀愛LoveChoice/星原ユリア】",
                         "author": "星原ユリア 【香港VTuber】"
                     }
                 ]

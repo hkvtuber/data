@@ -107,6 +107,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "3VddtwF57hM",
+                        "image": "https://i.ytimg.com/vi/3VddtwF57hM/mqdefault.jpg",
+                        "title": "【LostArk】美服快速獲得50等角色方法| Vern Powerpass |失落的方舟 | 惡魔莉莉婭 AkumaLiliya 清純大波惡魔系",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "StLsAFZFlKg",
+                        "image": "https://i.ytimg.com/vi/StLsAFZFlKg/mqdefault.jpg",
+                        "title": "【Lost Ark】國際服五大職業詳盡介紹 & 技能展示 | 戰士 | 格鬥家 | 惡魔莉莉婭 AkumaLiliya 清純大波惡魔系 | EP1",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "Zs1X9K5fpX4",
+                        "image": "https://i.ytimg.com/vi/Zs1X9K5fpX4/mqdefault.jpg",
+                        "title": "【LostArk】國際服PVE排行榜 S Rank職業技能配點教學 | 裝備屬性詞推薦 | 惡魔莉莉婭 AkumaLiliya 清純大波惡魔系",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "vUsl5HeW6Qs",
+                        "image": "https://i.ytimg.com/vi/vUsl5HeW6Qs/mqdefault.jpg",
+                        "title": "【Lost Ark】國際服五大職業詳盡介紹 & 技能展示 | 獵人 | 法師 | 刺客 | 惡魔莉莉婭 AkumaLiliya 清純大波惡魔系 | EP2",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "crD33J9PF_k",
+                        "image": "https://i.ytimg.com/vi/crD33J9PF_k/mqdefault.jpg",
+                        "title": "【阿爾宙斯】開局御三家選哪隻好？ |  洗翠形態御三家相剋屬性一覽 |詳盡分析 | 惡魔莉莉婭 AkumaLiliya 清純大波惡魔系",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "d8y2GmX-Vnk",
+                        "image": "https://i.ytimg.com/vi/d8y2GmX-Vnk/mqdefault.jpg",
+                        "title": "【Lost Ark】美服半魔人好爽喔~~~女巫極速衝等| 失落的方舟國際服 |  新人Vtuber ♡惡魔莉莉婭♡~",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "4y-FeMPsPy4",
+                        "image": "https://i.ytimg.com/vi/4y-FeMPsPy4/mqdefault.jpg",
+                        "title": "【Lost Ark】觀眾同樂場~~一起刷刷刷~| 失落的方舟國際服 |  新人Vtuber ♡惡魔莉莉婭♡~",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "CG5253vzJVU",
+                        "image": "https://i.ytimg.com/vi/CG5253vzJVU/mqdefault.jpg",
+                        "title": "【突發】早上好啊啊啊啊（來看看大家醒來了沒有lol） |  清純大波白卡金魚惡魔系 Vtuber ♡惡魔莉莉婭♡~",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "i5uy5ab73N4",
+                        "image": "https://i.ytimg.com/vi/i5uy5ab73N4/mqdefault.jpg",
+                        "title": "【Lost Ark】Tier2副本gogogog | 美西Valtan | 失落的方舟國際服 |  新人Vtuber ♡惡魔莉莉婭♡~",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    },
+                    {
+                        "video_code": "iUCSWf4FSeI",
+                        "image": "https://i.ytimg.com/vi/iUCSWf4FSeI/mqdefault.jpg",
+                        "title": "【Lost Ark】努力追回這幾天的進度 | 美西Valtan | 失落的方舟國際服 |  新人Vtuber ♡惡魔莉莉婭♡~",
+                        "author": "惡魔莉莉婭(AkumaLiliya)♡"
+                    }
+                ]
+            }
         }
     ]
 }

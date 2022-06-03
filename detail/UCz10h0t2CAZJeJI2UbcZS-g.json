@@ -116,15 +116,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "qdpMmHNS0aY",
-                        "image": "https://i.ytimg.com/vi/qdpMmHNS0aY/mqdefault.jpg",
-                        "title": "【Live2D  お披露会】擁有大叔聲線的宅男被人壓扁了【宗樹かずき】",
-                        "author": "宗樹-かずき- Ch."
-                    },
-                    {
                         "video_code": "gW-x0Fwm908",
                         "image": "https://i.ytimg.com/vi/gW-x0Fwm908/mqdefault.jpg",
                         "title": "【生日倒數配信】Vtuber生涯第二次生日慶祝！+凸待ち 【#萬事屋出差中】",
+                        "author": "宗樹-かずき- Ch."
+                    },
+                    {
+                        "video_code": "qdpMmHNS0aY",
+                        "image": "https://i.ytimg.com/vi/qdpMmHNS0aY/mqdefault.jpg",
+                        "title": "【Live2D  お披露会】擁有大叔聲線的宅男被人壓扁了【宗樹かずき】",
                         "author": "宗樹-かずき- Ch."
                     },
                     {

@@ -92,6 +92,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ouLEhTbpr0w",
+                        "image": "https://i.ytimg.com/vi/ouLEhTbpr0w/mqdefault.jpg",
+                        "title": "全息影像Holography~齊來做個雪兔在手上~ #楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
+                        "video_code": "n3qrBNVA8WA",
+                        "image": "https://i.ytimg.com/vi/n3qrBNVA8WA/mqdefault.jpg",
+                        "title": "【國語】大家聖誕快樂~來一起雜談吧-1！ #楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "MiNaEHFYV4k",
+                        "image": "https://i.ytimg.com/vi/MiNaEHFYV4k/mqdefault.jpg",
+                        "title": "【粵語】突發 ! 來做性知識+香港地理達人挑戰 #楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
+                        "video_code": "nLabijVU-2I",
+                        "image": "https://i.ytimg.com/vi/nLabijVU-2I/mqdefault.jpg",
+                        "title": "【國語】初配信!!! 開啟廢物人生~ #楠木野雪兔/Yukiusa",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
+                        "video_code": "7v-0CM_RbxM",
+                        "image": "https://i.ytimg.com/vi/7v-0CM_RbxM/mqdefault.jpg",
+                        "title": "【國/粵 雙語】突發!耐久拼圖台#2~不拼完我就不關台!~#楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
+                        "video_code": "t6JUb6OZBZk",
+                        "image": "https://i.ytimg.com/vi/t6JUb6OZBZk/mqdefault.jpg",
+                        "title": "【國/粵 雙語】突發!耐久拼圖台#1~不拼完我就不關台!~#楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
+                        "video_code": "jzfsNSnyK94",
+                        "image": "https://i.ytimg.com/vi/jzfsNSnyK94/mqdefault.jpg",
+                        "title": "【粵語】加班台~雀魂+HFF(每多1訂就加班1小時) #楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -76,10 +76,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "MyFT1SbW5-8",
-                        "image": "https://i.ytimg.com/vi/MyFT1SbW5-8/mqdefault.jpg",
-                        "title": "[初配信]終於可以活動了,稜斬月,新人hkvtuber",
-                        "author": "稜斬月,暴走,黃標型hkvtuber(黑月代班)"
+                        "video_code": "7-LRNcVcZ5k",
+                        "image": "https://i.ytimg.com/vi/7-LRNcVcZ5k/mqdefault.jpg",
+                        "title": "[稜_月9砌模型]我哋搵咗三個月喇.砌完先收台,稜斬月,暴走型hkvtuber",
+                        "author": "稜月.孤狼type"
+                    },
+                    {
+                        "video_code": "rwUnbIeyGDI",
+                        "image": "https://i.ytimg.com/vi/rwUnbIeyGDI/mqdefault.jpg",
+                        "title": "APEX FINAL 辭職.EXE",
+                        "author": "稜月.孤狼type"
+                    },
+                    {
+                        "video_code": "fi1924vaOPE",
+                        "image": "https://i.ytimg.com/vi/fi1924vaOPE/mqdefault.jpg",
+                        "title": "APEX.EXE，ＮＧ",
+                        "author": "稜月.孤狼type"
+                    },
+                    {
+                        "video_code": "sYdPrGViTHk",
+                        "image": "https://i.ytimg.com/vi/sYdPrGViTHk/mqdefault.jpg",
+                        "title": "生日倒數(封面仲未畫好),稜斬月,暴走型hkvtuber",
+                        "author": "稜月.孤狼type"
+                    },
+                    {
+                        "video_code": "vxk1EcmM3sI",
+                        "image": "https://i.ytimg.com/vi/vxk1EcmM3sI/mqdefault.jpg",
+                        "title": "[SDgundam]黑月代班,直播到天光,稜斬月,暴走型hkvtuber",
+                        "author": "稜月.孤狼type"
                     }
                 ]
             }

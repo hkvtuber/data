@@ -81,6 +81,76 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "zI4quYvYM_Q",
+                        "image": "https://i.ytimg.com/vi/zI4quYvYM_Q/mqdefault.jpg",
+                        "title": "【プロセカ期間限定ガチャ150連】東雲！彰人！パンケーキ！！！【香港Vtuber／肉粒Yoluv】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "vvyO3h51ZM8",
+                        "image": "https://i.ytimg.com/vi/vvyO3h51ZM8/mqdefault.jpg",
+                        "title": "【香港Vtuber】殭屍 · 肉粒 Yoluv【自我介紹】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "4Q_Uk8HPxZA",
+                        "image": "https://i.ytimg.com/vi/4Q_Uk8HPxZA/mqdefault.jpg",
+                        "title": "【プロセカ   セレクトリストガチャ】課金是不會背叛的【香港Vtuber   肉粒Yoluv】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "Nws_rnlnzhY",
+                        "image": "https://i.ytimg.com/vi/Nws_rnlnzhY/mqdefault.jpg",
+                        "title": "【A3!卡池50連神回】太一bb係時候番屋企啦【香港Vtuber   肉粒Yoluv】",
+                        "author": "肉粒Yoluv"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "rlN6IwxrXnc",
+                        "image": "https://i.ytimg.com/vi/rlN6IwxrXnc/mqdefault.jpg",
+                        "title": "【香港Vtuber   850歌回找數】唱完有重大告知【肉粒Yoluv】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "7uE5HSuAR90",
+                        "image": "https://i.ytimg.com/vi/7uE5HSuAR90/mqdefault.jpg",
+                        "title": "【ウマ娘】突發第4章配信同公告【香港Vtuber 肉粒Yoluv】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "x8uWkww1-nQ",
+                        "image": "https://i.ytimg.com/vi/x8uWkww1-nQ/mqdefault.jpg",
+                        "title": "【飯粒參加型GAME實況】肉粒視覺！【香港Vtuber/粟米肉粒】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "xWaWP6R5yZo",
+                        "image": "https://i.ytimg.com/vi/xWaWP6R5yZo/mqdefault.jpg",
+                        "title": "【香港Vtuber】靜音工作【肉粒Yoluv】",
+                        "author": "肉粒Yoluv"
+                    },
+                    {
+                        "video_code": "-sIwwNf-TF4",
+                        "image": "https://i.ytimg.com/vi/-sIwwNf-TF4/mqdefault.jpg",
+                        "title": "【プロセカ ワンダショちゃんねる同時視聴】突然興奮患者出沒注意【肉粒Yoluv   香港Vtuber】",
+                        "author": "肉粒Yoluv"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -106,6 +106,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "5lZxK3riD0s",
+                        "image": "https://i.ytimg.com/vi/5lZxK3riD0s/mqdefault.jpg",
+                        "title": "【初投稿】離さないで【Departures 〜あなたにおくるアイの歌〜】",
+                        "author": "Noa Channel【鳥神星のあ.香港Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

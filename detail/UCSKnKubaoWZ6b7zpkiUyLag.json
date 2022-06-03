@@ -59,6 +59,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "rLCRRXCw5sU",
+                        "image": "https://i.ytimg.com/vi/rLCRRXCw5sU/mqdefault.jpg",
+                        "title": "[港女打機] Final Fantasy 7 remake #9 唔經唔覺FF都打到第9集",
+                        "author": "Miyuu Ch. 美宇"
+                    },
+                    {
+                        "video_code": "L1FPrx2Kpt0",
+                        "image": "https://i.ytimg.com/vi/L1FPrx2Kpt0/mqdefault.jpg",
+                        "title": "[港女打機] Dark Souls 3 黑暗靈魂3 #3 成為一個可靠既騎士救世界",
+                        "author": "Miyuu Ch. 美宇"
+                    },
+                    {
+                        "video_code": "nUZZpmnARok",
+                        "image": "https://i.ytimg.com/vi/nUZZpmnARok/mqdefault.jpg",
+                        "title": "[港女打機] Final Fantasy 7 remake #8 享受左擁右抱時間",
+                        "author": "Miyuu Ch. 美宇"
+                    },
+                    {
+                        "video_code": "670BqcRmS40",
+                        "image": "https://i.ytimg.com/vi/670BqcRmS40/mqdefault.jpg",
+                        "title": "[港女打機] Final Fantasy 7 remake #7 享受遊戲(靚仔)時間",
+                        "author": "Miyuu Ch. 美宇"
+                    },
+                    {
+                        "video_code": "nukpmrheHoI",
+                        "image": "https://i.ytimg.com/vi/nukpmrheHoI/mqdefault.jpg",
+                        "title": "[港女打機] MHR #5 *觀眾場* 敢唔敢同我打7星集會所 再一次感謝觀眾既大力carry",
+                        "author": "Miyuu Ch. 美宇"
+                    }
+                ]
+            }
         }
     ]
 }

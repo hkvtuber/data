@@ -95,25 +95,51 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "EyM5h0YUt48",
+                        "image": "https://i.ytimg.com/vi/EyM5h0YUt48/mqdefault.jpg",
+                        "title": "精華 | 我被鎮魂曲了 ft. Photon Dynamic⭐HKVtuber/KiraRemy⭐",
+                        "author": "Aorëa Ch. KiraRemy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "-5XSFjAATv4",
-                        "image": "https://i.ytimg.com/vi/-5XSFjAATv4/mqdefault.jpg",
-                        "title": "【KiraRemy】探索這個世界？【香港Vtuber】",
-                        "author": "Aorea Ch. KiraRemy"
+                        "video_code": "YTBreky5Xr0",
+                        "image": "https://i.ytimg.com/vi/YTBreky5Xr0/mqdefault.jpg",
+                        "title": "一週年 | 斯佩特利亞大陸 與 曙光學院⭐HKVtuber/KiraRemy⭐",
+                        "author": "Aorëa Ch. KiraRemy"
                     },
                     {
                         "video_code": "2Gq2JZdn-dY",
                         "image": "https://i.ytimg.com/vi/2Gq2JZdn-dY/mqdefault.jpg",
                         "title": "Minecraft | 終於迎來一次的見面了嗎！⭐HKVtuber/KiraRemy⭐",
-                        "author": "Aorea Ch. KiraRemy"
+                        "author": "Aorëa Ch. KiraRemy"
+                    },
+                    {
+                        "video_code": "-5XSFjAATv4",
+                        "image": "https://i.ytimg.com/vi/-5XSFjAATv4/mqdefault.jpg",
+                        "title": "【KiraRemy】探索這個世界？【香港Vtuber】",
+                        "author": "Aorëa Ch. KiraRemy"
+                    },
+                    {
+                        "video_code": "CQadADdMqL0",
+                        "image": "https://i.ytimg.com/vi/CQadADdMqL0/mqdefault.jpg",
+                        "title": "GTA5 | 在GTA世界倒數是什麼體驗？ft. Photon Dynamic⭐HKVtuber/KiraRemy⭐",
+                        "author": "Aorëa Ch. KiraRemy"
                     },
                     {
                         "video_code": "BuKxNWlkPW0",
                         "image": "https://i.ytimg.com/vi/BuKxNWlkPW0/mqdefault.jpg",
                         "title": "DBD | 來抓我呀 AvA 【ft.社畜A星野二ア 光子 Photon 神崎狂三】⭐HKVtuber/KiraRemy⭐",
-                        "author": "Aorea Ch. KiraRemy"
+                        "author": "Aorëa Ch. KiraRemy"
                     }
                 ]
             }

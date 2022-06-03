@@ -114,6 +114,40 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "d7Ly9FYUOuM",
+                        "image": "https://i.ytimg.com/vi/d7Ly9FYUOuM/mqdefault.jpg",
+                        "title": "銀河修理員(節錄) /cover by 丸太郎【HKvtuber】",
+                        "author": "Maru Ch. 丸太郎【HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "lcKxKncMSKI",
+                        "image": "https://i.ytimg.com/vi/lcKxKncMSKI/mqdefault.jpg",
+                        "title": "剪綵儀式!初配信 【丸太郎 | #香港Vtuber】",
+                        "author": "Maru Ch. 丸太郎【HKvtuber】"
+                    },
+                    {
+                        "video_code": "nAxWqQ_XBY8",
+                        "image": "https://i.ytimg.com/vi/nAxWqQ_XBY8/mqdefault.jpg",
+                        "title": "第一屆香港GTA線上格林披治大塞車 | 輸左有大懲罰【丸太郎 | #香港Vtuber】",
+                        "author": "Maru Ch. 丸太郎【HKvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

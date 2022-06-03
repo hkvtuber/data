@@ -112,15 +112,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "zmvEoec0yfA",
-                        "image": "https://i.ytimg.com/vi/zmvEoec0yfA/mqdefault.jpg",
-                        "title": "【HKVTuber/Hayato Ch.水樹はやと】信仰は己への戒めとなる…",
+                        "video_code": "vnuK1ieLldU",
+                        "image": "https://i.ytimg.com/vi/vnuK1ieLldU/mqdefault.jpg",
+                        "title": "【香港VTuber自我介紹】⚜️大家要成為颯斗嘅虔誠教徒?～✨⚜️ 【水樹颯斗】",
                         "author": "Hayato Ch.水樹はやと"
                     },
                     {
                         "video_code": "sNniWthZxw8",
                         "image": "https://i.ytimg.com/vi/sNniWthZxw8/mqdefault.jpg",
                         "title": "【HKVTuber/Hayato Ch.水樹はやと】教主哄睡服務",
+                        "author": "Hayato Ch.水樹はやと"
+                    },
+                    {
+                        "video_code": "Lv3TqBoT9rs",
+                        "image": "https://i.ytimg.com/vi/Lv3TqBoT9rs/mqdefault.jpg",
+                        "title": "愛【HKVTuber/水樹はやと】",
+                        "author": "Hayato Ch.水樹はやと"
+                    },
+                    {
+                        "video_code": "zmvEoec0yfA",
+                        "image": "https://i.ytimg.com/vi/zmvEoec0yfA/mqdefault.jpg",
+                        "title": "【HKVTuber/Hayato Ch.水樹はやと】信仰は己への戒めとなる…",
+                        "author": "Hayato Ch.水樹はやと"
+                    },
+                    {
+                        "video_code": "kW4Iaz4Oc1A",
+                        "image": "https://i.ytimg.com/vi/kW4Iaz4Oc1A/mqdefault.jpg",
+                        "title": "✨今日喺咩日子？！520？✨",
                         "author": "Hayato Ch.水樹はやと"
                     }
                 ]
@@ -138,15 +156,27 @@
                         "author": "Hayato Ch.水樹はやと"
                     },
                     {
-                        "video_code": "_EoLbLwxUV0",
-                        "image": "https://i.ytimg.com/vi/_EoLbLwxUV0/mqdefault.jpg",
-                        "title": "【大型聯動配信-Among Us】 12人心結大混戰之太空狼人殺 Ft.12人【水樹颯斗みずきはやと/HKVTuber】",
+                        "video_code": "RuFk5UYCRRc",
+                        "image": "https://i.ytimg.com/vi/RuFk5UYCRRc/mqdefault.jpg",
+                        "title": "#はやと教主新衣装 | お待たせしました～今回の新衣装披露会！！【HKVTuber/Hayato Ch.水樹はやと】",
                         "author": "Hayato Ch.水樹はやと"
                     },
                     {
-                        "video_code": "N-gqVQOEyQE",
-                        "image": "https://i.ytimg.com/vi/N-gqVQOEyQE/mqdefault.jpg",
-                        "title": "【HKVTuber/Hayato Ch.水樹はやと】中秋夜之魔音巡迴演唱？！",
+                        "video_code": "ZUxCuwd8AGA",
+                        "image": "https://i.ytimg.com/vi/ZUxCuwd8AGA/mqdefault.jpg",
+                        "title": "教主の一周年遊行 | Scarlet Origin【HKVTuber/Hayato Ch.水樹はやと】",
+                        "author": "Hayato Ch.水樹はやと"
+                    },
+                    {
+                        "video_code": "fHLY97fb9qY",
+                        "image": "https://i.ytimg.com/vi/fHLY97fb9qY/mqdefault.jpg",
+                        "title": "誕生日 | チェックメイト【HKVTuber/Hayato Ch.水樹はやと】",
+                        "author": "Hayato Ch.水樹はやと"
+                    },
+                    {
+                        "video_code": "_EoLbLwxUV0",
+                        "image": "https://i.ytimg.com/vi/_EoLbLwxUV0/mqdefault.jpg",
+                        "title": "【大型聯動配信-Among Us】 12人心結大混戰之太空狼人殺 Ft.12人【水樹颯斗みずきはやと/HKVTuber】",
                         "author": "Hayato Ch.水樹はやと"
                     }
                 ]

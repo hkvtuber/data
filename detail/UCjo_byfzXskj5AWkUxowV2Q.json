@@ -52,12 +52,56 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "n-dHdBQht6c",
+                        "image": "https://i.ytimg.com/vi/n-dHdBQht6c/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber三麻盃】4/12 初賽抽籤分組",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "RcNst6r-Nj4",
+                        "image": "https://i.ytimg.com/vi/RcNst6r-Nj4/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber三麻盃】4/4 模擬賽 feat.魔女-日本麻雀",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "wd3Ws2NmJaY",
+                        "image": "https://i.ytimg.com/vi/wd3Ws2NmJaY/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber四麻盃】7/4 比賽模式說明會",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "pA3vTRR13mk",
+                        "image": "https://i.ytimg.com/vi/pA3vTRR13mk/mqdefault.jpg",
+                        "title": "【中秋你注定一人】Covered by 中空獵人(Short Ver.)",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "DCra1DeQqic",
+                        "image": "https://i.ytimg.com/vi/DCra1DeQqic/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber四麻盃】8/1 抽籤分組",
+                        "author": "獵人公會"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "lfh1zZjJihA",
                         "image": "https://i.ytimg.com/vi/lfh1zZjJihA/mqdefault.jpg",
                         "title": "【獵人公會第一屆香港VTuber三麻盃】4/24 準決賽West組/米亞 沈醒 紡霊拉比",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "mtrhMj0b_2k",
+                        "image": "https://i.ytimg.com/vi/mtrhMj0b_2k/mqdefault.jpg",
+                        "title": "【雀魂】4/22 雀魂×狂賭之淵××聯動抽角色試伏 feat.狛井葵 高町音月",
                         "author": "獵人公會"
                     },
                     {

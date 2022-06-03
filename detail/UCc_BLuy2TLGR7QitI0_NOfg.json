@@ -81,6 +81,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "HajWFUltPyI",
+                        "image": "https://i.ytimg.com/vi/HajWFUltPyI/mqdefault.jpg",
+                        "title": "【Cover歌】嘗試了唱一下《講你知123!》-【アストラ天】",
+                        "author": "Ten Ch.アストラ天"
+                    },
+                    {
+                        "video_code": "_rio3k2L1zo",
+                        "image": "https://i.ytimg.com/vi/_rio3k2L1zo/mqdefault_live.jpg",
+                        "title": "【首次聯動+突發】Challenge Accepted",
+                        "author": "Ten Ch.アストラ天"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "03ZYMWSKqJc",
+                        "image": "https://i.ytimg.com/vi/03ZYMWSKqJc/mqdefault.jpg",
+                        "title": "【初配信】急降地球後的冒險終於要展開了 - 求其的外星生物",
+                        "author": "Ten Ch.アストラ天"
+                    },
+                    {
+                        "video_code": "bF_cKjxeya4",
+                        "image": "https://i.ytimg.com/vi/bF_cKjxeya4/mqdefault.jpg",
+                        "title": "【塗鴉台】想畫個GBF 第3回 而我的畫畫戰鬥力可是有5的存在",
+                        "author": "Ten Ch.アストラ天"
+                    },
+                    {
+                        "video_code": "tvSUlJUI4kY",
+                        "image": "https://i.ytimg.com/vi/tvSUlJUI4kY/mqdefault.jpg",
+                        "title": "【塗鴉台】想畫個GBF 而我的畫畫戰鬥力可是有5的存在",
+                        "author": "Ten Ch.アストラ天"
+                    },
+                    {
+                        "video_code": "kKufQxINbPo",
+                        "image": "https://i.ytimg.com/vi/kKufQxINbPo/mqdefault.jpg",
+                        "title": "【塗鴉台】想畫個GBF 第2回 而我的畫畫戰鬥力可是有5的存在",
+                        "author": "Ten Ch.アストラ天"
+                    },
+                    {
+                        "video_code": "h31x-MjXJbo",
+                        "image": "https://i.ytimg.com/vi/h31x-MjXJbo/mqdefault.jpg",
+                        "title": "【塗鴉台】估下楓鈴新裝",
+                        "author": "Ten Ch.アストラ天"
+                    }
+                ]
+            }
         }
     ]
 }

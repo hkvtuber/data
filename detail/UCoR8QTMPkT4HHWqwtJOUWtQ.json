@@ -105,6 +105,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "OT1lm3IwGWI",
+                        "image": "https://i.ytimg.com/vi/OT1lm3IwGWI/mqdefault.jpg",
+                        "title": "Ankha Dance but Hakuyu Kaano",
+                        "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -114,27 +128,27 @@
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     },
                     {
-                        "video_code": "P5Y3c4iIEpI",
-                        "image": "https://i.ytimg.com/vi/P5Y3c4iIEpI/mqdefault.jpg",
-                        "title": "《Apex》#1 え？！三人もApexの新人！！！FT.天葉あり、猫宮あゆめ《香港Vtuber～白鼬かあの》",
+                        "video_code": "jCvHvg4prMM",
+                        "image": "https://i.ytimg.com/vi/jCvHvg4prMM/mqdefault.jpg",
+                        "title": "《半周年+2.0》春天啦～要換毛啦～！！《香港Vtuber～白鼬かあの》",
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     },
                     {
-                        "video_code": "zmZwP9H5Tnk",
-                        "image": "https://i.ytimg.com/vi/zmZwP9H5Tnk/mqdefault.jpg",
-                        "title": "《歌練習》#1 マクロスΔの歌歌いたい！！！《香港Vtuber～白鼬かあの》",
+                        "video_code": "JAVrJt1Iee8",
+                        "image": "https://i.ytimg.com/vi/JAVrJt1Iee8/mqdefault.jpg",
+                        "title": "《突發》～広東語～陪我整動畫ww《香港Vtuber～白鼬かあの》",
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     },
                     {
-                        "video_code": "FyLZay84k_E",
-                        "image": "https://i.ytimg.com/vi/FyLZay84k_E/mqdefault.jpg",
-                        "title": "《誕生日配信 》～広東語～後ろに誰かいるよ)))《香港Vtuber～白鼬かあの》",
+                        "video_code": "aijfirYJKjc",
+                        "image": "https://i.ytimg.com/vi/aijfirYJKjc/mqdefault.jpg",
+                        "title": "《雑談配信》我番嚟啦～有冇唔記得咗我((《香港Vtuber～白鼬かあの》",
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     },
                     {
-                        "video_code": "XkNWiJb_Xyw",
-                        "image": "https://i.ytimg.com/vi/XkNWiJb_Xyw/mqdefault.jpg",
-                        "title": "《Shift Happens》～広東語～私は1番賢いぞ（× FT.中ニ艾露《香港Vtuber～白鼬かあの》",
+                        "video_code": "iIDCi05903Q",
+                        "image": "https://i.ytimg.com/vi/iIDCi05903Q/mqdefault.jpg",
+                        "title": "《畫畫台》輕輕鬆鬆畫下畫先！！《香港Vtuber～白鼬かあの》",
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     }
                 ]

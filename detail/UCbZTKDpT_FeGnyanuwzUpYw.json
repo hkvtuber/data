@@ -115,6 +115,18 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "BXY8EbO8C2U",
+                        "image": "https://i.ytimg.com/vi/BXY8EbO8C2U/mqdefault.jpg",
+                        "title": "Onigiri dance",
+                        "author": "神崎涼子【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "kC9ei_1F8jE",
+                        "image": "https://i.ytimg.com/vi/kC9ei_1F8jE/mqdefault.jpg",
+                        "title": "INTERNET OVERDOSE",
+                        "author": "神崎涼子【香港Vtuber】"
+                    },
+                    {
                         "video_code": "sNU1JTCG7MU",
                         "image": "https://i.ytimg.com/vi/sNU1JTCG7MU/mqdefault.jpg",
                         "title": "☆～初次見面～自我介紹～☆【香港VTuber】",
@@ -127,9 +139,9 @@
                         "author": "神崎涼子【香港Vtuber】"
                     },
                     {
-                        "video_code": "bb0PLxRcWHc",
-                        "image": "https://i.ytimg.com/vi/bb0PLxRcWHc/mqdefault.jpg",
-                        "title": "【自己紹介】Vtuber一問一答自己紹介【香港VTuber】【神崎涼子】",
+                        "video_code": "ASM3Cr3MXRQ",
+                        "image": "https://i.ytimg.com/vi/ASM3Cr3MXRQ/mqdefault.jpg",
+                        "title": "internet overdose",
                         "author": "神崎涼子【香港Vtuber】"
                     }
                 ]
@@ -141,9 +153,21 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "xE2x-eKH4-Y",
+                        "image": "https://i.ytimg.com/vi/xE2x-eKH4-Y/mqdefault.jpg",
+                        "title": "救我(ringfit)【香港VTuber】【神崎涼子】",
+                        "author": "神崎涼子【香港Vtuber】"
+                    },
+                    {
                         "video_code": "i9F4gj9oVCk",
                         "image": "https://i.ytimg.com/vi/i9F4gj9oVCk/mqdefault.jpg",
                         "title": "\\\\\\☆初配信☆新衣裝☆///600訂閱突破【香港vtuber】",
+                        "author": "神崎涼子【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "ITAjXN-MrM8",
+                        "image": "https://i.ytimg.com/vi/ITAjXN-MrM8/mqdefault.jpg",
+                        "title": "廢人DAY(玩緊tetr.io",
                         "author": "神崎涼子【香港Vtuber】"
                     },
                     {

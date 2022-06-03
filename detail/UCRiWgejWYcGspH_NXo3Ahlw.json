@@ -72,6 +72,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-EEAkLUykwM",
+                        "image": "https://i.ytimg.com/vi/-EEAkLUykwM/mqdefault.jpg",
+                        "title": "由某作品機台個人角色的洐生妄想成真？！☆星 鈴 Hosi Suzu☆ #HKvtuber",
+                        "author": "☆星鈴☆ 【Hosi Suzu】《HKVtuber》"
+                    },
+                    {
+                        "video_code": "8H-HxtSUrWU",
+                        "image": "https://i.ytimg.com/vi/8H-HxtSUrWU/mqdefault.jpg",
+                        "title": "通靈王手遊!發奮丘戰記 一個月後吐嘈不斷 ☆星 鈴 Hosi Suzu☆ #HKvtuber",
+                        "author": "☆星鈴☆ 【Hosi Suzu】《HKVtuber》"
+                    },
+                    {
+                        "video_code": "IptKCwDBDv8",
+                        "image": "https://i.ytimg.com/vi/IptKCwDBDv8/mqdefault.jpg",
+                        "title": "通靈王手遊!發奮丘戰記 月間報告 第1期 ☆星 鈴 Hosi Suzu☆ #HKvtuber",
+                        "author": "☆星鈴☆ 【Hosi Suzu】《HKVtuber》"
+                    },
+                    {
+                        "video_code": "COBDV4k5BY8",
+                        "image": "https://i.ytimg.com/vi/COBDV4k5BY8/mqdefault.jpg",
+                        "title": "通靈王手遊!發奮丘戰記 月間報告 第2期 ☆星 鈴 Hosi Suzu☆ #HKvtuber",
+                        "author": "☆星鈴☆ 【Hosi Suzu】《HKVtuber》"
+                    },
+                    {
+                        "video_code": "Ud9PWvvavhU",
+                        "image": "https://i.ytimg.com/vi/Ud9PWvvavhU/mqdefault.jpg",
+                        "title": "通靈王手遊!發奮丘戰記 月間報告 第3期 ☆星 鈴 Hosi Suzu☆ #HKvtuber",
+                        "author": "☆星鈴☆ 【Hosi Suzu】《HKVtuber》"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "DAo29iNoOPQ",
+                        "image": "https://i.ytimg.com/vi/DAo29iNoOPQ/mqdefault.jpg",
+                        "title": "通靈王手遊!發奮丘戰記 刷首抽 ☆星 鈴 Hosi Suzu☆ #HKvtuber",
+                        "author": "☆星鈴☆ 【Hosi Suzu】《HKVtuber》"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -128,6 +128,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "JUnbJAoAWjI",
+                        "image": "https://i.ytimg.com/vi/JUnbJAoAWjI/mqdefault.jpg",
+                        "title": "GETCHA! / covered by 菊理しおり×酒吞クロナ【HKvtuber】",
+                        "author": "Shiori Ch. 菊理しおり【HKvtuber】"
+                    },
+                    {
                         "video_code": "v8eOmVsyiJs",
                         "image": "https://i.ytimg.com/vi/v8eOmVsyiJs/mqdefault.jpg",
                         "title": "再会/covered by 菊理しおり×里見ハンナ【HKvtuber】",
@@ -137,6 +143,18 @@
                         "video_code": "ZrtiV1UPdFU",
                         "image": "https://i.ytimg.com/vi/ZrtiV1UPdFU/mqdefault.jpg",
                         "title": "想要你在身邊 / covered by 菊理しおり×詩織妹妹【HKvtuber】",
+                        "author": "Shiori Ch. 菊理しおり【HKvtuber】"
+                    },
+                    {
+                        "video_code": "5US3LTd96Aw",
+                        "image": "https://i.ytimg.com/vi/5US3LTd96Aw/mqdefault.jpg",
+                        "title": "【致觀眾】生日快樂!❤",
+                        "author": "Shiori Ch. 菊理しおり【HKvtuber】"
+                    },
+                    {
+                        "video_code": "qYA8yVc2ElU",
+                        "image": "https://i.ytimg.com/vi/qYA8yVc2ElU/mqdefault.jpg",
+                        "title": "【試唱】講你知123！Short ver.【 菊理しおり/香港VTuber】",
                         "author": "Shiori Ch. 菊理しおり【HKvtuber】"
                     }
                 ]
@@ -172,9 +190,9 @@
                         "author": "Shiori Ch. 菊理しおり【HKvtuber】"
                     },
                     {
-                        "video_code": "YoP08XvSuDg",
-                        "image": "https://i.ytimg.com/vi/YoP08XvSuDg/mqdefault.jpg",
-                        "title": "【傷情歌回】沒有技巧,全是感情的唱法!【 菊理しおり/香港VTuber】",
+                        "video_code": "u4oAt0gbKnE",
+                        "image": "https://i.ytimg.com/vi/u4oAt0gbKnE/mqdefault.jpg",
+                        "title": "【雜談】練習說話的雜談啊!!!【 菊理しおり/香港VTuber】",
                         "author": "Shiori Ch. 菊理しおり【HKvtuber】"
                     }
                 ]

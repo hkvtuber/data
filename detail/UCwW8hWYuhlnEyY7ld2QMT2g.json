@@ -95,6 +95,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "DP_L7b7jdD4",
+                        "image": "https://i.ytimg.com/vi/DP_L7b7jdD4/mqdefault.jpg",
+                        "title": "【歌ってみた】新宝島/サカナクション【新人Vtuber】【Granto./赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "CrBUK2IX5bA",
+                        "image": "https://i.ytimg.com/vi/CrBUK2IX5bA/mqdefault.jpg",
+                        "title": "Vtuber一問一答自己紹介 ver. 赤津明里(粵語)【Granto.】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "2grJNE2GFyQ",
+                        "image": "https://i.ytimg.com/vi/2grJNE2GFyQ/mqdefault.jpg",
+                        "title": "【ASMR/助眠】情景音聲(粵語)-來自明里的突發電話【香港Vtuber/赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "iS3cST6gT24",
+                        "image": "https://i.ytimg.com/vi/iS3cST6gT24/mqdefault.jpg",
+                        "title": "好冷噢... #shorts",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "3xe59_1wSVs",
+                        "image": "https://i.ytimg.com/vi/3xe59_1wSVs/mqdefault.jpg",
+                        "title": "【告知】以後也請多多指教",
+                        "author": "Akari ch.赤津明里"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "jRH8P_vALYk",
+                        "image": "https://i.ytimg.com/vi/jRH8P_vALYk/mqdefault.jpg",
+                        "title": "【粵語ASMR】温柔人聲哄睡/輕語.掏耳/睡眠導入 【香港vtuber/赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "BXHIxr0sOK8",
+                        "image": "https://i.ytimg.com/vi/BXHIxr0sOK8/mqdefault.jpg",
+                        "title": "【初配信】新人Vtuber閃亮登埸！想知道狐狸如何叫嗎？【Granto./赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "yUiMgG7fcxg",
+                        "image": "https://i.ytimg.com/vi/yUiMgG7fcxg/mqdefault.jpg",
+                        "title": "【突發】任性的深夜唱歌/聊天台(好啦留檔啦)【香港vtuber/赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "cgEoURkQvj8",
+                        "image": "https://i.ytimg.com/vi/cgEoURkQvj8/mqdefault.jpg",
+                        "title": "【歌回】 失戀歌限定! 【Granto./赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    },
+                    {
+                        "video_code": "J00GfgenTOA",
+                        "image": "https://i.ytimg.com/vi/J00GfgenTOA/mqdefault.jpg",
+                        "title": "【吉他練習】有點生疏也沒有問題?【香港vtuber/赤津明里】",
+                        "author": "Akari ch.赤津明里"
+                    }
+                ]
+            }
         }
     ]
 }

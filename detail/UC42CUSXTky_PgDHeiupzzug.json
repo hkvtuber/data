@@ -80,6 +80,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Of-xiHfU1V8",
+                        "image": "https://i.ytimg.com/vi/Of-xiHfU1V8/mqdefault.jpg",
+                        "title": "【APEX】識玩一定會右手\"3030\"左手\"小幫手\"",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "buWwfWs_xS0",
+                        "image": "https://i.ytimg.com/vi/buWwfWs_xS0/mqdefault.jpg",
+                        "title": "【APEX LEGENDS】我要水我要擺爛",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "6srU2TfFWp4",
+                        "image": "https://i.ytimg.com/vi/6srU2TfFWp4/mqdefault.jpg",
+                        "title": "「APEX」新一季努力爬分",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "DcoQmwnBNgI",
+                        "image": "https://i.ytimg.com/vi/DcoQmwnBNgI/mqdefault.jpg",
+                        "title": "【Valorant】新手緊張又刺激一打五",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "v7-a-Kzlonc",
+                        "image": "https://i.ytimg.com/vi/v7-a-Kzlonc/mqdefault.jpg",
+                        "title": "【寶可夢傳說阿爾宙斯】丟人的傳說寶可夢",
+                        "author": "夜皮【YAPI】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "EBo9idIqcg0",
+                        "image": "https://i.ytimg.com/vi/EBo9idIqcg0/mqdefault.jpg",
+                        "title": "【APEX】每日強化之路",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "o2y_bg_FbDQ",
+                        "image": "https://i.ytimg.com/vi/o2y_bg_FbDQ/mqdefault.jpg",
+                        "title": "【星之卡比 探索發現】食食食食食",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "HtNleYCa1Z8",
+                        "image": "https://i.ytimg.com/vi/HtNleYCa1Z8/mqdefault.jpg",
+                        "title": "【艾爾之光】好無聊玩下",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "tsyFWw6J_aI",
+                        "image": "https://i.ytimg.com/vi/tsyFWw6J_aI/mqdefault.jpg",
+                        "title": "【God Field】大家好!我是渣渣皮,是兄弟就來斬我吧 (參加型)",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "U1pXXiRSFJM",
+                        "image": "https://i.ytimg.com/vi/U1pXXiRSFJM/mqdefault.jpg",
+                        "title": "【跑Online】大隻仔撞不過小光   ٩(´ᗜ`*)୨ (can join)",
+                        "author": "夜皮【YAPI】"
+                    }
+                ]
+            }
         }
     ]
 }

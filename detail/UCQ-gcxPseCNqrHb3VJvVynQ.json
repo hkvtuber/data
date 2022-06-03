@@ -110,6 +110,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "9bNsUP2o0lU",
+                        "image": "https://i.ytimg.com/vi/9bNsUP2o0lU/mqdefault.jpg",
+                        "title": "「宣傳PV」魔王的首支影片！初配訊前導片段♡ 【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "fe012Yq-MDI",
+                        "image": "https://i.ytimg.com/vi/fe012Yq-MDI/mqdefault.jpg",
+                        "title": "魔王來到訪這裡了(๑¯ω¯๑)",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "FI_3LIRNX8Q",
+                        "image": "https://i.ytimg.com/vi/FI_3LIRNX8Q/mqdefault.jpg",
+                        "title": "眷屬貴安！我是夢見康娜w （謝謝粉絲幫我弄的這個影片！）#魔王打工日記",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "RJuZhcFjEYk",
+                        "image": "https://i.ytimg.com/vi/RJuZhcFjEYk/mqdefault.jpg",
+                        "title": "初配信精華💜🦇開場即遜炮的魔王連續生草事件！【官方精華】【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "bouo2zYh-KY",
+                        "image": "https://i.ytimg.com/vi/bouo2zYh-KY/mqdefault.jpg",
+                        "title": "魔王參上！✨【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "cBUW2OxFqtE",
+                        "image": "https://i.ytimg.com/vi/cBUW2OxFqtE/mqdefault.jpg",
+                        "title": "突發歌回！【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "m9ZCZ4PUvD0",
+                        "image": "https://i.ytimg.com/vi/m9ZCZ4PUvD0/mqdefault.jpg",
+                        "title": "Fall Guys💜魔王來打游戲了ヾ(•ω•`)o【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "KqXdl7t4PrQ",
+                        "image": "https://i.ytimg.com/vi/KqXdl7t4PrQ/mqdefault.jpg",
+                        "title": "究竟魔王可唔可以打敗惡龍呢？！魔王MH初體會！【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -99,6 +99,34 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "1OaMXzHVMDQ",
+                        "image": "https://i.ytimg.com/vi/1OaMXzHVMDQ/mqdefault.jpg",
+                        "title": "【HanaChan】cover• 花に亡霊",
+                        "author": "Hana Ch.葉奈ちゃん"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "8WdgOKpbnzs",
+                        "image": "https://i.ytimg.com/vi/8WdgOKpbnzs/mqdefault.jpg",
+                        "title": "hanaChan初配信",
+                        "author": "Hana Ch.葉奈ちゃん"
+                    }
+                ]
+            }
         }
     ]
 }

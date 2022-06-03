@@ -91,6 +91,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "6ta8eCHav98",
+                        "image": "https://i.ytimg.com/vi/6ta8eCHav98/mqdefault.jpg",
+                        "title": "【MAD】雙黑的戀愛循環【文豪野犬 太中CP向】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "zLddO5C1mDg",
+                        "image": "https://i.ytimg.com/vi/zLddO5C1mDg/mqdefault.jpg",
+                        "title": "【mamo洗腦大法】被宮野真守撩人聲線包圍是怎樣的感覺❤【文豪野犬】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "hrdjFXsux9Y",
+                        "image": "https://i.ytimg.com/vi/hrdjFXsux9Y/mqdefault.jpg",
+                        "title": "【有用資訊】香港人實名微信有咩用＋方法【2019年2月最新版本|內地】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "7zz8jJNyW2U",
+                        "image": "https://i.ytimg.com/vi/7zz8jJNyW2U/mqdefault.jpg",
+                        "title": "公主連結｜1月戰隊戰 四階段五王 新黑刀1600萬+ 隊伍分享",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "leTU_vnL4q4",
+                        "image": "https://i.ytimg.com/vi/leTU_vnL4q4/mqdefault.jpg",
+                        "title": "【MAD】狐狸精 該來的總要來【魔道祖師|追凌】",
+                        "author": "723的遊戲日常"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "pTM1QpA0AbQ",
+                        "image": "https://i.ytimg.com/vi/pTM1QpA0AbQ/mqdefault.jpg",
+                        "title": "【live】Among Us太空狼人殺｜TIK LEE＆傻女723聯動｜第一次玩！有機會做狼嗎？會說謊嗎？諸君！看我的奧斯卡(翻車)演技吧～【香港Vtuber】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "RM4NtdFlK5M",
+                        "image": "https://i.ytimg.com/vi/RM4NtdFlK5M/mqdefault.jpg",
+                        "title": "【跨年同時視聽】2021華語VTuber紅白綜藝秀！傻女723初次出場！會唱歌喔！大家一起倒數新年吧！【香港Vtuber】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "vekf2yEHQWc",
+                        "image": "https://i.ytimg.com/vi/vekf2yEHQWc/mqdefault.jpg",
+                        "title": "【live】Among Us太空狼人殺｜TIK LEE＆傻女723聯動2｜復仇戰！今次（應該）不會迷路了！練習過後能脫離廢狼行列？不要怕衝就對了！！！【香港Vtuber】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "L8t2gn40pus",
+                        "image": "https://i.ytimg.com/vi/L8t2gn40pus/mqdefault.jpg",
+                        "title": "【live】傻女723の初配信2.0｜新衣裝發表｜初見！我是723請多多指教～【香港Vtuber雜談】",
+                        "author": "723的遊戲日常"
+                    },
+                    {
+                        "video_code": "3tUQsTGvi44",
+                        "image": "https://i.ytimg.com/vi/3tUQsTGvi44/mqdefault.jpg",
+                        "title": "【live】Among Us太空狼人殺｜觀眾場練習｜傻女723新手上路！想做隻勁狼啊！一起磨練吧！【香港Vtuber】",
+                        "author": "723的遊戲日常"
+                    }
+                ]
+            }
         }
     ]
 }

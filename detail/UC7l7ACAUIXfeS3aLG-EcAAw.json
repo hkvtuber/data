@@ -48,6 +48,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Fn1gyf4BekQ",
+                        "image": "https://i.ytimg.com/vi/Fn1gyf4BekQ/mqdefault.jpg",
+                        "title": "【nirvøc】カオスへようこそ！【0期生デビューPV】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "HD-iPjIY7Rk",
+                        "image": "https://i.ytimg.com/vi/HD-iPjIY7Rk/mqdefault.jpg",
+                        "title": "【精華】觀眾的名字有點怪怪‧‧‧鈴蘭不察覺地讀了出來【花崎すずらん/香港VTuber】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "xldzES6ObJ0",
+                        "image": "https://i.ytimg.com/vi/xldzES6ObJ0/mqdefault.jpg",
+                        "title": "【Nirvøc】歡迎來到(B)地(L)獄(live)~【Talkhub #1】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "5yE-ie3UKD8",
+                        "image": "https://i.ytimg.com/vi/5yE-ie3UKD8/mqdefault.jpg",
+                        "title": "【Nirvøc】今天也是和平的一日【Talkhub #2】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "TnklyXWAxEk",
+                        "image": "https://i.ytimg.com/vi/TnklyXWAxEk/mqdefault.jpg",
+                        "title": "【Nirvøc】「清新」直說【Talkhub #7】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "YbHYEmoYyYg",
+                        "image": "https://i.ytimg.com/vi/YbHYEmoYyYg/mqdefault.jpg",
+                        "title": "【Nirvøc】自由地獄Talk！【Talkhub #6】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "kLGvXX-6NU4",
+                        "image": "https://i.ytimg.com/vi/kLGvXX-6NU4/mqdefault.jpg",
+                        "title": "【Talkhub #8】5G練舞對決【Nirvøc】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    }
+                ]
+            }
         }
     ]
 }

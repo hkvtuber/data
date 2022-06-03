@@ -99,6 +99,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ykAhhFw0rWc",
+                        "image": "https://i.ytimg.com/vi/ykAhhFw0rWc/mqdefault.jpg",
+                        "title": "台詞台節錄 歌名：完全因你",
+                        "author": "星珀千夜【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "uqHny2MK6ho",
+                        "image": "https://i.ytimg.com/vi/uqHny2MK6ho/mqdefault.jpg",
+                        "title": "【初配信】千夜新人出道！【香港Vtuber/星珀千夜】",
+                        "author": "星珀千夜【HKVTuber】"
+                    },
+                    {
+                        "video_code": "AL7md_6wWHg",
+                        "image": "https://i.ytimg.com/vi/AL7md_6wWHg/mqdefault.jpg",
+                        "title": "【雜談】初配信後的雜談，感謝大家~【香港Vtuber/星珀千夜】",
+                        "author": "星珀千夜【HKVTuber】"
+                    },
+                    {
+                        "video_code": "mfhFct-vfgo",
+                        "image": "https://i.ytimg.com/vi/mfhFct-vfgo/mqdefault.jpg",
+                        "title": "【雜談】千夜觀星雜談時間【香港Vtuber/星珀千夜】",
+                        "author": "星珀千夜【HKVTuber】"
+                    },
+                    {
+                        "video_code": "aDV1lh2Fwj4",
+                        "image": "https://i.ytimg.com/vi/aDV1lh2Fwj4/mqdefault.jpg",
+                        "title": "【台詞】係大家期待已久既台詞台【香港Vtuber/星珀千夜】",
+                        "author": "星珀千夜【HKVTuber】"
+                    },
+                    {
+                        "video_code": "xX7cQr2nICk",
+                        "image": "https://i.ytimg.com/vi/xX7cQr2nICk/mqdefault.jpg",
+                        "title": "【雜談】其實好想開情感台【香港Vtuber/星珀千夜】",
+                        "author": "星珀千夜【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

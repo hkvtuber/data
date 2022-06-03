@@ -81,6 +81,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "8DVA_lUDPCQ",
+                        "image": "https://i.ytimg.com/vi/8DVA_lUDPCQ/mqdefault.jpg",
+                        "title": "【貓村彌音歌回精華】你聽過這首神曲嗎(˶‾᷄ ⁻̫ ‾᷅˵)",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
+                        "video_code": "pUYU9c4PVLc",
+                        "image": "https://i.ytimg.com/vi/pUYU9c4PVLc/mqdefault.jpg",
+                        "title": "【九日精華】死亡合集！打boss打到快失智的makoto【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "RfgKGhe4Ulg",
+                        "image": "https://i.ytimg.com/vi/RfgKGhe4Ulg/mqdefault.jpg",
+                        "title": "【初配信！】誒、你知道嗎？那個頹廢DD墮天使被派來人界了（？）【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
+                        "video_code": "Q3otNjOMHsE",
+                        "image": "https://i.ytimg.com/vi/Q3otNjOMHsE/mqdefault.jpg",
+                        "title": "【深夜雜談心事台?】快來一起吐嘈生活上的白痴事吧！【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
+                        "video_code": "UiHFVkoJ138",
+                        "image": "https://i.ytimg.com/vi/UiHFVkoJ138/mqdefault.jpg",
+                        "title": "【文字遊戲】內容全文字？是時候上點中文課了(?)【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
+                        "video_code": "69Lxxpcmf4g",
+                        "image": "https://i.ytimg.com/vi/69Lxxpcmf4g/mqdefault.jpg",
+                        "title": "【COC TRPG】原創劇本：和平的(?)大學生活　第一回　feat. 羽鳥楓鈴 軒轅虛 路君LJ 出雲ふゆ【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
+                        "video_code": "veqvXR11TWA",
+                        "image": "https://i.ytimg.com/vi/veqvXR11TWA/mqdefault.jpg",
+                        "title": "【鐵拳7】鐵拳7！Readly？Fight！！！【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    }
+                ]
+            }
         }
     ]
 }

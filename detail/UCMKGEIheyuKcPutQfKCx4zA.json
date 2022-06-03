@@ -78,6 +78,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Pb8pUUUZNF0",
+                        "image": "https://i.ytimg.com/vi/Pb8pUUUZNF0/mqdefault.jpg",
+                        "title": "竺師傅の虎年十二生肖運程預測（鳩嗡）大會",
+                        "author": "竺重"
+                    },
+                    {
+                        "video_code": "q1qKiE6dIUg",
+                        "image": "https://i.ytimg.com/vi/q1qKiE6dIUg/mqdefault.jpg",
+                        "title": "因為某人持續狂咳唱唔到轉成廚房殺手特輯",
+                        "author": "竺重"
+                    },
+                    {
+                        "video_code": "HvgtDYheIFg",
+                        "image": "https://i.ytimg.com/vi/HvgtDYheIFg/mqdefault.jpg",
+                        "title": "我愛她|#2",
+                        "author": "竺重"
+                    },
+                    {
+                        "video_code": "oZpasSPoZ_4",
+                        "image": "https://i.ytimg.com/vi/oZpasSPoZ_4/mqdefault.jpg",
+                        "title": "突發深夜閒聊",
+                        "author": "竺重"
+                    },
+                    {
+                        "video_code": "J-o9v_-WRBo",
+                        "image": "https://i.ytimg.com/vi/J-o9v_-WRBo/mqdefault.jpg",
+                        "title": "今天是39唉|失蹤人口回歸",
+                        "author": "竺重"
+                    }
+                ]
+            }
         }
     ]
 }

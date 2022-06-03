@@ -122,9 +122,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "-DTXXxwLQW4",
+                        "image": "https://i.ytimg.com/vi/-DTXXxwLQW4/mqdefault.jpg",
+                        "title": "【全部自己聲音】星の消えた夜に - Aimer / Diria Julie (Cover)",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
                         "video_code": "R-y04sgFGJk",
-                        "image": "https://i.ytimg.com/vi/R-y04sgFGJk/hqdefault.jpg",
+                        "image": "https://i.ytimg.com/vi/R-y04sgFGJk/mqdefault.jpg",
                         "title": "Monsters - Katie Sky / Diria Julie (Cover)",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "qNTTEiDPTW8",
+                        "image": "https://i.ytimg.com/vi/qNTTEiDPTW8/mqdefault.jpg",
+                        "title": "【新年快樂】希望2022年大家都快樂！【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "RVaKrAnisOk",
+                        "image": "https://i.ytimg.com/vi/RVaKrAnisOk/mqdefault.jpg",
+                        "title": "【翻唱預告】Take Your Way - SEKAI NO OWARI / Diria Julie (Cover) #Shorts",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     }
                 ]
@@ -139,6 +157,30 @@
                         "video_code": "gsVuwkazMg8",
                         "image": "https://i.ytimg.com/vi/gsVuwkazMg8/mqdefault.jpg",
                         "title": "【初配信】等待500多日，終於能見面了！【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "aD9BR3CGnik",
+                        "image": "https://i.ytimg.com/vi/aD9BR3CGnik/mqdefault.jpg",
+                        "title": "【歌枠】My First Singing Stream and Birthday Countdown!【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "j-AR-6rb_ME",
+                        "image": "https://i.ytimg.com/vi/j-AR-6rb_ME/mqdefault.jpg",
+                        "title": "【非正式歌回】咁啱開咗琴唔想收住，如果攰/餓/琴無電就收台",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "7WxGXv8czns",
+                        "image": "https://i.ytimg.com/vi/7WxGXv8czns/mqdefault.jpg",
+                        "title": "【God Field 互動】互相傷害的卡Game w/路斯吱 & Chat！ 【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "WgP0fVGXQbU",
+                        "image": "https://i.ytimg.com/vi/WgP0fVGXQbU/mqdefault.jpg",
+                        "title": "【DSE加油站】《魚我所欲也》孟子【HKVtuber/迪妮雅・朱莉】",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     }
                 ]

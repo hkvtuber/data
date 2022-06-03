@@ -103,28 +103,72 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "ofT-O3HjU-w",
-                        "image": "https://i.ytimg.com/vi/ofT-O3HjU-w/mqdefault.jpg",
-                        "title": "【自我介紹】貓崎兄妹自我介紹，歡迎來到貓崎家！",
-                        "author": "猫崎家日常【香港Vtuber】"
+                        "video_code": "HirjV5CbdjY",
+                        "image": "https://i.ytimg.com/vi/HirjV5CbdjY/mqdefault.jpg",
+                        "title": "貓崎兄妹，出道！",
+                        "author": "Hinata Ch.猫崎ひなた"
                     },
                     {
                         "video_code": "F9cVjzQ7xkI",
                         "image": "https://i.ytimg.com/vi/F9cVjzQ7xkI/mqdefault.jpg",
                         "title": "【COVER】KING - Kanaria/covered by 猫崎ひなた【歌ってみた】",
-                        "author": "猫崎家日常【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "HirjV5CbdjY",
-                        "image": "https://i.ytimg.com/vi/HirjV5CbdjY/mqdefault.jpg",
-                        "title": "貓崎兄妹，出道！",
-                        "author": "猫崎家日常【香港Vtuber】"
+                        "author": "Hinata Ch.猫崎ひなた"
                     },
                     {
                         "video_code": "obg9Ko--g6c",
                         "image": "https://i.ytimg.com/vi/obg9Ko--g6c/mqdefault.jpg",
                         "title": "🎄🦁聖誕🔥 快樂☀️🎄",
-                        "author": "猫崎家日常【香港Vtuber】"
+                        "author": "Hinata Ch.猫崎ひなた"
+                    },
+                    {
+                        "video_code": "ofT-O3HjU-w",
+                        "image": "https://i.ytimg.com/vi/ofT-O3HjU-w/mqdefault.jpg",
+                        "title": "【自我介紹】貓崎兄妹自我介紹，歡迎來到貓崎家！",
+                        "author": "Hinata Ch.猫崎ひなた"
+                    },
+                    {
+                        "video_code": "41EZKqmT4us",
+                        "image": "https://i.ytimg.com/vi/41EZKqmT4us/mqdefault.jpg",
+                        "title": "貓崎家通告!!!（CC字幕）",
+                        "author": "Hinata Ch.猫崎ひなた"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "CKZAkZnRSqk",
+                        "image": "https://i.ytimg.com/vi/CKZAkZnRSqk/mqdefault.jpg",
+                        "title": "【初配信】兩兄妹搞邊科？貓崎家日常嚟啦！【香港vtuber 】",
+                        "author": "Hinata Ch.猫崎ひなた"
+                    },
+                    {
+                        "video_code": "QZLXd0NJ0do",
+                        "image": "https://i.ytimg.com/vi/QZLXd0NJ0do/mqdefault.jpg",
+                        "title": "【VRchat】今天會遇到什麼樣的人?",
+                        "author": "Hinata Ch.猫崎ひなた"
+                    },
+                    {
+                        "video_code": "k97bZh1hdPw",
+                        "image": "https://i.ytimg.com/vi/k97bZh1hdPw/mqdefault.jpg",
+                        "title": "【輕鬆｜夜晚雜談】第一次雜談(๑˃̶͈̀ ᗨ ˂̶͈́)一起聊天吧",
+                        "author": "Hinata Ch.猫崎ひなた"
+                    },
+                    {
+                        "video_code": "JH9YIZ6R6no",
+                        "image": "https://i.ytimg.com/vi/JH9YIZ6R6no/mqdefault.jpg",
+                        "title": "【VALORANT】初體驗!!! 被爆頭大放送!!!",
+                        "author": "Hinata Ch.猫崎ひなた"
+                    },
+                    {
+                        "video_code": "TsjQ3-xhgZ4",
+                        "image": "https://i.ytimg.com/vi/TsjQ3-xhgZ4/mqdefault.jpg",
+                        "title": "【Super Animal Royale】真 • 直播  新手出擊  Ft. Sakira咲娜",
+                        "author": "Hinata Ch.猫崎ひなた"
                     }
                 ]
             }

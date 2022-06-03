@@ -101,6 +101,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "YMK3wWxamnc",
+                        "image": "https://i.ytimg.com/vi/YMK3wWxamnc/mqdefault.jpg",
+                        "title": "【初配信】約定與你相見【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    },
+                    {
+                        "video_code": "MVcTn8dLTfY",
+                        "image": "https://i.ytimg.com/vi/MVcTn8dLTfY/mqdefault.jpg",
+                        "title": "[💜繪畫配信💜] 我要令更多人接觸到Furry文化❗👌【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    },
+                    {
+                        "video_code": "X9U523BCXvE",
+                        "image": "https://i.ytimg.com/vi/X9U523BCXvE/mqdefault.jpg",
+                        "title": "[🎉誕生日配信🎉] 光速生日配信 + [Switch參加型] 狩獵魔物活動🏹【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    },
+                    {
+                        "video_code": "UqrTG95ksEs",
+                        "image": "https://i.ytimg.com/vi/UqrTG95ksEs/mqdefault.jpg",
+                        "title": "[💜雜談配信💜]  入嚟吹下水🥴【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    },
+                    {
+                        "video_code": "O7i5-uNxCZU",
+                        "image": "https://i.ytimg.com/vi/O7i5-uNxCZU/mqdefault.jpg",
+                        "title": "[💜魔物獵人 世界💜]🗡打人?打怪?🗡【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

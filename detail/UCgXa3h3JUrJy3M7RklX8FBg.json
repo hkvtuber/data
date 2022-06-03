@@ -95,37 +95,75 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "MIg8uIbzBfE",
+                        "image": "https://i.ytimg.com/vi/MIg8uIbzBfE/mqdefault.jpg",
+                        "title": "【秋本ミズキ3D】mizuki一直都在渴望的3D...【スットレイネHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
+                    },
+                    {
+                        "video_code": "WUYwwkq6_4U",
+                        "image": "https://i.ytimg.com/vi/WUYwwkq6_4U/mqdefault.jpg",
+                        "title": "【突發記者會/謝罪配信】謝罪配信。真的十分抱歉Orz【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
+                    },
+                    {
+                        "video_code": "v6eo4uJiqsE",
+                        "image": "https://i.ytimg.com/vi/v6eo4uJiqsE/mqdefault.jpg",
+                        "title": "【情人節特輯/Valentine's Day Special】3 2 1 mua❤【スカイライブHK／秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
+                    },
+                    {
+                        "video_code": "iHsMv7RGsEQ",
+                        "image": "https://i.ytimg.com/vi/iHsMv7RGsEQ/mqdefault.jpg",
+                        "title": "^w^",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
+                    },
+                    {
+                        "video_code": "NZxEG71AXq0",
+                        "image": "https://i.ytimg.com/vi/NZxEG71AXq0/mqdefault.jpg",
+                        "title": "【IdentityV/第五人格】髒話即終了，挑戰全程心平氣和的mizuki【#粵語場合】【スットレイネHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "hb2IuMtMkYo",
                         "image": "https://i.ytimg.com/vi/hb2IuMtMkYo/mqdefault.jpg",
                         "title": "【#秋本瑞希初配信】初見wi 我係mizuki!【スカイライブHK / 秋本瑞希☆】",
-                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
+                    },
+                    {
+                        "video_code": "v4jIFonb2Vs",
+                        "image": "https://i.ytimg.com/vi/v4jIFonb2Vs/mqdefault.jpg",
+                        "title": "【耐久】很突然，但是，今天來八小時耐久吧！gyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa【スットレイネHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
                     },
                     {
                         "video_code": "KRb4xy_M9Ms",
                         "image": "https://i.ytimg.com/vi/KRb4xy_M9Ms/mqdefault.jpg",
                         "title": "【半夜作業雜談】初配信前純聊天室直播desu╰(￣ω￣ｏ)【スカイライブHK / 秋本瑞希☆】",
-                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
                     },
                     {
-                        "video_code": "ZdV2L3wnN5A",
-                        "image": "https://i.ytimg.com/vi/ZdV2L3wnN5A/mqdefault.jpg",
-                        "title": "【突發/待機雜談作業(?)】待機的過程中來做一下作業吧【スカイライブHK / 秋本瑞希☆】",
-                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                        "video_code": "fkwSEu76npo",
+                        "image": "https://i.ytimg.com/vi/fkwSEu76npo/mqdefault.jpg",
+                        "title": "【#秋本瑞希お披露目】煥然一新的mizuki來了！【スカイライブHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
                     },
                     {
-                        "video_code": "Ib1gMwrgnpE",
-                        "image": "https://i.ytimg.com/vi/Ib1gMwrgnpE/mqdefault.jpg",
-                        "title": "【突發/練歌台】初見舞台！不是歌回！練習而已！【スカイライブHK / 秋本瑞希☆】",
-                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
-                    },
-                    {
-                        "video_code": "2-yTpX0bW6o",
-                        "image": "https://i.ytimg.com/vi/2-yTpX0bW6o/mqdefault.jpg",
-                        "title": "【突發/作業雜談】就非常普通地小聊一下(？【スカイライブHK / 秋本瑞希☆】",
-                        "author": "Mizuki Ch. 秋本瑞希 SkyliveHK"
+                        "video_code": "woAA3eJWpjA",
+                        "image": "https://i.ytimg.com/vi/woAA3eJWpjA/mqdefault.jpg",
+                        "title": "【Karaoke/歌枠】唱爆它！LET‘S SINGGGGGGGGGG！告知アリ！！！【スットレイネHK / 秋本瑞希☆】",
+                        "author": "Mizuki Ch. 秋本ミズキ StRineHK"
                     }
                 ]
             }

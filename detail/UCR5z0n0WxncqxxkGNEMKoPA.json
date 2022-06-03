@@ -78,6 +78,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "6XrKlCzvQ40",
+                        "image": "https://i.ytimg.com/vi/6XrKlCzvQ40/mqdefault.jpg",
+                        "title": "【第五人格】殿堂級排位局- 約定的夢幻島聯動戰局！四人殊死逃生！ft.正一傻西瓜【Kinter/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "2IpJ6YBgQxk",
+                        "image": "https://i.ytimg.com/vi/2IpJ6YBgQxk/mqdefault.jpg",
+                        "title": "【第五人格】從零開始の打機拍片- 巔峰7階求生玩傑克失誤實錄",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "0BdFQPD7pc4",
+                        "image": "https://i.ytimg.com/vi/0BdFQPD7pc4/mqdefault.jpg",
+                        "title": "【第五人格】巔峰七階人皇！監管者高燃混剪！各種恐懼震懾！ 【Kinter/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "VffiL37DfqE",
+                        "image": "https://i.ytimg.com/vi/VffiL37DfqE/mqdefault.jpg",
+                        "title": "【第五人格】與正一傻西瓜協力的一戰，意料之外的結局！ft.正一傻西瓜【Kinter/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "Xig4_TpDRS4",
+                        "image": "https://i.ytimg.com/vi/Xig4_TpDRS4/mqdefault.jpg",
+                        "title": "【自我介紹】現在才是出道！懂嗎？發瘋系Vtuber現在上線了！【柴田波/Kinter/HKVtuber】",
+                        "author": "Ball Ch. 柴田波"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "L7XmkmNILSI",
+                        "image": "https://i.ytimg.com/vi/L7XmkmNILSI/mqdefault.jpg",
+                        "title": "【第五人格】癲狗七階！輸都照撞！【柴田波/HKVtuber】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "cP_8AYCUnHE",
+                        "image": "https://i.ytimg.com/vi/cP_8AYCUnHE/mqdefault.jpg",
+                        "title": "【第五人格/戰意/唱歌】醉曖食飯！個個都食，唔通我唔食？ASMR. 第五排位之後戰意！深夜戰意中！最後有唱歌環節！【Kinter/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "Ys5aRZT7jik",
+                        "image": "https://i.ytimg.com/vi/Ys5aRZT7jik/mqdefault.jpg",
+                        "title": "【第五人格】偽喂喂喂！拍Vlog未？ ASMR. 接住打排位 ft.正一傻西瓜【Kinter/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "6bihhn9c6Zo",
+                        "image": "https://i.ytimg.com/vi/6bihhn9c6Zo/mqdefault.jpg",
+                        "title": "【第五人格/永劫無間】 巔七雙排！最後一次既第五人格！開始玩新GAME！【香港Vtuber/柴田波/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    },
+                    {
+                        "video_code": "Wv9lQkvOzck",
+                        "image": "https://i.ytimg.com/vi/Wv9lQkvOzck/mqdefault.jpg",
+                        "title": "【第五人格】觀眾們！準備打排位了！【Kinter/DaiY】",
+                        "author": "Ball Ch. 柴田波"
+                    }
+                ]
+            }
         }
     ]
 }

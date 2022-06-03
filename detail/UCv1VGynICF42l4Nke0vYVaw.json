@@ -105,6 +105,44 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "MSHCY1VqJds",
+                        "image": "https://i.ytimg.com/vi/MSHCY1VqJds/mqdefault.jpg",
+                        "title": "好奇三十秒 : 物理篇 || 咩係慣性定律?",
+                        "author": "哈里クエーサー【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "xJ9fSAHqlSI",
+                        "image": "https://i.ytimg.com/vi/xJ9fSAHqlSI/mqdefault.jpg",
+                        "title": "【香港Vtuber】一齊掃街 || 食盡香港街頭小食",
+                        "author": "哈里クエーサー【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "Q3XfxQhsjl0",
+                        "image": "https://i.ytimg.com/vi/Q3XfxQhsjl0/mqdefault.jpg",
+                        "title": "【香港Vtuber】香港已經消失的職業？",
+                        "author": "哈里クエーサー【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "zJAx2TaankM",
+                        "image": "https://i.ytimg.com/vi/zJAx2TaankM/mqdefault.jpg",
+                        "title": "【香港Vtuber】一齊食茶記 || 三分鐘了解茶餐廳術語",
+                        "author": "哈里クエーサー【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "VfzN0jeV4CQ",
+                        "image": "https://i.ytimg.com/vi/VfzN0jeV4CQ/mqdefault.jpg",
+                        "title": "為何會殺人? 平平無奇的人可能是殺人犯? || 犯罪研究室【哈里クエーサー / 香港Vtuber】",
+                        "author": "哈里クエーサー【香港Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -126,15 +164,15 @@
                         "author": "哈里クエーサー【香港Vtuber】"
                     },
                     {
-                        "video_code": "P1Oj-QkkYEU",
-                        "image": "https://i.ytimg.com/vi/P1Oj-QkkYEU/mqdefault.jpg",
-                        "title": "【冥滅星】終於...今日要大戰終界龍 ft. 說書客, 詩織 || Minecraft【哈里クエーサー / 香港Vtuber】",
+                        "video_code": "-zMhEZC_MAs",
+                        "image": "https://i.ytimg.com/vi/-zMhEZC_MAs/mqdefault.jpg",
+                        "title": "【重「衫」起步】第一件男裝！！~~ || 畫畫台嚟 都係打版 更可能係縫紉 || 終於要開始我嘅處男...作啦【哈里クエーサー / 香港Vtuber】",
                         "author": "哈里クエーサー【香港Vtuber】"
                     },
                     {
-                        "video_code": "zyiTeLZ5SHA",
-                        "image": "https://i.ytimg.com/vi/zyiTeLZ5SHA/mqdefault.jpg",
-                        "title": "【Minecraft】SMP 開通真的很興奮【哈里クエーサー / 香港Vtuber】",
+                        "video_code": "P1Oj-QkkYEU",
+                        "image": "https://i.ytimg.com/vi/P1Oj-QkkYEU/mqdefault.jpg",
+                        "title": "【冥滅星】終於...今日要大戰終界龍 ft. 說書客, 詩織 || Minecraft【哈里クエーサー / 香港Vtuber】",
                         "author": "哈里クエーサー【香港Vtuber】"
                     }
                 ]

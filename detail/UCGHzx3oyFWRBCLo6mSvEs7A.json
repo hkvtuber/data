@@ -74,12 +74,6 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "_54h9JtTWx8",
-                        "image": "https://i.ytimg.com/vi/_54h9JtTWx8/mqdefault.jpg",
-                        "title": "【香港VTuber】自我介紹唔覺意變咗靈異故事==” 【知識型Vtuber】",
-                        "author": "亞兔與倉鼠仔【香港VTuber】"
-                    },
-                    {
                         "video_code": "OaMo3oMq8FE",
                         "image": "https://i.ytimg.com/vi/OaMo3oMq8FE/mqdefault.jpg",
                         "title": "【知識型VTuber】亞兔講圍棋故事｜棋魂的預言在20年後實現？｜圍棋如何在日本承傳下來？｜Go chess (中文/ENG/日本語字幕)",
@@ -95,6 +89,32 @@
                         "video_code": "ZQ3HxNSfToE",
                         "image": "https://i.ytimg.com/vi/ZQ3HxNSfToE/mqdefault.jpg",
                         "title": "【香港VTuber】亞兔講藝術小知識+九唔搭八名畫小劇場｜唐伯虎也來了～？｜當名畫變成萌萌的貓貓和兔兔",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "4rVS3Lfo2dI",
+                        "image": "https://i.ytimg.com/vi/4rVS3Lfo2dI/mqdefault.jpg",
+                        "title": "【知識型VTuber】巴士的由來｜亞兔遊倫敦交通博物館，講下維多利亞時代的倫敦巴士~上集~（巴士系列 vol.1）｜Bus in Victorian London（中文/ENG字幕）",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    },
+                    {
+                        "video_code": "Qzfz1JrsxYk",
+                        "image": "https://i.ytimg.com/vi/Qzfz1JrsxYk/mqdefault.jpg",
+                        "title": "【香港VTuber】倫敦巴士的演變，從馬巴士到AEC Routemaster｜亞兔遊倫敦交通博物館~下集~（巴士系列 vol.2）",
+                        "author": "亞兔與倉鼠仔【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "AQ2Ir9iYg0c",
+                        "image": "https://i.ytimg.com/vi/AQ2Ir9iYg0c/mqdefault.jpg",
+                        "title": "睡不着聽哲學｜柏拉圖《理想國》卷一【香港VTuber】",
                         "author": "亞兔與倉鼠仔【香港VTuber】"
                     }
                 ]

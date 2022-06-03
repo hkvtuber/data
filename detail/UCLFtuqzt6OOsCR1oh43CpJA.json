@@ -101,34 +101,72 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "vrAs5E5qbMQ",
-                        "image": "https://i.ytimg.com/vi/vrAs5E5qbMQ/mqdefault.jpg",
-                        "title": "【COVER】No.7  / 地縛少年バンド ◆ ver. BASA 【地縛少年花子くん】",
-                        "author": "BASA🦊轉生準備中"
-                    },
-                    {
                         "video_code": "IXIcu2eu4gs",
                         "image": "https://i.ytimg.com/vi/IXIcu2eu4gs/mqdefault.jpg",
                         "title": "【COVER】言って。 / ヨルシカ ◆ ver. BASA【粵語翻唱】",
-                        "author": "BASA🦊轉生準備中"
+                        "author": "BASA🦊83 Ch."
                     },
                     {
-                        "video_code": "THsHFr0-ynQ",
-                        "image": "https://i.ytimg.com/vi/THsHFr0-ynQ/mqdefault.jpg",
-                        "title": "【COVER】センセンフコク / 山田二郎 ◆ ver. BASA",
-                        "author": "BASA🦊轉生準備中"
+                        "video_code": "vrAs5E5qbMQ",
+                        "image": "https://i.ytimg.com/vi/vrAs5E5qbMQ/mqdefault.jpg",
+                        "title": "【COVER】No.7  / 地縛少年バンド ◆ ver. BASA 【地縛少年花子くん】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "NHZdjg-dS44",
+                        "image": "https://i.ytimg.com/vi/NHZdjg-dS44/mqdefault.jpg",
+                        "title": "【HKVtuber】#Vtuber一問一答自己紹介【BASA】",
+                        "author": "BASA🦊83 Ch."
                     },
                     {
                         "video_code": "7LMXixQF4N4",
                         "image": "https://i.ytimg.com/vi/7LMXixQF4N4/mqdefault.jpg",
                         "title": "【COVER】幽霊東京 / Ayase ◆ ver. BASA",
-                        "author": "BASA🦊轉生準備中"
+                        "author": "BASA🦊83 Ch."
                     },
                     {
                         "video_code": "T9pGrKsNuOA",
                         "image": "https://i.ytimg.com/vi/T9pGrKsNuOA/mqdefault.jpg",
                         "title": "【COVER】冬のはなし / ギヴン ◆ ver. BASA 【GIVEN劇場版支援！！】",
-                        "author": "BASA🦊轉生準備中"
+                        "author": "BASA🦊83 Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "7_skE8ouYBg",
+                        "image": "https://i.ytimg.com/vi/7_skE8ouYBg/mqdefault.jpg",
+                        "title": "【初配信】苦勞人社畜參上！！説不定是狐狸。。。？【BASA】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "vqamuLnsHXQ",
+                        "image": "https://i.ytimg.com/vi/vqamuLnsHXQ/mqdefault.jpg",
+                        "title": "【BASA】酒精+BL雜談+遊戲 = 混沌線下會！！ feat. ennsings, 緋佐あきと​【情況由糟糕變成難以理解】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "eMr3OEk0Zoc",
+                        "image": "https://i.ytimg.com/vi/eMr3OEk0Zoc/mqdefault.jpg",
+                        "title": "【初配2.0】年末就是要來唱歌啦！！【BASA】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "_4YgwEnARs4",
+                        "image": "https://i.ytimg.com/vi/_4YgwEnARs4/mqdefault.jpg",
+                        "title": "【BASA】以防會忘記所以第一天就來開歌回啦！！【新曲同時視聽】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "4kk39d7HgFA",
+                        "image": "https://i.ytimg.com/vi/4kk39d7HgFA/mqdefault.jpg",
+                        "title": "【映像研#1】PV解説！！來談談梅伊的GHOST！！！【BASA】",
+                        "author": "BASA🦊83 Ch."
                     }
                 ]
             }

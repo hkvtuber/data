@@ -100,6 +100,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "gmKRjO6Wg1k",
+                        "image": "https://i.ytimg.com/vi/gmKRjO6Wg1k/mqdefault.jpg",
+                        "title": "【自我介紹】Minoru is coming to town【亞實みのる/香港Vtuber】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "mLIoUzQuO5A",
+                        "image": "https://i.ytimg.com/vi/mLIoUzQuO5A/mqdefault.jpg",
+                        "title": "【IF】為了約13秒的告知，做了3分鐘的鋪墊【亞實 みのる/香港Vtuber】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uXeoKapBw8k",
+                        "image": "https://i.ytimg.com/vi/uXeoKapBw8k/mqdefault.jpg",
+                        "title": "【香港Vtuber精華】全場公認MVP？！淨係呢場都有〇隻鵝衰喺佢到🤯【亞實 みのる】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "tt_QMKeeAa8",
+                        "image": "https://i.ytimg.com/vi/tt_QMKeeAa8/mqdefault.jpg",
+                        "title": "【心跳回憶GS4】今次把7小時半的實況剪成11分鐘了  |  請打開CC字幕【亞實 みのる/香港Vtuber】【有劇透】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3AAv8Je784Y",
+                        "image": "https://i.ytimg.com/vi/3AAv8Je784Y/mqdefault.jpg",
+                        "title": "【香港Vtuber精華/中文字幕】試著把3小時半的直播濃縮到8分鐘半了／Apathy在學校發生過的恐怖故事 極 （試玩版）【亞實 みのる】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "FOGMKzh_Abk",
+                        "image": "https://i.ytimg.com/vi/FOGMKzh_Abk/mqdefault.jpg",
+                        "title": "【突發練歌回/作業台】等快遞等到就訓著【亞實 みのる/香港Vtuber】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "hu983ErCziE",
+                        "image": "https://i.ytimg.com/vi/hu983ErCziE/mqdefault.jpg",
+                        "title": "【DVD挑戰台】簡單黎講就係作業雜談台，不過D住人地台開咁解💃【亞實みのる/香港Vtuber】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "5MzMJv-yYjg",
+                        "image": "https://i.ytimg.com/vi/5MzMJv-yYjg/mqdefault.jpg",
+                        "title": "【初配信】新人出道！讚好、訂閱，好人一生平安【亞實みのる/香港Vtuber】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "-4C7qoMIrY8",
+                        "image": "https://i.ytimg.com/vi/-4C7qoMIrY8/mqdefault.jpg",
+                        "title": "【# 1】心跳回憶GS4 / ときメモGS4  入學！【亞實 みのる/香港Vtuber】【有劇透 /ネタバレあり】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    },
+                    {
+                        "video_code": "gs_g1SNykVc",
+                        "image": "https://i.ytimg.com/vi/gs_g1SNykVc/mqdefault.jpg",
+                        "title": "【突發雜談】梳梳梳 雜談吖嘛？宜家開！ 【亞實 みのる/香港Vtuber】",
+                        "author": "亞實 みのる【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

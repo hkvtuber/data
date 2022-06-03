@@ -64,6 +64,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "EJqxIjECeJA",
+                        "image": "https://i.ytimg.com/vi/EJqxIjECeJA/mqdefault.jpg",
+                        "title": "真·自我介紹 香港新人Vtuber 檸檬",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "jbxXpiIZSKU",
+                        "image": "https://i.ytimg.com/vi/jbxXpiIZSKU/mqdefault.jpg",
+                        "title": "自我介紹",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "r7OtYtUcJzI",
+                        "image": "https://i.ytimg.com/vi/r7OtYtUcJzI/mqdefault.jpg",
+                        "title": "Hong Kong Vtuber Moist Cr1TiKaL",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "bqlp8XsCnAU",
+                        "image": "https://i.ytimg.com/vi/bqlp8XsCnAU/mqdefault.jpg",
+                        "title": "25訂閱數紀念影片",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "FTDbCOcjwx4",
+                        "image": "https://i.ytimg.com/vi/FTDbCOcjwx4/mqdefault.jpg",
+                        "title": "Are you in china now?",
+                        "author": "檸檬【香港Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "cLtXHPyKatw",
+                        "image": "https://i.ytimg.com/vi/cLtXHPyKatw/mqdefault.jpg",
+                        "title": "【The Hong Kong Massacre #1】神都係人黎 能夠把握自己條命果個咪神囉 - 檸檬【香港Vtuber】",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "DLiYop8-7K8",
+                        "image": "https://i.ytimg.com/vi/DLiYop8-7K8/mqdefault.jpg",
+                        "title": "【寶可夢傳說 阿爾宙斯 #3】進化成火爆獸後high大左 - 檸檬【香港Vtuber】",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "y_dtRGD6qpk",
+                        "image": "https://i.ytimg.com/vi/y_dtRGD6qpk/mqdefault.jpg",
+                        "title": "【人中之龍7 光與闇的去向 #10】唔爆機唔收台 - 檸檬【香港Vtuber】",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "uKaaINScDUo",
+                        "image": "https://i.ytimg.com/vi/uKaaINScDUo/mqdefault.jpg",
+                        "title": "【異度神劍 終極版 #11】點解你會咁熟練?! - 檸檬【香港Vtuber】",
+                        "author": "檸檬【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "P7zxRj825CE",
+                        "image": "https://i.ytimg.com/vi/P7zxRj825CE/mqdefault.jpg",
+                        "title": "【異度神劍 終極版 #6】山頂既朋友你地好 - 檸檬【香港Vtuber】",
+                        "author": "檸檬【香港Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

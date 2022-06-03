@@ -64,6 +64,52 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "9HPV7wqjIAo",
+                        "image": "https://i.ytimg.com/vi/9HPV7wqjIAo/mqdefault.jpg",
+                        "title": "text text text 初配信時間公佈",
+                        "author": "淺夏清風 新人【HKVTuber】"
+                    },
+                    {
+                        "video_code": "uQUUyibN5VU",
+                        "image": "https://i.ytimg.com/vi/uQUUyibN5VU/mqdefault.jpg",
+                        "title": "30s畫船長",
+                        "author": "淺夏清風 新人【HKVTuber】"
+                    },
+                    {
+                        "video_code": "frtCVSiGUaQ",
+                        "image": "https://i.ytimg.com/vi/frtCVSiGUaQ/mqdefault.jpg",
+                        "title": "happy birthday to meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                        "author": "淺夏清風 新人【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "tmemcIsZ-Ko",
+                        "image": "https://i.ytimg.com/vi/tmemcIsZ-Ko/mqdefault.jpg",
+                        "title": "初配信!!!可愛古代公主出道la!!!",
+                        "author": "淺夏清風 新人【HKVTuber】"
+                    },
+                    {
+                        "video_code": "igfpY6mKirk",
+                        "image": "https://i.ytimg.com/vi/igfpY6mKirk/mqdefault.jpg",
+                        "title": "【突發】今日唔練歌今日真唱歌【淺夏清風hkvtuber】",
+                        "author": "淺夏清風 新人【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

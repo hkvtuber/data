@@ -94,6 +94,46 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "lnS4Zv8iU_U",
+                        "image": "https://i.ytimg.com/vi/lnS4Zv8iU_U/mqdefault.jpg",
+                        "title": "【自我介紹】熊公仔也要當VTuber ! ?【HKVTuber/熊川まる】",
+                        "author": "Maru Ch. 熊川まる【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-pWbLPqB3PU",
+                        "image": "https://i.ytimg.com/vi/-pWbLPqB3PU/mqdefault.jpg",
+                        "title": "【初配信】大家的熊熊要出來了♡【HKVTuber/熊川まる】",
+                        "author": "Maru Ch. 熊川まる【HKVTuber】"
+                    },
+                    {
+                        "video_code": "26qJWoNDPck",
+                        "image": "https://i.ytimg.com/vi/26qJWoNDPck/mqdefault.jpg",
+                        "title": "【殺戮の天使】ザック♡ 哈嘶哈嘶【HKVTuber/熊川まる】",
+                        "author": "Maru Ch. 熊川まる【HKVTuber】"
+                    },
+                    {
+                        "video_code": "6zL9Se7hZLA",
+                        "image": "https://i.ytimg.com/vi/6zL9Se7hZLA/mqdefault.jpg",
+                        "title": "【UNPACKING】一起來大掃除♡︎【HKVTuber/熊川まる】",
+                        "author": "Maru Ch. 熊川まる【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

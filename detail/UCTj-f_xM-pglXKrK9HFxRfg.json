@@ -101,6 +101,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "heshttbIFl8",
+                        "image": "https://i.ytimg.com/vi/heshttbIFl8/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自己紹介【有栖のあ／香港Vtuber】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    },
+                    {
+                        "video_code": "3Q88oloUdgk",
+                        "image": "https://i.ytimg.com/vi/3Q88oloUdgk/mqdefault.jpg",
+                        "title": "【AliceNoa 香港Vtuber】AI的世界可能是倍速的【#Short】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "JBgTHa63YCc",
+                        "image": "https://i.ytimg.com/vi/JBgTHa63YCc/mqdefault.jpg",
+                        "title": "【出道初配信】初次見面的人初次見面，除此以外的人再次見面（？）【有栖のあ／香港Vtuber】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    },
+                    {
+                        "video_code": "SvOddlzyat4",
+                        "image": "https://i.ytimg.com/vi/SvOddlzyat4/mqdefault.jpg",
+                        "title": "【香港地理達人挑戰】AI應該要全對才是吧【有栖のあ／香港Vtuber】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    },
+                    {
+                        "video_code": "ANzhsiK0-FA",
+                        "image": "https://i.ytimg.com/vi/ANzhsiK0-FA/mqdefault.jpg",
+                        "title": "【APEX】送外賣【有栖のあ／香港Vtuber】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    },
+                    {
+                        "video_code": "MBYqGYx_RuI",
+                        "image": "https://i.ytimg.com/vi/MBYqGYx_RuI/mqdefault.jpg",
+                        "title": "【Gartic Phone】\\ 視聴者参加型 / 滿月【有栖のあ／香港Vtuber】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    },
+                    {
+                        "video_code": "Sf2vQvTOboY",
+                        "image": "https://i.ytimg.com/vi/Sf2vQvTOboY/mqdefault.jpg",
+                        "title": "【雀魂】不會打日麻 \\ 觀眾參加場 /【有栖のあ／香港Vtuber】",
+                        "author": "AliceNoa Ch. / 有栖のあ"
+                    }
+                ]
+            }
         }
     ]
 }

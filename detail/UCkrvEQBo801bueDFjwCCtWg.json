@@ -89,6 +89,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "n7Pkzm9AE9w",
+                        "image": "https://i.ytimg.com/vi/n7Pkzm9AE9w/mqdefault.jpg",
+                        "title": "【給大家的話】來自凜喵的鼓勵(中文字幕/Eng sub)【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "bP6NzSN9oCA",
+                        "image": "https://i.ytimg.com/vi/bP6NzSN9oCA/mqdefault.jpg",
+                        "title": "【給DSE考生的話】加油啊！！唔洗比太大壓力自己咖！盡左力就好(中文字幕/Eng Sub)【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nxNZZU0Cw7g",
+                        "image": "https://i.ytimg.com/vi/nxNZZU0Cw7g/mqdefault.jpg",
+                        "title": "初配前直播測試的凜喵【原片沒了qwq】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "9lWzzhBta3w",
+                        "image": "https://i.ytimg.com/vi/9lWzzhBta3w/mqdefault.jpg",
+                        "title": "【自我介紹】初次見面！大家多多指教！(中文字幕/Eng sub)【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "75G5TjnRE0A",
+                        "image": "https://i.ytimg.com/vi/75G5TjnRE0A/mqdefault.jpg",
+                        "title": "【廢片】喵！！！【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "qIMTkNyY2l0",
+                        "image": "https://i.ytimg.com/vi/qIMTkNyY2l0/mqdefault.jpg",
+                        "title": "【Cooking Simulator】終於可以食到凜喵整嘅甜品？！可能係暗黑料理w【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "sLhiNdKfj5g",
+                        "image": "https://i.ytimg.com/vi/sLhiNdKfj5g/mqdefault.jpg",
+                        "title": "【史萊姆農場 Slime Rancher】黎同凜喵捉唔同嘅史萊姆返屋企啦~一邊聊天一邊玩吧！#1【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "pz2EIByBdAk",
+                        "image": "https://i.ytimg.com/vi/pz2EIByBdAk/mqdefault.jpg",
+                        "title": "【聯動】Untitled Goose Game 聽講有得搗亂w ft. 獅子山Rio【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "LPXeThTdk48",
+                        "image": "https://i.ytimg.com/vi/LPXeThTdk48/mqdefault.jpg",
+                        "title": "【初配信】8/2見！香港新人Vtuber - 凛喵出道~",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "YIYAGJo4EYM",
+                        "image": "https://i.ytimg.com/vi/YIYAGJo4EYM/mqdefault.jpg",
+                        "title": "【Cat Museum 貓博物館】有好多貓貓！這真的是恐怖遊戲？凜喵玩到喊！？明明貓咪那麼可愛【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

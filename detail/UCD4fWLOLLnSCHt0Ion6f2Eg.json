@@ -100,18 +100,50 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "G69I6eQ8NWk",
+                        "image": "https://i.ytimg.com/vi/G69I6eQ8NWk/mqdefault.jpg",
+                        "title": "【#Short】所有不幸發生在同一時間【APEX】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "QTdADy_KEPw",
+                        "image": "https://i.ytimg.com/vi/QTdADy_KEPw/mqdefault.jpg",
+                        "title": "【#Short】貼面打就不會泡槍【APEX】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "iADGKXMmJKY",
+                        "image": "https://i.ytimg.com/vi/iADGKXMmJKY/mqdefault.jpg",
+                        "title": "【Apex Legends】0 or 100 的男人  FT.8rice,津雲あられ【HKVtuber】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "S-OvJVz3ZU8",
+                        "image": "https://i.ytimg.com/vi/S-OvJVz3ZU8/mqdefault.jpg",
+                        "title": "【Apex Legends】 同隊友神cover！！！味方との神カバー！！！【HKVtuber】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "B2jRoRz6H2c",
+                        "image": "https://i.ytimg.com/vi/B2jRoRz6H2c/mqdefault.jpg",
+                        "title": "[Apex Legends]　遅くのエイプリルフールイベント[中/日字幕]",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "32nqmP7cwqk",
                         "image": "https://i.ytimg.com/vi/32nqmP7cwqk/mqdefault.jpg",
                         "title": "【香港Vtuber】初めまして、柊瑛二です。【初配信】",
-                        "author": "柊 瑛二 【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "Lyiccx4JTSE",
-                        "image": "https://i.ytimg.com/vi/Lyiccx4JTSE/mqdefault.jpg",
-                        "title": "モデル／模組2.0【柊瑛二】【粵/日】",
                         "author": "柊 瑛二 【香港Vtuber】"
                     },
                     {
@@ -124,6 +156,18 @@
                         "video_code": "7KvLJ3a2kbw",
                         "image": "https://i.ytimg.com/vi/7KvLJ3a2kbw/mqdefault.jpg",
                         "title": "【マキオン】今日は負けない／今日唔會輸架啦【柊瑛二】【粵/日】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "4wcL94Psq-8",
+                        "image": "https://i.ytimg.com/vi/4wcL94Psq-8/mqdefault.jpg",
+                        "title": "【マキオン】輕鬆玩～軽くてやる～【柊瑛二/櫻庭良】【粵/日】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "cAtwLwHkrgg",
+                        "image": "https://i.ytimg.com/vi/cAtwLwHkrgg/mqdefault.jpg",
+                        "title": "【APEX】飲酒PEX~ FT.蒼神こねこ、空鈦、阿道弗.奇奇 ＃86【柊瑛二】【粵/日】",
                         "author": "柊 瑛二 【香港Vtuber】"
                     }
                 ]

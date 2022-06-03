@@ -119,6 +119,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "PKqakjxtddM",
+                        "image": "https://i.ytimg.com/vi/PKqakjxtddM/mqdefault.jpg",
+                        "title": "｡ﾟ• ୨ Opening製作縮時 ୧ •ﾟ｡我的香片已經泡到沒味道了【HKvtuber～幽靈ななせ】",
+                        "author": "Nanase ch. 幽靈ななせ【HK 香港新人Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "UWO6nZzIkE8",
+                        "image": "https://i.ytimg.com/vi/UWO6nZzIkE8/mqdefault.jpg",
+                        "title": "｡ﾟ• ୨  初配信 ୧ •ﾟ｡ 幽幽們的第一次召集~【HKvtuber～幽靈ななせ】",
+                        "author": "Nanase ch. 幽靈ななせ【HK 香港新人Vtuber】"
+                    },
+                    {
+                        "video_code": "a6mLwi_3dcU",
+                        "image": "https://i.ytimg.com/vi/a6mLwi_3dcU/mqdefault.jpg",
+                        "title": "｡ﾟ• ୨ 突發練歌 ୧ •ﾟ｡ 請大家洗耳恭聽🤍【HKvtuber～幽靈ななせ】",
+                        "author": "Nanase ch. 幽靈ななせ【HK 香港新人Vtuber】"
+                    },
+                    {
+                        "video_code": "vwpwIUXmsJ4",
+                        "image": "https://i.ytimg.com/vi/vwpwIUXmsJ4/mqdefault.jpg",
+                        "title": "｡ﾟ• ୨ Nintendo Switch Sports ୧ •ﾟ｡ 🤍你們日日話我茶壺咁我做下運動【HKvtuber～幽靈ななせ】",
+                        "author": "Nanase ch. 幽靈ななせ【HK 香港新人Vtuber】"
+                    },
+                    {
+                        "video_code": "2pAmls9fA34",
+                        "image": "https://i.ytimg.com/vi/2pAmls9fA34/mqdefault.jpg",
+                        "title": "｡ﾟ• ୨  世界遊戲大全51 ୧ •ﾟ｡ 線下聯(打)動(架)，輸了大懲罰~ feat. 酒吞クロナ【HKvtuber～幽靈ななせ】",
+                        "author": "Nanase ch. 幽靈ななせ【HK 香港新人Vtuber】"
+                    },
+                    {
+                        "video_code": "nqg-Ek3bzxE",
+                        "image": "https://i.ytimg.com/vi/nqg-Ek3bzxE/mqdefault.jpg",
+                        "title": "｡ﾟ• ୨ 早安工作台 ୧ •ﾟ｡ 來突發畫LOGO🤍【HKvtuber～幽靈ななせ】",
+                        "author": "Nanase ch. 幽靈ななせ【HK 香港新人Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -115,14 +115,40 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦重播",
+                "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "8a_89lWkadg",
-                        "image": "https://i.ytimg.com/vi/8a_89lWkadg/mqdefault.jpg",
-                        "title": "【偽.初配信】我個face好靚【安納斯塔西婭│HKvtuber】",
+                        "video_code": "5C-qRSaiu94",
+                        "image": "https://i.ytimg.com/vi/5C-qRSaiu94/mqdefault.jpg",
+                        "title": "【安納斯精華】你們要多大就有多大....",
                         "author": "Anas Ch.安納斯塔西婭"
                     },
+                    {
+                        "video_code": "NH2ytFiU-vI",
+                        "image": "https://i.ytimg.com/vi/NH2ytFiU-vI/mqdefault.jpg",
+                        "title": "【安納斯精華】教主當眾嘲笑觀眾小丁丁",
+                        "author": "Anas Ch.安納斯塔西婭"
+                    },
+                    {
+                        "video_code": "ROj6ZTqv-bc",
+                        "image": "https://i.ytimg.com/vi/ROj6ZTqv-bc/mqdefault.jpg",
+                        "title": "【安納斯精華】佛寺V為觀眾進行淨化",
+                        "author": "Anas Ch.安納斯塔西婭"
+                    },
+                    {
+                        "video_code": "bAoIi7owecM",
+                        "image": "https://i.ytimg.com/vi/bAoIi7owecM/mqdefault.jpg",
+                        "title": "【安納斯精華】觀眾被逼戴綠帽和收好仁卡",
+                        "author": "Anas Ch.安納斯塔西婭"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
                     {
                         "video_code": "XSAfYEeyhIU",
                         "image": "https://i.ytimg.com/vi/XSAfYEeyhIU/mqdefault.jpg",
@@ -136,21 +162,21 @@
                         "author": "Anas Ch.安納斯塔西婭"
                     },
                     {
+                        "video_code": "p9AQkXm15Zs",
+                        "image": "https://i.ytimg.com/vi/p9AQkXm15Zs/mqdefault.jpg",
+                        "title": "【雜談】潛水半年回歸直播【安納斯塔西婭│HKvtuber】",
+                        "author": "Anas Ch.安納斯塔西婭"
+                    },
+                    {
+                        "video_code": "8a_89lWkadg",
+                        "image": "https://i.ytimg.com/vi/8a_89lWkadg/mqdefault.jpg",
+                        "title": "【偽.初配信】我個face好靚【安納斯塔西婭│HKvtuber】",
+                        "author": "Anas Ch.安納斯塔西婭"
+                    },
+                    {
                         "video_code": "VrU2voynRqc",
                         "image": "https://i.ytimg.com/vi/VrU2voynRqc/mqdefault.jpg",
                         "title": "【鳩叫歌枠】屎心塌地【安納斯塔西婭│HKvtuber】",
-                        "author": "Anas Ch.安納斯塔西婭"
-                    },
-                    {
-                        "video_code": "iav8-VZ-U8s",
-                        "image": "https://i.ytimg.com/vi/iav8-VZ-U8s/mqdefault.jpg",
-                        "title": "【棉花糖+鳩叫】真 鳩叫【安納斯塔西婭│HKvtuber】",
-                        "author": "Anas Ch.安納斯塔西婭"
-                    },
-                    {
-                        "video_code": "W6U1_RbO8W4",
-                        "image": "https://i.ytimg.com/vi/W6U1_RbO8W4/mqdefault.jpg",
-                        "title": "【雜談】唔知做咩但我想開台【安納斯塔西婭│HKvtuber】",
                         "author": "Anas Ch.安納斯塔西婭"
                     }
                 ]

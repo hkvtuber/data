@@ -123,44 +123,18 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "kX8h5x2cqRU",
-                        "image": "https://i.ytimg.com/vi/kX8h5x2cqRU/mqdefault.jpg",
-                        "title": "Lap Tap Love [加藤小麻雀]",
-                        "author": "Pekozawa"
-                    },
-                    {
-                        "video_code": "q2gPAsOEVZI",
-                        "image": "https://i.ytimg.com/vi/q2gPAsOEVZI/mqdefault.jpg",
-                        "title": "ベノム[加藤小麻雀]",
-                        "author": "Pekozawa"
-                    },
-                    {
-                        "video_code": "0x2T3mfL4Ws",
-                        "image": "https://i.ytimg.com/vi/0x2T3mfL4Ws/mqdefault.jpg",
-                        "title": "虎視眈々 [小麻雀, 葵, 亞里]",
-                        "author": "Pekozawa"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "mGnwKp8y8bA",
+                        "image": "https://i.ytimg.com/vi/mGnwKp8y8bA/mqdefault.jpg",
+                        "title": "『加藤工房』用安全套＋小林退熱貼整假波！？仲要即場塞假奶～？？雀生中最癲嘅企劃！ （露手露套露奶注意）[惡搞企劃]",
+                        "author": "加藤小麻雀【HKVTuber】"
+                    },
                     {
                         "video_code": "3LT0S_AvbfY",
                         "image": "https://i.ytimg.com/vi/3LT0S_AvbfY/mqdefault.jpg",
                         "title": "『出道一個月紀念日』All day 雀雀",
-                        "author": "加藤小麻雀【HKVTuber】"
-                    },
-                    {
-                        "video_code": "yG9iTfghBEs",
-                        "image": "https://i.ytimg.com/vi/yG9iTfghBEs/mqdefault.jpg",
-                        "title": "『收益化感謝祭』多謝咁多位雀毛毛陪我行到呢步～！係時候講下雀雀對大家既印象...？",
                         "author": "加藤小麻雀【HKVTuber】"
                     },
                     {
@@ -176,15 +150,9 @@
                         "author": "加藤小麻雀【HKVTuber】"
                     },
                     {
-                        "video_code": "2MBn4lQRexc",
-                        "image": "https://i.ytimg.com/vi/2MBn4lQRexc/mqdefault.jpg",
-                        "title": "『棉花糖台詞』答雀毛毛問題＋羞恥台詞回",
-                        "author": "加藤小麻雀【HKVTuber】"
-                    },
-                    {
-                        "video_code": "-BDzohINuSg",
-                        "image": "https://i.ytimg.com/vi/-BDzohINuSg/mqdefault.jpg",
-                        "title": "雀雀午餐會『煎雞翼＋炒菜心＋玉子燒』- 電腦水魚",
+                        "video_code": "yG9iTfghBEs",
+                        "image": "https://i.ytimg.com/vi/yG9iTfghBEs/mqdefault.jpg",
+                        "title": "『收益化感謝祭』多謝咁多位雀毛毛陪我行到呢步～！係時候講下雀雀對大家既印象...？",
                         "author": "加藤小麻雀【HKVTuber】"
                     }
                 ]

@@ -101,6 +101,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4kw7HnpeJrY",
+                        "image": "https://i.ytimg.com/vi/4kw7HnpeJrY/mqdefault.jpg",
+                        "title": "勇者王誕生!  歌ってみた cover 【凪砂】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "yxaydez_qXE",
+                        "image": "https://i.ytimg.com/vi/yxaydez_qXE/mqdefault.jpg",
+                        "title": "南拳媽媽 下雨天 COVER BY【凪砂】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "sDWc1XFLNNQ",
+                        "image": "https://i.ytimg.com/vi/sDWc1XFLNNQ/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自我紹介【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "s05oGVeLoIc",
+                        "image": "https://i.ytimg.com/vi/s05oGVeLoIc/mqdefault.jpg",
+                        "title": "【精華短片】當十六夜蒼月轉生成為一隻羊咩咩【十六夜蒼月 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "BxM3wtJFNkA",
+                        "image": "https://i.ytimg.com/vi/BxM3wtJFNkA/mqdefault.jpg",
+                        "title": "【精華短片】小屁砂邪念產生一刻ww【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "gAnXaDOdm10",
+                        "image": "https://i.ytimg.com/vi/gAnXaDOdm10/mqdefault.jpg",
+                        "title": "▶遊戲配信◁ #1 艾爾登法環🔰要來的始終要來【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "a31t6h1yqBw",
+                        "image": "https://i.ytimg.com/vi/a31t6h1yqBw/mqdefault.jpg",
+                        "title": "▶遊戲配信◁ #2 艾爾登法環🔰幸運草保我全家【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "r6HxsLyESzY",
+                        "image": "https://i.ytimg.com/vi/r6HxsLyESzY/mqdefault.jpg",
+                        "title": "🌈生日配信🌈 HAPPY BIRTHDAY 今天我要成為歐王砂!! #hololiveWS【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "_ZAQoW3_Z2w",
+                        "image": "https://i.ytimg.com/vi/_ZAQoW3_Z2w/mqdefault.jpg",
+                        "title": "▶初配信◁ 人研集合～夜露死苦！！ 【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    },
+                    {
+                        "video_code": "rKAKBRdJzsg",
+                        "image": "https://i.ytimg.com/vi/rKAKBRdJzsg/mqdefault.jpg",
+                        "title": "▲雜談配信▼ 三個月試用期 人研會長有做好嗎?✨ 【NAGISA凪砂 / HKVtuber】",
+                        "author": "Nagisa ch. 凪砂【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

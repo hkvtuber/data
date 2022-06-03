@@ -118,34 +118,72 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "ERmZ5Ck9wOw",
+                        "image": "https://i.ytimg.com/vi/ERmZ5Ck9wOw/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自我介紹【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
                         "video_code": "WcyxZoLWV_Y",
                         "image": "https://i.ytimg.com/vi/WcyxZoLWV_Y/mqdefault.jpg",
                         "title": "【自我介紹】第一次 x 克里斯 x 邂逅 【香港Vtuber】",
-                        "author": "Chris Ch.克里斯"
-                    },
-                    {
-                        "video_code": "WTw9MF11hMo",
-                        "image": "https://i.ytimg.com/vi/WTw9MF11hMo/mqdefault.jpg",
-                        "title": "【FGO】第2部第6章完結記念PUガチャ【香港Vtuber】",
-                        "author": "Chris Ch.克里斯"
-                    },
-                    {
-                        "video_code": "DnKXRQCCpOY",
-                        "image": "https://i.ytimg.com/vi/DnKXRQCCpOY/mqdefault.jpg",
-                        "title": "【自我介紹】舊世界的遭遇 【香港Vtuber】",
-                        "author": "Chris Ch.克里斯"
+                        "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
                         "video_code": "PT-5viXixRY",
                         "image": "https://i.ytimg.com/vi/PT-5viXixRY/mqdefault.jpg",
                         "title": "【練歌】第一次【香港Vtuber】",
-                        "author": "Chris Ch.克里斯"
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "DnKXRQCCpOY",
+                        "image": "https://i.ytimg.com/vi/DnKXRQCCpOY/mqdefault.jpg",
+                        "title": "【自我介紹】舊世界的遭遇 【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
                         "video_code": "suDUahR5Ioo",
                         "image": "https://i.ytimg.com/vi/suDUahR5Ioo/mqdefault.jpg",
                         "title": "【練歌】少女心事【香港Vtuber】",
-                        "author": "Chris Ch.克里斯"
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "3lIEIcoupNg",
+                        "image": "https://i.ytimg.com/vi/3lIEIcoupNg/mqdefault.jpg",
+                        "title": "【初配信】轉職儀式 2022-04-04【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "VoGZOy9XwDM",
+                        "image": "https://i.ytimg.com/vi/VoGZOy9XwDM/mqdefault.jpg",
+                        "title": "【繪圖】畫畫V友 2022-04-19【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "D7DTfqSDbk8",
+                        "image": "https://i.ytimg.com/vi/D7DTfqSDbk8/mqdefault.jpg",
+                        "title": "【Phasmophobia】初見! 男子組探靈任務 ft. 黑森千夜. 軒轅虛. 鐵球A 2022-04-11【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nkdlQW2lJrk",
+                        "image": "https://i.ytimg.com/vi/nkdlQW2lJrk/mqdefault.jpg",
+                        "title": "【男男繪圖】作業台-摸摸Tiger  2022-05-08【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "4URpH3SMEeA",
+                        "image": "https://i.ytimg.com/vi/4URpH3SMEeA/mqdefault.jpg",
+                        "title": "【精華】自選精華#1【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
                     }
                 ]
             }

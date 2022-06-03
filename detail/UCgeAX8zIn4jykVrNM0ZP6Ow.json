@@ -115,6 +115,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "FoNDZ_fQ20k",
+                        "image": "https://i.ytimg.com/vi/FoNDZ_fQ20k/mqdefault.jpg",
+                        "title": "Vtuber一問一答自己紹介【VTuber/糰子露璐 Iruka LuLu】",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    },
+                    {
+                        "video_code": "YSlEJn7vt_0",
+                        "image": "https://i.ytimg.com/vi/YSlEJn7vt_0/mqdefault.jpg",
+                        "title": "Doo~ Duang~ Duang~",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "4rx7wb7Irkg",
+                        "image": "https://i.ytimg.com/vi/4rx7wb7Irkg/mqdefault.jpg",
+                        "title": "【歌回】520 限定歌回 唱情歌俾你聽 (๑ơ ₃ ơ)♥",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    },
+                    {
+                        "video_code": "N1joJgeutRM",
+                        "image": "https://i.ytimg.com/vi/N1joJgeutRM/mqdefault.jpg",
+                        "title": "【LOL】【觀眾參加型】阿福單中隨便玩~",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    },
+                    {
+                        "video_code": "7FyZVAHNJdg",
+                        "image": "https://i.ytimg.com/vi/7FyZVAHNJdg/mqdefault.jpg",
+                        "title": "【歌雜】為DSE考生獻上祝福的海豚不只可愛而已",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    },
+                    {
+                        "video_code": "2e-VQLboXFk",
+                        "image": "https://i.ytimg.com/vi/2e-VQLboXFk/mqdefault.jpg",
+                        "title": "🐬初配信🐬 咬曬你哋  ٩(˃̶͈̀௰˂̶͈́)و 【糰子露璐 /HKVtuber】",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    },
+                    {
+                        "video_code": "eQ6alcDrkWA",
+                        "image": "https://i.ytimg.com/vi/eQ6alcDrkWA/mqdefault.jpg",
+                        "title": "【Fall Guys】【觀眾場】我是一隻擁有河豚珍寶珠的糖豆海豚~",
+                        "author": "糰子露璐 Iruka LuLu Ch. 【VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -100,6 +100,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "qA3VkAlAnA0",
+                        "image": "https://i.ytimg.com/vi/qA3VkAlAnA0/mqdefault.jpg",
+                        "title": "[フォニイ / phony] 粵語翻唱 MONLI",
+                        "author": "MONLI Channel [HKVtubers]"
+                    },
+                    {
+                        "video_code": "dqMFDe7JCss",
+                        "image": "https://i.ytimg.com/vi/dqMFDe7JCss/mqdefault.jpg",
+                        "title": "[GHOST] 粵語翻唱 MONLI",
+                        "author": "MONLI Channel [HKVtubers]"
+                    }
+                ]
+            }
         }
     ]
 }

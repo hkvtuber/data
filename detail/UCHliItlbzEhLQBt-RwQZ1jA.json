@@ -105,6 +105,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ZyehUtOUwIQ",
+                        "image": "https://i.ytimg.com/vi/ZyehUtOUwIQ/mqdefault.jpg",
+                        "title": "義勇Rocket League精華【名津義勇/HKvtuber】",
+                        "author": "Giyuu Ch. 名津義勇【HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -132,9 +146,9 @@
                         "author": "Giyuu Ch. 名津義勇【HKvtuber】"
                     },
                     {
-                        "video_code": "tIHOCYItpNQ",
-                        "image": "https://i.ytimg.com/vi/tIHOCYItpNQ/mqdefault.jpg",
-                        "title": "駕駛技術改進課程!Deja VU!【名津義勇/HKvtuber】",
+                        "video_code": "RGvrqh33IGU",
+                        "image": "https://i.ytimg.com/vi/RGvrqh33IGU/mqdefault.jpg",
+                        "title": "街頭賽之王重出江湖!【名津義勇/HKvtuber】",
                         "author": "Giyuu Ch. 名津義勇【HKvtuber】"
                     }
                 ]

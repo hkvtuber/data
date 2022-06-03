@@ -89,6 +89,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "u5IdcdDb3gc",
+                        "image": "https://i.ytimg.com/vi/u5IdcdDb3gc/mqdefault.jpg",
+                        "title": "【Self-Introduction】Vtuber一問一答自己紹介【羽鳥楓鈴】",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    },
+                    {
+                        "video_code": "2YfNn1mGA5Y",
+                        "image": "https://i.ytimg.com/vi/2YfNn1mGA5Y/mqdefault.jpg",
+                        "title": "抖M大小姐の覺醒【羽鳥楓鈴】【香港Vtuber精華】",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "1p-CTLgKtpM",
+                        "image": "https://i.ytimg.com/vi/1p-CTLgKtpM/mqdefault.jpg",
+                        "title": "【Gartic Phone】楓鈴滿月鳥【羽鳥楓鈴／HKVtuber】",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    },
+                    {
+                        "video_code": "vtsvHu_Ov5A",
+                        "image": "https://i.ytimg.com/vi/vtsvHu_Ov5A/mqdefault.jpg",
+                        "title": "【鈴穌復活？！】砌機初體驗 希望搞得掂【羽鳥楓鈴／HKVtuber】",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    },
+                    {
+                        "video_code": "f9lCf3ddex8",
+                        "image": "https://i.ytimg.com/vi/f9lCf3ddex8/mqdefault.jpg",
+                        "title": "【We Were Here Together】#2 Now Karin has to play 35min Ringfit ft. @出雲ふゆ / 雲仔【香港VTuber】",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    },
+                    {
+                        "video_code": "U1Bhx140QKc",
+                        "image": "https://i.ytimg.com/vi/U1Bhx140QKc/mqdefault.jpg",
+                        "title": "【香港地理達人挑戰】對答案",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    },
+                    {
+                        "video_code": "Z_YJFAhI8p4",
+                        "image": "https://i.ytimg.com/vi/Z_YJFAhI8p4/mqdefault.jpg",
+                        "title": "【初配信】1月16日 2200 期待與你的邂逅 【羽鳥楓鈴／HKVtuber】",
+                        "author": "羽鳥楓鈴 Hatori Karin Ch. [HKVtuber]"
+                    }
+                ]
+            }
         }
     ]
 }

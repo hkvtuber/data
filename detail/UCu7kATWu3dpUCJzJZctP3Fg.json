@@ -78,6 +78,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "M3vZFSw9sTg",
+                        "image": "https://i.ytimg.com/vi/M3vZFSw9sTg/mqdefault.jpg",
+                        "title": "三笠會第一把膠椅參上。【HKVtuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    },
+                    {
+                        "video_code": "U9qzwi8lDiQ",
+                        "image": "https://i.ytimg.com/vi/U9qzwi8lDiQ/mqdefault.jpg",
+                        "title": "【歌ってみた】星間飛行 ☆ キラッ☆【HKVtuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    },
+                    {
+                        "video_code": "AcLg5xUvWBs",
+                        "image": "https://i.ytimg.com/vi/AcLg5xUvWBs/mqdefault.jpg",
+                        "title": "【宅男的人間冒險】波波路線❤LOVE BOBO【HKVtuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "8RMXcLW18IM",
+                        "image": "https://i.ytimg.com/vi/8RMXcLW18IM/mqdefault.jpg",
+                        "title": "【初配信】9點半三笠記者會【新人VTuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    },
+                    {
+                        "video_code": "_15czLV8S-g",
+                        "image": "https://i.ytimg.com/vi/_15czLV8S-g/mqdefault.jpg",
+                        "title": "【潮文台詞回】網典之夜2.0 我迫不及待好想玩玩了【HKVtuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    },
+                    {
+                        "video_code": "FFZ_JXWSCy0",
+                        "image": "https://i.ytimg.com/vi/FFZ_JXWSCy0/mqdefault.jpg",
+                        "title": "【愚人節】歡迎嚟到老派女僕cafe呀喵♡【HKVTuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    },
+                    {
+                        "video_code": "2k8pBokJrO8",
+                        "image": "https://i.ytimg.com/vi/2k8pBokJrO8/mqdefault.jpg",
+                        "title": "【初·潮文台詞回！】可能變左網典之夜…？【HKVtuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    },
+                    {
+                        "video_code": "SF4dzAn1kcE",
+                        "image": "https://i.ytimg.com/vi/SF4dzAn1kcE/mqdefault.jpg",
+                        "title": "【Game】由零開始玩！Needy Girl Overdose【HKVtuber/ 三笠灰塵】",
+                        "author": "三笠灰塵【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

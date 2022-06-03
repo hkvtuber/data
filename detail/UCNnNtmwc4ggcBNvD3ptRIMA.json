@@ -110,6 +110,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "CNWVkdHYNy0",
+                        "image": "https://i.ytimg.com/vi/CNWVkdHYNy0/mqdefault.jpg",
+                        "title": "【自我介紹】鎖拉白老鼠到底是何方神聖？！",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "x7OuQljGv5U",
+                        "image": "https://i.ytimg.com/vi/x7OuQljGv5U/mqdefault.jpg",
+                        "title": "【Cover】Say So (Japanese Version)",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "-kym_mAn6ak",
+                        "image": "https://i.ytimg.com/vi/-kym_mAn6ak/mqdefault.jpg",
+                        "title": "dllm",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "xJbTlliBq8c",
+                        "image": "https://i.ytimg.com/vi/xJbTlliBq8c/mqdefault.jpg",
+                        "title": "【耐久雜談】情人節來試試不罵髒話^^有髒話即收台！",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "O0Kw6AilQH8",
+                        "image": "https://i.ytimg.com/vi/O0Kw6AilQH8/mqdefault.jpg",
+                        "title": "哇！哈哈哈哈哈哈哈哈哈",
+                        "author": "鎖拉ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "HRTfKFRiMM8",
+                        "image": "https://i.ytimg.com/vi/HRTfKFRiMM8/mqdefault.jpg",
+                        "title": "【2.0披露】改頭換面！各種東西發表大會",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "31V4v471WkQ",
+                        "image": "https://i.ytimg.com/vi/31V4v471WkQ/mqdefault.jpg",
+                        "title": "【初配信】震驚14億人！鎖拉要出道了！！！",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "AOmcJWdukj8",
+                        "image": "https://i.ytimg.com/vi/AOmcJWdukj8/mqdefault.jpg",
+                        "title": "【突發】來畫可愛的女vtuber！（耐久畫一張？）",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "eg4jqU3Rg3U",
+                        "image": "https://i.ytimg.com/vi/eg4jqU3Rg3U/mqdefault.jpg",
+                        "title": "【初歌枠】來唱日文歌吧！(☞ﾟ∀ﾟ)☞",
+                        "author": "鎖拉ch."
+                    },
+                    {
+                        "video_code": "WriOWH3uvcQ",
+                        "image": "https://i.ytimg.com/vi/WriOWH3uvcQ/mqdefault.jpg",
+                        "title": "【濕鳩大賽】讓我看看！！！你到底是真的濕鳩嗎？",
+                        "author": "鎖拉ch."
+                    }
+                ]
+            }
         }
     ]
 }

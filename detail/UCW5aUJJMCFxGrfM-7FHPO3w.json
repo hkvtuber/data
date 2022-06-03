@@ -81,22 +81,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "wPUR298ukso",
-                        "image": "https://i.ytimg.com/vi/wPUR298ukso/mqdefault.jpg",
-                        "title": "不求人的重大告知。",
-                        "author": "不求人 【香港VTuber】"
-                    },
-                    {
                         "video_code": "a2Fda4JiAUw",
                         "image": "https://i.ytimg.com/vi/a2Fda4JiAUw/mqdefault.jpg",
                         "title": "【香港VTuber】不求人 自己紹介 + 製作過程 (假)",
-                        "author": "不求人 【香港VTuber】"
+                        "author": "不求人"
                     },
                     {
                         "video_code": "MGWAYCSDJ0c",
                         "image": "https://i.ytimg.com/vi/MGWAYCSDJ0c/mqdefault.jpg",
                         "title": "【不求人開箱】咒術迴戰 虎杖悠仁 黏土人 + 碎碎諗",
-                        "author": "不求人 【香港VTuber】"
+                        "author": "不求人"
+                    },
+                    {
+                        "video_code": "u546y4F0uIQ",
+                        "image": "https://i.ytimg.com/vi/u546y4F0uIQ/mqdefault.jpg",
+                        "title": "【ShowCase】Original Character 【Live2D】",
+                        "author": "不求人"
+                    },
+                    {
+                        "video_code": "hN8ftfkI2hY",
+                        "image": "https://i.ytimg.com/vi/hN8ftfkI2hY/mqdefault.jpg",
+                        "title": "【不求人開箱】咒術迴戰 伏黑惠 黏土人 + 超長吐嘈 【香港VTuber】",
+                        "author": "不求人"
+                    },
+                    {
+                        "video_code": "wPUR298ukso",
+                        "image": "https://i.ytimg.com/vi/wPUR298ukso/mqdefault.jpg",
+                        "title": "不求人的重大告知。",
+                        "author": "不求人"
                     }
                 ]
             }
@@ -107,28 +119,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "_PBSgjl5drQ",
+                        "image": "https://i.ytimg.com/vi/_PBSgjl5drQ/mqdefault.jpg",
+                        "title": "【畫畫台】來畫港V！【香港VTuber /  不求人】",
+                        "author": "不求人"
+                    },
+                    {
                         "video_code": "m7BDoqD7IDo",
                         "image": "https://i.ytimg.com/vi/m7BDoqD7IDo/mqdefault.jpg",
                         "title": "【不求人】初次直播！【香港VTuber】",
-                        "author": "不求人 【香港VTuber】"
+                        "author": "不求人"
                     },
                     {
                         "video_code": "A3usfFwPw9k",
                         "image": "https://i.ytimg.com/vi/A3usfFwPw9k/mqdefault.jpg",
                         "title": "【吹水台】第一次雜談。【香港VTuber /  不求人】",
-                        "author": "不求人 【香港VTuber】"
-                    },
-                    {
-                        "video_code": "WO2IvkZBzzY",
-                        "image": "https://i.ytimg.com/vi/WO2IvkZBzzY/mqdefault.jpg",
-                        "title": "【畫畫台】畫有點點色的圖！【香港VTuber /  不求人】",
-                        "author": "不求人 【香港VTuber】"
+                        "author": "不求人"
                     },
                     {
                         "video_code": "aIvaBg0aK3E",
                         "image": "https://i.ytimg.com/vi/aIvaBg0aK3E/mqdefault.jpg",
                         "title": "【畫畫台】超安靜地畫圖。【香港VTuber /  不求人】",
-                        "author": "不求人 【香港VTuber】"
+                        "author": "不求人"
+                    },
+                    {
+                        "video_code": "WO2IvkZBzzY",
+                        "image": "https://i.ytimg.com/vi/WO2IvkZBzzY/mqdefault.jpg",
+                        "title": "【畫畫台】畫有點點色的圖！【香港VTuber /  不求人】",
+                        "author": "不求人"
                     }
                 ]
             }

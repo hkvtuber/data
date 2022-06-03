@@ -117,15 +117,21 @@
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
                     },
                     {
-                        "video_code": "qxwCCyiW5c0",
-                        "image": "https://i.ytimg.com/vi/qxwCCyiW5c0/mqdefault.jpg",
-                        "title": "【HKVTuber / 自我介紹】優桃篇-#02 新來的插班生?",
+                        "video_code": "RlugyuIESCI",
+                        "image": "https://i.ytimg.com/vi/RlugyuIESCI/mqdefault.jpg",
+                        "title": "【HKVTuber / 自我介紹】精華篇-#05 歡迎加入Little Channel！",
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
                     },
                     {
-                        "video_code": "M4-OyrXTRiU",
-                        "image": "https://i.ytimg.com/vi/M4-OyrXTRiU/mqdefault.jpg",
-                        "title": "【HKVTuber/ 自我介紹】Little Channel篇-#03 課外活動?",
+                        "video_code": "YGfpJyRDDeA",
+                        "image": "https://i.ytimg.com/vi/YGfpJyRDDeA/mqdefault.jpg",
+                        "title": "【世界觀】野獸前輩ver.( ͡° ͜ʖ ͡ °)【香港VTuber】",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "qxwCCyiW5c0",
+                        "image": "https://i.ytimg.com/vi/qxwCCyiW5c0/mqdefault.jpg",
+                        "title": "【HKVTuber / 自我介紹】優桃篇-#02 新來的插班生?",
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
                     },
                     {
@@ -133,17 +139,43 @@
                         "image": "https://i.ytimg.com/vi/9wFNYs7uq2g/mqdefault.jpg",
                         "title": "【HKVTuber / 自我介紹】Little Channel篇-#04 VTuber課外活動！",
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
-                    },
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
                     {
-                        "video_code": "RlugyuIESCI",
-                        "image": "https://i.ytimg.com/vi/RlugyuIESCI/mqdefault.jpg",
-                        "title": "【HKVTuber / 自我介紹】精華篇-#05 歡迎加入Little Channel！",
+                        "video_code": "zF6Wk3iaOSw",
+                        "image": "https://i.ytimg.com/vi/zF6Wk3iaOSw/mqdefault.jpg",
+                        "title": "【初配信】Little Channel正式開始活動!【香港VTuber】",
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
                     },
                     {
-                        "video_code": "x7SHEFrePkc",
-                        "image": "https://i.ytimg.com/vi/x7SHEFrePkc/mqdefault.jpg",
-                        "title": "【HKVTuber】Little Channel 100訂閱慶祝回饋活動!",
+                        "video_code": "BlqDKuouhnY",
+                        "image": "https://i.ytimg.com/vi/BlqDKuouhnY/mqdefault.jpg",
+                        "title": "【#空帕斯】一起看魔法少女們上分吧!露露卡莉莉卡露拉莉拉露拉拉~【香港VTuber】",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "sRA1BJl69g0",
+                        "image": "https://i.ytimg.com/vi/sRA1BJl69g0/mqdefault.jpg",
+                        "title": "【達人挑戰 #1】誰是真正的香港地理王? 【香港VTuber】",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "b-cbyjRW0no",
+                        "image": "https://i.ytimg.com/vi/b-cbyjRW0no/mqdefault.jpg",
+                        "title": "【百日台詞X優桃生日台】聽說今天是第100天+捉早慶祝優桃生日+香港歷史達人挑戰?!【香港VTuber】",
+                        "author": "Little Channel-莉絲X優桃【香港VTuber】"
+                    },
+                    {
+                        "video_code": "mzKffcRxB78",
+                        "image": "https://i.ytimg.com/vi/mzKffcRxB78/mqdefault.jpg",
+                        "title": "【突發無言台】繼續蓋房子!!【香港VTuber】",
                         "author": "Little Channel-莉絲X優桃【香港VTuber】"
                     }
                 ]

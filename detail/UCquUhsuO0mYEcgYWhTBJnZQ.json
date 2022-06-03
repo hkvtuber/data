@@ -117,28 +117,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "S848gT4cnaQ",
+                        "image": "https://i.ytimg.com/vi/S848gT4cnaQ/mqdefault.jpg",
+                        "title": "【COVER】#劣等上等 '(BRING IT ON) #歌ってみた【HKvtuber/ 酒吞 玖蘿娜&希琉 柏洛斯】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
+                    },
+                    {
+                        "video_code": "p7UCPF5ytIw",
+                        "image": "https://i.ytimg.com/vi/p7UCPF5ytIw/mqdefault.jpg",
+                        "title": "【地獄廢片#04】Ara Ara【希琉 柏洛斯｜香港Vtuber】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
+                    },
+                    {
                         "video_code": "MqDcKO58n0E",
                         "image": "https://i.ytimg.com/vi/MqDcKO58n0E/mqdefault.jpg",
                         "title": "【希琉 柏洛斯】超簡短的自我介紹+初配信日期公佈【香港Vtuber】",
-                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                        "author": "Keru Ch. 希琉 柏洛斯"
                     },
                     {
-                        "video_code": "LeD_xcnHTvU",
-                        "image": "https://i.ytimg.com/vi/LeD_xcnHTvU/mqdefault.jpg",
-                        "title": "【希琉 柏洛斯】初配信日期更新！要看到最後唷！！【香港Vtuber】",
-                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                        "video_code": "cJCbSHHsDuc",
+                        "image": "https://i.ytimg.com/vi/cJCbSHHsDuc/mqdefault.jpg",
+                        "title": "【試唱】講你知123！(short ver.)#講你知123【希琉 柏洛斯｜香港Vtuber】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
                     },
                     {
                         "video_code": "s0RfoWAVi7E",
                         "image": "https://i.ytimg.com/vi/s0RfoWAVi7E/mqdefault.jpg",
                         "title": "【地獄廢片#01】在Youtube的第1段影片就這麼廢真的OK?【希琉 柏洛斯｜香港Vtuber】",
-                        "author": "希琉 柏洛斯-Keru Beros Ch."
-                    },
-                    {
-                        "video_code": "YzIkR7PFec4",
-                        "image": "https://i.ytimg.com/vi/YzIkR7PFec4/mqdefault.jpg",
-                        "title": "【希琉 柏洛斯】空色デイズ(Short Ver)+歌回介面展示【香港Vtuber】",
-                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                        "author": "Keru Ch. 希琉 柏洛斯"
                     }
                 ]
             }
@@ -149,16 +155,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "GzNxpt_eXXM",
+                        "image": "https://i.ytimg.com/vi/GzNxpt_eXXM/mqdefault.jpg",
+                        "title": "【#雜談】突發深夜雜談！【希琉 柏洛斯｜#香港Vtuber】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
+                    },
+                    {
+                        "video_code": "fVj-fJidf_o",
+                        "image": "https://i.ytimg.com/vi/fVj-fJidf_o/mqdefault.jpg",
+                        "title": "【#突發歌回】炒車歌回！【希琉 柏洛斯｜#香港Vtuber】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
+                    },
+                    {
+                        "video_code": "CeulxI365i8",
+                        "image": "https://i.ytimg.com/vi/CeulxI365i8/mqdefault.jpg",
+                        "title": "【#YuGiOhDuelLinks】突發！Yu-Gi-Oh! Duel Links！超級新手【希琉 柏洛斯｜#香港Vtuber】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
+                    },
+                    {
+                        "video_code": "cU_SAz8wznE",
+                        "image": "https://i.ytimg.com/vi/cU_SAz8wznE/mqdefault.jpg",
+                        "title": "【#APEX】APEX耐久觀眾場！第二回！ 【希琉 柏洛斯｜#香港Vtuber】",
+                        "author": "Keru Ch. 希琉 柏洛斯"
+                    },
+                    {
                         "video_code": "99CzJY787F4",
                         "image": "https://i.ytimg.com/vi/99CzJY787F4/mqdefault.jpg",
                         "title": "【希琉 柏洛斯】地獄軍團召集日！是時候加入地獄軍團唷！！【香港Vtuber】",
-                        "author": "希琉 柏洛斯-Keru Beros Ch."
-                    },
-                    {
-                        "video_code": "vh4eM3SEWcQ",
-                        "image": "https://i.ytimg.com/vi/vh4eM3SEWcQ/mqdefault.jpg",
-                        "title": "【APEX】希琉初次的APEX直播！到底能不能打中敵人？？【希琉 柏洛斯｜香港Vtuber】",
-                        "author": "希琉 柏洛斯-Keru Beros Ch."
+                        "author": "Keru Ch. 希琉 柏洛斯"
                     }
                 ]
             }

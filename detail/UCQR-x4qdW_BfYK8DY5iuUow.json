@@ -71,6 +71,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "ae1HMBR6bz0",
+                        "image": "https://i.ytimg.com/vi/ae1HMBR6bz0/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【金魚姫KingyoHime/HKVtuber】",
+                        "author": "金魚姫KingyoHime[香港Vtuber]"
+                    },
+                    {
                         "video_code": "_4VSAeB4p9A",
                         "image": "https://i.ytimg.com/vi/_4VSAeB4p9A/mqdefault.jpg",
                         "title": "【自我介紹】這是你家走失的金魚嗎？失敬了🐡［香港Vtuber/金魚姫] #Vtuber #香港Vtuber #HKVtuber",
@@ -85,15 +91,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "9hA4ntnPpC0",
-                        "image": "https://i.ytimg.com/vi/9hA4ntnPpC0/mqdefault.jpg",
-                        "title": "[金魚姫KingyoHime] 突發歌回",
+                        "video_code": "RErMGBiLmH8",
+                        "image": "https://i.ytimg.com/vi/RErMGBiLmH8/mqdefault.jpg",
+                        "title": "【遊戲實況】雀魂-幾時先衝上魂天呢？#1 🐡［香港Vtuber/金魚姫] #KingyoHime #Vtuber #HKVtuber",
                         "author": "金魚姫KingyoHime[香港Vtuber]"
                     },
                     {
-                        "video_code": "iFUTBTo6qk8",
-                        "image": "https://i.ytimg.com/vi/iFUTBTo6qk8/mqdefault.jpg",
-                        "title": "[金魚姫KingyoHime] 突發GAMING",
+                        "video_code": "wPywCy6qBfs",
+                        "image": "https://i.ytimg.com/vi/wPywCy6qBfs/mqdefault.jpg",
+                        "title": "【遊戲實況】雀魂-幾時先衝上魂天呢？#0 🐡［香港Vtuber/金魚姫] #KingyoHime #Vtuber #HKVtuber",
                         "author": "金魚姫KingyoHime[香港Vtuber]"
                     }
                 ]

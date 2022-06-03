@@ -103,21 +103,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "ELiBxJWf4AM",
+                        "image": "https://i.ytimg.com/vi/ELiBxJWf4AM/mqdefault.jpg",
+                        "title": "KING-Kanaria / Covered by 月島クロス 一人で【歌ってみた/描いてみた】HKVtuber",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
                         "video_code": "xkCXa_O1RmY",
                         "image": "https://i.ytimg.com/vi/xkCXa_O1RmY/mqdefault.jpg",
                         "title": "【自我介紹】你的酷帥吸血鬼王子殿下駕到！【香港Vtuber/月島クロス】",
                         "author": "Cross Ch. 月島クロス【HKVTuber】"
                     },
                     {
-                        "video_code": "ELiBxJWf4AM",
-                        "image": "https://i.ytimg.com/vi/ELiBxJWf4AM/mqdefault.jpg",
-                        "title": "KING-Kanaria / Covered by 月島クロス 一人で【歌ってみた/描いてみた】",
+                        "video_code": "xAcHdtAsrj4",
+                        "image": "https://i.ytimg.com/vi/xAcHdtAsrj4/mqdefault.jpg",
+                        "title": "エンヴィーベイビー - Kanaria / Covered by 月島クロス 一人で【歌ってみた/描いてみた】HKVtuber",
                         "author": "Cross Ch. 月島クロス【HKVTuber】"
                     },
                     {
-                        "video_code": "xAcHdtAsrj4",
-                        "image": "https://i.ytimg.com/vi/xAcHdtAsrj4/mqdefault.jpg",
-                        "title": "エンヴィーベイビー - Kanaria / Covered by 月島クロス 一人で【歌ってみた/描いてみた】",
+                        "video_code": "TmHM_iySsF0",
+                        "image": "https://i.ytimg.com/vi/TmHM_iySsF0/mqdefault.jpg",
+                        "title": "ヴァンパイア - DECO*27 / Covered by 月島クロス 一人で【歌ってみた/描いてみた】HKVtuber",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "C1OEDUjCfIw",
+                        "image": "https://i.ytimg.com/vi/C1OEDUjCfIw/mqdefault.jpg",
+                        "title": "【廢片】520快樂！不眨眼挑戰 Eye Contact Challenge 來戰啊啊啊(淚流【月島クロス】",
                         "author": "Cross Ch. 月島クロス【HKVTuber】"
                     }
                 ]
@@ -129,15 +141,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "wRRTf-KvxrE",
-                        "image": "https://i.ytimg.com/vi/wRRTf-KvxrE/mqdefault.jpg",
-                        "title": "【初配信】正！式！見！面！【香港Vtuber/月島クロス】",
-                        "author": "Cross Ch. 月島クロス【HKVTuber】"
-                    },
-                    {
                         "video_code": "uNdjHlHyh9U",
                         "image": "https://i.ytimg.com/vi/uNdjHlHyh9U/mqdefault.jpg",
                         "title": "【初歌回】準備好你們的螢光棒了沒？！本殿……來找數了- _-【香港Vtuber/月島クロス】",
+                        "author": "Cross Ch. 月島クロス【HKVTuber】"
+                    },
+                    {
+                        "video_code": "wRRTf-KvxrE",
+                        "image": "https://i.ytimg.com/vi/wRRTf-KvxrE/mqdefault.jpg",
+                        "title": "【初配信】正！式！見！面！【香港Vtuber/月島クロス】",
                         "author": "Cross Ch. 月島クロス【HKVTuber】"
                     },
                     {
@@ -149,13 +161,13 @@
                     {
                         "video_code": "oTgs8ym8xqc",
                         "image": "https://i.ytimg.com/vi/oTgs8ym8xqc/mqdefault.jpg",
-                        "title": "【歌回】收益化 X 兩個月紀念 感謝演唱會！【香港Vtuber/月島クロス】",
+                        "title": "推*【歌回】收益化 X 兩個月紀念 感謝演唱會！【香港Vtuber/月島クロス】",
                         "author": "Cross Ch. 月島クロス【HKVTuber】"
                     },
                     {
-                        "video_code": "Jlf4G30ihFk",
-                        "image": "https://i.ytimg.com/vi/Jlf4G30ihFk/mqdefault.jpg",
-                        "title": "【歌回】找數！☆＊懷舊乂MK乂歌回★× 那些年系列【香港Vtuber/月島クロス】",
+                        "video_code": "jYE6Ijlqbnw",
+                        "image": "https://i.ytimg.com/vi/jYE6Ijlqbnw/mqdefault.jpg",
+                        "title": "(臨時代開台w)【主題聯動雜談】末日，要和誰過? ft. 御影むくろ【香港Vtuber/月島クロス】",
                         "author": "Cross Ch. 月島クロス【HKVTuber】"
                     }
                 ]

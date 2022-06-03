@@ -116,6 +116,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Hxumzvz3TWs",
+                        "image": "https://i.ytimg.com/vi/Hxumzvz3TWs/mqdefault.jpg",
+                        "title": "【模型展示】這…不算2.0吧？",
+                        "author": "LJ路君【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Q_VtkNfXhWA",
+                        "image": "https://i.ytimg.com/vi/Q_VtkNfXhWA/mqdefault.jpg",
+                        "title": "【Live2D模型展示】澪音",
+                        "author": "LJ路君【HKVTuber】"
+                    },
+                    {
+                        "video_code": "GB57ar8x-AI",
+                        "image": "https://i.ytimg.com/vi/GB57ar8x-AI/mqdefault.jpg",
+                        "title": "【個人手書/微描改】フォニイ/ phony",
+                        "author": "LJ路君【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "e0yX5h8B5Eo",
+                        "image": "https://i.ytimg.com/vi/e0yX5h8B5Eo/mqdefault.jpg",
+                        "title": "【初配信】一般路過的狐狸人在初配信 不來看看嗎？",
+                        "author": "LJ路君【HKVTuber】"
+                    },
+                    {
+                        "video_code": "vNidrswf6_Q",
+                        "image": "https://i.ytimg.com/vi/vNidrswf6_Q/mqdefault.jpg",
+                        "title": "【畫畫台】正畫rg27的商品 是Luxiem的大家哦【香港Vtuber/路君LJ】",
+                        "author": "LJ路君【HKVTuber】"
+                    },
+                    {
+                        "video_code": "XetXsXFnOpw",
+                        "image": "https://i.ytimg.com/vi/XetXsXFnOpw/mqdefault.jpg",
+                        "title": "【突發不知道什麼台】剛醒【香港Vtuber/路君LJ】",
+                        "author": "LJ路君【HKVTuber】"
+                    },
+                    {
+                        "video_code": "21Py4lhJ394",
+                        "image": "https://i.ytimg.com/vi/21Py4lhJ394/mqdefault.jpg",
+                        "title": "【無聲工作台】【香港Vtuber/路君LJ】",
+                        "author": "LJ路君【HKVTuber】"
+                    },
+                    {
+                        "video_code": "lJcNyviDuLk",
+                        "image": "https://i.ytimg.com/vi/lJcNyviDuLk/mqdefault.jpg",
+                        "title": "【畫畫台】一起兔仔化 :3333333【香港Vtuber/路君LJ】",
+                        "author": "LJ路君【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

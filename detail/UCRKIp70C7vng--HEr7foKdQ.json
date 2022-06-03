@@ -71,10 +71,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "ZGx2l2epm-Y",
+                        "image": "https://i.ytimg.com/vi/ZGx2l2epm-Y/mqdefault.jpg",
+                        "title": "【精華】假如FALL GUYS像馬娘一樣有旁述 (內有粗口)鳩野 正一 / hatono masakazu【香港Vtuber】",
+                        "author": "鳩野 正一 / ハトノマサカズ"
+                    },
+                    {
                         "video_code": "Sf0B2oNepmk",
                         "image": "https://i.ytimg.com/vi/Sf0B2oNepmk/mqdefault.jpg",
                         "title": "【自己紹介】VTUBER一問一答自己紹介 鳩野 正一【香港Vtuber】",
-                        "author": "鳩野 正一 / ハトノマサカズ【香港Vtuber】"
+                        "author": "鳩野 正一 / ハトノマサカズ"
+                    },
+                    {
+                        "video_code": "jYVjb0fWtWM",
+                        "image": "https://i.ytimg.com/vi/jYVjb0fWtWM/mqdefault.jpg",
+                        "title": "【自己紹介】VTUBER一問一答自己紹介 鳩野 正一【香港Vtuber】",
+                        "author": "鳩野 正一 / ハトノマサカズ"
+                    },
+                    {
+                        "video_code": "6igC3s8g4W4",
+                        "image": "https://i.ytimg.com/vi/6igC3s8g4W4/mqdefault.jpg",
+                        "title": "【Back 4 Blood】 Funny Moments 鳩野正一【香港Vtuber】",
+                        "author": "鳩野 正一 / ハトノマサカズ"
+                    },
+                    {
+                        "video_code": "C09sOm2Z4Ww",
+                        "image": "https://i.ytimg.com/vi/C09sOm2Z4Ww/mqdefault.jpg",
+                        "title": "鳩野教你如何理直氣壯咁去解釋TK",
+                        "author": "鳩野 正一 / ハトノマサカズ"
                     }
                 ]
             }
@@ -85,34 +109,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "qPE6UsbH28I",
+                        "image": "https://i.ytimg.com/vi/qPE6UsbH28I/mqdefault.jpg",
+                        "title": "【ARMA3】交戦映像報告 : Co50 Sand Warrior【TRI GAMING】",
+                        "author": "鳩野 正一 / ハトノマサカズ"
+                    },
+                    {
                         "video_code": "DMZjAiFsmP0",
                         "image": "https://i.ytimg.com/vi/DMZjAiFsmP0/mqdefault.jpg",
                         "title": "那個偶像派VTUBER要回來了 鳩野 正一 / hatono masakazu【香港Vtuber】",
-                        "author": "鳩野 正一 / ハトノマサカズ【香港Vtuber】"
+                        "author": "鳩野 正一 / ハトノマサカズ"
+                    },
+                    {
+                        "video_code": "qwpSdYIy1Q8",
+                        "image": "https://i.ytimg.com/vi/qwpSdYIy1Q8/mqdefault.jpg",
+                        "title": "【ARMA3】交戦映像報告【TRI GAMING】",
+                        "author": "鳩野 正一 / ハトノマサカズ"
                     },
                     {
                         "video_code": "i90YV8Fnmc8",
                         "image": "https://i.ytimg.com/vi/i90YV8Fnmc8/mqdefault.jpg",
                         "title": "【51遊戲大全】贏三局最弱CPU即終了 鳩野正一【香港Vtuber】",
-                        "author": "鳩野 正一 / ハトノマサカズ【香港Vtuber】"
+                        "author": "鳩野 正一 / ハトノマサカズ"
                     },
                     {
                         "video_code": "Sq0p1bBp8dE",
                         "image": "https://i.ytimg.com/vi/Sq0p1bBp8dE/mqdefault.jpg",
                         "title": "【Gartic Phone】口德村居民 鳩野正一 視點【香港Vtuber】",
-                        "author": "鳩野 正一 / ハトノマサカズ【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "CQl6xnG0GAM",
-                        "image": "https://i.ytimg.com/vi/CQl6xnG0GAM/mqdefault.jpg",
-                        "title": "MINECRAFT測試&設定台+突發聯動 鳩野 正一 / hatono masakazu【香港Vtuber】",
-                        "author": "鳩野 正一 / ハトノマサカズ【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "J7Vjo7x7n2I",
-                        "image": "https://i.ytimg.com/vi/J7Vjo7x7n2I/mqdefault.jpg",
-                        "title": "【每周鳩野】淺談茶記野飲文化 鳩野 正一【香港Vtuber】",
-                        "author": "鳩野 正一 / ハトノマサカズ【香港Vtuber】"
+                        "author": "鳩野 正一 / ハトノマサカズ"
                     }
                 ]
             }

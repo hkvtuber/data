@@ -69,6 +69,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "x_WItsOgE3U",
+                        "image": "https://i.ytimg.com/vi/x_WItsOgE3U/mqdefault.jpg",
+                        "title": "【自我介紹】揸支槍去打仗！可樂餅新兵跟大家報到啦！【香港Vtuber | 可樂餅 】",
+                        "author": "可樂餅 Cola ch. / HKVtuber"
+                    }
+                ]
+            }
         }
     ]
 }

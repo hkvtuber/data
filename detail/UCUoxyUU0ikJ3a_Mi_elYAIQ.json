@@ -106,6 +106,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "y1i6Ppxdn2A",
+                        "image": "https://i.ytimg.com/vi/y1i6Ppxdn2A/mqdefault.jpg",
+                        "title": "因應匿名版攻擊而對明治及訂閱者想說的話【月川MoonRiver | 香港 VTuber HKVTuber】解說無效（翻唱Cover MC張天賦 反對無效）",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "l_WUSLDhg90",
+                        "image": "https://i.ytimg.com/vi/l_WUSLDhg90/mqdefault.jpg",
+                        "title": "VTuber報新聞﹑講星座竟然破防爆粗！？【月川MoonRiver | 香港 VTuber HKVTuber】（剪輯：Mario）精華 烤肉",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "JjV_254NcHY",
+                        "image": "https://i.ytimg.com/vi/JjV_254NcHY/mqdefault.jpg",
+                        "title": "[中文字幕] 自我介紹!! 年初一新年快樂!!  【月川MoonRiver | 香港VTuber HKVTuber】",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "p0O757fi2YE",
+                        "image": "https://i.ytimg.com/vi/p0O757fi2YE/mqdefault.jpg",
+                        "title": "IU 이지금 - Tear drops in the morning (아침 눈물) Cantonese Cover by VTuber 月川MoonRiver 粵語翻唱 (詞:冷雨寒冬)",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "QZIG9R6Ycgg",
+                        "image": "https://i.ytimg.com/vi/QZIG9R6Ycgg/mqdefault.jpg",
+                        "title": "誠懇道歉！介紹新手VTuber不會畫Skin都可以直接使用的網站 - CHARAT【22/2資訊欄更新】",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "S6u-Y9ikFdY",
+                        "image": "https://i.ytimg.com/vi/S6u-Y9ikFdY/mqdefault.jpg",
+                        "title": "初配信即畢業！？【月川MoonRiver | 香港 VTuber HKVTuber】",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "tnmse5ydebM",
+                        "image": "https://i.ytimg.com/vi/tnmse5ydebM/mqdefault.jpg",
+                        "title": "歌回「你所不知道的月川」（未必留檔）— 出道一個月﹑400訂閱慶祝【月川MoonRiver | 香港 VTuber HKVTuber】",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "bMSfa3z2n7U",
+                        "image": "https://i.ytimg.com/vi/bMSfa3z2n7U/mqdefault.jpg",
+                        "title": "作家訪談 — 楓成【月川MoonRiver | 香港 VTuber HKVTuber】長篇玄幻小說",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "uwtODqnUfYk",
+                        "image": "https://i.ytimg.com/vi/uwtODqnUfYk/mqdefault.jpg",
+                        "title": "迷你歌回「五月的最愛」（未必留檔）【月川MoonRiver | 香港 VTuber HKVTuber】",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    },
+                    {
+                        "video_code": "xlkwVDjPnkM",
+                        "image": "https://i.ytimg.com/vi/xlkwVDjPnkM/mqdefault.jpg",
+                        "title": "人中之龍0 誓約的場所 5月24日【月川MoonRiver | 香港 VTuber HKVTuber】龍が如く0 誓いの場所 Yakuza 0",
+                        "author": "月川MoonRiver【香港HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

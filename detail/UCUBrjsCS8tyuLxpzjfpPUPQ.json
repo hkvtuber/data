@@ -68,6 +68,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wJ6EUzNgb1A",
+                        "image": "https://i.ytimg.com/vi/wJ6EUzNgb1A/mqdefault.jpg",
+                        "title": "【初配信】初次見面！熊兔の大遷徙 （？",
+                        "author": "Yukishira Channel【HKVtuber】"
+                    },
+                    {
+                        "video_code": "zccSJ2vd_1s",
+                        "image": "https://i.ytimg.com/vi/zccSJ2vd_1s/mqdefault.jpg",
+                        "title": "【繪畫台】Vtuber九宮格找數!【Yukishira Ch. /HKVtuber】",
+                        "author": "Yukishira Channel【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

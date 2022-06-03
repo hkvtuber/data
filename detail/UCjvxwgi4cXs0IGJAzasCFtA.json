@@ -118,15 +118,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "Xjk7Cp_95zA",
+                        "image": "https://i.ytimg.com/vi/Xjk7Cp_95zA/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【夢原ねむる/HKVtuber】",
+                        "author": "夢原ねむる Nemuru Ch.【HKVTuber】"
+                    },
+                    {
                         "video_code": "diGJJfNs9HE",
                         "image": "https://i.ytimg.com/vi/diGJJfNs9HE/mqdefault.jpg",
                         "title": "【自我介紹】早晨...請問人類們今天要來一點廢話嗎？",
                         "author": "夢原ねむる Nemuru Ch.【HKVTuber】"
                     },
                     {
-                        "video_code": "Xjk7Cp_95zA",
-                        "image": "https://i.ytimg.com/vi/Xjk7Cp_95zA/mqdefault.jpg",
-                        "title": "【自己紹介】Vtuber一問一答自己紹介【夢原ねむる/HKVtuber】",
+                        "video_code": "sX13X4wZnv0",
+                        "image": "https://i.ytimg.com/vi/sX13X4wZnv0/mqdefault.jpg",
+                        "title": "【試唱】講你知123！short ver. 【夢原ねむる/HKVtuber】",
+                        "author": "夢原ねむる Nemuru Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "CMdxTncqxuw",
+                        "image": "https://i.ytimg.com/vi/CMdxTncqxuw/mqdefault.jpg",
+                        "title": "【歌ってみた】┗|∵|┓金曜日のおはよう／HoneyWorks (Cover)【夢原ねむる/HKVtuber】",
                         "author": "夢原ねむる Nemuru Ch.【HKVTuber】"
                     },
                     {
@@ -159,6 +171,12 @@
                         "video_code": "I7NFsBdgm9w",
                         "image": "https://i.ytimg.com/vi/I7NFsBdgm9w/mqdefault.jpg",
                         "title": "【歌枠】200感謝!! 找數歌回!! 【夢原ねむる/HKVtuber】",
+                        "author": "夢原ねむる Nemuru Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "eg6ddeb3CFg",
+                        "image": "https://i.ytimg.com/vi/eg6ddeb3CFg/mqdefault.jpg",
+                        "title": "【雜談】【殘酷二選一】兄弟初聯動！你要揀邊邊！feat. 冰咲ユキセ【夢原ねむる/HKVtuber】",
                         "author": "夢原ねむる Nemuru Ch.【HKVTuber】"
                     },
                     {

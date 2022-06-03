@@ -84,6 +84,40 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4tdbUIsxTjg",
+                        "image": "https://i.ytimg.com/vi/4tdbUIsxTjg/mqdefault.jpg",
+                        "title": "Good Morning to you",
+                        "author": "Himeno Guome Ch. 【VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "pbR_5_h0FLw",
+                        "image": "https://i.ytimg.com/vi/pbR_5_h0FLw/mqdefault.jpg",
+                        "title": "【初配信 Debut Stream】Good morning to you!",
+                        "author": "Himeno Guome Ch. 【VTuber】"
+                    },
+                    {
+                        "video_code": "0hYmdAkk2cE",
+                        "image": "https://i.ytimg.com/vi/0hYmdAkk2cE/mqdefault.jpg",
+                        "title": "【Q&A + 遊戲】Guome is Hero!",
+                        "author": "Himeno Guome Ch. 【VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

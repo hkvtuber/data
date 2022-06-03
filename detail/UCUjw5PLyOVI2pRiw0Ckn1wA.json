@@ -95,6 +95,76 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "2T-Dl0Ak6wU",
+                        "image": "https://i.ytimg.com/vi/2T-Dl0Ak6wU/mqdefault.jpg",
+                        "title": "A1M1愛美載入中 - Eggtart VTuber Official Trailer",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "588tSAVj8Mw",
+                        "image": "https://i.ytimg.com/vi/588tSAVj8Mw/mqdefault.jpg",
+                        "title": "I.ME.2050 - A1M1愛美 (Official Music Video) 【HKVTuber原創曲】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "otO6McRuSn0",
+                        "image": "https://i.ytimg.com/vi/otO6McRuSn0/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【A1M1愛美/VTuber】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "cMZzWci37Ug",
+                        "image": "https://i.ytimg.com/vi/cMZzWci37Ug/mqdefault.jpg",
+                        "title": "【翻唱】戀愛循環｜covered by A1M1愛美【中日字幕】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "6H5nNBykAGQ",
+                        "image": "https://i.ytimg.com/vi/6H5nNBykAGQ/mqdefault.jpg",
+                        "title": "【#初配信】初次見面🔧！我是AI少女A1M1愛美喔✨！【A1M1愛美/HKJPVTuber】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "7ZpgIcsw-w4",
+                        "image": "https://i.ytimg.com/vi/7ZpgIcsw-w4/mqdefault.jpg",
+                        "title": "【雜談企劃】日本情人節習俗大解密 + 第一次讀棉花糖【A1M1愛美/HKJPVTuber】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "MHUKFORz2v8",
+                        "image": "https://i.ytimg.com/vi/MHUKFORz2v8/mqdefault.jpg",
+                        "title": "【旅行預習】6種在日本旅行一定要知道的交通工具，車長A1M1來告訴你！【A1M1愛美/HKJPVTuber】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "crJymKnZ6yI",
+                        "image": "https://i.ytimg.com/vi/crJymKnZ6yI/mqdefault.jpg",
+                        "title": "【煩惱傾訴】愛美的房間／A1M1’s room【A1M1愛美/HKJPVTuber】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "JiVlFJsO32M",
+                        "image": "https://i.ytimg.com/vi/JiVlFJsO32M/mqdefault.jpg",
+                        "title": "【歌回】生日歌回！！！【A1M1愛美/HKJPVTuber】",
+                        "author": "A1M1愛美 Ch. EggtartV"
+                    }
+                ]
+            }
         }
     ]
 }

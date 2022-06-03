@@ -78,6 +78,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "fb8iR_-d8CE",
+                        "image": "https://i.ytimg.com/vi/fb8iR_-d8CE/mqdefault.jpg",
+                        "title": "HAPPY HUSKY",
+                        "author": "AdolfoHasuki Ch. 阿道弗奇奇"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -93,15 +107,15 @@
                         "author": "AdolfoHasuki Ch. 阿道弗奇奇"
                     },
                     {
-                        "video_code": "6EkHc0hXFlQ",
-                        "image": "https://i.ytimg.com/vi/6EkHc0hXFlQ/mqdefault.jpg",
-                        "title": "【GTFO】English Stream  f.t Karley , Tiger , Maple",
+                        "video_code": "uMnjjt2xJn8",
+                        "image": "https://i.ytimg.com/vi/uMnjjt2xJn8/mqdefault.jpg",
+                        "title": "2.0 浮上 !!",
                         "author": "AdolfoHasuki Ch. 阿道弗奇奇"
                     },
                     {
-                        "video_code": "S3x_r3VLAO8",
-                        "image": "https://i.ytimg.com/vi/S3x_r3VLAO8/mqdefault.jpg",
-                        "title": "【APEX】聽說伺服器修好了? 來肝排位吧 (白金2⏫⏫鑽石4)",
+                        "video_code": "wgfxQQlgcMw",
+                        "image": "https://i.ytimg.com/vi/wgfxQQlgcMw/mqdefault.jpg",
+                        "title": "🎉🎉阿道弗.奇奇一周年配信🎉🎉",
                         "author": "AdolfoHasuki Ch. 阿道弗奇奇"
                     },
                     {

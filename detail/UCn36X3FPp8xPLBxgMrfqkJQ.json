@@ -67,6 +67,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "RPEJ8myv7dA",
+                        "image": "https://i.ytimg.com/vi/RPEJ8myv7dA/mqdefault.jpg",
+                        "title": "【甚塩の天梯血淚史】DragonNest PVP - Ladder / Grand Master - #58｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "O0UdRh6VCcI",
+                        "image": "https://i.ytimg.com/vi/O0UdRh6VCcI/mqdefault.jpg",
+                        "title": "【Practice】DragonNest PVP - Ladder / Grand Master｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "lIKHTXKlAX8",
+                        "image": "https://i.ytimg.com/vi/lIKHTXKlAX8/mqdefault.jpg",
+                        "title": "【甚塩の天梯血淚史】DragonNest PVP - Ladder / Grand Master Remake - #60｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "Srxcs5dQR7U",
+                        "image": "https://i.ytimg.com/vi/Srxcs5dQR7U/mqdefault.jpg",
+                        "title": "CD 0 sec ?! Serious?｜DragonNest PVP - Ladder / Blade Dancer Revamp - #61｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "g90ZjdwuCgY",
+                        "image": "https://i.ytimg.com/vi/g90ZjdwuCgY/mqdefault.jpg",
+                        "title": "【特別篇】DragonNest PVP - Ladder / Majesty SPECIAL｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "44ENLRkI4-M",
+                        "image": "https://i.ytimg.com/vi/44ENLRkI4-M/mqdefault.jpg",
+                        "title": "【甚塩の天梯血淚史】DragonNest PVP Big Bang - Ladder / Soul Eater - #21｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "V6YhU1tMoPU",
+                        "image": "https://i.ytimg.com/vi/V6YhU1tMoPU/mqdefault.jpg",
+                        "title": "【特別篇】DragonNest PVP - Ladder / Smasher SPECIAL｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "VLoOe4NnrTM",
+                        "image": "https://i.ytimg.com/vi/VLoOe4NnrTM/mqdefault.jpg",
+                        "title": "【甚塩の天梯血淚史】DragonNest PVP Big Bang - Ladder / Blade Dancer - #20｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "rrsgFe2onzE",
+                        "image": "https://i.ytimg.com/vi/rrsgFe2onzE/mqdefault.jpg",
+                        "title": "【甚塩の天梯血淚史】DragonNest PVP Big Bang - Ladder / Blade Dancer - #16｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    },
+                    {
+                        "video_code": "-Jrv0FHet2c",
+                        "image": "https://i.ytimg.com/vi/-Jrv0FHet2c/mqdefault.jpg",
+                        "title": "【甚塩の天梯血淚史】DragonNest PVP Big Bang - Ladder / Soul Eater - #23｜香港Vtuber✱甚塩と艾綠",
+                        "author": "甚塩と艾綠【グレイス】"
+                    }
+                ]
+            }
         }
     ]
 }

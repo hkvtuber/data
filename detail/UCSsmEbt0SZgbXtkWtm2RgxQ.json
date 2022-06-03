@@ -91,6 +91,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "fvqbrIIhxkM",
+                        "image": "https://i.ytimg.com/vi/fvqbrIIhxkM/mqdefault.jpg",
+                        "title": "[Live2D]莉婭 Liya Model VTuber Showcase",
+                        "author": "小熊貓與莉婭【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

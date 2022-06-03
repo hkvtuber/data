@@ -104,6 +104,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "DGaadXlmcnA",
+                        "image": "https://i.ytimg.com/vi/DGaadXlmcnA/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》新手必看 首抽教學  輸入優惠卷即可獲得6900鑽石【灰米Graymi】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "D9P_2rJFaPQ",
+                        "image": "https://i.ytimg.com/vi/D9P_2rJFaPQ/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》新手攻略！無課新手30關打法輕鬆簡單！【灰米Graymi】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "q-CN6dH-DKw",
+                        "image": "https://i.ytimg.com/vi/q-CN6dH-DKw/mqdefault.jpg",
+                        "title": "魔戒:開戰時刻 西界紅皮書 第2章巫師的背叛 攻略！文字解說兵種相克!【灰米Graymi/香港Vtuber】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "wqUgGnr2f-w",
+                        "image": "https://i.ytimg.com/vi/wqUgGnr2f-w/mqdefault.jpg",
+                        "title": "《新劍俠世界3 》 最強攻略 小中課玩家必看 一天拿到4件橙裝大量兵魂武尊!!!留言欄送你們全部禮包碼 【灰米Graymi/香港Vtuber】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "wFCMukt13zs",
+                        "image": "https://i.ytimg.com/vi/wFCMukt13zs/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》新手攻略！所有傳說裝備效果一覽!【灰米Graymi】",
+                        "author": "Graymi.Ch灰米"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "cY-6Mlf6dEc",
+                        "image": "https://i.ytimg.com/vi/cY-6Mlf6dEc/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》新手必看攻略 專業肝王嚴選T0角色評論＆介紹 留言板有中字  粵語【灰米Graymi/香港新人Vtuber】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "V1yaDN1ItUY",
+                        "image": "https://i.ytimg.com/vi/V1yaDN1ItUY/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》 目前打到47關 9000體快肝不下了 卡關？直接打給你看！輸入優惠券 送100抽【灰米Graymi】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "WD2QUOiqZwo",
+                        "image": "https://i.ytimg.com/vi/WD2QUOiqZwo/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》 無課篇從零開始的傭兵物語 來試試無課極限首抽 5星芬泰勒 1星賽里雅絲1星德雷德 開局【灰米Graymi/香港新人Vtuber】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "Yrj9oD94frs",
+                        "image": "https://i.ytimg.com/vi/Yrj9oD94frs/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》 帝國軍崛起  最坦軍團練功【灰米Graymi】",
+                        "author": "Graymi.Ch灰米"
+                    },
+                    {
+                        "video_code": "hA3CoOsACe0",
+                        "image": "https://i.ytimg.com/vi/hA3CoOsACe0/mqdefault.jpg",
+                        "title": "《傭兵物語：軍團戰略》一騎當千  智破主線  歡迎新手提問【灰米Graymi】",
+                        "author": "Graymi.Ch灰米"
+                    }
+                ]
+            }
         }
     ]
 }

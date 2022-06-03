@@ -111,6 +111,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "0d1-yaoF2I0",
+                        "image": "https://i.ytimg.com/vi/0d1-yaoF2I0/mqdefault.jpg",
+                        "title": "通話紀錄 PHL-WOE5-4601",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    },
+                    {
+                        "video_code": "Uz0DpDJAJy4",
+                        "image": "https://i.ytimg.com/vi/Uz0DpDJAJy4/mqdefault_live.jpg",
+                        "title": "【死亡擱淺】快遞快遞快遞快遞快遞快遞快遞【天巡なき/HKvtuber】",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ebzIzWB0_aE",
+                        "image": "https://i.ytimg.com/vi/ebzIzWB0_aE/mqdefault.jpg",
+                        "title": "【繪圖作業】10秒icon上色篇！【天巡なき/HKvtuber】",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    },
+                    {
+                        "video_code": "6P-ddR3t08I",
+                        "image": "https://i.ytimg.com/vi/6P-ddR3t08I/mqdefault.jpg",
+                        "title": "【#初配信】要和大家見面了！從今天開始記錄下故事的新章【天巡なき】【自我介紹/棉花糖雜談】",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    },
+                    {
+                        "video_code": "Uicw_Ziab08",
+                        "image": "https://i.ytimg.com/vi/Uicw_Ziab08/mqdefault.jpg",
+                        "title": "【跑跑薑餅人/王國】隔了三四個月的久違登入！看看有甚麼新餅&新內容【天巡なき/HKvtuber】",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    },
+                    {
+                        "video_code": "Po8zjSlw9x8",
+                        "image": "https://i.ytimg.com/vi/Po8zjSlw9x8/mqdefault.jpg",
+                        "title": "【歌雜】天巡生日了！收集大家生日祝福&初歌回【天巡なき/HKvtuber】",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    },
+                    {
+                        "video_code": "QVmooQbSEcg",
+                        "image": "https://i.ytimg.com/vi/QVmooQbSEcg/mqdefault.jpg",
+                        "title": "把你害怕的事物變成大奶奶！【天巡なき/HKvtuber】",
+                        "author": "天巡なき 【新人hkvtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

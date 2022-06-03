@@ -64,6 +64,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "LrnXb-qJJY0",
+                        "image": "https://i.ytimg.com/vi/LrnXb-qJJY0/mqdefault.jpg",
+                        "title": "【初配信】新手上路 同大家報到【寧寧00／香港VTuber】",
+                        "author": "寧寧00 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "1BTf857jKLw",
+                        "image": "https://i.ytimg.com/vi/1BTf857jKLw/mqdefault.jpg",
+                        "title": "【搶飛飛】搶mirror飛【寧寧00／香港VTuber】",
+                        "author": "寧寧00 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "HXHA82EIzww",
+                        "image": "https://i.ytimg.com/vi/HXHA82EIzww/mqdefault.jpg",
+                        "title": "【Triangle Strategy】閒聊熟習下直播先【寧寧00／香港VTuber】",
+                        "author": "寧寧00 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "6woHpt0qGyk",
+                        "image": "https://i.ytimg.com/vi/6woHpt0qGyk/mqdefault.jpg",
+                        "title": "【雜談談】度下寧寧日常時間表【寧寧00／香港VTuber】",
+                        "author": "寧寧00 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "KuizKZtoyts",
+                        "image": "https://i.ytimg.com/vi/KuizKZtoyts/mqdefault.jpg",
+                        "title": "【雜談挑戰】同大家傾下計~【寧寧00／香港VTuber】",
+                        "author": "寧寧00 【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

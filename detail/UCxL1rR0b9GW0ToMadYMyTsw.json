@@ -97,28 +97,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "D1nm5mubbYc",
-                        "image": "https://i.ytimg.com/vi/D1nm5mubbYc/mqdefault.jpg",
-                        "title": "[初配信]來自於劍仙世界的MK仔![啊尼HKVtuber]",
-                        "author": "啊尼[HK Vtuber]"
+                        "video_code": "BAHygBWvagQ",
+                        "image": "https://i.ytimg.com/vi/BAHygBWvagQ/mqdefault.jpg",
+                        "title": "[突發]重大告知!",
+                        "author": "啊尼【HKGC】"
                     },
                     {
                         "video_code": "_NuIVmNqVJA",
                         "image": "https://i.ytimg.com/vi/_NuIVmNqVJA/mqdefault.jpg",
-                        "title": "[League of Legends]新手嚟玩LOL~[啊尼HKVtuber]",
-                        "author": "啊尼[HK Vtuber]"
+                        "title": "[League of Legends]新手嚟玩LOL~",
+                        "author": "啊尼【HKGC】"
                     },
                     {
                         "video_code": "aMd1jcc5v_s",
                         "image": "https://i.ytimg.com/vi/aMd1jcc5v_s/mqdefault.jpg",
-                        "title": "[聯動] don't starve together 3人聯動活動!#3[啊尼HKVtuber]",
-                        "author": "啊尼[HK Vtuber]"
+                        "title": "[聯動] don't starve together 3人聯動活動!#3",
+                        "author": "啊尼【HKGC】"
+                    },
+                    {
+                        "video_code": "Whco7TNPORA",
+                        "image": "https://i.ytimg.com/vi/Whco7TNPORA/mqdefault.jpg",
+                        "title": "[ready or not]如何學習團隊合作??",
+                        "author": "啊尼【HKGC】"
                     },
                     {
                         "video_code": "9f9bLTjlD1A",
                         "image": "https://i.ytimg.com/vi/9f9bLTjlD1A/mqdefault.jpg",
-                        "title": "[聯動]Apex新手上路![啊尼HKVtuber]",
-                        "author": "啊尼[HK Vtuber]"
+                        "title": "[聯動]Apex新手上路!",
+                        "author": "啊尼【HKGC】"
                     }
                 ]
             }

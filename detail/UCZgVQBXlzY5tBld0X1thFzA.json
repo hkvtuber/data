@@ -106,6 +106,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "oI27bf3oga4",
+                        "image": "https://i.ytimg.com/vi/oI27bf3oga4/mqdefault.jpg",
+                        "title": "[初配信] 魔法店開業(*´▽`*) | 真白瑠璃 Mashiro Ruri",
+                        "author": "真白瑠璃 Mashiro Ruri Ch."
+                    },
+                    {
+                        "video_code": "R_yw8VLCSG4",
+                        "image": "https://i.ytimg.com/vi/R_yw8VLCSG4/mqdefault.jpg",
+                        "title": "[安眠台]玩Killer Sudoku玩到睡覺( ˘ω˘ )ｽﾔｧ",
+                        "author": "真白瑠璃 Mashiro Ruri Ch."
+                    },
+                    {
+                        "video_code": "7-UCNL0JK5k",
+                        "image": "https://i.ytimg.com/vi/7-UCNL0JK5k/mqdefault.jpg",
+                        "title": "[Elden Ring]終於要踏進交界地了! Ruri能順利活下去嗎?",
+                        "author": "真白瑠璃 Mashiro Ruri Ch."
+                    },
+                    {
+                        "video_code": "5Hr2kjx1c8E",
+                        "image": "https://i.ytimg.com/vi/5Hr2kjx1c8E/mqdefault.jpg",
+                        "title": "[APEX] 打打NG聊聊天",
+                        "author": "真白瑠璃 Mashiro Ruri Ch."
+                    },
+                    {
+                        "video_code": "pu3b88-gNZE",
+                        "image": "https://i.ytimg.com/vi/pu3b88-gNZE/mqdefault.jpg",
+                        "title": "[APEX] 初到戰場Ruri真的大丈夫?",
+                        "author": "真白瑠璃 Mashiro Ruri Ch."
+                    }
+                ]
+            }
         }
     ]
 }

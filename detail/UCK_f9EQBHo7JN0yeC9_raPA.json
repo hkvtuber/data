@@ -119,6 +119,32 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "muZHexO_sNU",
+                        "image": "https://i.ytimg.com/vi/muZHexO_sNU/mqdefault.jpg",
+                        "title": "你的女皇陛下突然出現 !",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "rUDnXGK4pNY",
+                        "image": "https://i.ytimg.com/vi/rUDnXGK4pNY/mqdefault.jpg",
+                        "title": "與女皇陛下的對視比賽",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "_1Zl0L_qmCM",
+                        "image": "https://i.ytimg.com/vi/_1Zl0L_qmCM/mqdefault.jpg",
+                        "title": "👑 Welcome to my kingdom 👑",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    }
+                ]
+            }
         }
     ]
 }

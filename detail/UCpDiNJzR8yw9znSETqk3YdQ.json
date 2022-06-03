@@ -69,6 +69,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "gMlIxDJZ9e0",
+                        "image": "https://i.ytimg.com/vi/gMlIxDJZ9e0/mqdefault.jpg",
+                        "title": "熱下身聚個氣【修道型Vtuber】",
+                        "author": "七空赤龍 Ryū【修道V】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "rkoCLJPqCN0",
+                        "image": "https://i.ytimg.com/vi/rkoCLJPqCN0/mqdefault.jpg",
+                        "title": "【初配信】初次見面即解命！虛通閣開張大吉",
+                        "author": "七空赤龍 Ryū【修道V】"
+                    },
+                    {
+                        "video_code": "NXLOuyRYRFE",
+                        "image": "https://i.ytimg.com/vi/NXLOuyRYRFE/mqdefault.jpg",
+                        "title": "【繪畫作業】全力趕工【七空赤龍】",
+                        "author": "七空赤龍 Ryū【修道V】"
+                    },
+                    {
+                        "video_code": "lKCTqj5rqgQ",
+                        "image": "https://i.ytimg.com/vi/lKCTqj5rqgQ/mqdefault.jpg",
+                        "title": "【飛行模擬】做隻冇雀的腳仔 MSFS2020【七空赤龍】",
+                        "author": "七空赤龍 Ryū【修道V】"
+                    },
+                    {
+                        "video_code": "33DH9chpEOc",
+                        "image": "https://i.ytimg.com/vi/33DH9chpEOc/mqdefault.jpg",
+                        "title": "【繪畫作業】愚人節補償作業／畫得慢冇得打機QQ【七空赤龍 / HKVtuber】",
+                        "author": "七空赤龍 Ryū【修道V】"
+                    },
+                    {
+                        "video_code": "RtjqjaK4EKY",
+                        "image": "https://i.ytimg.com/vi/RtjqjaK4EKY/mqdefault.jpg",
+                        "title": "【繪畫作業】晨練Demo【七空赤龍】",
+                        "author": "七空赤龍 Ryū【修道V】"
+                    }
+                ]
+            }
         }
     ]
 }

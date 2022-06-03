@@ -108,16 +108,28 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "65InNPfS2Mo",
+                        "image": "https://i.ytimg.com/vi/65InNPfS2Mo/mqdefault.jpg",
+                        "title": "神っぽいな ／Covered by 淡月楓【歌ってみた】",
+                        "author": "淡月楓 Maple Ch."
+                    },
+                    {
                         "video_code": "b9PAHGLeUug",
                         "image": "https://i.ytimg.com/vi/b9PAHGLeUug/mqdefault.jpg",
                         "title": "【香港Vtuber】淡月楓的自我介紹V2",
-                        "author": "淡月楓[香港vtuber]"
+                        "author": "淡月楓 Maple Ch."
                     },
                     {
                         "video_code": "2Vgxa7W-BRQ",
                         "image": "https://i.ytimg.com/vi/2Vgxa7W-BRQ/mqdefault.jpg",
                         "title": "ヨンジュウナナ Acoustic Arrange 歌ってみた【淡月楓】",
-                        "author": "淡月楓[香港vtuber]"
+                        "author": "淡月楓 Maple Ch."
+                    },
+                    {
+                        "video_code": "ndtmKGndJug",
+                        "image": "https://i.ytimg.com/vi/ndtmKGndJug/mqdefault.jpg",
+                        "title": "事故",
+                        "author": "淡月楓 Maple Ch."
                     }
                 ]
             }
@@ -128,34 +140,34 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "v-0qCMqkgq0",
-                        "image": "https://i.ytimg.com/vi/v-0qCMqkgq0/mqdefault.jpg",
-                        "title": "專題研集【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓[香港vtuber]"
+                        "video_code": "bbLNoDINyX8",
+                        "image": "https://i.ytimg.com/vi/bbLNoDINyX8/mqdefault.jpg",
+                        "title": "Happy Birthday to me【淡月楓】【香港Vtuber】",
+                        "author": "淡月楓 Maple Ch."
                     },
                     {
                         "video_code": "EDbSe1wEye4",
                         "image": "https://i.ytimg.com/vi/EDbSe1wEye4/mqdefault.jpg",
                         "title": "100首耐久...?【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓[香港vtuber]"
-                    },
-                    {
-                        "video_code": "1zgazifEprE",
-                        "image": "https://i.ytimg.com/vi/1zgazifEprE/mqdefault.jpg",
-                        "title": "GTFO feat.MASK【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓[香港vtuber]"
-                    },
-                    {
-                        "video_code": "mZWMfPkvGT8",
-                        "image": "https://i.ytimg.com/vi/mZWMfPkvGT8/mqdefault.jpg",
-                        "title": "【突發】低八度唱歌【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓[香港vtuber]"
+                        "author": "淡月楓 Maple Ch."
                     },
                     {
                         "video_code": "9wzZjWJWiTI",
                         "image": "https://i.ytimg.com/vi/9wzZjWJWiTI/mqdefault.jpg",
                         "title": "Blue Monday 【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓[香港vtuber]"
+                        "author": "淡月楓 Maple Ch."
+                    },
+                    {
+                        "video_code": "8yAB2mvvwro",
+                        "image": "https://i.ytimg.com/vi/8yAB2mvvwro/mqdefault.jpg",
+                        "title": "【突發】半小時被爆門就關台【淡月楓】【香港Vtuber】",
+                        "author": "淡月楓 Maple Ch."
+                    },
+                    {
+                        "video_code": "mZWMfPkvGT8",
+                        "image": "https://i.ytimg.com/vi/mZWMfPkvGT8/mqdefault.jpg",
+                        "title": "【突發】低八度唱歌【淡月楓】【香港Vtuber】",
+                        "author": "淡月楓 Maple Ch."
                     }
                 ]
             }

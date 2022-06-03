@@ -78,21 +78,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "lrAKnaOuNCM",
+                        "image": "https://i.ytimg.com/vi/lrAKnaOuNCM/mqdefault.jpg",
+                        "title": "いのちの名前 kaoakeで歌ってみた",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
                         "video_code": "vUYOPJSUxiI",
                         "image": "https://i.ytimg.com/vi/vUYOPJSUxiI/mqdefault.jpg",
                         "title": "地球侵略介紹",
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "lrAKnaOuNCM",
-                        "image": "https://i.ytimg.com/vi/lrAKnaOuNCM/mqdefault.jpg",
-                        "title": "karaoke いのちの名前",
-                        "author": "Ding's Gaming Channel"
-                    },
-                    {
                         "video_code": "uo_h_sWERv0",
                         "image": "https://i.ytimg.com/vi/uo_h_sWERv0/mqdefault.jpg",
                         "title": "じっくり絵心教室 - スプラトゥーン",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "x7ARZne_nbQ",
+                        "image": "https://i.ytimg.com/vi/x7ARZne_nbQ/mqdefault.jpg",
+                        "title": "じっくり絵心教室 - スプラトゥーン",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "1lN9WhrYUUM",
+                        "image": "https://i.ytimg.com/vi/1lN9WhrYUUM/mqdefault.jpg",
+                        "title": "警示鞋宣傳短片",
                         "author": "Ding's Gaming Channel"
                     }
                 ]
@@ -104,21 +116,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "AWotFvLwaR4",
-                        "image": "https://i.ytimg.com/vi/AWotFvLwaR4/mqdefault.jpg",
-                        "title": "香港外星人試玩Made in Wario",
+                        "video_code": "aW6zDhg_qYI",
+                        "image": "https://i.ytimg.com/vi/aW6zDhg_qYI/mqdefault.jpg",
+                        "title": "Buddy Mission BOND - #1 開場已經好基",
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "wEZnVDOgt6Y",
-                        "image": "https://i.ytimg.com/vi/wEZnVDOgt6Y/mqdefault.jpg",
-                        "title": "香港外星人卡拉OK",
+                        "video_code": "yG_0gIH-DRU",
+                        "image": "https://i.ytimg.com/vi/yG_0gIH-DRU/mqdefault.jpg",
+                        "title": "韓製AVG 《BURIED STARS》#41 -版權邊緣END",
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "-EWesLqTjLw",
-                        "image": "https://i.ytimg.com/vi/-EWesLqTjLw/mqdefault.jpg",
-                        "title": "香港外星人試玩《Metroid Dread》",
+                        "video_code": "Vcx6ehgDr9o",
+                        "image": "https://i.ytimg.com/vi/Vcx6ehgDr9o/mqdefault.jpg",
+                        "title": "【心跳回憶GS4】#1 青梅竹馬男主角",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "1kQ6Fsbu2to",
+                        "image": "https://i.ytimg.com/vi/1kQ6Fsbu2to/mqdefault.jpg",
+                        "title": "韓製AVG 《BURIED STARS》#1 - 選秀節目大慘事",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "vT446YS9TXA",
+                        "image": "https://i.ytimg.com/vi/vT446YS9TXA/mqdefault.jpg",
+                        "title": "大逆轉裁判 - #1 我選擇自辯！",
                         "author": "Ding's Gaming Channel"
                     }
                 ]

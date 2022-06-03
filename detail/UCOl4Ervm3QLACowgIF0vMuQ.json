@@ -96,6 +96,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "TiDhxHDHMn8",
+                        "image": "https://i.ytimg.com/vi/TiDhxHDHMn8/mqdefault.jpg",
+                        "title": "【初配信】芳齢65美少女再就職現場【香港Vtuber/山吹あげは】",
+                        "author": "山吹 蝶 Ageha Ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "1di9qz8q1y8",
+                        "image": "https://i.ytimg.com/vi/1di9qz8q1y8/mqdefault.jpg",
+                        "title": "【兒童節特企】童年歌枠+日本語限定台【香港Vtuber/山吹あげは】",
+                        "author": "山吹 蝶 Ageha Ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "gtKjprbg-QM",
+                        "image": "https://i.ytimg.com/vi/gtKjprbg-QM/mqdefault.jpg",
+                        "title": "【霧城 deep fog】第一次自己玩恐怖遊戲😖【香港Vtuber/山吹あげは】",
+                        "author": "山吹 蝶 Ageha Ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "81vn6TYYACw",
+                        "image": "https://i.ytimg.com/vi/81vn6TYYACw/mqdefault.jpg",
+                        "title": "【明星志願3Deluxe】Re：從零開始的AgehaP【香港Vtuber/山吹あげは】",
+                        "author": "山吹 蝶 Ageha Ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "oj96I33qPaw",
+                        "image": "https://i.ytimg.com/vi/oj96I33qPaw/mqdefault.jpg",
+                        "title": "【雑談】讀棉花糖吹下水順便公開DC群🍬【香港Vtuber/山吹あげは】",
+                        "author": "山吹 蝶 Ageha Ch.【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

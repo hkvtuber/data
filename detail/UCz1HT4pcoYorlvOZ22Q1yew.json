@@ -44,6 +44,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "1J5oJftRBm0",
+                        "image": "https://i.ytimg.com/vi/1J5oJftRBm0/mqdefault.jpg",
+                        "title": "伊織なお公式宣傳短片",
+                        "author": "Mic On Project【Official】"
+                    }
+                ]
+            }
         }
     ]
 }

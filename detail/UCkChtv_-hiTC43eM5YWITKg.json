@@ -74,6 +74,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "0JdLQsnjtCs",
+                        "image": "https://i.ytimg.com/vi/0JdLQsnjtCs/mqdefault.jpg",
+                        "title": "11人理性討論among us台 hide and seek ver.[上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "TS-DV8I8JD0",
+                        "image": "https://i.ytimg.com/vi/TS-DV8I8JD0/mqdefault.jpg",
+                        "title": "今日係半週年同新衣裝披露啊啊啊啊啊[上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "_hrP1RBTWj0",
+                        "image": "https://i.ytimg.com/vi/_hrP1RBTWj0/mqdefault.jpg",
+                        "title": "練歌台with kzk[上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "jFybdus5fZY",
+                        "image": "https://i.ytimg.com/vi/jFybdus5fZY/mqdefault.jpg",
+                        "title": "Needy Girl Overdose 真結局路線[上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "L48d8xWcKaQ",
+                        "image": "https://i.ytimg.com/vi/L48d8xWcKaQ/mqdefault.jpg",
+                        "title": "突發god field上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    },
+                    {
+                        "video_code": "2CBS3IqtQIg",
+                        "image": "https://i.ytimg.com/vi/2CBS3IqtQIg/mqdefault.jpg",
+                        "title": "突發開台洗地[上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

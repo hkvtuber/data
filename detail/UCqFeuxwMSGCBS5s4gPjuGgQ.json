@@ -110,8 +110,52 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "v0C75RdjJ4o",
+                        "image": "https://i.ytimg.com/vi/v0C75RdjJ4o/mqdefault.jpg",
+                        "title": "[精華] arena? YES STONKS",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
+                        "video_code": "6oAd4uPdxLc",
+                        "image": "https://i.ytimg.com/vi/6oAd4uPdxLc/mqdefault.jpg",
+                        "title": "戰地風雲 2042 OB 資料 測評 數據挖掘 (EN sub / 字幕) [vtuber Zeta]",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
+                        "video_code": "jfaIqCl3iDg",
+                        "image": "https://i.ytimg.com/vi/jfaIqCl3iDg/mqdefault.jpg",
+                        "title": "доброе утро",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
+                        "video_code": "98s-72hLIz0",
+                        "image": "https://i.ytimg.com/vi/98s-72hLIz0/mqdefault.jpg",
+                        "title": "[粵]Apex S11更新+小tips",
+                        "author": "[Vtuber] Zeta Ch"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "_Gx6SctknX4",
+                        "image": "https://i.ytimg.com/vi/_Gx6SctknX4/mqdefault.jpg",
+                        "title": "MGS V [Vtuber zeta]",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
+                        "video_code": "ZThDDiTr8bY",
+                        "image": "https://i.ytimg.com/vi/ZThDDiTr8bY/mqdefault.jpg",
+                        "title": "MGS V [Vtuber zeta]",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
                     {
                         "video_code": "UFqk1zgCVW4",
                         "image": "https://i.ytimg.com/vi/UFqk1zgCVW4/mqdefault.jpg",
@@ -119,21 +163,15 @@
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
-                        "video_code": "AMi2m1jZ1sc",
-                        "image": "https://i.ytimg.com/vi/AMi2m1jZ1sc/mqdefault.jpg",
-                        "title": "[突突突突發] 12Hrs / 10 champs  [Vtuber zeta] (ft. mikage, karlo)",
+                        "video_code": "NpuOQbZwHh4",
+                        "image": "https://i.ytimg.com/vi/NpuOQbZwHh4/mqdefault.jpg",
+                        "title": "Dying Light 2 [Vtuber zeta]",
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
-                        "video_code": "5r4CdCKpqXE",
-                        "image": "https://i.ytimg.com/vi/5r4CdCKpqXE/mqdefault.jpg",
-                        "title": "[耐久] 下 地 獄! Doom Eternal 挑戰Nightmare! [Vtuber Zeta]",
-                        "author": "[Vtuber] Zeta Ch"
-                    },
-                    {
-                        "video_code": "wPyLnUIk45M",
-                        "image": "https://i.ytimg.com/vi/wPyLnUIk45M/mqdefault.jpg",
-                        "title": "2042 [Vtuber zeta]",
+                        "video_code": "qgRsUSTF92M",
+                        "image": "https://i.ytimg.com/vi/qgRsUSTF92M/mqdefault.jpg",
+                        "title": "S12pex early edition. [Vtuber zeta]",
                         "author": "[Vtuber] Zeta Ch"
                     }
                 ]

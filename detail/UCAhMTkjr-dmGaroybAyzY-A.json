@@ -106,6 +106,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "rtxPWC9lV9E",
+                        "image": "https://i.ytimg.com/vi/rtxPWC9lV9E/mqdefault.jpg",
+                        "title": "冰淇淋 Bing chilling｜HKVtuber｜佐藤あや",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "mSatdP8oF1M",
+                        "image": "https://i.ytimg.com/vi/mSatdP8oF1M/mqdefault.jpg",
+                        "title": "【歌ってみた】グッバイ宣言 / 佐藤あや  cover",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "W2oIEw-VUO4",
+                        "image": "https://i.ytimg.com/vi/W2oIEw-VUO4/mqdefault.jpg",
+                        "title": "WA",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "wri7puE1omg",
+                        "image": "https://i.ytimg.com/vi/wri7puE1omg/mqdefault.jpg",
+                        "title": "【歌ってみた】ヴァンパイア / 佐藤あや cover",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "b98FDwh58jc",
+                        "image": "https://i.ytimg.com/vi/b98FDwh58jc/mqdefault.jpg",
+                        "title": "PADORU",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "jAv_sKgWuSI",
+                        "image": "https://i.ytimg.com/vi/jAv_sKgWuSI/mqdefault.jpg",
+                        "title": "【初配信】這麼可愛的Vtuber，你不進來看看嗎？｜HKVtuber｜佐藤あや",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ngj9dKGqqks",
+                        "image": "https://i.ytimg.com/vi/ngj9dKGqqks/mqdefault.jpg",
+                        "title": "【Fall Guys】來玩推你遊戲吧～｜HKVtuber｜佐藤あや",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "NhQy6l_A3ZA",
+                        "image": "https://i.ytimg.com/vi/NhQy6l_A3ZA/mqdefault.jpg",
+                        "title": "【繪圖雜談】觀眾點圖！Vtuber九宮格！！！｜HKVtuber｜佐藤あや",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "MMv2iZ0GfSM",
+                        "image": "https://i.ytimg.com/vi/MMv2iZ0GfSM/mqdefault.jpg",
+                        "title": "【繪圖雜談】畫一些喜歡的Vtuber～｜HKVtuber｜佐藤あや",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    },
+                    {
+                        "video_code": "pnzexiraEBw",
+                        "image": "https://i.ytimg.com/vi/pnzexiraEBw/mqdefault.jpg",
+                        "title": "【雜談】最近好累～～想睡睡～｜HKVtuber｜佐藤あや",
+                        "author": "Aya Ch. 佐藤あや【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

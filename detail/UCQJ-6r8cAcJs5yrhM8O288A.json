@@ -102,16 +102,22 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "JXu2DJyFoV8",
-                        "image": "https://i.ytimg.com/vi/JXu2DJyFoV8/mqdefault.jpg",
-                        "title": "冬月ゆう前傳 - 誕生 【香港VTuber】",
-                        "author": "Yuu Ch. 冬月ゆう【HKVTuber】"
-                    },
-                    {
                         "video_code": "vF_kv4KVkXQ",
                         "image": "https://i.ytimg.com/vi/vF_kv4KVkXQ/mqdefault.jpg",
                         "title": "【熱愛105°C的你】日語版 熱愛１０５℃の君へ【Coverd by 冬月ゆう/小游】",
-                        "author": "Yuu Ch. 冬月ゆう【HKVTuber】"
+                        "author": "Yuu Ch. 冬月ゆう【HKVtype】"
+                    },
+                    {
+                        "video_code": "JXu2DJyFoV8",
+                        "image": "https://i.ytimg.com/vi/JXu2DJyFoV8/mqdefault.jpg",
+                        "title": "冬月ゆう前傳 - 誕生 【香港Vtype】",
+                        "author": "Yuu Ch. 冬月ゆう【HKVtype】"
+                    },
+                    {
+                        "video_code": "qFy0OT8XaxE",
+                        "image": "https://i.ytimg.com/vi/qFy0OT8XaxE/mqdefault.jpg",
+                        "title": "【少女終末旅行】More One Night【Coverd by 冬月ゆう/小游】",
+                        "author": "Yuu Ch. 冬月ゆう【HKVtype】"
                     }
                 ]
             }

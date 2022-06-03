@@ -115,6 +115,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "HrpHFK1w2SE",
+                        "image": "https://i.ytimg.com/vi/HrpHFK1w2SE/mqdefault.jpg",
+                        "title": "Nya~",
+                        "author": "神生璃空 Riku Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -124,9 +138,27 @@
                         "author": "神生璃空 Riku Ch."
                     },
                     {
-                        "video_code": "NUfY-2aIWu4",
-                        "image": "https://i.ytimg.com/vi/NUfY-2aIWu4/mqdefault.jpg",
-                        "title": "【Minecraft】 Minecraft Parkour挑戰戰疊字字 ? ! ? !",
+                        "video_code": "iJlAr2V8E2I",
+                        "image": "https://i.ytimg.com/vi/iJlAr2V8E2I/mqdefault.jpg",
+                        "title": "【雑談】璃空の誕生日～璃空要四歲啦！一齊食蛋糕？",
+                        "author": "神生璃空 Riku Ch."
+                    },
+                    {
+                        "video_code": "mex7sVxltM8",
+                        "image": "https://i.ytimg.com/vi/mex7sVxltM8/mqdefault.jpg",
+                        "title": "【深夜工作台】陪Rikuku深夜工作好唔好 ?",
+                        "author": "神生璃空 Riku Ch."
+                    },
+                    {
+                        "video_code": "-MQ4NKEtkiw",
+                        "image": "https://i.ytimg.com/vi/-MQ4NKEtkiw/mqdefault.jpg",
+                        "title": "【雑談】陪我 !",
+                        "author": "神生璃空 Riku Ch."
+                    },
+                    {
+                        "video_code": "2ZYK6PZQyTA",
+                        "image": "https://i.ytimg.com/vi/2ZYK6PZQyTA/mqdefault.jpg",
+                        "title": "【學習台】 新的一年就是要從學習開始~",
                         "author": "神生璃空 Riku Ch."
                     }
                 ]

@@ -59,6 +59,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "5SjezlcaXgY",
+                        "image": "https://i.ytimg.com/vi/5SjezlcaXgY/mqdefault.jpg",
+                        "title": "【最強合集🖤】有好多好多會長！ ！！  ❀香港Vtuber❀",
+                        "author": "艾莉絲 Iris Ch. / BLOSSOMY【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "g5CER64dKRI",
+                        "image": "https://i.ytimg.com/vi/g5CER64dKRI/mqdefault.jpg",
+                        "title": "艾莉絲 BLOSSOMY 🖤 Opening ❀香港Vtuber❀",
+                        "author": "艾莉絲 Iris Ch. / BLOSSOMY【香港Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

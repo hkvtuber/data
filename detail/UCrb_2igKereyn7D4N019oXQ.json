@@ -113,21 +113,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "9gcg3psqnro",
-                        "image": "https://i.ytimg.com/vi/9gcg3psqnro/mqdefault.jpg",
-                        "title": "【自己紹介】Vtuber 一問一答自己紹介 【Kappa/卡帕 】",
-                        "author": "Kappa卡帕"
-                    },
-                    {
                         "video_code": "asDa16CSyd8",
                         "image": "https://i.ytimg.com/vi/asDa16CSyd8/mqdefault.jpg",
                         "title": "【Cover】DECO*27 - 愛言葉 (short ver.)｜cover by Kappa卡帕🐸",
                         "author": "Kappa卡帕"
                     },
                     {
+                        "video_code": "9gcg3psqnro",
+                        "image": "https://i.ytimg.com/vi/9gcg3psqnro/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber 一問一答自己紹介 【Kappa/卡帕 】",
+                        "author": "Kappa卡帕"
+                    },
+                    {
                         "video_code": "l8tiuIaatXQ",
                         "image": "https://i.ytimg.com/vi/l8tiuIaatXQ/mqdefault.jpg",
                         "title": "【Cover】DECO*27 - 愛言葉 (Full ver.)｜cover by Kappa卡帕🐸",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "m-4GijWvlsM",
+                        "image": "https://i.ytimg.com/vi/m-4GijWvlsM/mqdefault.jpg",
+                        "title": "【MHW聯動精華】硬了？！玩MHW玩到硬了？！同場加映世界最速釣魚法✨✨｜Kappa卡帕🐸｜Feat. 雪櫃Reiha❄｜",
                         "author": "Kappa卡帕"
                     }
                 ]
@@ -145,27 +151,27 @@
                         "author": "Kappa卡帕"
                     },
                     {
-                        "video_code": "IIPXc7FTM5M",
-                        "image": "https://i.ytimg.com/vi/IIPXc7FTM5M/mqdefault.jpg",
-                        "title": "【L4D2】 L4D2聯動~四人小隊出動！ ｜Kappa卡帕🐸 Feat. 梓神月, 2常者, 水月いずき｜",
+                        "video_code": "JtoVynBMdcA",
+                        "image": "https://i.ytimg.com/vi/JtoVynBMdcA/mqdefault.jpg",
+                        "title": "【酒雜談】第一次的酒雜談!! 可以一直燃起來!!｜Kappa卡帕🐸｜Feat. 騎士奧蒂斯",
                         "author": "Kappa卡帕"
                     },
                     {
-                        "video_code": "IMcH6FI7uhk",
-                        "image": "https://i.ytimg.com/vi/IMcH6FI7uhk/mqdefault.jpg",
-                        "title": "【Apex】初聯動!! 鐵拳無雙二人組!!!!｜Kappa卡帕🐸feat. 神白ウノ🌫｜",
+                        "video_code": "pSYb9v58L60",
+                        "image": "https://i.ytimg.com/vi/pSYb9v58L60/mqdefault.jpg",
+                        "title": "【祟り - RPG】🐸卡實聯動🐕 卡實完全配音版~絕密公開!｜Kappa卡帕🐸｜Feat. 亞實みのる📒🐕｜",
                         "author": "Kappa卡帕"
                     },
                     {
-                        "video_code": "RB2jAHkHWLI",
-                        "image": "https://i.ytimg.com/vi/RB2jAHkHWLI/mqdefault.jpg",
-                        "title": "【MHW】到底是屠龍還是被龍屠? ! #1｜Kappa卡帕🐸",
+                        "video_code": "m5gqtvHzgOA",
+                        "image": "https://i.ytimg.com/vi/m5gqtvHzgOA/mqdefault.jpg",
+                        "title": "【MHW】聯動!! 笛大師又來了!!✨香香的姐姐又來帶領我了~~｜Kappa卡帕🐸｜Feat. 雪櫃Reiha❄｜",
                         "author": "Kappa卡帕"
                     },
                     {
-                        "video_code": "9gvc1vuiJ9g",
-                        "image": "https://i.ytimg.com/vi/9gvc1vuiJ9g/mqdefault.jpg",
-                        "title": "【ARK】 ARK生存!! 打恐龍了!! ｜Kappa卡帕🐸",
+                        "video_code": "ssdKwYZp2IQ",
+                        "image": "https://i.ytimg.com/vi/ssdKwYZp2IQ/mqdefault.jpg",
+                        "title": "【Apex】和雪狼兄弟一起吹泡泡槍🧼繼續打醬油✨｜Kappa卡帕🐸｜",
                         "author": "Kappa卡帕"
                     }
                 ]

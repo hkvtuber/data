@@ -118,23 +118,21 @@
                         "author": "吉祥物マスコット【hkvtuber】"
                     },
                     {
+                        "video_code": "rCx0rp12wNs",
+                        "image": "https://i.ytimg.com/vi/rCx0rp12wNs/mqdefault.jpg",
+                        "title": "[YOASOBI 夜に駆ける] [粵語翻唱] [masukotto]",
+                        "author": "吉祥物マスコット【hkvtuber】"
+                    },
+                    {
                         "video_code": "PPrmFX_EIOY",
                         "image": "https://i.ytimg.com/vi/PPrmFX_EIOY/mqdefault.jpg",
                         "title": "Masukotto vtuber[#live2Dshowcase]",
                         "author": "吉祥物マスコット【hkvtuber】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
+                    },
                     {
-                        "video_code": "E8DbrAUqawg",
-                        "image": "https://i.ytimg.com/vi/E8DbrAUqawg/mqdefault.jpg",
-                        "title": "[初配信]masukotto正式出道masuko[hkvtuber]",
+                        "video_code": "1eBZNlaTc9A",
+                        "image": "https://i.ytimg.com/vi/1eBZNlaTc9A/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【香港VTuber/masukotto】",
                         "author": "吉祥物マスコット【hkvtuber】"
                     }
                 ]

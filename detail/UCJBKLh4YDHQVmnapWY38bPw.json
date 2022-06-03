@@ -111,10 +111,34 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "sRpVdNcFkw8",
+                        "image": "https://i.ytimg.com/vi/sRpVdNcFkw8/mqdefault.jpg",
+                        "title": "[練歌成果??] 怪物 /YOASOBI",
+                        "author": "飯"
+                    },
+                    {
+                        "video_code": "naRVUD_1vdM",
+                        "image": "https://i.ytimg.com/vi/naRVUD_1vdM/mqdefault.jpg",
+                        "title": "[APEX精華] 玻璃英雄?",
+                        "author": "飯"
+                    },
+                    {
                         "video_code": "5MhXkKaS-TE",
                         "image": "https://i.ytimg.com/vi/5MhXkKaS-TE/mqdefault.jpg",
                         "title": "[GGJ2021]  迷圖 Lost in Ancient",
-                        "author": "8rice [HK VTuber]"
+                        "author": "飯"
+                    },
+                    {
+                        "video_code": "Lu8P0o9Txec",
+                        "image": "https://i.ytimg.com/vi/Lu8P0o9Txec/mqdefault.jpg",
+                        "title": "畢業時播的那條片 @Chu Ni Morkilo中二艾露【HKVtuber】",
+                        "author": "飯"
+                    },
+                    {
+                        "video_code": "F-7fHbPzbPQ",
+                        "image": "https://i.ytimg.com/vi/F-7fHbPzbPQ/mqdefault.jpg",
+                        "title": "8rice BGM",
+                        "author": "飯"
                     }
                 ]
             }

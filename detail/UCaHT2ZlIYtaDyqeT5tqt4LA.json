@@ -84,21 +84,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "mzbtoHDsDKY",
+                        "image": "https://i.ytimg.com/vi/mzbtoHDsDKY/mqdefault.jpg",
+                        "title": "【シャドウバース / Shadowverse】シエテのクエスト攻略と（ネメシス使う）(日本語の挑戦!)【新人vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "kYZgolVuTKE",
+                        "image": "https://i.ytimg.com/vi/kYZgolVuTKE/mqdefault.jpg",
+                        "title": "【千年戦争アイギス】妖魔の逆襲神級EX(中文字幕)【新人vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "JdIA4nsPy18",
+                        "image": "https://i.ytimg.com/vi/JdIA4nsPy18/mqdefault.jpg",
+                        "title": "蕭若元大戰游學修懶人包【hkvtuber社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
                         "video_code": "gtAnDCRRMSw",
                         "image": "https://i.ytimg.com/vi/gtAnDCRRMSw/mqdefault.jpg",
                         "title": "【スーパーロボット大戦30/機戰30】(1) 菁英mode失敗集【新人Vtuber/社畜A星野ニア】",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     },
                     {
-                        "video_code": "F5gKuqJsweU",
-                        "image": "https://i.ytimg.com/vi/F5gKuqJsweU/mqdefault.jpg",
-                        "title": "【千年戦争アイギス】【ガチャ配信】8週年活動抽卡!結果是歐洲還是非洲?【新人vtuber社畜A星野ニア】",
-                        "author": "Hosino Ch. 社畜A星野ニア"
-                    },
-                    {
-                        "video_code": "vzpJ2wrUcOE",
-                        "image": "https://i.ytimg.com/vi/vzpJ2wrUcOE/mqdefault.jpg",
-                        "title": "【千年戦争アイギス】魔王城大討伐 幻影の王子神級放置【新人vtuber社畜A星野ニア】",
+                        "video_code": "QeuMWeNy3oI",
+                        "image": "https://i.ytimg.com/vi/QeuMWeNy3oI/mqdefault.jpg",
+                        "title": "【千年戦争アイギス】天使兵団の集結神級EX半放置【新人vtuber社畜A星野ニア】",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     }
                 ]
@@ -110,27 +122,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "UK5e5p5i7jg",
-                        "image": "https://i.ytimg.com/vi/UK5e5p5i7jg/mqdefault.jpg",
-                        "title": "【#機戰30 /スーパーロボット大戦30/限制play】​8: 什麼?!超力電磁俠戰死了!?【新人Vtuber/社畜A星野ニア】",
+                        "video_code": "kHVFku48SVY",
+                        "image": "https://i.ytimg.com/vi/kHVFku48SVY/mqdefault.jpg",
+                        "title": "[三一萬能俠ARC]第一話同時視聽,一路食飯一路睇~【社畜A星野二ア/新人vtuber】",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     },
                     {
-                        "video_code": "SWPnpZByhqU",
-                        "image": "https://i.ytimg.com/vi/SWPnpZByhqU/mqdefault.jpg",
-                        "title": "【Don't Starve Together】第一次玩,究竟我會係第一個餓死定係全部人畀我累死呢 ^_0!【hkvtuber/社畜A星野ニア】",
+                        "video_code": "8I3U_JJ0S64",
+                        "image": "https://i.ytimg.com/vi/8I3U_JJ0S64/mqdefault.jpg",
+                        "title": "陳兩儀!我依家就開台鬧你!",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     },
                     {
-                        "video_code": "4ygURQTR1lg",
-                        "image": "https://i.ytimg.com/vi/4ygURQTR1lg/mqdefault.jpg",
-                        "title": "【機戰30/スーパーロボット大戦30/限制play】#7 過了第2次緊急任務,聽說敵人會變6段改?【新人Vtuber/社畜A星野ニア】",
+                        "video_code": "F613aWGt5lI",
+                        "image": "https://i.ytimg.com/vi/F613aWGt5lI/mqdefault.jpg",
+                        "title": "[新人vtuber]貓星人星野ニア首次與地球人進行第3類接觸【初配信】",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     },
                     {
-                        "video_code": "dYLhXymtCwY",
-                        "image": "https://i.ytimg.com/vi/dYLhXymtCwY/mqdefault.jpg",
-                        "title": "【雜談】咩話?!DSE仲有成百幾日就失眠?!你點頂呀..放鬆D啦~【hkvtuber】【社畜A星野ニア】",
+                        "video_code": "QjQpjh3WvUg",
+                        "image": "https://i.ytimg.com/vi/QjQpjh3WvUg/mqdefault.jpg",
+                        "title": "【男人的浪漫】高達常識問答比賽【hkvtuber】【社畜A星野ニア/天羽幻黃/Schwarz tiger/白鳥千和/Edward Hosson 光子/卡南KaraM/GP07】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "OL7WVfZPu1I",
+                        "image": "https://i.ytimg.com/vi/OL7WVfZPu1I/mqdefault.jpg",
+                        "title": "【男人愛高達,女人明唔明白?】高達常識問答比賽+清談節目【hkvtuber】【社畜A星野ニア/矢花まい魅/TOTO potato/触愛ネロロ/白綿花糖】",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     }
                 ]

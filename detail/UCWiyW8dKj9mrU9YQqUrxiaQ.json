@@ -105,6 +105,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ey629jHF0DY",
+                        "image": "https://i.ytimg.com/vi/ey629jHF0DY/mqdefault.jpg",
+                        "title": "魔王(?) 2.0 強勢回歸! 【香港Vtuber】",
+                        "author": "NOCTE ch."
+                    },
+                    {
+                        "video_code": "1bC0hkwFyrQ",
+                        "image": "https://i.ytimg.com/vi/1bC0hkwFyrQ/mqdefault.jpg",
+                        "title": "炎上祭後夜談 ft. 站長 eggtart 【香港Vtuber NOCTE】",
+                        "author": "NOCTE ch."
+                    },
+                    {
+                        "video_code": "gS3RzWKCZGU",
+                        "image": "https://i.ytimg.com/vi/gS3RzWKCZGU/mqdefault.jpg",
+                        "title": "Pokemon 阿爾宙斯 初見! 係咪要當darksouls 玩?【香港VTuber NOCTE】",
+                        "author": "NOCTE ch."
+                    },
+                    {
+                        "video_code": "6swAObHul3w",
+                        "image": "https://i.ytimg.com/vi/6swAObHul3w/mqdefault.jpg",
+                        "title": "300sub 大感謝歌回! 【香港VTuber NOCTE】",
+                        "author": "NOCTE ch."
+                    },
+                    {
+                        "video_code": "2M_OTo7PjFk",
+                        "image": "https://i.ytimg.com/vi/2M_OTo7PjFk/mqdefault.jpg",
+                        "title": "情人節單身不必驚慌  魔王陪你唱兵歌【香港Vtuber NOCTE】",
+                        "author": "NOCTE ch."
+                    }
+                ]
+            }
         }
     ]
 }

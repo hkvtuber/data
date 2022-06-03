@@ -104,37 +104,63 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "hTlVpCQgX9Y",
+                        "image": "https://i.ytimg.com/vi/hTlVpCQgX9Y/mqdefault.jpg",
+                        "title": "【Live2D showcase】雪櫃/Reiha ver3.0 Live2D model介紹｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "wYgHw3b6Wi0",
+                        "image": "https://i.ytimg.com/vi/wYgHw3b6Wi0/mqdefault.jpg",
+                        "title": "【雪櫃精華】關於打牌想去廁所呢回事 (ft.ユラ,沖田ブル,Annieek)｜雪櫃Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "CdsIAQ10-Bo",
+                        "image": "https://i.ytimg.com/vi/CdsIAQ10-Bo/mqdefault.jpg",
+                        "title": "Ver3.0公佈予告ＰＶ｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "s-yESfOCHwk",
+                        "image": "https://i.ytimg.com/vi/s-yESfOCHwk/mqdefault.jpg",
+                        "title": "【Ver.3.0公開】挑戰自己各種極限嘅新模+重新自我介紹 ｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
                     {
                         "video_code": "mujxkX5CLnI",
                         "image": "https://i.ytimg.com/vi/mujxkX5CLnI/mqdefault.jpg",
                         "title": "【初配信】「雪櫃、V出道！」自我介紹＋MHIB｜雪櫃/Reiha",
-                        "author": "雪櫃 / Reiha"
+                        "author": "雪櫃 / Reiha Ch."
                     },
                     {
-                        "video_code": "Ijh1J2g1dUM",
-                        "image": "https://i.ytimg.com/vi/Ijh1J2g1dUM/mqdefault.jpg",
-                        "title": "【畫畫台】畫下自己中意嘅V~｜雪櫃/Reiha",
-                        "author": "雪櫃 / Reiha"
+                        "video_code": "x8_zqe6jJRo",
+                        "image": "https://i.ytimg.com/vi/x8_zqe6jJRo/mqdefault.jpg",
+                        "title": "【小遊戲雜談會＋日麻】來個深度交流！ Feat. Arata, Reimond, ユラ｜雪櫃Reiha",
+                        "author": "雪櫃 / Reiha Ch."
                     },
                     {
-                        "video_code": "M-2MoA3KI48",
-                        "image": "https://i.ytimg.com/vi/M-2MoA3KI48/mqdefault.jpg",
-                        "title": "【雪櫃自修科 - 香港麻將篇#1】從0開始學打麻將！｜雪櫃Reiha",
-                        "author": "雪櫃 / Reiha"
+                        "video_code": "wlZd3KG8yEc",
+                        "image": "https://i.ytimg.com/vi/wlZd3KG8yEc/mqdefault.jpg",
+                        "title": "【雪櫃半周年記念】趕工後嘅回歸直播，一堆感言＆ V限定凸待｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
                     },
                     {
-                        "video_code": "TomVDxO-3mE",
-                        "image": "https://i.ytimg.com/vi/TomVDxO-3mE/mqdefault.jpg",
-                        "title": "【MHIB】玩到瞓為止｜雪櫃/Reiha",
-                        "author": "雪櫃 / Reiha"
-                    },
-                    {
-                        "video_code": "vObWfKN7P5c",
-                        "image": "https://i.ytimg.com/vi/vObWfKN7P5c/mqdefault.jpg",
-                        "title": "【雪櫃自修科 - 香港麻將篇#2】練習練習！｜雪櫃Reiha",
-                        "author": "雪櫃 / Reiha"
+                        "video_code": "d7OP8DsW3gw",
+                        "image": "https://i.ytimg.com/vi/d7OP8DsW3gw/mqdefault.jpg",
+                        "title": "【反省會】一個月記念反省會｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
                     }
                 ]
             }

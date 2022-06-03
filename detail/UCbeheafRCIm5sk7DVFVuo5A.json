@@ -86,6 +86,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "jtMWZ-m9QjM",
+                        "image": "https://i.ytimg.com/vi/jtMWZ-m9QjM/mqdefault.jpg",
+                        "title": "【龍飛 LongFei】香港Vtuber 自我介紹 【粵語】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "sVSYaFz9Bd4",
+                        "image": "https://i.ytimg.com/vi/sVSYaFz9Bd4/mqdefault.jpg",
+                        "title": "【自我介紹】【粵語】 Vtuber一問一答自己介紹【龍飛 LongFei/HKVtuber】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "fRg5KaNevoI",
+                        "image": "https://i.ytimg.com/vi/fRg5KaNevoI/mqdefault.jpg",
+                        "title": "【龍飛 LongFei】香港Vtuber 自我介紹 【國語】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "0MPCSMnpWd0",
+                        "image": "https://i.ytimg.com/vi/0MPCSMnpWd0/mqdefault.jpg",
+                        "title": "【自我介紹】【國語】 Vtuber一問一答自己介紹【龍飛 LongFei】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "4zYmLzIk8j0",
+                        "image": "https://i.ytimg.com/vi/4zYmLzIk8j0/mqdefault.jpg",
+                        "title": "錫蘭：@放火在瞎雞巴亂說 我不能支持 我支持@叉雞",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "k_IhGclLsz8",
+                        "image": "https://i.ytimg.com/vi/k_IhGclLsz8/mqdefault.jpg",
+                        "title": "『Minecraft：亡命奔逃3』今日到底邊個會雷隊友呢? | Ft.超多人【粵語台】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Y_FcBO78Ejc",
+                        "image": "https://i.ytimg.com/vi/Y_FcBO78Ejc/mqdefault.jpg",
+                        "title": "【Dead by Daylight】初玩 今晚到定係我殺人 定係俾人殺?",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "TdncAi_bG-k",
+                        "image": "https://i.ytimg.com/vi/TdncAi_bG-k/mqdefault.jpg",
+                        "title": "🔴【英雄聯盟】歡迎大家一齊來玩 順便吹吓水 【粵語台】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "fAliZlLz1K0",
+                        "image": "https://i.ytimg.com/vi/fAliZlLz1K0/mqdefault.jpg",
+                        "title": "🔴【英雄聯盟】歡迎大家一齊來玩 順便吹吓水 【粵語台】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "BjZbJjO02q4",
+                        "image": "https://i.ytimg.com/vi/BjZbJjO02q4/mqdefault.jpg",
+                        "title": "【吹水台】吹下水順便刷通行證【粵語台】",
+                        "author": "龍飛 LongFei ch.【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

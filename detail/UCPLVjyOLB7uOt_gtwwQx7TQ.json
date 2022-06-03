@@ -115,6 +115,44 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Br_anUh-q_w",
+                        "image": "https://i.ytimg.com/vi/Br_anUh-q_w/mqdefault.jpg",
+                        "title": "Aimer / I beg you【cover by 卯月 瑠花】",
+                        "author": "卯月 瑠花Ch. 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "UuJalps8t5w",
+                        "image": "https://i.ytimg.com/vi/UuJalps8t5w/mqdefault.jpg",
+                        "title": "有關彌音的一件事",
+                        "author": "卯月 瑠花Ch. 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "SCZw1fVaPf4",
+                        "image": "https://i.ytimg.com/vi/SCZw1fVaPf4/mqdefault.jpg",
+                        "title": "【オリジナルMV】馬鹿みたい【歌ってみた-卯月 瑠花】",
+                        "author": "卯月 瑠花Ch. 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "vb5j8E8xyC4",
+                        "image": "https://i.ytimg.com/vi/vb5j8E8xyC4/mqdefault.jpg",
+                        "title": "♡.ღ .:廢片:.ღ .♡     看咩看吖?  【香港Vtuber】",
+                        "author": "卯月 瑠花Ch. 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "UgaDjhDVqaE",
+                        "image": "https://i.ytimg.com/vi/UgaDjhDVqaE/mqdefault.jpg",
+                        "title": "♡.ღ .:廢片:.ღ .♡    只係望住你   【香港Vtuber】",
+                        "author": "卯月 瑠花Ch. 【香港Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -124,15 +162,21 @@
                         "author": "卯月 瑠花Ch. 【香港Vtuber】"
                     },
                     {
+                        "video_code": "cd0ta9B9-M8",
+                        "image": "https://i.ytimg.com/vi/cd0ta9B9-M8/mqdefault.jpg",
+                        "title": "【Apex】APEX中毒囡囡【瑠花@PC | 香港Vtuber】",
+                        "author": "卯月 瑠花Ch. 【香港Vtuber】"
+                    },
+                    {
                         "video_code": "BKEuzhmRCxc",
                         "image": "https://i.ytimg.com/vi/BKEuzhmRCxc/mqdefault.jpg",
                         "title": "【報告+雜談】講好的三月份重大報告！【瑠花@PC | 香港Vtuber】",
                         "author": "卯月 瑠花Ch. 【香港Vtuber】"
                     },
                     {
-                        "video_code": "cd0ta9B9-M8",
-                        "image": "https://i.ytimg.com/vi/cd0ta9B9-M8/mqdefault.jpg",
-                        "title": "【Apex】APEX中毒囡囡【瑠花@PC | 香港Vtuber】",
+                        "video_code": "WzcF6OP35Es",
+                        "image": "https://i.ytimg.com/vi/WzcF6OP35Es/mqdefault.jpg",
+                        "title": "【雜談】如果要跟認識的V裡選一位發展情侶關係的話 會是誰？ aka港v印象台【瑠花@PC | 香港Vtuber】",
                         "author": "卯月 瑠花Ch. 【香港Vtuber】"
                     },
                     {

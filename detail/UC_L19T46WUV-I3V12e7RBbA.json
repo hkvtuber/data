@@ -100,6 +100,32 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "WtYNHNxSbnU",
+                        "image": "https://i.ytimg.com/vi/WtYNHNxSbnU/mqdefault.jpg",
+                        "title": "[香港vtuber光小鳥精華]天才鳩:點解玩ringfit都要用腦!!!",
+                        "author": "KoKotori Ch. 光小鳥"
+                    },
+                    {
+                        "video_code": "hQZx0llp1-A",
+                        "image": "https://i.ytimg.com/vi/hQZx0llp1-A/mqdefault.jpg",
+                        "title": "MerryChristmas",
+                        "author": "KoKotori Ch. 光小鳥"
+                    },
+                    {
+                        "video_code": "MsBTGDQeNak",
+                        "image": "https://i.ytimg.com/vi/MsBTGDQeNak/mqdefault.jpg",
+                        "title": "【日常台】 電腦爆開左 完場返黎報平安~~ #Kokotori #香港Vtuber #鳩播​",
+                        "author": "KoKotori Ch. 光小鳥"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -115,15 +141,21 @@
                         "author": "KoKotori Ch. 光小鳥"
                     },
                     {
-                        "video_code": "Y5uPYC-M96w",
-                        "image": "https://i.ytimg.com/vi/Y5uPYC-M96w/mqdefault.jpg",
-                        "title": "【Unrailed!】With Kaya #香港Vtuber #鳩播​",
+                        "video_code": "yBVWjwOz7g8",
+                        "image": "https://i.ytimg.com/vi/yBVWjwOz7g8/mqdefault.jpg",
+                        "title": "【GrandChase】今晚我要玩盡佢~! #香港Vtuber #鳩播​",
                         "author": "KoKotori Ch. 光小鳥"
                     },
                     {
-                        "video_code": "NoaGFBvtY4M",
-                        "image": "https://i.ytimg.com/vi/NoaGFBvtY4M/mqdefault.jpg",
-                        "title": "【Unrailed!】突發聯動開台?! #香港Vtuber #鳩播​",
+                        "video_code": "1lR1QLq7Lyg",
+                        "image": "https://i.ytimg.com/vi/1lR1QLq7Lyg/mqdefault.jpg",
+                        "title": "【Ring Fit】估下我可以堅持到幾耐～ #香港Vtuber #鳩播​",
+                        "author": "KoKotori Ch. 光小鳥"
+                    },
+                    {
+                        "video_code": "REPOFSMXYG8",
+                        "image": "https://i.ytimg.com/vi/REPOFSMXYG8/mqdefault.jpg",
+                        "title": "【Ring Fit (雜談?!)】倒數2日!!! 你估下玩左咁耐我玩殘左未?~~(30/31) #三月全勤 #香港Vtuber #鳩播​",
                         "author": "KoKotori Ch. 光小鳥"
                     }
                 ]

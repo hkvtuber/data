@@ -64,6 +64,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "y_-0JYGFJv0",
+                        "image": "https://i.ytimg.com/vi/y_-0JYGFJv0/mqdefault.jpg",
+                        "title": "【不夠千訂就畢業挑戰】Day2 早安🍓今天有歌回喔！#vtuber",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "Y0iBAPTXuKM",
+                        "image": "https://i.ytimg.com/vi/Y0iBAPTXuKM/mqdefault.jpg",
+                        "title": "最近の心境 有關唯乃最近的情況⋯⋯#Vtuber",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "fwlM60x0g5I",
+                        "image": "https://i.ytimg.com/vi/fwlM60x0g5I/mqdefault.jpg",
+                        "title": "【不夠千訂就畢業挑戰】Day3 各位小草莓早安🍓今天打遊戲，來抓寶可夢喔！❤️",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "CJ2G7PV68Zg",
+                        "image": "https://i.ytimg.com/vi/CJ2G7PV68Zg/mqdefault.jpg",
+                        "title": "【不夠千訂就畢業挑戰】Day5 各位小草莓早安🍓今天玩推理小遊戲",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "20tHmY403Ug",
+                        "image": "https://i.ytimg.com/vi/20tHmY403Ug/mqdefault.jpg",
+                        "title": "苺精霊の生存報告",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "tnYXdMyM5XM",
+                        "image": "https://i.ytimg.com/vi/tnYXdMyM5XM/mqdefault.jpg",
+                        "title": "苺谷唯乃  草莓精靈初配信 【新人Vtuber初配信】",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "sa4alIlKSRM",
+                        "image": "https://i.ytimg.com/vi/sa4alIlKSRM/mqdefault.jpg",
+                        "title": "【畢業計劃】Day1雜談＆重大告知！#草莓精靈配信中  #Vtuber",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "hE6ONw2rF2A",
+                        "image": "https://i.ytimg.com/vi/hE6ONw2rF2A/mqdefault.jpg",
+                        "title": "【畢業計劃】Day2 歌いましょう　歌枠❕雜談唱歌！ #草莓精靈也想學海豚叫 #Vtuber",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "wmkGMuoQ-KY",
+                        "image": "https://i.ytimg.com/vi/wmkGMuoQ-KY/mqdefault.jpg",
+                        "title": "新衣裝＆四個月紀念回！#草莓精靈配信中  #Vtuber #新人Vtuber",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    },
+                    {
+                        "video_code": "GHmd4vaWa14",
+                        "image": "https://i.ytimg.com/vi/GHmd4vaWa14/mqdefault.jpg",
+                        "title": "Hell is Other Demons 今天要來射槍槍你！#草莓精靈配信中 #vtuber",
+                        "author": "苺谷 唯乃Yuino Ch."
+                    }
+                ]
+            }
         }
     ]
 }

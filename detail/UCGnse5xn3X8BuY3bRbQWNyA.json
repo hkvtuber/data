@@ -87,6 +87,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "qKaFC8sXOAI",
+                        "image": "https://i.ytimg.com/vi/qKaFC8sXOAI/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【香港Vtuber】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "akJy5TcgvFY",
+                        "image": "https://i.ytimg.com/vi/akJy5TcgvFY/mqdefault.jpg",
+                        "title": "マヤ様がチョコを食べさせます　マヤ様就是這樣送你巧克力的",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "CDFLFcrKHQY",
+                        "image": "https://i.ytimg.com/vi/CDFLFcrKHQY/mqdefault.jpg",
+                        "title": "來自マヤ的重大告知! Important news from Maya 【香港Vtuber】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "d50uX6mUMgI",
+                        "image": "https://i.ytimg.com/vi/d50uX6mUMgI/mqdefault.jpg",
+                        "title": "大年初一, 鷹頭獅Maya來給你拜年了! New Year Greeting from Maya the Griffin [獅子堂マヤ/HKVtuber]",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "WkIL-EedS3Y",
+                        "image": "https://i.ytimg.com/vi/WkIL-EedS3Y/mqdefault.jpg",
+                        "title": "【We were here togther】斷線重開 =口=【HKVTuber/獅子堂マヤPOV】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "BZSl6m05-EQ",
+                        "image": "https://i.ytimg.com/vi/BZSl6m05-EQ/mqdefault.jpg",
+                        "title": "【初配信】一頭鷹頭獅傳來賀電【新人Vtuber／獅子堂マヤ】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "kagc-LyW1zo",
+                        "image": "https://i.ytimg.com/vi/kagc-LyW1zo/mqdefault.jpg",
+                        "title": "【歌回Singing Night】Maya的第一次...請溫柔一點...蕃茄和雞蛋是無辜的!【獅子堂マヤ･HKVtuber】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "nZIhX764HyA",
+                        "image": "https://i.ytimg.com/vi/nZIhX764HyA/mqdefault.jpg",
+                        "title": "【慟哭そして/慟哭之後】攻略梨代路線 目標: 黃金結局!【獅子堂マヤ･HKVtuber】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "4-Gmjh67Aws",
+                        "image": "https://i.ytimg.com/vi/4-Gmjh67Aws/mqdefault.jpg",
+                        "title": "【English Day】Rusty Lake Paradise 1【HKVTUBER/獅子堂マヤ】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
+                        "video_code": "LwiEN4VGKBw",
+                        "image": "https://i.ytimg.com/vi/LwiEN4VGKBw/mqdefault.jpg",
+                        "title": "［Free Chat]冇得旅行得個諗字，旅行趣事分享［HKVtuber/獅子堂マヤ］",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    }
+                ]
+            }
         }
     ]
 }

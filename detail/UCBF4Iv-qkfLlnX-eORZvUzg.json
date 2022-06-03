@@ -111,6 +111,76 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "TJYr2iRlLSw",
+                        "image": "https://i.ytimg.com/vi/TJYr2iRlLSw/mqdefault.jpg",
+                        "title": "【灯里クリオ】ヴィラン / てにをは【歌ってみた】",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "DS37biIjNSc",
+                        "image": "https://i.ytimg.com/vi/DS37biIjNSc/mqdefault.jpg",
+                        "title": "【Cleo的秘密】HOT MILK MEME feat. Akari Cleo 【灯里クリオ/HKVtuber】",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "ZMwoVvolDK8",
+                        "image": "https://i.ytimg.com/vi/ZMwoVvolDK8/mqdefault.jpg",
+                        "title": "食飯未？🥺♥️",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "HAHL1Dc0yBI",
+                        "image": "https://i.ytimg.com/vi/HAHL1Dc0yBI/mqdefault.jpg",
+                        "title": "......？☺️",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "mQ61SasGIxY",
+                        "image": "https://i.ytimg.com/vi/mQ61SasGIxY/mqdefault.jpg",
+                        "title": "【初配信】灯里クリオ ♥ Akari Cleo ・自我介紹！今後請多多指教了～【香港Vtuber】",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "1WUetNx6VFE",
+                        "image": "https://i.ytimg.com/vi/1WUetNx6VFE/mqdefault.jpg",
+                        "title": "試伏日記 Vol.1 〜怪味零食〜 真實反應食播！！💥",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "fyQ7wrOTSpg",
+                        "image": "https://i.ytimg.com/vi/fyQ7wrOTSpg/mqdefault.jpg",
+                        "title": "【聯動遊戲台】世界計畫 繽紛舞台！ feat.初音未來 ✨ 灯里クリオ (feat. 小林具瓏、幽靈ななせ)【HKVtuber】",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "IpetEi5o4Ng",
+                        "image": "https://i.ytimg.com/vi/IpetEi5o4Ng/mqdefault.jpg",
+                        "title": "【遊戲台】It Takes Two #2 ～我地離婚啦！～灯里クリオ (feat. Enn)",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    },
+                    {
+                        "video_code": "EQlUMh1wFhI",
+                        "image": "https://i.ytimg.com/vi/EQlUMh1wFhI/mqdefault.jpg",
+                        "title": "【遊戲台】It Takes Two #1 ～我地離婚啦！～灯里クリオ (feat. Enn)",
+                        "author": "灯里クリオ♥️Akari Cleo Ch."
+                    }
+                ]
+            }
         }
     ]
 }

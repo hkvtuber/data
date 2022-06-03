@@ -69,6 +69,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "CXfCMydvUrg",
+                        "image": "https://i.ytimg.com/vi/CXfCMydvUrg/mqdefault.jpg",
+                        "title": "League of Legends | Lee Sin | Montage [S2]",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "PAEWyRajmA8",
+                        "image": "https://i.ytimg.com/vi/PAEWyRajmA8/mqdefault.jpg",
+                        "title": "uL Gaming",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "PYIe88Hghr4",
+                        "image": "https://i.ytimg.com/vi/PYIe88Hghr4/mqdefault.jpg",
+                        "title": "[香港] 電競選手養水草～",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "t9ey8Lx1p8Y",
+                        "image": "https://i.ytimg.com/vi/t9ey8Lx1p8Y/mqdefault.jpg",
+                        "title": "Radiant",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "tC4f8EgecYo",
+                        "image": "https://i.ytimg.com/vi/tC4f8EgecYo/mqdefault.jpg",
+                        "title": "valorant",
+                        "author": "火神鳥"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "mTfTHyGertQ",
+                        "image": "https://i.ytimg.com/vi/mTfTHyGertQ/mqdefault.jpg",
+                        "title": "火神鳥 //《教你地做亞洲第一》",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "5rwZrPWg3nA",
+                        "image": "https://i.ytimg.com/vi/5rwZrPWg3nA/mqdefault.jpg",
+                        "title": "R6直播?",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "RpD8Ohkt9H0",
+                        "image": "https://i.ytimg.com/vi/RpD8Ohkt9H0/mqdefault.jpg",
+                        "title": "🔴十二小時極速頂獵挑戰 | 留言抽steam卡送觀眾 | 歡迎觀眾發問‼️ | Apex Legends【火神鳥/香港VTuber】",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "L92uaRa6nDA",
+                        "image": "https://i.ytimg.com/vi/L92uaRa6nDA/mqdefault.jpg",
+                        "title": "【初配信】依加開始香港山頂公園個頭頂我睇既【火神鳥/香港VTuber】",
+                        "author": "火神鳥"
+                    },
+                    {
+                        "video_code": "yf0BrQxcMd4",
+                        "image": "https://i.ytimg.com/vi/yf0BrQxcMd4/mqdefault.jpg",
+                        "title": "Superliminal",
+                        "author": "火神鳥"
+                    }
+                ]
+            }
         }
     ]
 }

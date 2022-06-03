@@ -86,6 +86,34 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "OUOKWJNnmUk",
+                        "image": "https://i.ytimg.com/vi/OUOKWJNnmUk/mqdefault.jpg",
+                        "title": "Skeletons - Keshi (Cover)",
+                        "author": "卡利Karley"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "akpbqQPXAQQ",
+                        "image": "https://i.ytimg.com/vi/akpbqQPXAQQ/mqdefault.jpg",
+                        "title": "[初配信X逆凸之鬼] 這裏沒有自我介紹 [Karley Channel]",
+                        "author": "卡利Karley"
+                    }
+                ]
+            }
         }
     ]
 }

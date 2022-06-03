@@ -124,6 +124,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-QW7glDqxhc",
+                        "image": "https://i.ytimg.com/vi/-QW7glDqxhc/mqdefault.jpg",
+                        "title": "夕立のりぼん covered by 伊織なお / Mic On Project【香港Vtuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "47qR3_7SqvQ",
+                        "image": "https://i.ytimg.com/vi/47qR3_7SqvQ/mqdefault.jpg",
+                        "title": "【伊織なお/Mic On Project】Vtuber一問一答自己紹介【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "QhBCLg9rtWk",
+                        "image": "https://i.ytimg.com/vi/QhBCLg9rtWk/mqdefault.jpg",
+                        "title": "【#Nao精神】杰哥不要the音樂劇 Covered by 伊織なお【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "Jn6ueS8LtbY",
+                        "image": "https://i.ytimg.com/vi/Jn6ueS8LtbY/mqdefault.jpg",
+                        "title": "なお的開車車故事【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "SlAgD21Ezy4",
+                        "image": "https://i.ytimg.com/vi/SlAgD21Ezy4/mqdefault.jpg",
+                        "title": "【#Nao精神】我要收割大家的耳膜❤️【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "DYxYYE95s2A",
+                        "image": "https://i.ytimg.com/vi/DYxYYE95s2A/mqdefault.jpg",
+                        "title": "【初配信】にゃにゃなお！伊織なお出來了！！！【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "tVI91EEtwdY",
+                        "image": "https://i.ytimg.com/vi/tVI91EEtwdY/mqdefault.jpg",
+                        "title": "【同步視聽】第一次睇嚦咕嚦咕新年財 -w-【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "4ZXdclqJg64",
+                        "image": "https://i.ytimg.com/vi/4ZXdclqJg64/mqdefault.jpg",
+                        "title": "【暗黑地獄】到底砌唔砌得完...【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "0pccuWZxfQY",
+                        "image": "https://i.ytimg.com/vi/0pccuWZxfQY/mqdefault.jpg",
+                        "title": "【聖誕派對】Mic On Project 聖誕派對！【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    },
+                    {
+                        "video_code": "_eeC_RoD7tw",
+                        "image": "https://i.ytimg.com/vi/_eeC_RoD7tw/mqdefault.jpg",
+                        "title": "【N變態讀書會】未成年唔可以睇啊！！！【伊織なお/Mic On Project】【香港VTuber】",
+                        "author": "Nao ch. 伊織なお【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

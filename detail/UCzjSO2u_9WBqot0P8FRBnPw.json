@@ -78,6 +78,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "4t8Hsk0j8kQ",
+                        "image": "https://i.ytimg.com/vi/4t8Hsk0j8kQ/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介 [港V] [ワル霞] [vtuber] [HKvtuber] [香港VTuber] [新人Vtuber]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "xAAhbMIme8o",
+                        "image": "https://i.ytimg.com/vi/xAAhbMIme8o/mqdefault.jpg",
+                        "title": "[女性向ASMR] 白色情人節快樂 #Shorts [ワル霞] [vtuber] [HKvtuber]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "iR58UPhSWaU",
+                        "image": "https://i.ytimg.com/vi/iR58UPhSWaU/mqdefault.jpg",
+                        "title": "【阿爾登法環精華】Day3 智力值得7嘅勇者鐘意左手手蜘蛛?? [elden ring] [vtuber] [hkvtuber] [elden ring] [ワル霞]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "aTXPQbY21s4",
+                        "image": "https://i.ytimg.com/vi/aTXPQbY21s4/mqdefault.jpg",
+                        "title": "【阿爾登法環精華】Day1差少少畀人虐到喊 [elden ring] [vtuber] [hkvtuber] [elden ring] [ワル霞]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "iVnvJ_o2RbQ",
+                        "image": "https://i.ytimg.com/vi/iVnvJ_o2RbQ/mqdefault.jpg",
+                        "title": "【 MH:RISE 】#4 得到法環之力、獵龍忍者參上【魔物獵人崛起】【 モンハン ライズ 】【vtuber】 【hkvtuber】 【ワル霞】",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "lkrbZN9pYlQ",
+                        "image": "https://i.ytimg.com/vi/lkrbZN9pYlQ/mqdefault.jpg",
+                        "title": "【Jump King】 究竟用六十個鐘可唔可以打贏? [加班] [ワル霞] [vtuber] [HKvtuber]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "xgVsXgm2-yE",
+                        "image": "https://i.ytimg.com/vi/xgVsXgm2-yE/mqdefault.jpg",
+                        "title": "【 戰爭機器 5 】[耐久台] 教最高難度咁去打唔知要死幾多次??【Gears 5】[ワル霞] [vtuber] [HKvtuber]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "6dr-HdyplK0",
+                        "image": "https://i.ytimg.com/vi/6dr-HdyplK0/mqdefault.jpg",
+                        "title": "【凸襲】邪教現場 4:30:09 左右開始【vtuber】 【hkvtuber】 【ワル霞】",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "rQ8ckn0xHZQ",
+                        "image": "https://i.ytimg.com/vi/rQ8ckn0xHZQ/mqdefault.jpg",
+                        "title": "[DSE加油站] 《出師表》 [ワル霞/HKvtuber]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    },
+                    {
+                        "video_code": "2pimMQni6J8",
+                        "image": "https://i.ytimg.com/vi/2pimMQni6J8/mqdefault.jpg",
+                        "title": "[加班台] 加一訂=加30分鐘,雀魂輸一次加一個鐘 [ワル霞] [vtuber] [HKvtuber]",
+                        "author": "Kasumi Ch. ワル霞 [HKVtuber]"
+                    }
+                ]
+            }
         }
     ]
 }

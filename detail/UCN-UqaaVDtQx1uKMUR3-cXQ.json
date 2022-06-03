@@ -114,8 +114,14 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦重播",
+                "title": "推薦影片",
                 "video_list": [
+                    {
+                        "video_code": "9f5syt2brzQ",
+                        "image": "https://i.ytimg.com/vi/9f5syt2brzQ/mqdefault.jpg",
+                        "title": "冬がくれた予感／BiBi 【Cover: Yona Moana／如月ルミィ／月島クロス】",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
                     {
                         "video_code": "AORISlcS5fo",
                         "image": "https://i.ytimg.com/vi/AORISlcS5fo/mqdefault.jpg",
@@ -123,9 +129,59 @@
                         "author": "Yona Moana [HKVtuber]"
                     },
                     {
+                        "video_code": "cF57UyVMYlo",
+                        "image": "https://i.ytimg.com/vi/cF57UyVMYlo/mqdefault.jpg",
+                        "title": "Envy Baby / エンヴィーベイビー  - Cover: Yona Moana",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
+                    {
+                        "video_code": "KiINFcQZ4kY",
+                        "image": "https://i.ytimg.com/vi/KiINFcQZ4kY/mqdefault.jpg",
+                        "title": "[直播精華] YONA艦長失去愛馬後化為狂戰士，結局卻竟然有大反轉.....？！ / 天國降臨：救贖 / Kingdom Come: Deliverance【香港Vtuber /Yona Moana】",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
+                    {
+                        "video_code": "6IIFN3SB1iw",
+                        "image": "https://i.ytimg.com/vi/6IIFN3SB1iw/mqdefault.jpg",
+                        "title": "[直播精華] 亨利仔再現貞操危機被人強上(?) 衝擊太大令DT艦長大崩潰  / 天國降臨：救贖 / Kingdom Come: Deliverance【香港Vtuber /Yona Moana】",
+                        "author": "Yona Moana [HKVtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
                         "video_code": "Pdws5iCPF_E",
                         "image": "https://i.ytimg.com/vi/Pdws5iCPF_E/mqdefault.jpg",
                         "title": "[魔力寶貝永恆初心] 開服初日就瘋狂斷線...【香港Vtuber /Yona Moana】",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
+                    {
+                        "video_code": "D_KulEMxTXQ",
+                        "image": "https://i.ytimg.com/vi/D_KulEMxTXQ/mqdefault.jpg",
+                        "title": "[雜談] RG25感謝會!! 還有禮物感想丶SC補讀雜談 【香港Vtuber /Yona Moana】",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
+                    {
+                        "video_code": "FszRDbERuDo",
+                        "image": "https://i.ytimg.com/vi/FszRDbERuDo/mqdefault.jpg",
+                        "title": "[Among us聯動]大家都是文明人!文明人就應該用文明方式處理問題你說對不對 【香港Vtuber /Yona Moana】#偽文青AmongUs",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
+                    {
+                        "video_code": "8R2AUBsEs9I",
+                        "image": "https://i.ytimg.com/vi/8R2AUBsEs9I/mqdefault.jpg",
+                        "title": "[魔力寶貝永恆初心] 偷渡亞村維村奇村耐久!!!!【香港Vtuber /Yona Moana】",
+                        "author": "Yona Moana [HKVtuber]"
+                    },
+                    {
+                        "video_code": "9lQlh-NVTyE",
+                        "image": "https://i.ytimg.com/vi/9lQlh-NVTyE/mqdefault.jpg",
+                        "title": "[NEEDY GIRL OVERDOSE#2] 婆娘，宜家就如你所願\\_/【香港Vtuber /Yona Moana】",
                         "author": "Yona Moana [HKVtuber]"
                     }
                 ]

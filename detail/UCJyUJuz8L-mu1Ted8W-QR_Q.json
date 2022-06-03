@@ -108,6 +108,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "gFKZRPR80LE",
+                        "image": "https://i.ytimg.com/vi/gFKZRPR80LE/mqdefault.jpg",
+                        "title": "【MMD】🎃Happy Halloween ハッピーハロウィン【VTuber】",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "nAN2ZoTxbsw",
+                        "image": "https://i.ytimg.com/vi/nAN2ZoTxbsw/mqdefault.jpg",
+                        "title": "《講你知123！》(Very Short ver.)【歌ってみた】【Nekomix 貓耳試唱/ HKVtuber + TWVtuber】",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "b-gF1RatZNg",
+                        "image": "https://i.ytimg.com/vi/b-gF1RatZNg/mqdefault.jpg",
+                        "title": "【MMD】ジャバヲッキー・ジャバヲッカ 洄姆 + 貓耳未來【VTuber】",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "4nI4SPsMLtY",
+                        "image": "https://i.ytimg.com/vi/4nI4SPsMLtY/mqdefault.jpg",
+                        "title": "【MMD】🎄Merry Xmas 好き！雪！本気マジック【VTuber】",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "qiRE_lGLEbU",
+                        "image": "https://i.ytimg.com/vi/qiRE_lGLEbU/mqdefault.jpg",
+                        "title": "【貓耳廢片 XX.01】Nyancat 彩虹貓 x 三叉戟 (到底在做...)【Minecraft 麥塊】",
+                        "author": "貓耳 Nekomix"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Y3Z0fMygSrI",
+                        "image": "https://i.ytimg.com/vi/Y3Z0fMygSrI/mqdefault.jpg",
+                        "title": "【貓耳亂播 EP.111】貓耳2.0 還是其他的變化了 【重生初配信】 (語言非限定台)",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "EyRMCv_t66E",
+                        "image": "https://i.ytimg.com/vi/EyRMCv_t66E/mqdefault.jpg",
+                        "title": "【#貓耳亂播 EP.00a】 貓耳未來 初配信 = 自我介紹 + 弱歌回?",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "0Zekhe0Ple0",
+                        "image": "https://i.ytimg.com/vi/0Zekhe0Ple0/mqdefault.jpg",
+                        "title": "【貓耳電台】  第二回 (主題訪談: 🀄日本麻雀)  ft.  台灣大學日麻社前社長 晴天娃娃 【🧧新春正月企劃】",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "7SrgaIWsTuo",
+                        "image": "https://i.ytimg.com/vi/7SrgaIWsTuo/mqdefault.jpg",
+                        "title": "【貓耳亂播 EP.112】貓耳雙人勢 終於誕生了~ 重生凸待 [後編] (語言非限定台)",
+                        "author": "貓耳 Nekomix"
+                    },
+                    {
+                        "video_code": "ciaCSlv0SPM",
+                        "image": "https://i.ytimg.com/vi/ciaCSlv0SPM/mqdefault.jpg",
+                        "title": "🔴【🀄️貓耳日麻 MP16】繼續雀士之路 | 衝等 + 觀眾同樂場 (耐久了~) 【雀魂 Mahjong Soul】",
+                        "author": "貓耳 Nekomix"
+                    }
+                ]
+            }
         }
     ]
 }

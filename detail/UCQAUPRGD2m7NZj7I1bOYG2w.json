@@ -98,21 +98,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "5K3n9k19sY8",
-                        "image": "https://i.ytimg.com/vi/5K3n9k19sY8/mqdefault.jpg",
-                        "title": "YOLO的練習曲-選擇困難 cover by Yuwan 語雲",
-                        "author": "語雲_Yuwan Ch."
-                    },
-                    {
                         "video_code": "QwqXC16wcxk",
                         "image": "https://i.ytimg.com/vi/QwqXC16wcxk/mqdefault.jpg",
                         "title": "Richard Billyham-做一晚泥工 Covered By 語雲",
                         "author": "語雲_Yuwan Ch."
                     },
                     {
+                        "video_code": "5K3n9k19sY8",
+                        "image": "https://i.ytimg.com/vi/5K3n9k19sY8/mqdefault.jpg",
+                        "title": "YOLO的練習曲-選擇困難 cover by Yuwan 語雲",
+                        "author": "語雲_Yuwan Ch."
+                    },
+                    {
                         "video_code": "5jlt1ZUJUNo",
                         "image": "https://i.ytimg.com/vi/5jlt1ZUJUNo/mqdefault.jpg",
                         "title": "地方的痴線女人需要腸腸|香港新人Vtuber 語雲 YUWAN 自我介紹",
+                        "author": "語雲_Yuwan Ch."
+                    },
+                    {
+                        "video_code": "3DKNep7NaQE",
+                        "image": "https://i.ytimg.com/vi/3DKNep7NaQE/mqdefault.jpg",
+                        "title": "Brave Girls-Rollin/ covered by Yuwan 語雲",
+                        "author": "語雲_Yuwan Ch."
+                    },
+                    {
+                        "video_code": "64LfoR_B7k8",
+                        "image": "https://i.ytimg.com/vi/64LfoR_B7k8/mqdefault.jpg",
+                        "title": "[HKVTUBER] 語雲/YUWAN V1.87 | Live2D Showcase",
                         "author": "語雲_Yuwan Ch."
                     }
                 ]
@@ -123,12 +135,6 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
-                    {
-                        "video_code": "ZNpf1gL_wSg",
-                        "image": "https://i.ytimg.com/vi/ZNpf1gL_wSg/mqdefault.jpg",
-                        "title": "香港新人Vtuber 語雲YUWAN 初配信",
-                        "author": "語雲_Yuwan Ch."
-                    },
                     {
                         "video_code": "CwcVY_6oUTE",
                         "image": "https://i.ytimg.com/vi/CwcVY_6oUTE/mqdefault.jpg",
@@ -145,6 +151,12 @@
                         "video_code": "XvjOU_yBtjM",
                         "image": "https://i.ytimg.com/vi/XvjOU_yBtjM/mqdefault.jpg",
                         "title": "突發!按摩處處長呈獻: 邪骨能勝正 |語雲YUWAN  [HKVtuber]",
+                        "author": "語雲_Yuwan Ch."
+                    },
+                    {
+                        "video_code": "ZNpf1gL_wSg",
+                        "image": "https://i.ytimg.com/vi/ZNpf1gL_wSg/mqdefault.jpg",
+                        "title": "香港新人Vtuber 語雲YUWAN 初配信",
                         "author": "語雲_Yuwan Ch."
                     },
                     {

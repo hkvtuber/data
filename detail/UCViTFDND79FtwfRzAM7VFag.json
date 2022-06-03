@@ -86,6 +86,32 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "nYdA555mxKw",
+                        "image": "https://i.ytimg.com/vi/nYdA555mxKw/mqdefault.jpg",
+                        "title": "屯馬開通真的很興奮/cover 阿知波ハム【歌ってみた】",
+                        "author": "Achiha Hamu.阿知波ハムー【hkvtb準備中】"
+                    },
+                    {
+                        "video_code": "GwENgCTUTro",
+                        "image": "https://i.ytimg.com/vi/GwENgCTUTro/mqdefault.jpg",
+                        "title": "威風堂々/Cover-阿知波ハム【歌ってみた】",
+                        "author": "Achiha Hamu.阿知波ハムー【hkvtb準備中】"
+                    },
+                    {
+                        "video_code": "o0E1gSZHFaQ",
+                        "image": "https://i.ytimg.com/vi/o0E1gSZHFaQ/mqdefault.jpg",
+                        "title": "hi各位早晨  ༽hkvtuber準備中/阿知波ハム༼",
+                        "author": "Achiha Hamu.阿知波ハムー【hkvtb準備中】"
+                    }
+                ]
+            }
         }
     ]
 }

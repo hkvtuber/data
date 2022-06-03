@@ -74,6 +74,70 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "L83skays_GY",
+                        "image": "https://i.ytimg.com/vi/L83skays_GY/mqdefault.jpg",
+                        "title": "烏克蘭總統於官方Telegram發表對是次和談的看法(/繁中 Sub CC)",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    },
+                    {
+                        "video_code": "K7CH3WMFrHs",
+                        "image": "https://i.ytimg.com/vi/K7CH3WMFrHs/mqdefault.jpg",
+                        "title": "【HK Vtuber】來自畜生的故事【Promotional Video| Inuneko Inochi】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    },
+                    {
+                        "video_code": "B4OwprRA13Q",
+                        "image": "https://i.ytimg.com/vi/B4OwprRA13Q/mqdefault.jpg",
+                        "title": "【剪片meme】Elden Bug【犬猫いのち】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "CKctKTlwN_Y",
+                        "image": "https://i.ytimg.com/vi/CKctKTlwN_Y/mqdefault.jpg",
+                        "title": "【HK Vtuber】初配信【Debut| Inuneko Inochi】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    },
+                    {
+                        "video_code": "_gm1njpgjac",
+                        "image": "https://i.ytimg.com/vi/_gm1njpgjac/mqdefault.jpg",
+                        "title": "【Apex】新式人型行動標靶【犬猫いのち| HK Vtuber】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    },
+                    {
+                        "video_code": "F2aWFlOCsb4",
+                        "image": "https://i.ytimg.com/vi/F2aWFlOCsb4/mqdefault.jpg",
+                        "title": "【Apex】人型行動標靶進步中#2【犬猫いのち| HK Vtuber】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    },
+                    {
+                        "video_code": "DD9icOy37yY",
+                        "image": "https://i.ytimg.com/vi/DD9icOy37yY/mqdefault.jpg",
+                        "title": "【畫畫】Emoji Drawing【犬猫いのち】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    },
+                    {
+                        "video_code": "dUk6tUCQPi0",
+                        "image": "https://i.ytimg.com/vi/dUk6tUCQPi0/mqdefault.jpg",
+                        "title": "【Phasmophobia】Ghost House Travel【犬猫いのち】",
+                        "author": "犬猫いのち【HKVTUBER】"
+                    }
+                ]
+            }
         }
     ]
 }

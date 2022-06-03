@@ -44,6 +44,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "f7qTPJ19PRM",
+                        "image": "https://i.ytimg.com/vi/f7qTPJ19PRM/mqdefault.jpg",
+                        "title": "大炎上音樂祭2022 - 香港首次「虛擬YouTuber」音樂會下半場直播Live Show - 年初三2月3日晚上9點",
+                        "author": "赤口大炎上音樂祭2022"
+                    },
+                    {
+                        "video_code": "G4v8dTxqCDU",
+                        "image": "https://i.ytimg.com/vi/G4v8dTxqCDU/mqdefault.jpg",
+                        "title": "大炎上音樂祭2022 - 香港首次「虛擬YouTuber」音樂會上半場-Vtuber投搞影片馬拉松 (刪減版權問題歌曲重新上傳版本)",
+                        "author": "赤口大炎上音樂祭2022"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -90,21 +90,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "-4sy0EbWCjA",
-                        "image": "https://i.ytimg.com/vi/-4sy0EbWCjA/mqdefault.jpg",
-                        "title": "【HKVTuber】Hello 大家好！梨奈です！【自我介紹】",
-                        "author": "Rina Ch. 梨奈 - HKVTuber"
-                    },
-                    {
-                        "video_code": "Dcj7zA-YvRU",
-                        "image": "https://i.ytimg.com/vi/Dcj7zA-YvRU/mqdefault.jpg",
-                        "title": "【歌ってみた/Cover】Legend of Mermaid／マーメイドぴちぴちぴっち【HKVTuber/梨奈Rina】",
+                        "video_code": "y0GXqryGhfg",
+                        "image": "https://i.ytimg.com/vi/y0GXqryGhfg/mqdefault.jpg",
+                        "title": "【RO日常】掉寶加倍打210根血跡 有可能不掉王卡嗎？| 抱大腿打血跡【RO仙境傳說】",
                         "author": "Rina Ch. 梨奈 - HKVTuber"
                     },
                     {
                         "video_code": "gSAosF0arH0",
                         "image": "https://i.ytimg.com/vi/gSAosF0arH0/mqdefault.jpg",
                         "title": "【RO教學】強大的飾品！施密特徽章製作實錄 | 巨大成本*30%失敗機率【RO仙境傳說】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "F4VivPKrO1A",
+                        "image": "https://i.ytimg.com/vi/F4VivPKrO1A/mqdefault.jpg",
+                        "title": "【RO開箱實錄】開箱！消費禮的影子技能箱*1！那個熱門職業的那個影子裝出現了！【RO仙境傳說 | 抽下去！】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "PVnqKGemAQ0",
+                        "image": "https://i.ytimg.com/vi/PVnqKGemAQ0/mqdefault.jpg",
+                        "title": "【RO戰死頭製作實錄】戰死頭製作實錄 [後篇] - 製作篇 | 20%測運氣 | 來個運氣大比拼【RO仙境傳說】",
                         "author": "Rina Ch. 梨奈 - HKVTuber"
                     },
                     {
@@ -122,9 +128,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "md6xBwGuDsM",
-                        "image": "https://i.ytimg.com/vi/md6xBwGuDsM/mqdefault.jpg",
-                        "title": "【初配信】🎉梨奈Rina生日會🎊with✨初配信❤️【歌あり/雜談あり】",
+                        "video_code": "WWnkSYeR6G8",
+                        "image": "https://i.ytimg.com/vi/WWnkSYeR6G8/mqdefault.jpg",
+                        "title": "【RO直播】🎉第一次RO直播🎉但還沒有想到要做甚麼？！先轉個蛋冷靜一下！【HKVTuber/梨奈Rina】",
+                        "author": "Rina Ch. 梨奈 - HKVTuber"
+                    },
+                    {
+                        "video_code": "4dcBt0JbtBU",
+                        "image": "https://i.ytimg.com/vi/4dcBt0JbtBU/mqdefault.jpg",
+                        "title": "【紀念歌枠】❤️一周年了！39首耐久歌回❤️【HKVTuber/梨奈Rina】",
                         "author": "Rina Ch. 梨奈 - HKVTuber"
                     },
                     {
@@ -134,15 +146,15 @@
                         "author": "Rina Ch. 梨奈 - HKVTuber"
                     },
                     {
-                        "video_code": "Q4J7Apzuvvo",
-                        "image": "https://i.ytimg.com/vi/Q4J7Apzuvvo/mqdefault.jpg",
-                        "title": "【歌枠】每週歌會：❤️今天又來唱自己喜歡的歌！❤️【HKVTuber/梨奈Rina】",
+                        "video_code": "md6xBwGuDsM",
+                        "image": "https://i.ytimg.com/vi/md6xBwGuDsM/mqdefault.jpg",
+                        "title": "【初配信】🎉梨奈Rina生日會🎊with✨初配信❤️【歌あり/雜談あり】",
                         "author": "Rina Ch. 梨奈 - HKVTuber"
                     },
                     {
-                        "video_code": "xDh2GEg5WBk",
-                        "image": "https://i.ytimg.com/vi/xDh2GEg5WBk/mqdefault.jpg",
-                        "title": "【歌枠】夏🌞歌會！アニソン動漫歌縛り！✨【HKVTuber/梨奈Rina】",
+                        "video_code": "5CdpeahDSR0",
+                        "image": "https://i.ytimg.com/vi/5CdpeahDSR0/mqdefault.jpg",
+                        "title": "【耐久歌枠 / 半週年企劃Day7】特別歌回：梨奈回來了！✨半週年最終日！30曲迷你耐久歌回✨【HKVTuber/梨奈Rina】",
                         "author": "Rina Ch. 梨奈 - HKVTuber"
                     }
                 ]

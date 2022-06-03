@@ -110,6 +110,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "PHiq8a0pnfM",
+                        "image": "https://i.ytimg.com/vi/PHiq8a0pnfM/mqdefault.jpg",
+                        "title": "【初投稿】ヒバナ/753cover  【香港vtuber】",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Wrct64iu-rQ",
+                        "image": "https://i.ytimg.com/vi/Wrct64iu-rQ/mqdefault.jpg",
+                        "title": "【歌ってみた】 幽霊東京 (粵語short ver.) / 753cover【hkvtuber】",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "I7gErmZFCGQ",
+                        "image": "https://i.ytimg.com/vi/I7gErmZFCGQ/mqdefault.jpg",
+                        "title": "【歌ってみた】比較症候群 / 753cover【hkvtuber】",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "fm19hx1m2aA",
+                        "image": "https://i.ytimg.com/vi/fm19hx1m2aA/mqdefault.jpg",
+                        "title": "【重要】",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "CWqaOUcn68s",
+                        "image": "https://i.ytimg.com/vi/CWqaOUcn68s/mqdefault.jpg",
+                        "title": "【港v精華】準備中V出精華？! fate.神秘小泥馬",
+                        "author": "なごみ_753【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "NTUCrr1Vcpo",
+                        "image": "https://i.ytimg.com/vi/NTUCrr1Vcpo/mqdefault.jpg",
+                        "title": "【雜】20小時玩乜都OK 上半",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "TrrxOgW17CI",
+                        "image": "https://i.ytimg.com/vi/TrrxOgW17CI/mqdefault.jpg",
+                        "title": "【APEX】俾時間追趕緊",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "PrNd3-rqPMM",
+                        "image": "https://i.ytimg.com/vi/PrNd3-rqPMM/mqdefault.jpg",
+                        "title": "【APEX】俾時間追趕緊",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "gebH44W8TwY",
+                        "image": "https://i.ytimg.com/vi/gebH44W8TwY/mqdefault.jpg",
+                        "title": "加班台  最後 430mins",
+                        "author": "なごみ_753【HKVtuber】"
+                    },
+                    {
+                        "video_code": "-EyVj9BPegM",
+                        "image": "https://i.ytimg.com/vi/-EyVj9BPegM/mqdefault.jpg",
+                        "title": "【初配信】我•爆誕",
+                        "author": "なごみ_753【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

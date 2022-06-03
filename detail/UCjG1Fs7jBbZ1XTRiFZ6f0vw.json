@@ -110,6 +110,26 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "JUYg6IbsNJ0",
+                        "image": "https://i.ytimg.com/vi/JUYg6IbsNJ0/mqdefault.jpg",
+                        "title": "【FGO】大叔到底要幾多抽先抽到清少納言呢【香港Vtuber/猫崎ヤコウ】",
+                        "author": "yakou ch.猫崎夜光【HKVtuber】"
+                    },
+                    {
+                        "video_code": "xyVnZPrNkVs",
+                        "image": "https://i.ytimg.com/vi/xyVnZPrNkVs/mqdefault.jpg",
+                        "title": "[臨訓小故事]聖誕樹的起源ft.雷歐,日向",
+                        "author": "yakou ch.猫崎夜光【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -119,21 +139,27 @@
                         "author": "yakou ch.猫崎夜光【HKVtuber】"
                     },
                     {
+                        "video_code": "5T56q9CDiyE",
+                        "image": "https://i.ytimg.com/vi/5T56q9CDiyE/mqdefault.jpg",
+                        "title": "【歌回】魔音舊歌歌回【香港Vtuber/猫崎ヤコウ】",
+                        "author": "yakou ch.猫崎夜光【HKVtuber】"
+                    },
+                    {
                         "video_code": "rTRibmzIGxg",
                         "image": "https://i.ytimg.com/vi/rTRibmzIGxg/mqdefault.jpg",
                         "title": "【Apex】期望唔好落地成盒【香港Vtuber/猫崎ヤコウ】",
                         "author": "yakou ch.猫崎夜光【HKVtuber】"
                     },
                     {
-                        "video_code": "dXMmXFg_Sp4",
-                        "image": "https://i.ytimg.com/vi/dXMmXFg_Sp4/mqdefault.jpg",
-                        "title": "【雀魂】陪大叔一齊打雀魂【香港Vtuber/猫崎ヤコウ】",
+                        "video_code": "OMjjx44CYYM",
+                        "image": "https://i.ytimg.com/vi/OMjjx44CYYM/mqdefault.jpg",
+                        "title": "【講故佬貓叔】 酷刑【香港Vtuber/猫崎ヤコウ】",
                         "author": "yakou ch.猫崎夜光【HKVtuber】"
                     },
                     {
-                        "video_code": "JUYg6IbsNJ0",
-                        "image": "https://i.ytimg.com/vi/JUYg6IbsNJ0/mqdefault.jpg",
-                        "title": "【FGO】大叔到底要幾多抽先抽到清少納言呢【香港Vtuber/猫崎ヤコウ】",
+                        "video_code": "BbmSBf9x-y4",
+                        "image": "https://i.ytimg.com/vi/BbmSBf9x-y4/mqdefault.jpg",
+                        "title": "【Let's Build a Zoo #3】大叔想要多D動物品種【香港Vtuber/猫崎ヤコウ】",
                         "author": "yakou ch.猫崎夜光【HKVtuber】"
                     }
                 ]

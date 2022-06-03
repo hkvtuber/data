@@ -92,6 +92,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "uFD_Co7dRFI",
+                        "image": "https://i.ytimg.com/vi/uFD_Co7dRFI/mqdefault.jpg",
+                        "title": "【自我介紹】初次見面，我係你地嘅♡魔女大人♥!【HKVtuber／月影はなり】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "Erun0BvlM4k",
+                        "image": "https://i.ytimg.com/vi/Erun0BvlM4k/mqdefault.jpg",
+                        "title": "【パリピ孔明】派對咖孔明Paripi Koumei OP - Chitty Chitty Bang Bang チキチキバンバン 歌ってみた【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "q-t_AOSIIHs",
+                        "image": "https://i.ytimg.com/vi/q-t_AOSIIHs/mqdefault.jpg",
+                        "title": "【派對咖孔明】Paripi Koumei OP - QUEENDOM Chitty Chitty Bang Bang チキチキバンバン (粵語Cover) 歌ってみた【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "fZKwimqAsks",
+                        "image": "https://i.ytimg.com/vi/fZKwimqAsks/mqdefault.jpg",
+                        "title": "KING / 月影はなり (Cover)",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "hTbLb_WhmbE",
+                        "image": "https://i.ytimg.com/vi/hTbLb_WhmbE/mqdefault.jpg",
+                        "title": "【新人Vtuber】一千訂閱大感謝♥ Vtuber一問一答自我介紹! 【HKVtuber／月影はなり】",
+                        "author": "Hanari Ch. 月影はなり"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "RyXqWlUy6ok",
+                        "image": "https://i.ytimg.com/vi/RyXqWlUy6ok/mqdefault.jpg",
+                        "title": "【ASMR】魅魔重拾正職 讓你舒適安眠XOXO初體驗【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "QHoVW-0sMnM",
+                        "image": "https://i.ytimg.com/vi/QHoVW-0sMnM/mqdefault.jpg",
+                        "title": "【雀魂】懲罰遊戲x麻雀: 輸了要當魅魔的後宮?! feat.Maya,A1M1,Kinoko【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "gVxqvhxUWQ8",
+                        "image": "https://i.ytimg.com/vi/gVxqvhxUWQ8/mqdefault.jpg",
+                        "title": "【重大告知】【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "yGlH0MaLTcY",
+                        "image": "https://i.ytimg.com/vi/yGlH0MaLTcY/mqdefault.jpg",
+                        "title": "【挑戰】香港地理達人挑戰! 能拿到天才級的分數嗎?!【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    },
+                    {
+                        "video_code": "5TXIAJlwyJk",
+                        "image": "https://i.ytimg.com/vi/5TXIAJlwyJk/mqdefault.jpg",
+                        "title": "【情人節特企】全肯定 | 一日女友♡寶貝你說什麼我都答應  【月影はなり／HKVtuber】",
+                        "author": "Hanari Ch. 月影はなり"
+                    }
+                ]
+            }
         }
     ]
 }

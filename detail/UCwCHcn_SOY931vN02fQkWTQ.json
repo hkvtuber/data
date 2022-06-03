@@ -89,6 +89,58 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "gKKffORM7A8",
+                        "image": "https://i.ytimg.com/vi/gKKffORM7A8/mqdefault.jpg",
+                        "title": "【粵語】布伽一問一答自我介紹！【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "S4iPI3qFvAQ",
+                        "image": "https://i.ytimg.com/vi/S4iPI3qFvAQ/mqdefault.jpg",
+                        "title": "布伽出道配信｜究竟初配信會唔會就暴言【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
+                        "video_code": "1OJhHdi_nUc",
+                        "image": "https://i.ytimg.com/vi/1OJhHdi_nUc/mqdefault.jpg",
+                        "title": "小朋友們！一齊嚟畫畫啦！【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
+                        "video_code": "rd3hOeaZBWE",
+                        "image": "https://i.ytimg.com/vi/rd3hOeaZBWE/mqdefault.jpg",
+                        "title": "【突發】小朋友們！一齊嚟畫畫啦！【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
+                        "video_code": "MPc2RGdUa4M",
+                        "image": "https://i.ytimg.com/vi/MPc2RGdUa4M/mqdefault.jpg",
+                        "title": "｜布伽與LEON在浣熊市的約會日記｜Resident Evil 2 Remake 【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
+                        "video_code": "LPo-5RS541k",
+                        "image": "https://i.ytimg.com/vi/LPo-5RS541k/mqdefault.jpg",
+                        "title": "｜布伽精神病院旅行團｜OUTLAST【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    }
+                ]
+            }
         }
     ]
 }

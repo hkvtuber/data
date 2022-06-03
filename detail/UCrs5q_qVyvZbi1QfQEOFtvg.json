@@ -116,6 +116,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "p_RTQR4W8cM",
+                        "image": "https://i.ytimg.com/vi/p_RTQR4W8cM/mqdefault.jpg",
+                        "title": "\"NEVER GONNA GIVE YOU UP\" 【 Ft.Kyle, TiN, sin3c12】(Japanese  Cover)",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "NOTloBiiMTs",
+                        "image": "https://i.ytimg.com/vi/NOTloBiiMTs/mqdefault.jpg",
+                        "title": "【Timelapse】My Digital Drawing Process - sin3c12",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "SvgCpznip48",
+                        "image": "https://i.ytimg.com/vi/SvgCpznip48/mqdefault.jpg",
+                        "title": "【女性向ASMR】下課後只剩下兩人的教室（廣東話 | 喜劇(?）【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "wpS1DUph-M0",
+                        "image": "https://i.ytimg.com/vi/wpS1DUph-M0/mqdefault.jpg",
+                        "title": "【精靈學廣東話】痴線WhatsApp錄音  (粗口刪減版(?）【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "MslKv80rjXE",
+                        "image": "https://i.ytimg.com/vi/MslKv80rjXE/mqdefault.jpg",
+                        "title": "I LOVE YOU - クリス・ハート【 Ft.Kyle, TiN, sin3c12】(Cover)",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "ZUM0FoY54Ek",
+                        "image": "https://i.ytimg.com/vi/ZUM0FoY54Ek/mqdefault.jpg",
+                        "title": "【初配信】🌿✨~初~次~見~面~✨🌿【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "CGrWKoTAEY8",
+                        "image": "https://i.ytimg.com/vi/CGrWKoTAEY8/mqdefault.jpg",
+                        "title": "【初事故】同3隻モンモン玩phasmophobia【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "5zbwWOe2Ymc",
+                        "image": "https://i.ytimg.com/vi/5zbwWOe2Ymc/mqdefault.jpg",
+                        "title": "【Phasmophobia | 初聯動!】👻兩個都會驚嘅玩恐怖game到底會點呢...? Ft. 木星とき【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "FSSoaiGn49Q",
+                        "image": "https://i.ytimg.com/vi/FSSoaiGn49Q/mqdefault.jpg",
+                        "title": "【Among Ditto(? 】一切都係卡爾太真誠太真心嘅錯!T_T【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    },
+                    {
+                        "video_code": "iM_4ukS_c7A",
+                        "image": "https://i.ytimg.com/vi/iM_4ukS_c7A/mqdefault.jpg",
+                        "title": "【Ib 恐怖美術館 #1】到底恐唔恐怖?到底卡爾智商夠唔夠用?【香港Vtuber | Kyle 卡爾】",
+                        "author": "Kyle 卡爾 HKVTuber"
+                    }
+                ]
+            }
         }
     ]
 }

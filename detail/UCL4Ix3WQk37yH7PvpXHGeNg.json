@@ -89,6 +89,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "0MIeNpTN51w",
+                        "image": "https://i.ytimg.com/vi/0MIeNpTN51w/mqdefault.jpg",
+                        "title": "【初配信】出道！！進來聊天就給你祈福噢 ´• ل •`！〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    },
+                    {
+                        "video_code": "Q3UkXWCvpYg",
+                        "image": "https://i.ytimg.com/vi/Q3UkXWCvpYg/mqdefault.jpg",
+                        "title": "【宅男的人間冒險】今天成為真正的宅男〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    },
+                    {
+                        "video_code": "0AVx0_XIUvE",
+                        "image": "https://i.ytimg.com/vi/0AVx0_XIUvE/mqdefault.jpg",
+                        "title": "【Elden Ring】惡兆不死我不睡〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    },
+                    {
+                        "video_code": "gEuQxqpZ37A",
+                        "image": "https://i.ytimg.com/vi/gEuQxqpZ37A/mqdefault.jpg",
+                        "title": "【醉酒雜談＋練歌】酒精是什麼天才發明〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    },
+                    {
+                        "video_code": "He6LXiq3P_k",
+                        "image": "https://i.ytimg.com/vi/He6LXiq3P_k/mqdefault.jpg",
+                        "title": "【Elden Ring】因陳早安是手殘而要為後續做點準備〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    }
+                ]
+            }
         }
     ]
 }

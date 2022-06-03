@@ -115,12 +115,50 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "1kgC6BD3fh0",
+                        "image": "https://i.ytimg.com/vi/1kgC6BD3fh0/mqdefault.jpg",
+                        "title": "【女性向ASMR】看完恐怖片睡不著打給男友【HKVtuber/櫻庭良】",
+                        "author": "櫻庭良 Sakuraba Ch."
+                    },
+                    {
+                        "video_code": "38pYiI3R8AQ",
+                        "image": "https://i.ytimg.com/vi/38pYiI3R8AQ/mqdefault.jpg",
+                        "title": "【女性向ASMR】別弄醒不願起床的人【HKVtuber/櫻庭良】",
+                        "author": "櫻庭良 Sakuraba Ch."
+                    },
+                    {
+                        "video_code": "vO4yWjEc4OE",
+                        "image": "https://i.ytimg.com/vi/vO4yWjEc4OE/mqdefault.jpg",
+                        "title": "測試直播、不小心打死了大樹守衛。。。【HKVtuber/櫻庭良】",
+                        "author": "櫻庭良 Sakuraba Ch."
+                    },
+                    {
+                        "video_code": "BytynSBg-lY",
+                        "image": "https://i.ytimg.com/vi/BytynSBg-lY/mqdefault.jpg",
+                        "title": "【Phasmophobia聯動】新道具！？ ft. 桃野薔薇, 阿爾文, 粟米【HKVtuber/櫻庭良】",
+                        "author": "櫻庭良 Sakuraba Ch."
+                    },
+                    {
+                        "video_code": "tY9UJ61yqxg",
+                        "image": "https://i.ytimg.com/vi/tY9UJ61yqxg/mqdefault.jpg",
+                        "title": "【Phasmophobia聯動】新道具！？ ft. 桃野薔薇, 阿爾文, 粟米【HKVtuber/櫻庭良】",
+                        "author": "櫻庭良 Sakuraba Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "1OCryW8h_KE",
-                        "image": "https://i.ytimg.com/vi/1OCryW8h_KE/mqdefault.jpg",
-                        "title": "【新衣裝披露會暨週年紀念生日酒會】【HKVtuber/櫻庭良】",
+                        "video_code": "t4P3UET9hpQ",
+                        "image": "https://i.ytimg.com/vi/t4P3UET9hpQ/mqdefault.jpg",
+                        "title": "【】有啲嘢想講。。。 關於好多嘢。。。【HKVtuber/櫻庭良】",
                         "author": "櫻庭良 Sakuraba Ch."
                     },
                     {
@@ -130,21 +168,21 @@
                         "author": "櫻庭良 Sakuraba Ch."
                     },
                     {
-                        "video_code": "pJ1MyIMEP-Q",
-                        "image": "https://i.ytimg.com/vi/pJ1MyIMEP-Q/mqdefault.jpg",
-                        "title": "【深夜直播】邊雜談邊上分（APEX-LOL-FF14）【HKVtuber/櫻庭良】",
+                        "video_code": "1OCryW8h_KE",
+                        "image": "https://i.ytimg.com/vi/1OCryW8h_KE/mqdefault.jpg",
+                        "title": "【新衣裝披露會暨週年紀念生日酒會】【HKVtuber/櫻庭良】",
                         "author": "櫻庭良 Sakuraba Ch."
                     },
                     {
-                        "video_code": "em9rsOv1d0A",
-                        "image": "https://i.ytimg.com/vi/em9rsOv1d0A/mqdefault.jpg",
-                        "title": "【EXVSMBON】 時間僅供參考、瞓醒就開~~【HKVtuber/櫻庭良】",
+                        "video_code": "uGI8TQtiUi4",
+                        "image": "https://i.ytimg.com/vi/uGI8TQtiUi4/mqdefault.jpg",
+                        "title": "【EXVSMBON聯動 ft.庭爺&由可@新之舞王、柊瑛二】（櫻庭良視角）【HKVtuber/櫻庭良】",
                         "author": "櫻庭良 Sakuraba Ch."
                     },
                     {
-                        "video_code": "Kz3nwr1ocNs",
-                        "image": "https://i.ytimg.com/vi/Kz3nwr1ocNs/mqdefault.jpg",
-                        "title": "【時事宵夜台】無錢新聞 2021年8月11日星期三【HKVtuber/櫻庭良】",
+                        "video_code": "hF6axR3CBgM",
+                        "image": "https://i.ytimg.com/vi/hF6axR3CBgM/mqdefault.jpg",
+                        "title": "【EXVSMBON】 不要停下來啊！【HKVtuber/櫻庭良】",
                         "author": "櫻庭良 Sakuraba Ch."
                     }
                 ]

@@ -71,6 +71,64 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "8dT4kX1CbpM",
+                        "image": "https://i.ytimg.com/vi/8dT4kX1CbpM/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介【神田なつせHKVtuber】",
+                        "author": "神田なつせ【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "LjJs0tBQmxw",
+                        "image": "https://i.ytimg.com/vi/LjJs0tBQmxw/mqdefault.jpg",
+                        "title": "愛情光 -【月月好聲音】(Behind the scenes) 沒有採用的版本",
+                        "author": "神田なつせ【HK Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "GxjIfFJhteM",
+                        "image": "https://i.ytimg.com/vi/GxjIfFJhteM/mqdefault.jpg",
+                        "title": "【初配信】神田會社本部長 開業了! 【HKVtuber】",
+                        "author": "神田なつせ【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "JjMGu_RIfpQ",
+                        "image": "https://i.ytimg.com/vi/JjMGu_RIfpQ/mqdefault.jpg",
+                        "title": "【遊戲配信】英雄聯盟 百獸特攻隊活動代幣募集耐久【神田なつせHKVtuber】",
+                        "author": "神田なつせ【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "lgsS9AuSpjQ",
+                        "image": "https://i.ytimg.com/vi/lgsS9AuSpjQ/mqdefault.jpg",
+                        "title": "【職人配信】FM100 GAT-X370 獵殺高達 假組耐久【神田なつせHKVtuber】",
+                        "author": "神田なつせ【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "_LS-e9d7rfg",
+                        "image": "https://i.ytimg.com/vi/_LS-e9d7rfg/mqdefault.jpg",
+                        "title": "【殘業配信】殘業作業台(雜談可能?)【神田なつせHKVtuber】",
+                        "author": "神田なつせ【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "vrdg6vE7MPI",
+                        "image": "https://i.ytimg.com/vi/vrdg6vE7MPI/mqdefault.jpg",
+                        "title": "【遊戲配信】Monster Hunter Rise 繼續復健【神田なつせHKVtuber】",
+                        "author": "神田なつせ【HK Vtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

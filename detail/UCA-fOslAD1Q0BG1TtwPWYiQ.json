@@ -103,31 +103,75 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "9nU3-8Zs6S0",
+                        "image": "https://i.ytimg.com/vi/9nU3-8Zs6S0/mqdefault.jpg",
+                        "title": "[ASMR] Ear Cleaning w/ Bamboo earpick (No Talking) 耳かきの音 【桃野薔薇 | 香港Vtuber 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
+                    },
+                    {
+                        "video_code": "ZTUVsqsJ8gU",
+                        "image": "https://i.ytimg.com/vi/ZTUVsqsJ8gU/mqdefault.jpg",
+                        "title": "【ASMR】雙麥克風口腔音測試，微劇情暴力舔耳 | mouth sounds Binaural 【桃野薔薇 | 香港Vtuber 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
+                    },
+                    {
+                        "video_code": "SXlaYvk_n4g",
+                        "image": "https://i.ytimg.com/vi/SXlaYvk_n4g/mqdefault.jpg",
+                        "title": "【ASMR加班薔】不小心把洗臉泡泡用太多。。一直發泡用不完！ 【桃野薔薇 | 香港Vtuber  台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
+                    },
+                    {
+                        "video_code": "okYxn8ZaV7g",
+                        "image": "https://i.ytimg.com/vi/okYxn8ZaV7g/mqdefault.jpg",
+                        "title": "【ASMR】練習向，5分鐘不溫柔吃耳朵。耳舐Ｏ 。Ear licking non-stop for 5mins 【桃野薔薇 | 香港Vtuber 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
+                    },
+                    {
+                        "video_code": "ey2yTCeKODY",
+                        "image": "https://i.ytimg.com/vi/ey2yTCeKODY/mqdefault.jpg",
+                        "title": "【廢片薔】GOOD PUSS 搖起來！【桃野薔薇 | 香港Vtuber x 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "sZ5q9u3Vh1A",
-                        "image": "https://i.ytimg.com/vi/sZ5q9u3Vh1A/mqdefault.jpg",
-                        "title": "【深夜薔】每週一次的ASMR按摩 X 心音。跳跳糖。口腔音【桃野薔薇 | HKVTBER】",
-                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                        "video_code": "V7D_Tq5hfIQ",
+                        "image": "https://i.ytimg.com/vi/V7D_Tq5hfIQ/mqdefault.jpg",
+                        "title": "【ASMR】每週固定ASMR，舔耳掏耳器材回歸！還不舔爆嗎？Licking ears and whisper｜耳舐め、耳元で囁く【桃野薔薇 | 香港Vtuber 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
                     },
                     {
-                        "video_code": "EJTW7xhcgRM",
-                        "image": "https://i.ytimg.com/vi/EJTW7xhcgRM/mqdefault.jpg",
-                        "title": "【ASMR】｜每週固定睡眠導入 近距離耳邊哄睡 ｜【桃野薔薇 | HKVTUBER 】",
-                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                        "video_code": "mPU-ncZWslQ",
+                        "image": "https://i.ytimg.com/vi/mPU-ncZWslQ/mqdefault.jpg",
+                        "title": "【ASMR】甜爆糖果 X 舔耳福利回 50同接回饋 ｜Licking ears and whisper｜耳舐め、耳元で囁く【桃野薔薇 | 香港Vtuber  台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
                     },
                     {
-                        "video_code": "gvNTQirQD0I",
-                        "image": "https://i.ytimg.com/vi/gvNTQirQD0I/mqdefault.jpg",
-                        "title": "【Ghost of tsushima 對馬戰鬼 】繼續不講武德！【桃野薔薇 | HKVTUBER 】",
-                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                        "video_code": "3CjDj3Iva0U",
+                        "image": "https://i.ytimg.com/vi/3CjDj3Iva0U/mqdefault.jpg",
+                        "title": "【ASMR】黏稠耳朵按摩 x 濕潤雙耳舔耳 | Ear Massage & Ear Licking  Binaural 【桃野薔薇 | 香港Vtuber 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
                     },
                     {
-                        "video_code": "BZeMy1Ep1IY",
-                        "image": "https://i.ytimg.com/vi/BZeMy1Ep1IY/mqdefault.jpg",
-                        "title": "【週日觀眾酒場】大話骰 X 黃牌 ！賭L薔在線騙酒喝！6個7！！【桃野薔薇 | HKVTUBER  / VTYPE】",
-                        "author": "桃野薔薇 ch . 【港台Vtuber｜Vtype 】"
+                        "video_code": "CpcO_lUMQ1I",
+                        "image": "https://i.ytimg.com/vi/CpcO_lUMQ1I/mqdefault.jpg",
+                        "title": "【ASMR】S人格覺醒♡暴力舔耳♡耳舐め ♡耳マッサージ｜Deep Ear-Licks & Ear massage｜【桃野薔薇 | 香港Vtuber 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
+                    },
+                    {
+                        "video_code": "uAVeil6cKdc",
+                        "image": "https://i.ytimg.com/vi/uAVeil6cKdc/mqdefault.jpg",
+                        "title": "【 Alice Madness Returns+The House of Da Vinci】沒想到愛麗絲那麼快爆機！換解迷遊戲玩！【桃野薔薇 | 香港Vtuber x 台灣Vtuber】",
+                        "author": "桃野薔薇 ASMR ch · 港台Vtuber"
                     }
                 ]
             }

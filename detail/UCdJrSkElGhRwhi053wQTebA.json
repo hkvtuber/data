@@ -104,15 +104,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "kRYO-RHVpsk",
+                        "image": "https://i.ytimg.com/vi/kRYO-RHVpsk/mqdefault.jpg",
+                        "title": "KING／葵鼠太郎 Cover【歌ってみた】",
+                        "author": "Aonezu Ch. 葵鼠たろう"
+                    },
+                    {
+                        "video_code": "D8I4DUxP2CY",
+                        "image": "https://i.ytimg.com/vi/D8I4DUxP2CY/mqdefault.jpg",
+                        "title": "Casino／葵鼠太郎 Cover【歌ってみた】",
+                        "author": "Aonezu Ch. 葵鼠たろう"
+                    },
+                    {
                         "video_code": "tQkPVl9tQLI",
                         "image": "https://i.ytimg.com/vi/tQkPVl9tQLI/mqdefault.jpg",
                         "title": "【自己紹介】Vtuber一問一答自己紹介【葵鼠太郎 / HKVtuber】",
                         "author": "Aonezu Ch. 葵鼠たろう"
                     },
                     {
-                        "video_code": "kRYO-RHVpsk",
-                        "image": "https://i.ytimg.com/vi/kRYO-RHVpsk/mqdefault.jpg",
-                        "title": "KING／葵鼠太郎 Cover【歌ってみた】",
+                        "video_code": "6lwxXQFj3n4",
+                        "image": "https://i.ytimg.com/vi/6lwxXQFj3n4/mqdefault.jpg",
+                        "title": "EYE／葵鼠太郎 Cover【歌ってみた】",
                         "author": "Aonezu Ch. 葵鼠たろう"
                     },
                     {
@@ -136,6 +148,18 @@
                         "author": "Aonezu Ch. 葵鼠たろう"
                     },
                     {
+                        "video_code": "e4lZC852Beg",
+                        "image": "https://i.ytimg.com/vi/e4lZC852Beg/mqdefault.jpg",
+                        "title": "一年了【葵鼠太郎 / HKVtuber】",
+                        "author": "Aonezu Ch. 葵鼠たろう"
+                    },
+                    {
+                        "video_code": "xImI1Al7Cdo",
+                        "image": "https://i.ytimg.com/vi/xImI1Al7Cdo/mqdefault.jpg",
+                        "title": "【2000訂閱紀念】一日鼠鼠【葵鼠太郎 / HKVtuber】",
+                        "author": "Aonezu Ch. 葵鼠たろう"
+                    },
+                    {
                         "video_code": "DxeykavUHMc",
                         "image": "https://i.ytimg.com/vi/DxeykavUHMc/mqdefault.jpg",
                         "title": "【2.0 初配信】鼠鼠終於有下半身【葵鼠太郎 / HKVtuber】",
@@ -145,24 +169,6 @@
                         "video_code": "35wuNje0cfE",
                         "image": "https://i.ytimg.com/vi/35wuNje0cfE/mqdefault.jpg",
                         "title": "【壺男耐久】絕望競速 ☠ 鼠鼠陪大家過中秋🌕入嚟同🐹打氣 一齊猜猜燈謎！Getting Over It VS. ZEN世界【葵鼠太郎 / HKVtuber】",
-                        "author": "Aonezu Ch. 葵鼠たろう"
-                    },
-                    {
-                        "video_code": "E8TmL1K8f7k",
-                        "image": "https://i.ytimg.com/vi/E8TmL1K8f7k/mqdefault.jpg",
-                        "title": "【Vtuber100問】來看看鼠鼠的DD境界【葵鼠太郎 / HKVtuber】",
-                        "author": "Aonezu Ch. 葵鼠たろう"
-                    },
-                    {
-                        "video_code": "Ko--IaKpgbs",
-                        "image": "https://i.ytimg.com/vi/Ko--IaKpgbs/mqdefault.jpg",
-                        "title": "【耐久歌枠】100訂閱慶祝!!100曲歌うまで終わらない~~woo【葵鼠太郎 / HKVtuber】",
-                        "author": "Aonezu Ch. 葵鼠たろう"
-                    },
-                    {
-                        "video_code": "SrhwYBzBZKs",
-                        "image": "https://i.ytimg.com/vi/SrhwYBzBZKs/mqdefault.jpg",
-                        "title": "【歌枠】鼠鼠咪公開&唱些輕鬆愉快的歌~ ☁【葵鼠太郎 / HKVtuber】",
                         "author": "Aonezu Ch. 葵鼠たろう"
                     }
                 ]

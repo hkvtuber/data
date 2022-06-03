@@ -104,6 +104,82 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "W5qtwafnPr8",
+                        "image": "https://i.ytimg.com/vi/W5qtwafnPr8/mqdefault.jpg",
+                        "title": "[HKvtuber] 路斯吱 - 自我介紹！！",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "YVsRTfpLVo8",
+                        "image": "https://i.ytimg.com/vi/YVsRTfpLVo8/mqdefault.jpg",
+                        "title": "[HKvtuber] 歌に形はないけれど - 練習COVER",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "5A5H8jRHJ_s",
+                        "image": "https://i.ytimg.com/vi/5A5H8jRHJ_s/mqdefault.jpg",
+                        "title": "[HKVtuber] HOMURA - 結他渣渣練結他 (被撒旦親吻的聲音)",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "pJB6BAPDYZE",
+                        "image": "https://i.ytimg.com/vi/pJB6BAPDYZE/mqdefault.jpg",
+                        "title": "[HKvtuber] 銀河修理員 - 結他練習COVER",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "fBEBVkXC4dI",
+                        "image": "https://i.ytimg.com/vi/fBEBVkXC4dI/mqdefault.jpg",
+                        "title": "[HKvtuber] 吃雞後瘋狂胡言亂語的路斯吱 (事故日常)",
+                        "author": "路斯吱 - HKVtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "pE7qsVoPZGw",
+                        "image": "https://i.ytimg.com/vi/pE7qsVoPZGw/mqdefault.jpg",
+                        "title": "[HKvtuber] Minecraft人生重來村#1 ~開服聯動",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "A0F2K_8xkhI",
+                        "image": "https://i.ytimg.com/vi/A0F2K_8xkhI/mqdefault.jpg",
+                        "title": "[HKvtuber] 雀魂初體驗",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "9QCfjJDtxA0",
+                        "image": "https://i.ytimg.com/vi/9QCfjJDtxA0/mqdefault.jpg",
+                        "title": "[Hkvtuber]俄羅斯方塊-新手對決II",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "izxkISp_H38",
+                        "image": "https://i.ytimg.com/vi/izxkISp_H38/mqdefault.jpg",
+                        "title": "[HKvtuber/補祝生日] 路斯吱222歲 (倉鼠年)",
+                        "author": "路斯吱 - HKVtuber"
+                    },
+                    {
+                        "video_code": "ysB4RZ4tpIs",
+                        "image": "https://i.ytimg.com/vi/ysB4RZ4tpIs/mqdefault.jpg",
+                        "title": "[HKvtuber] 趁家中沒人- 再次突發歌回",
+                        "author": "路斯吱 - HKVtuber"
+                    }
+                ]
+            }
         }
     ]
 }
