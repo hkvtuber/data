@@ -82,15 +82,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "_hEL972PqeY",
-                        "image": "https://i.ytimg.com/vi/_hEL972PqeY/mqdefault.jpg",
-                        "title": "【Minecraft地圖】老虎逃獄｜尋找鑰匙逃出密室｜小品監獄逃脫地圖",
-                        "author": "琥橞里 KoEri【香港vtuber】"
-                    },
-                    {
                         "video_code": "sTgpCCRPv3k",
                         "image": "https://i.ytimg.com/vi/sTgpCCRPv3k/mqdefault.jpg",
                         "title": "【Minecraft地圖】粉紅色坑爹地圖｜通關方法太無厘頭啦｜粉色的世界怎麼會被坑呢｜",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "_hEL972PqeY",
+                        "image": "https://i.ytimg.com/vi/_hEL972PqeY/mqdefault.jpg",
+                        "title": "【Minecraft地圖】老虎逃獄｜尋找鑰匙逃出密室｜小品監獄逃脫地圖",
                         "author": "琥橞里 KoEri【香港vtuber】"
                     },
                     {
@@ -109,6 +109,30 @@
                         "video_code": "BhMCstZNfis",
                         "image": "https://i.ytimg.com/vi/BhMCstZNfis/mqdefault.jpg",
                         "title": "【星之卡比探索發現玩什麼？】體驗版試玩｜怪物通通都吞掉｜Switch遊戲｜KoEri",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "To2FTRGlxHM",
+                        "image": "https://i.ytimg.com/vi/To2FTRGlxHM/mqdefault.jpg",
+                        "title": "【閒聊】食老麥送威路士，以為是搓手液，上手才知道原來是○○○ ?!",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "_bKo9AKWH7o",
+                        "image": "https://i.ytimg.com/vi/_bKo9AKWH7o/mqdefault.jpg",
+                        "title": "【精華】沒有恐怖畫面，可放心食用｜Minecraft恐怖地圖TEST SUBJECT｜KoEri",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "qX5LeAYq1Cw",
+                        "image": "https://i.ytimg.com/vi/qX5LeAYq1Cw/mqdefault.jpg",
+                        "title": "【小廢片】呆呆老虎的正常發揮｜KoEri",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "y0GEujfc1Ng",
+                        "image": "https://i.ytimg.com/vi/y0GEujfc1Ng/mqdefault.jpg",
+                        "title": "【1分鐘精華】比起逃獄，更想招募獄友的老虎｜因為手不夠長逐漸暴躁😖｜Minecraft地圖｜小品監獄逃脫地圖",
                         "author": "琥橞里 KoEri【香港vtuber】"
                     }
                 ]

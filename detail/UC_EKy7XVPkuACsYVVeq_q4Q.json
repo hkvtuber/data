@@ -112,15 +112,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "vQXdtO-snDE",
-                        "image": "https://i.ytimg.com/vi/vQXdtO-snDE/mqdefault.jpg",
-                        "title": "【お絵かき】1分鐘Vtuber九宮格挑戰 冥露【狐井縁結/新人Vtuber】#Shorts",
-                        "author": "狐井縁結 / Emu Koi"
-                    },
-                    {
                         "video_code": "DeN2YFpbnf4",
                         "image": "https://i.ytimg.com/vi/DeN2YFpbnf4/mqdefault.jpg",
                         "title": "パワフルダッシュキノコは海に飛び込むアイテムです【Mario Kart 8 Deluxe】 #Shorts",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "vQXdtO-snDE",
+                        "image": "https://i.ytimg.com/vi/vQXdtO-snDE/mqdefault.jpg",
+                        "title": "【お絵かき】1分鐘Vtuber九宮格挑戰 冥露【狐井縁結/新人Vtuber】#Shorts",
                         "author": "狐井縁結 / Emu Koi"
                     },
                     {
@@ -139,6 +139,36 @@
                         "video_code": "_olpLzxjMOQ",
                         "image": "https://i.ytimg.com/vi/_olpLzxjMOQ/mqdefault.jpg",
                         "title": "【自己紹介】30秒で自己紹介してみた(日本語ver.)【狐井縁結/新人Vtuber】#Shorts",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "gtKsaarGnVY",
+                        "image": "https://i.ytimg.com/vi/gtKsaarGnVY/mqdefault.jpg",
+                        "title": "【お絵かき】1分鐘Vtuber九宮格挑戰 朝日團子【狐井縁結/新人Vtuber】#Shorts",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "yuFsbsLNakE",
+                        "image": "https://i.ytimg.com/vi/yuFsbsLNakE/mqdefault.jpg",
+                        "title": "検証結果：無免許運転の末路は絶叫のみ【Mario Kart 8 Deluxe】 #Shorts",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "IeXlLtKPZ0g",
+                        "image": "https://i.ytimg.com/vi/IeXlLtKPZ0g/mqdefault.jpg",
+                        "title": "【God Field】被感冒￼毆打了【狐井縁結/新人Vtuber】",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "TU2Pap_XECg",
+                        "image": "https://i.ytimg.com/vi/TU2Pap_XECg/mqdefault.jpg",
+                        "title": "【お絵かき】1分鐘Vtuber九宮格挑戰 羽狐神 ちよ【狐井縁結/新人Vtuber】#Shorts",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "6AMc6F6t19o",
+                        "image": "https://i.ytimg.com/vi/6AMc6F6t19o/mqdefault.jpg",
+                        "title": "【お絵かき】1分鐘Vtuber九宮格挑戰 冬夜前雪【狐井縁結/新人Vtuber】#Shorts",
                         "author": "狐井縁結 / Emu Koi"
                     }
                 ]
@@ -177,6 +207,36 @@
                         "video_code": "gYli6k6rwC4",
                         "image": "https://i.ytimg.com/vi/gYli6k6rwC4/mqdefault.jpg",
                         "title": "🔴【祝・初コラボ】04/19 殘酷二選一 ft.鈴木奈兔【狐井縁結/新人Vtuber】",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "r815G8IK9go",
+                        "image": "https://i.ytimg.com/vi/r815G8IK9go/mqdefault.jpg",
+                        "title": "🔴【雑談】04/15 初配信回顧/初配信振り返り【狐井縁結/新人Vtuber】",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "rGnG8H_HzJs",
+                        "image": "https://i.ytimg.com/vi/rGnG8H_HzJs/mqdefault.jpg",
+                        "title": "🔴【雑談】05/15 今天的縁結都是烏冬派【狐井縁結/新人Vtuber】",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "-0Oe2IHQ3hY",
+                        "image": "https://i.ytimg.com/vi/-0Oe2IHQ3hY/mqdefault.jpg",
+                        "title": "🔴【#コンパス】05/19 シーズン頑張ります...【狐井縁結/新人Vtuber】",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "mx2ipXjgk6U",
+                        "image": "https://i.ytimg.com/vi/mx2ipXjgk6U/mqdefault.jpg",
+                        "title": "🔴【雑談配信】04/26 ゆる雑【狐井縁結/新人Vtuber】",
+                        "author": "狐井縁結 / Emu Koi"
+                    },
+                    {
+                        "video_code": "_HzCuhdWd2Q",
+                        "image": "https://i.ytimg.com/vi/_HzCuhdWd2Q/mqdefault.jpg",
+                        "title": "🔴【#コンパス】05/09 ガンナー人生【狐井縁結/新人Vtuber】",
                         "author": "狐井縁結 / Emu Koi"
                     }
                 ]

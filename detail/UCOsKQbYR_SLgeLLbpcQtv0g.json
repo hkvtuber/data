@@ -100,6 +100,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "W4OSbDpQvZI",
+                        "image": "https://i.ytimg.com/vi/W4OSbDpQvZI/mqdefault_live.jpg",
+                        "title": "【突發】唔知做咩好開台再講",
+                        "author": "Chris Taru"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -121,15 +135,45 @@
                         "author": "Chris Taru"
                     },
                     {
+                        "video_code": "TSFSULl4UJE",
+                        "image": "https://i.ytimg.com/vi/TSFSULl4UJE/mqdefault.jpg",
+                        "title": "【遊戲王Master Duel】做個炎獸仔",
+                        "author": "Chris Taru"
+                    },
+                    {
                         "video_code": "hkHicOcMFxI",
                         "image": "https://i.ytimg.com/vi/hkHicOcMFxI/mqdefault.jpg",
                         "title": "【Human: Fall Flat】破壞友情嘅遊戲 ft. 咪久 Mejiu,葵鼠たろう,Kokoro ch.倉鼠",
                         "author": "Chris Taru"
                     },
                     {
-                        "video_code": "TSFSULl4UJE",
-                        "image": "https://i.ytimg.com/vi/TSFSULl4UJE/mqdefault.jpg",
-                        "title": "【遊戲王Master Duel】做個炎獸仔",
+                        "video_code": "Dd4Ay8ZTYPk",
+                        "image": "https://i.ytimg.com/vi/Dd4Ay8ZTYPk/mqdefault.jpg",
+                        "title": "【GBF+雜談】來聊一下天吧!",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "3ZjVLNVSTBQ",
+                        "image": "https://i.ytimg.com/vi/3ZjVLNVSTBQ/mqdefault.jpg",
+                        "title": "【LOL】突發!我想打阿福(觀眾自由參加)",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "bU8eZzgEx1U",
+                        "image": "https://i.ytimg.com/vi/bU8eZzgEx1U/mqdefault.jpg",
+                        "title": "【Eternal Return】隨意打~順便睇下更新咗啲咩",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "qtgHo1cefSs",
+                        "image": "https://i.ytimg.com/vi/qtgHo1cefSs/mqdefault.jpg",
+                        "title": "【APEX】 人體描繪大師報到",
+                        "author": "Chris Taru"
+                    },
+                    {
+                        "video_code": "6fqKqhYF3AU",
+                        "image": "https://i.ytimg.com/vi/6fqKqhYF3AU/mqdefault.jpg",
+                        "title": "【GBF】陪我一齊刷擊滅戰!",
                         "author": "Chris Taru"
                     }
                 ]

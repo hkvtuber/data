@@ -59,6 +59,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "BjgSPCjrcpM",
+                        "image": "https://i.ytimg.com/vi/BjgSPCjrcpM/mqdefault_live.jpg",
+                        "title": "【遊戲】落地獄? 勾引惡魔妹子!!! HELLTAKER 【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -68,9 +82,21 @@
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
+                        "video_code": "y1reVT677Sc",
+                        "image": "https://i.ytimg.com/vi/y1reVT677Sc/mqdefault.jpg",
+                        "title": "【遊戲】一齊跌落街 !  💫 FALL GUYS 可以訓練手部肌肉?!!【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
                         "video_code": "cXHz3KUo7mo",
                         "image": "https://i.ytimg.com/vi/cXHz3KUo7mo/mqdefault.jpg",
                         "title": "【雜談】講下初配信後的感想 (●´ϖ`●) 【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "u9ahShvvXIo",
+                        "image": "https://i.ytimg.com/vi/u9ahShvvXIo/mqdefault.jpg",
+                        "title": "【早晨練習】 開聲+唱歌/咬字練習 為左Aimer!!!!!【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     }
                 ]

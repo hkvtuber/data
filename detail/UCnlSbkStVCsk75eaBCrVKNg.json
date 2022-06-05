@@ -111,6 +111,100 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Th1mTKI1iWk",
+                        "image": "https://i.ytimg.com/vi/Th1mTKI1iWk/mqdefault.jpg",
+                        "title": "【自我介紹】來自異世界的廢柴貓登場!【香港VTuber/新人Vtuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "eayYJLUCgo4",
+                        "image": "https://i.ytimg.com/vi/eayYJLUCgo4/mqdefault.jpg",
+                        "title": "【初・歌ってみた / cover】ヴァンパイア/ DECO*27【蒼神こねこ】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "y2HxjbEgCWU",
+                        "image": "https://i.ytimg.com/vi/y2HxjbEgCWU/mqdefault.jpg",
+                        "title": "【POE】歡樂行街街~【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "tmyf17ZgNNQ",
+                        "image": "https://i.ytimg.com/vi/tmyf17ZgNNQ/mqdefault.jpg",
+                        "title": "【雜談】Koneko性癖暴露!?【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "cZrSmlKIv-s",
+                        "image": "https://i.ytimg.com/vi/cZrSmlKIv-s/mqdefault.jpg",
+                        "title": "【監督學習台】監視 Vtuber 學習日文カタカナ(片假名)【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "A-w_KAxTTDY",
+                        "image": "https://i.ytimg.com/vi/A-w_KAxTTDY/mqdefault.jpg",
+                        "title": "【Vtuber】一周年&生日凸待!3Dお披露目!? 【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "opv8lOYfQf8",
+                        "image": "https://i.ytimg.com/vi/opv8lOYfQf8/mqdefault.jpg",
+                        "title": "【Jump King】100訂閱紀念~持久台【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "0i1vhu9I8Po",
+                        "image": "https://i.ytimg.com/vi/0i1vhu9I8Po/mqdefault.jpg",
+                        "title": "【APEX深夜台】聽說打了針比較厲害w【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "p3x9HGqNIGc",
+                        "image": "https://i.ytimg.com/vi/p3x9HGqNIGc/mqdefault.jpg",
+                        "title": "【400訂閱感謝】一日VR Koneko！?聽講仲可以......(下)【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "SQb8Eh1XIq4",
+                        "image": "https://i.ytimg.com/vi/SQb8Eh1XIq4/mqdefault.jpg",
+                        "title": "【Master Duel觀眾場】進來Dc排隊打牌~【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "vJSsQ4uVa6c",
+                        "image": "https://i.ytimg.com/vi/vJSsQ4uVa6c/mqdefault.jpg",
+                        "title": "【3D放送】色色Vtuber跳 2 Phut Hon!? 【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "WiUMEjmJkT4",
+                        "image": "https://i.ytimg.com/vi/WiUMEjmJkT4/mqdefault.jpg",
+                        "title": "【League of Legends】爆大鑊【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "29OYjDHEH8Q",
+                        "image": "https://i.ytimg.com/vi/29OYjDHEH8Q/mqdefault.jpg",
+                        "title": "【APEX】本本分享台(暫定)【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    }
+                ]
+            }
         }
     ]
 }
