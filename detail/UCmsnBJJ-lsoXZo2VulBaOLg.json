@@ -1,0 +1,141 @@
+{
+    "id": "UCmsnBJJ-lsoXZo2VulBaOLg",
+    "header": {
+        "name": "甜椒工房 Paprika Factory",
+        "image": "https://yt3.ggpht.com/nzmvK3DuqXplNbm25YsgSgZOjsOvDM9XN7vcuP6WPfDWeAnq-7FwNSRFtRT7gZGjz6zkGGpH-w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/3DjqGpPEbFDG5O96Y-mtryWGvyBpZcuEnUvD7g2tFN_TUFDzGFQ8HGKskTvFIn8VFJ63lMg4dw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FUE6sPxVIAAAuQn?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FUE6sPxVIAAAuQn?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FUE6sbZVUAAE1MS?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FUE6sbZVUAAE1MS?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FUE6siUUsAAHQaY?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FUE6siUUsAAHQaY?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "甜椒工房\nPaprika Factory\n彌歌魚\n艾路11\n米津律",
+                        "heightRate": "3.33"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月12日\n7月18日\n3月28日",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#paprikafactory",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#paprilive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#papriart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#椒民",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#papriclips",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#paprimeme",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCmsnBJJ-lsoXZo2VulBaOLg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Paprikafactory"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/paprika.factory/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/paprika.factory/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "J6HgV8G5Rkc",
+                        "image": "https://i.ytimg.com/vi/J6HgV8G5Rkc/mqdefault.jpg",
+                        "title": "【直播】６/２ Live2D 初配信【彌歌魚｜艾路11｜米津律】",
+                        "author": "甜椒工房 Paprika Factory"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "id": "UC_GJFNXPvFDHKNZ0L1FaoMA",
+    "header": {
+        "name": "Wisteria Starling ch.",
+        "image": "https://yt3.ggpht.com/ytOIQtmVC06FtOBhvlz8cI8tcltewYr9l0B_B-X7lrgcfJC9Ir4Su6UBR-Aa8_tB4-OL1iWV=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/1CrNr1TBtZNibCykke9EcIFrqBaRoKi8z2bEWVPDRLhoIVEK2Ux2542hg7VzQ91s1nkVdnbJ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FSqLK-aaQAA_ujw?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FSqLK-aaQAA_ujw?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FSqLLFVaMAEu1q9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FSqLLFVaMAEu1q9?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Wisteria Starling",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月31日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "20歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "163cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#WisteriaStarling",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#wisterilive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#wistearia",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#wisterillustration",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#hornisteria",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#funnisteria",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_GJFNXPvFDHKNZ0L1FaoMA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "wisteria_vtuber"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/wisteria_vtubertwitch"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "6XBYfGqjqsw",
+                        "image": "https://i.ytimg.com/vi/6XBYfGqjqsw/mqdefault.jpg",
+                        "title": "[mini cover] 悲しみはオーロラに - Wisteria Starling",
+                        "author": "Wisteria Starling ch."
+                    },
+                    {
+                        "video_code": "_xNkTFkgoTA",
+                        "image": "https://i.ytimg.com/vi/_xNkTFkgoTA/mqdefault.jpg",
+                        "title": "[Genshin Impact] all them scruff",
+                        "author": "Wisteria Starling ch."
+                    },
+                    {
+                        "video_code": "1t_YMk8Yg6c",
+                        "image": "https://i.ytimg.com/vi/1t_YMk8Yg6c/mqdefault.jpg",
+                        "title": "[cover teaser] Carry You - Wisteria Starling",
+                        "author": "Wisteria Starling ch."
+                    },
+                    {
+                        "video_code": "gfBUpZGxIQU",
+                        "image": "https://i.ytimg.com/vi/gfBUpZGxIQU/mqdefault.jpg",
+                        "title": "[4/6歌回 karaoke] 唔識講呀，一齊唱歌啦 [HK EN vtuber]",
+                        "author": "Wisteria Starling ch."
+                    },
+                    {
+                        "video_code": "-fpwP9Nr514",
+                        "image": "https://i.ytimg.com/vi/-fpwP9Nr514/mqdefault.jpg",
+                        "title": "[4/6歌回 karaoke] 唔識講呀，一齊唱歌啦 [HK EN vtuber]",
+                        "author": "Wisteria Starling ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "gTPkWU7-YxA",
+                        "image": "https://i.ytimg.com/vi/gTPkWU7-YxA/mqdefault.jpg",
+                        "title": "[初配信 debut stream] end of prologue, beginning of chapter one [HK EN vtuber]",
+                        "author": "Wisteria Starling ch."
+                    },
+                    {
+                        "video_code": "YVB9sxW1gtU",
+                        "image": "https://i.ytimg.com/vi/YVB9sxW1gtU/mqdefault.jpg",
+                        "title": "[Genshin Impact] The waiting game is over. Yelan please come home! 夜蘭回家吧！(EN/粵/國)",
+                        "author": "Wisteria Starling ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

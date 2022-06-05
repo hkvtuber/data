@@ -1,0 +1,128 @@
+{
+    "id": "UCCYXwv2KxIubvNV7F9Zh1XA",
+    "header": {
+        "name": "百花 momoka Ch.【Stardio所屬🌟】",
+        "image": "https://yt3.ggpht.com/TX6Yt1MnKQctlxiVojm984vkcwvV9cM_oZJArRIDDT0-7dM_cEdR7JAJz2qH2rDOr1zl5CZGkHE=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/sTbpx2E-_vCeCYDdIAqIUNellZp7aRMeFfKPkgsN8UQ7Xr-blr1UZGL9-SQjCvkGV08_ZYM94g=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "百花momoka",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "7月8日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "18歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "170cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "企業勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#EternalGarden\n#mokalive",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#Momokaart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#Momokasofkingwet",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCCYXwv2KxIubvNV7F9Zh1XA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "MOKAMOMOKA_"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "pHFjKozoDmo",
+                        "image": "https://i.ytimg.com/vi/pHFjKozoDmo/mqdefault.jpg",
+                        "title": "【COVER】星間飛行 || covered by 萌香百花 MOKA MOMOKA || Stardio🌟",
+                        "author": "百花 momoka Ch.【Stardio所屬🌟】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "Vh498dfQKs4",
+                        "image": "https://i.ytimg.com/vi/Vh498dfQKs4/mqdefault.jpg",
+                        "title": "【初配信】Eternal Garden is opening💐",
+                        "author": "百花 momoka Ch.【Stardio所屬🌟】"
+                    },
+                    {
+                        "video_code": "voDrUfaWquU",
+                        "image": "https://i.ytimg.com/vi/voDrUfaWquU/mqdefault.jpg",
+                        "title": "【Fall Guys】努力向冠軍進發❣️",
+                        "author": "百花 momoka Ch.【Stardio所屬🌟】"
+                    }
+                ]
+            }
+        }
+    ]
+}
