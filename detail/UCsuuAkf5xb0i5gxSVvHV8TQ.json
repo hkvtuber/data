@@ -1,9 +1,9 @@
 {
-    "id": "UCXw6LEsTI_E3qvgzxW3dVkw",
+    "id": "UCsuuAkf5xb0i5gxSVvHV8TQ",
     "header": {
-        "name": "月杏ムム【Vtuber準備中】",
-        "image": "https://yt3.ggpht.com/RRufCujL9QjAbTE_1lUfSkOKOKBs57ULi2pFXluX1LO31P7BgCy-ZsD64OZbF8erVTGMYORwyx4=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/Wr1zg-JXxcD9xUiiy6QsIVCE6Ov-hcQ6slLEhmDUQxzwFH46Vkg9Up9TUHZZp6j3VSTWSVHX=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "name": "甜椒樂園 Paprika Gameplay",
+        "image": "https://yt3.ggpht.com/YiVj4QT7cuX4Z8MwsklIGwrR1qWWUgixGYaZFIny2lxbPTImzeOX-6MazqyRmKNnRHQYxAEPAQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/dm3EnRoP78oz3Pj8XE-JqHzmxzfXR7TNpobTSLjvyBVdHzuBG3Sn4b6rkxKZ5z7Ug74L-QrnBA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -20,8 +20,8 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "月杏ムム",
-                        "heightRate": "1"
+                        "content": "甜椒樂園\nPaprika Gameplay\n彌歌魚\n艾路11\n米津律",
+                        "heightRate": "3.33"
                     }
                 ]
             }
@@ -38,8 +38,8 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話\n普通話",
-                        "heightRate": "2"
+                        "content": "廣東話",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -51,25 +51,11 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UCXw6LEsTI_E3qvgzxW3dVkw"
+                        "path": "UCsuuAkf5xb0i5gxSVvHV8TQ"
                     },
                     {
                         "key": "twitter",
-                        "path": "Vtubermumu"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "4FQdTtWP-VM",
-                        "image": "https://i.ytimg.com/vi/4FQdTtWP-VM/mqdefault.jpg",
-                        "title": "【自我介紹】各位 多多指教！【VTuber/月杏ムム】",
-                        "author": "月杏ムム【Vtuber準備中】"
+                        "path": "Paprikafactory"
                     }
                 ]
             }

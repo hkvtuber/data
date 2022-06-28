@@ -1,0 +1,106 @@
+{
+    "id": "UC6easAA4xkvzledIqQteUWw",
+    "header": {
+        "name": "Alice Tarrandalf【香港新人vtuber】準備中",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLRHrrSxbDcUvM88ysBbDEXJE9smqMv0yuXQADXD=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FWIYo2SX0Aci5oc?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FWIYo2SX0Aci5oc?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Alice Tarrandalf",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "10月29日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "21歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "165cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#AT鳩UPTIME",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#綠帽魔女餓瓜了",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#綠到發光的大麻魔女",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC6easAA4xkvzledIqQteUWw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "AliceTa67225459"
+                    }
+                ]
+            }
+        }
+    ]
+}

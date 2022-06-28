@@ -1,11 +1,23 @@
 {
-    "id": "UCXw6LEsTI_E3qvgzxW3dVkw",
+    "id": "UCqzHPIomV3t_U671sYsOifg",
     "header": {
-        "name": "月杏ムム【Vtuber準備中】",
-        "image": "https://yt3.ggpht.com/RRufCujL9QjAbTE_1lUfSkOKOKBs57ULi2pFXluX1LO31P7BgCy-ZsD64OZbF8erVTGMYORwyx4=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/Wr1zg-JXxcD9xUiiy6QsIVCE6Ov-hcQ6slLEhmDUQxzwFH46Vkg9Up9TUHZZp6j3VSTWSVHX=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "name": "上村瑛理",
+        "image": "https://yt3.ggpht.com/ytc/AKedOLT3jLa-u1G7Nj9mCAVUK1sBUFn2Z-gsMedIxwVdxw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FVmy0YEagAIclI9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FVmy0YEagAIclI9?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -20,7 +32,7 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "月杏ムム",
+                        "content": "上村瑛理",
                         "heightRate": "1"
                     }
                 ]
@@ -38,8 +50,18 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話\n普通話",
-                        "heightRate": "2"
+                        "content": "廣東話\n普通話\n英文\n娃娃語",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#娃眾取寵",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#DD啲DD",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -51,25 +73,11 @@
                 "content": [
                     {
                         "key": "youtube",
-                        "path": "UCXw6LEsTI_E3qvgzxW3dVkw"
+                        "path": "UCqzHPIomV3t_U671sYsOifg"
                     },
                     {
                         "key": "twitter",
-                        "path": "Vtubermumu"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "4FQdTtWP-VM",
-                        "image": "https://i.ytimg.com/vi/4FQdTtWP-VM/mqdefault.jpg",
-                        "title": "【自我介紹】各位 多多指教！【VTuber/月杏ムム】",
-                        "author": "月杏ムム【Vtuber準備中】"
+                        "path": "Eiri_Uemura"
                     }
                 ]
             }
