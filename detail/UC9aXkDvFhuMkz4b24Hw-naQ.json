@@ -1,0 +1,83 @@
+{
+    "id": "UC9aXkDvFhuMkz4b24Hw-naQ",
+    "header": {
+        "name": "Edana simba 埃達納 獅巴 (HKvtuber)",
+        "image": "https://yt3.ggpht.com/cdpUZoZIX_ozC__M9d0Uc4W06XdY9mjLzfjLqMLY068iMymSHc6UWSQmQM5iLPFxEG_ZSO4nDQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/DlnHxQ-wifTPlxVlnefMDlH3_ciZzBgiBR0e8m17pfLEYVFEwCWYHzo1l7UHBvm6Lv6W_6JxqA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "埃達納 獅巴\nEdana simba",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#Simba_bystanders",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Edana_Simba_Live",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#Edana_Simba_Art",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#Standers",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC9aXkDvFhuMkz4b24Hw-naQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Simbababababa"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/edana_simba_hkvtuber_vtuber/"
+                    }
+                ]
+            }
+        }
+    ]
+}
