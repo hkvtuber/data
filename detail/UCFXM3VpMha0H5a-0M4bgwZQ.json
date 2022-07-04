@@ -22,7 +22,7 @@
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": "Hihi _(:3」ㄥ)_  我是凱特斯索菲亞(kates Sophia), 是來自香港的vtuber! 可以叫我番薯或者凱特 自稱是人類?! (๑´ㅂ`๑)"
+                "content": "Hihi _(:3」ㄥ)_  我是凱特斯索菲亞(kates Sophia), 來自香港喔:3  可以叫我番薯或者凱特(๑´ㅂ`๑)"
             }
         },
         {
@@ -107,11 +107,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "kates_hkv"
-                    },
-                    {
-                        "key": "IG",
-                        "path": "https://instagram.com/kates.hkv"
+                        "path": "kates_va"
                     }
                 ]
             }
