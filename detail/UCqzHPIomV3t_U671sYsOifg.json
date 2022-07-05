@@ -55,13 +55,8 @@
                     },
                     {
                         "key": "Fan Art Tag\n(有機會用在封面)",
-                        "content": "#娃眾取寵",
-                        "heightRate": "1"
-                    },
-                    {
-                        "key": "Fan Name Tag",
-                        "content": "#DD啲DD",
-                        "heightRate": "1"
+                        "content": "上村:\n#娃眾取寵\n瑛理:\n#瑛理\n瑛理著其他衫:\n#上村瑛理outfit",
+                        "heightRate": "4.00"
                     }
                 ]
             }
