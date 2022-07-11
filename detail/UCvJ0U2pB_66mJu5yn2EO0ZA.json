@@ -88,6 +88,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "-x4fXTYK92U",
+                        "image": "https://i.ytimg.com/vi/-x4fXTYK92U/mqdefault.jpg",
+                        "title": "【自我介紹 / 初配預告】寵物兔轉生成的電影導演？！按此成為瑛芽劇組的一員吧！【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
                         "video_code": "GZTdZMMqRLk",
                         "image": "https://i.ytimg.com/vi/GZTdZMMqRLk/mqdefault.jpg",
                         "title": "【粵語翻唱】《Fly Me To The Moon》【香港VTuber / 兔澤瑛芽】",
@@ -100,9 +106,77 @@
                         "author": "兔澤瑛芽【HKVtuber】"
                     },
                     {
-                        "video_code": "-x4fXTYK92U",
-                        "image": "https://i.ytimg.com/vi/-x4fXTYK92U/mqdefault.jpg",
-                        "title": "【自我介紹 / 初配預告】寵物兔轉生成的電影導演？！按此成為瑛芽劇組的一員吧！【香港VTuber / 兔澤瑛芽】",
+                        "video_code": "WmuruUcyeWo",
+                        "image": "https://i.ytimg.com/vi/WmuruUcyeWo/mqdefault.jpg",
+                        "title": "香港VTuber英雄聯盟邀請賽【wHo Am I】隊伍介紹影片 #HAIWIN",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "fFk9Sa6K9jY",
+                        "image": "https://i.ytimg.com/vi/fFk9Sa6K9jY/mqdefault.jpg",
+                        "title": "【初配信】寵物兔轉生成的電影導演？！不來跟瑛芽認識一下嗎？【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "UZ-ukhWwM9g",
+                        "image": "https://i.ytimg.com/vi/UZ-ukhWwM9g/mqdefault.jpg",
+                        "title": "【畫畫】畢加索 · 瑛芽轉戰像素畫！來畫港V吧～【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "LFRugAyh2D4",
+                        "image": "https://i.ytimg.com/vi/LFRugAyh2D4/mqdefault.jpg",
+                        "title": "【聊天】初配後日談！棉花糖郵箱裏都有甚麼奇怪東西...?【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "uAcObGD8Cw8",
+                        "image": "https://i.ytimg.com/vi/uAcObGD8Cw8/mqdefault.jpg",
+                        "title": "【畫畫】把可愛的港V畫成像素風～【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "arowc6f0LxU",
+                        "image": "https://i.ytimg.com/vi/arowc6f0LxU/mqdefault.jpg",
+                        "title": "【遊戲】用一杯咖啡，換你一段故事。【Coffee Talk #1】【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "SCaHma55KR4",
+                        "image": "https://i.ytimg.com/vi/SCaHma55KR4/mqdefault.jpg",
+                        "title": "【歌回】感謝400訂！電影歌歌回！！【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nmNm7qkJCy4",
+                        "image": "https://i.ytimg.com/vi/nmNm7qkJCy4/mqdefault.jpg",
+                        "title": "【遊戲聯動】災難公關？！這麼芽敗的遊戲真的不會被BAN台嗎...?【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "6ip3EAYw5BY",
+                        "image": "https://i.ytimg.com/vi/6ip3EAYw5BY/mqdefault.jpg",
+                        "title": "【聊天】讀書時期的瑛芽做過甚麼壞事...？【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "0E3py810iyY",
+                        "image": "https://i.ytimg.com/vi/0E3py810iyY/mqdefault.jpg",
+                        "title": "【互動式驚慄電影】自己的研究變成殺人病毒？！道德兩難決定誰死誰活【復體 The Complex】【香港VTuber / 兔澤瑛芽】",
+                        "author": "兔澤瑛芽【HKVtuber】"
+                    },
+                    {
+                        "video_code": "t47BsyJXMmY",
+                        "image": "https://i.ytimg.com/vi/t47BsyJXMmY/mqdefault.jpg",
+                        "title": "【芽芽學語】僕日本語本當下手。語癌兔能學懂50音嗎？！【香港VTuber / 兔澤瑛芽】",
                         "author": "兔澤瑛芽【HKVtuber】"
                     }
                 ]

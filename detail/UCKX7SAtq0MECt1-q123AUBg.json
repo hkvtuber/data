@@ -116,21 +116,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "n-7xANoJeT8",
+                        "image": "https://i.ytimg.com/vi/n-7xANoJeT8/mqdefault.jpg",
+                        "title": "【北嶋そうた/Nelson・HKvtuber】我發誓以後不會再發出這種聲音【烤肉影片】",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
                         "video_code": "KAHVaEJA4YY",
                         "image": "https://i.ytimg.com/vi/KAHVaEJA4YY/mqdefault.jpg",
                         "title": "【繪畫記錄】我畫了霹靂電球（洗翠地區的樣子）【北嶋そうた/Nelson・HKvtuber】#shorts #pokemon",
                         "author": "北嶋颯太Nelson Channel. HKvtuber"
                     },
                     {
-                        "video_code": "o4d3fn96CHg",
-                        "image": "https://i.ytimg.com/vi/o4d3fn96CHg/mqdefault.jpg",
-                        "title": "【北嶋そうた/Nelson・HKvtuber】Cyberpunk2077第一次遇Bug紀念🤣 #shorts #cyberpunk2077",
-                        "author": "北嶋颯太Nelson Channel. HKvtuber"
-                    },
-                    {
                         "video_code": "mEgO_D5swsk",
                         "image": "https://i.ytimg.com/vi/mEgO_D5swsk/mqdefault.jpg",
                         "title": "【北嶋颯太/Nelson・HKvtuber】怕.mp4 #shorts #北嶋颯太LIVE #hkvtuber精華  #香港vtuber #港台vtuber #台灣vtuber #閉店事件",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
+                        "video_code": "o4d3fn96CHg",
+                        "image": "https://i.ytimg.com/vi/o4d3fn96CHg/mqdefault.jpg",
+                        "title": "【北嶋そうた/Nelson・HKvtuber】Cyberpunk2077第一次遇Bug紀念🤣 #shorts #cyberpunk2077",
                         "author": "北嶋颯太Nelson Channel. HKvtuber"
                     }
                 ]
@@ -142,6 +148,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "5lSLuajaiyw",
+                        "image": "https://i.ytimg.com/vi/5lSLuajaiyw/mqdefault.jpg",
+                        "title": "【Ib remake#2】美術館恐怖遊戲！來到了第二集！【北嶋颯太/HKvtuber】feat. 我朋友Emma/我朋友Enid",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
                         "video_code": "7StWTBHkkPU",
                         "image": "https://i.ytimg.com/vi/7StWTBHkkPU/mqdefault.jpg",
                         "title": "【深夜放送】怕爆...!【北嶋そうた/Nelson・HKvtuber】直播紀錄",
@@ -151,6 +163,18 @@
                         "video_code": "Fca40gSp6js",
                         "image": "https://i.ytimg.com/vi/Fca40gSp6js/mqdefault.jpg",
                         "title": "【The Closing Shift/閉店事件】你確定這不是咖啡店店員simulator遊戲？【北嶋颯太/Nelson．HKvtuber】",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
+                        "video_code": "8VwcJyAAZZo",
+                        "image": "https://i.ytimg.com/vi/8VwcJyAAZZo/mqdefault.jpg",
+                        "title": "【Ib remake#1】美術館恐怖遊戲！由於他沒有中文，所以我只好用日文來玩了...【北嶋颯太/HKvtuber】feat. 我朋友Emma/我朋友Ann（她們是專門來嚇我的）",
+                        "author": "北嶋颯太Nelson Channel. HKvtuber"
+                    },
+                    {
+                        "video_code": "c7rYZce7Pfc",
+                        "image": "https://i.ytimg.com/vi/c7rYZce7Pfc/mqdefault.jpg",
+                        "title": "【Ib remake#3】美術館恐怖遊戲！メアリー不是一個真實的人...？【北嶋颯太/HKvtuber】feat. 我朋友Emma/Enid",
                         "author": "北嶋颯太Nelson Channel. HKvtuber"
                     }
                 ]

@@ -126,9 +126,21 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "muZHexO_sNU",
-                        "image": "https://i.ytimg.com/vi/muZHexO_sNU/mqdefault.jpg",
-                        "title": "你的女皇陛下突然出現 !",
+                        "video_code": "KEXafRPcs1k",
+                        "image": "https://i.ytimg.com/vi/KEXafRPcs1k/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自己紹介 【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "99EFzP2PgDk",
+                        "image": "https://i.ytimg.com/vi/99EFzP2PgDk/mqdefault.jpg",
+                        "title": "【COVER】KING / 皇咲レイナ",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "_1Zl0L_qmCM",
+                        "image": "https://i.ytimg.com/vi/_1Zl0L_qmCM/mqdefault.jpg",
+                        "title": "👑 Welcome to my kingdom 👑",
                         "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
                     },
                     {
@@ -138,9 +150,77 @@
                         "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
                     },
                     {
-                        "video_code": "_1Zl0L_qmCM",
-                        "image": "https://i.ytimg.com/vi/_1Zl0L_qmCM/mqdefault.jpg",
-                        "title": "👑 Welcome to my kingdom 👑",
+                        "video_code": "muZHexO_sNU",
+                        "image": "https://i.ytimg.com/vi/muZHexO_sNU/mqdefault.jpg",
+                        "title": "你的女皇陛下突然出現 !",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "E54XdupV_aA",
+                        "image": "https://i.ytimg.com/vi/E54XdupV_aA/mqdefault.jpg",
+                        "title": "【初配信】 👑建國紀念日👑【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "v3oMA9QZGLM",
+                        "image": "https://i.ytimg.com/vi/v3oMA9QZGLM/mqdefault.jpg",
+                        "title": "【歌回】慶祝出道! High 起來!!! 【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "qHvIE0luDYI",
+                        "image": "https://i.ytimg.com/vi/qHvIE0luDYI/mqdefault.jpg",
+                        "title": "【繪圖】雖然寫線稿篇不過其實是草稿篇【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "JGBct2pJirs",
+                        "image": "https://i.ytimg.com/vi/JGBct2pJirs/mqdefault.jpg",
+                        "title": "【出道後感】 初配信零事故背後的秘密 !?【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "ohTZ-X4vIzg",
+                        "image": "https://i.ytimg.com/vi/ohTZ-X4vIzg/mqdefault.jpg",
+                        "title": "【PuyoTetris】目標! Puyo Tetris 雙料女皇!!【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "VVE5heSbZls",
+                        "image": "https://i.ytimg.com/vi/VVE5heSbZls/mqdefault.jpg",
+                        "title": "【Stanley Parable】 堂堂女皇怎麼可能做社畜!!!!【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "GVWnZPc67h4",
+                        "image": "https://i.ytimg.com/vi/GVWnZPc67h4/mqdefault.jpg",
+                        "title": "【Stanley Parable】旁白可以閉嘴了嗎 ?【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "ty_yLs760Ks",
+                        "image": "https://i.ytimg.com/vi/ty_yLs760Ks/mqdefault.jpg",
+                        "title": "【APEX】作為女皇怎麼想也對戰場得心應手吧【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "zFDN5BDPcKA",
+                        "image": "https://i.ytimg.com/vi/zFDN5BDPcKA/mqdefault.jpg",
+                        "title": "【PuyoTetris】聽說學會定型就贏了【皇咲レイナ | HKVtuber】",
+                        "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
+                    },
+                    {
+                        "video_code": "VEadmNUuO1o",
+                        "image": "https://i.ytimg.com/vi/VEadmNUuO1o/mqdefault.jpg",
+                        "title": "【Stanley Parable】突發! 打風全結局解完!! 【皇咲レイナ | HKVtuber】",
                         "author": "Reina Ch. 皇咲レイナ [HKVtuber]"
                     }
                 ]

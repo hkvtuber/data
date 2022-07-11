@@ -132,6 +132,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "yIg0qbAu0Fw",
+                        "image": "https://i.ytimg.com/vi/yIg0qbAu0Fw/mqdefault.jpg",
+                        "title": "【歌ってみた】貴方解剖純愛歌 ～死ね～ / あいみょん【covered by 猫宮あゆめ】",
+                        "author": "Ayume Ch. -猫宮あゆめ-"
+                    },
+                    {
                         "video_code": "j55CoGVkI_E",
                         "image": "https://i.ytimg.com/vi/j55CoGVkI_E/mqdefault.jpg",
                         "title": "【試唱】《講你知123！》【猫宮あゆめ/HKVTuber】",
@@ -159,12 +165,6 @@
                         "video_code": "z3peNH4Csdw",
                         "image": "https://i.ytimg.com/vi/z3peNH4Csdw/mqdefault.jpg",
                         "title": "あたしと結婚するんだもんね＾＾",
-                        "author": "Ayume Ch. -猫宮あゆめ-"
-                    },
-                    {
-                        "video_code": "sl57EfEiFd0",
-                        "image": "https://i.ytimg.com/vi/sl57EfEiFd0/mqdefault.jpg",
-                        "title": "【偽COVER】Mrs.Pumpkinの滑稽な夢／猫宮あゆめ",
                         "author": "Ayume Ch. -猫宮あゆめ-"
                     },
                     {
@@ -206,9 +206,21 @@
                         "author": "Ayume Ch. -猫宮あゆめ-"
                     },
                     {
+                        "video_code": "b-gBz8KgXWw",
+                        "image": "https://i.ytimg.com/vi/b-gBz8KgXWw/mqdefault.jpg",
+                        "title": "【#櫥窗購衣記】我！！！今天一周年了唷！！！！！【猫宮あゆめ/HKVTuber】",
+                        "author": "Ayume Ch. -猫宮あゆめ-"
+                    },
+                    {
                         "video_code": "TV5V4UlJEKs",
                         "image": "https://i.ytimg.com/vi/TV5V4UlJEKs/mqdefault.jpg",
                         "title": "【Elden Ring #1】初見魂系遊的手殘貓真的玩得下去嗎(´・ω・｀)【猫宮あゆめ/HKVTuber】",
+                        "author": "Ayume Ch. -猫宮あゆめ-"
+                    },
+                    {
+                        "video_code": "avfPKgSQVOQ",
+                        "image": "https://i.ytimg.com/vi/avfPKgSQVOQ/mqdefault.jpg",
+                        "title": "【一周年後日談＆攝影會】團長我也想試試像偶像那樣地被拍攝呢🥺✨【猫宮あゆめ/HKVTuber】",
                         "author": "Ayume Ch. -猫宮あゆめ-"
                     },
                     {
@@ -227,18 +239,6 @@
                         "video_code": "tBQGTqGjXH4",
                         "image": "https://i.ytimg.com/vi/tBQGTqGjXH4/mqdefault.jpg",
                         "title": "【雜談】先日v 後港v ver.的Vtuber 100問💜【猫宮あゆめ/HKVTuber】",
-                        "author": "Ayume Ch. -猫宮あゆめ-"
-                    },
-                    {
-                        "video_code": "pYDVb7zdoMY",
-                        "image": "https://i.ytimg.com/vi/pYDVb7zdoMY/mqdefault.jpg",
-                        "title": "【練歌雜談枠】我！回！來！了！【猫宮あゆめ/HKVTuber】",
-                        "author": "Ayume Ch. -猫宮あゆめ-"
-                    },
-                    {
-                        "video_code": "WgrKvGkbLWc",
-                        "image": "https://i.ytimg.com/vi/WgrKvGkbLWc/mqdefault.jpg",
-                        "title": "【Elden Ring #7】再遇惡兆王！？有大哥無有怕ｗ【猫宮あゆめ/HKVTuber】",
                         "author": "Ayume Ch. -猫宮あゆめ-"
                     }
                 ]

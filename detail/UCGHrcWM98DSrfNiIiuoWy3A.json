@@ -92,13 +92,27 @@
                         "video_code": "UlUpxC78X10",
                         "image": "https://i.ytimg.com/vi/UlUpxC78X10/mqdefault.jpg",
                         "title": "【自己紹介】Vtuber一問一答自己紹介【黛惰夜/惡魔教主Vtuber】",
-                        "author": "TaiDa Ch. 黛惰夜【HKVTuber】"
+                        "author": "TaiDa Ch. 黛惰夜【VTuber】"
                     },
                     {
                         "video_code": "C1rB7xm9dQ4",
                         "image": "https://i.ytimg.com/vi/C1rB7xm9dQ4/mqdefault.jpg",
                         "title": "【HKVTuber黛惰夜】羞恥台詞#1",
-                        "author": "TaiDa Ch. 黛惰夜【HKVTuber】"
+                        "author": "TaiDa Ch. 黛惰夜【VTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "yrB2SKAcfMk",
+                        "image": "https://i.ytimg.com/vi/yrB2SKAcfMk/mqdefault.jpg",
+                        "title": "【黛惰夜】◆2.0發佈會!!!◆新的超可愛教主登場///記得來看喔❤【可愛系HKVTuber】",
+                        "author": "TaiDa Ch. 黛惰夜【VTuber】"
                     }
                 ]
             }

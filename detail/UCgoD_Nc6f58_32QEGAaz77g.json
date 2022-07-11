@@ -108,114 +108,16 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "UNnQKC01Z5Q",
-                        "image": "https://i.ytimg.com/vi/UNnQKC01Z5Q/mqdefault.jpg",
-                        "title": "【自我介紹】水屋砂糖正式出道 Mizuya Sugar DEBUT ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "Q9hccTs1k54",
-                        "image": "https://i.ytimg.com/vi/Q9hccTs1k54/mqdefault.jpg",
-                        "title": "可愛くなりたい - 成海聖奈 CV.：雨宮天 (cover) by 音準糖 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
                         "video_code": "uCfzzGIkfEM",
                         "image": "https://i.ytimg.com/vi/uCfzzGIkfEM/mqdefault.jpg",
                         "title": "SAY SO - Doja Cat／Japanese Version (cover) by 音準糖 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                        "author": "水屋砂糖 Mizuya Sugar"
                     },
                     {
-                        "video_code": "MKINDsbLjl4",
-                        "image": "https://i.ytimg.com/vi/MKINDsbLjl4/mqdefault.jpg",
-                        "title": "早晨呀各位 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "2Od3yyKdans",
-                        "image": "https://i.ytimg.com/vi/2Od3yyKdans/mqdefault.jpg",
-                        "title": "【Attack on Titan】Final Season OP - My War「僕の戦争」(Cover) ♡香港Vtuber♡ 水屋砂糖亂唱cover",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "cHs_LzTwr7Y",
-                        "image": "https://i.ytimg.com/vi/cHs_LzTwr7Y/mqdefault.jpg",
-                        "title": "【妹力声面接】廣東話Ver. 哥哥！你鍾唔鍾意砂糖呀？♡香港Vtuber♡ 500subscribe感謝",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "dp5EWiHePS0",
-                        "image": "https://i.ytimg.com/vi/dp5EWiHePS0/mqdefault.jpg",
-                        "title": "阿嬸退測群組 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "bXR4hiwgrUQ",
-                        "image": "https://i.ytimg.com/vi/bXR4hiwgrUQ/mqdefault.jpg",
-                        "title": "阿婆退測群組 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "L3wy_trN7W0",
-                        "image": "https://i.ytimg.com/vi/L3wy_trN7W0/mqdefault.jpg",
-                        "title": "【重大發表】水屋砂糖攬枕正式發售♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "l2gZu901kN0",
-                        "image": "https://i.ytimg.com/vi/l2gZu901kN0/mqdefault.jpg",
-                        "title": "【係開心唔係鹹濕#2】PUI PUI你坐呀(눈‸눈) 來點迷因 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "wZ3UWM9k-HI",
-                        "image": "https://i.ytimg.com/vi/wZ3UWM9k-HI/mqdefault.jpg",
-                        "title": "【精神初配信】砂糖第一次的初次見面♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "msAMspXGiL8",
-                        "image": "https://i.ytimg.com/vi/msAMspXGiL8/mqdefault.jpg",
-                        "title": "【MONSTER HUNTER RISE】準備進入獵人世界🦖好興奮呀♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "jpshH1hL7ok",
-                        "image": "https://i.ytimg.com/vi/jpshH1hL7ok/mqdefault.jpg",
-                        "title": "【突發】ASMR／砂糖深夜pillowtalk ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "O9kiX-wX_x0",
-                        "image": "https://i.ytimg.com/vi/O9kiX-wX_x0/mqdefault.jpg",
-                        "title": "【限時30分鐘】ASMR／砂糖愛你pillowtalk ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "AscRxt511mM",
-                        "image": "https://i.ytimg.com/vi/AscRxt511mM/mqdefault.jpg",
-                        "title": "【砂糖講真㗎】真係星期五有live㗎ʕ•͡ᴥ•ʔ 第一次歌回呀 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "QghmkayBu3I",
-                        "image": "https://i.ytimg.com/vi/QghmkayBu3I/mqdefault.jpg",
-                        "title": "【砂糖生日了】沒有準備的生日會(ｏﾟﾛﾟ)┌┛Σ(ﾉ´*ω*`)ﾉ同大家傾下偈 ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
-                    },
-                    {
-                        "video_code": "x6FtB5Xf1u0",
-                        "image": "https://i.ytimg.com/vi/x6FtB5Xf1u0/mqdefault.jpg",
-                        "title": "【ELDEN RING】艾爾登之糖的誕生（誤）(▰˘◡˘▰) ♡香港Vtuber♡",
-                        "author": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】"
+                        "video_code": "KL86VfBWYZg",
+                        "image": "https://i.ytimg.com/vi/KL86VfBWYZg/mqdefault.jpg",
+                        "title": "カタオモイ - Aimer (cover)",
+                        "author": "水屋砂糖 Mizuya Sugar"
                     }
                 ]
             }

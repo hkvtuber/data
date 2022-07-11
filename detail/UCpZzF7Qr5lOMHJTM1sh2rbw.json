@@ -98,6 +98,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "0Ue3Jf_pZ_s",
+                        "image": "https://i.ytimg.com/vi/0Ue3Jf_pZ_s/mqdefault.jpg",
+                        "title": "【Elden Ring 艾爾登法環紀錄用】再見啦！外星牛牛",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
                         "video_code": "3CqRAd-z8v4",
                         "image": "https://i.ytimg.com/vi/3CqRAd-z8v4/mqdefault.jpg",
                         "title": "【幕後精華?】原來向Xeno比一百二十蚊就可以。。。(並沒有",
@@ -115,6 +121,12 @@
                         "video_code": "yfBErxLPVlU",
                         "image": "https://i.ytimg.com/vi/yfBErxLPVlU/mqdefault.jpg",
                         "title": "【World War Z: Aftermath】#1 面對無盡屍潮 該何去何從？",
+                        "author": "Suraimu Xeno Ch."
+                    },
+                    {
+                        "video_code": "KVrQs30_DSk",
+                        "image": "https://i.ytimg.com/vi/KVrQs30_DSk/mqdefault.jpg",
+                        "title": "【Elden Ring 艾爾登法環】Delay左既六月安排DAY4之EP10.1(?)",
                         "author": "Suraimu Xeno Ch."
                     },
                     {
@@ -154,21 +166,15 @@
                         "author": "Suraimu Xeno Ch."
                     },
                     {
-                        "video_code": "8WsMxcxIz6I",
-                        "image": "https://i.ytimg.com/vi/8WsMxcxIz6I/mqdefault.jpg",
-                        "title": "【BIOHAZARD7 RESIDENT EVIL】#2！繼續尖叫之旅！",
-                        "author": "Suraimu Xeno Ch."
-                    },
-                    {
                         "video_code": "SKIsduJ62mc",
                         "image": "https://i.ytimg.com/vi/SKIsduJ62mc/mqdefault.jpg",
                         "title": "【香港地理達人挑戰】香港位於北緯22°08′至35′ 東經113°49′至114°31′之間",
                         "author": "Suraimu Xeno Ch."
                     },
                     {
-                        "video_code": "OA8Y-vUz4-Y",
-                        "image": "https://i.ytimg.com/vi/OA8Y-vUz4-Y/mqdefault.jpg",
-                        "title": "【Minecraft】突發深夜台～為12月月尾聯動做準備！",
+                        "video_code": "8WsMxcxIz6I",
+                        "image": "https://i.ytimg.com/vi/8WsMxcxIz6I/mqdefault.jpg",
+                        "title": "【BIOHAZARD7 RESIDENT EVIL】#2！繼續尖叫之旅！",
                         "author": "Suraimu Xeno Ch."
                     }
                 ]

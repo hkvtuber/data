@@ -185,9 +185,21 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "tZ0a_Yvi7y8",
+                        "image": "https://i.ytimg.com/vi/tZ0a_Yvi7y8/mqdefault.jpg",
+                        "title": "【Overwatch2】我都係擁有Beta的玩家啦【百孤 | 白狐はくこ】",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
                         "video_code": "o9fMQJjAfu0",
                         "image": "https://i.ytimg.com/vi/o9fMQJjAfu0/mqdefault.jpg",
                         "title": "【同步視聽】月光騎士(Marvel)影集第四集【百孤 | 白狐はくこ】",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "9KHhl8cYpCE",
+                        "image": "https://i.ytimg.com/vi/9KHhl8cYpCE/mqdefault.jpg",
+                        "title": "🔴【尼爾人工生命 ver.√1.5】＃1 Steam終於出~試玩一下",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
@@ -203,45 +215,33 @@
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "EzoVXiTxuSg",
-                        "image": "https://i.ytimg.com/vi/EzoVXiTxuSg/mqdefault.jpg",
-                        "title": "【小百子半週年】今次百孤又入咗咩身體到？",
+                        "video_code": "hlYZNr4xT-E",
+                        "image": "https://i.ytimg.com/vi/hlYZNr4xT-E/mqdefault.jpg",
+                        "title": "【遊戲解說】從零開始講述尼爾世界觀-大災厄【百孤 | 白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "IWj5Ufuv8rM",
-                        "image": "https://i.ytimg.com/vi/IWj5Ufuv8rM/mqdefault.jpg",
-                        "title": "【重大告知?重大發表?】",
+                        "video_code": "GLhTpJDuHJI",
+                        "image": "https://i.ytimg.com/vi/GLhTpJDuHJI/mqdefault.jpg",
+                        "title": "【JumpKing偽耐久】找數之下次唔敢再立Flag了【白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "ip_-A_fvaBY",
-                        "image": "https://i.ytimg.com/vi/ip_-A_fvaBY/mqdefault.jpg",
-                        "title": "【Pummel Party】岸狗小隊！ 集結！？",
+                        "video_code": "Wr2X3u5H35g",
+                        "image": "https://i.ytimg.com/vi/Wr2X3u5H35g/mqdefault.jpg",
+                        "title": "【MC】VC Season 2 開幕走起～【白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "CpFWm9MdDxw",
-                        "image": "https://i.ytimg.com/vi/CpFWm9MdDxw/mqdefault.jpg",
-                        "title": "🔴【尼爾人工生命 ver.√1.5】＃2 今日目標係A結局",
+                        "video_code": "7XdadGyfXyA",
+                        "image": "https://i.ytimg.com/vi/7XdadGyfXyA/mqdefault.jpg",
+                        "title": "【突發RG死線戰士】包裝Piro明信片作業台【百孤 | 白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "LYcIQLi2MvE",
-                        "image": "https://i.ytimg.com/vi/LYcIQLi2MvE/mqdefault.jpg",
-                        "title": "【Virtual City】是日探險日",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
-                        "video_code": "kteqvZqG3iU",
-                        "image": "https://i.ytimg.com/vi/kteqvZqG3iU/mqdefault.jpg",
-                        "title": "【同步視聽】月光騎士(Marvel)影集第五集【百孤 | 白狐はくこ】",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
-                        "video_code": "Tbj5VkEjyaw",
-                        "image": "https://i.ytimg.com/vi/Tbj5VkEjyaw/mqdefault.jpg",
-                        "title": "【同步視聽】月光騎士(Marvel)影集第六集【百孤 | 白狐はくこ】",
+                        "video_code": "460VCsPNGkM",
+                        "image": "https://i.ytimg.com/vi/460VCsPNGkM/mqdefault.jpg",
+                        "title": "【UNO】心結大賽？【百孤 | 白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     }
                 ]

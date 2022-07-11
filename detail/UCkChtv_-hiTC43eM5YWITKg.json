@@ -82,7 +82,7 @@
                 "video_list": [
                     {
                         "video_code": "qW1gFrVgA9A",
-                        "image": "https://i.ytimg.com/vi/qW1gFrVgA9A/mqdefault_live.jpg",
+                        "image": "https://i.ytimg.com/vi/qW1gFrVgA9A/mqdefault.jpg",
                         "title": "腦死組直播背後到底發生了甚麼呢？[上原愛子 hkvtuber]",
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
@@ -107,6 +107,12 @@
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
                     {
+                        "video_code": "jOOL5_HNDTU",
+                        "image": "https://i.ytimg.com/vi/jOOL5_HNDTU/mqdefault.jpg",
+                        "title": "故事台-THE STARLIGHT GATHERER[上原愛子 hkvtuber]",
+                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
+                    },
+                    {
                         "video_code": "jFybdus5fZY",
                         "image": "https://i.ytimg.com/vi/jFybdus5fZY/mqdefault.jpg",
                         "title": "Needy Girl Overdose 真結局路線[上原愛子 hkvtuber]",
@@ -125,21 +131,15 @@
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
                     {
-                        "video_code": "k10FumAXHoY",
-                        "image": "https://i.ytimg.com/vi/k10FumAXHoY/mqdefault.jpg",
-                        "title": "突發開台繼續洗地(催眠向)[上原愛子 hkvtuber]",
-                        "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
-                    },
-                    {
                         "video_code": "jIcVZtMM5-M",
                         "image": "https://i.ytimg.com/vi/jIcVZtMM5-M/mqdefault.jpg",
                         "title": "[DSE加油站] 《宋詞三首》 [上原愛子 hkvtuber]",
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
                     {
-                        "video_code": "GzDnmR6B8z8",
-                        "image": "https://i.ytimg.com/vi/GzDnmR6B8z8/mqdefault.jpg",
-                        "title": "portal![上原愛子 hkvtuber]",
+                        "video_code": "k10FumAXHoY",
+                        "image": "https://i.ytimg.com/vi/k10FumAXHoY/mqdefault.jpg",
+                        "title": "突發開台繼續洗地(催眠向)[上原愛子 hkvtuber]",
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
                     {
@@ -149,15 +149,15 @@
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
                     {
-                        "video_code": "RvwXA-tUHRo",
-                        "image": "https://i.ytimg.com/vi/RvwXA-tUHRo/mqdefault.jpg",
-                        "title": "Human Pat Pat #1[上原愛子 hkvtuber]",
+                        "video_code": "GzDnmR6B8z8",
+                        "image": "https://i.ytimg.com/vi/GzDnmR6B8z8/mqdefault.jpg",
+                        "title": "portal![上原愛子 hkvtuber]",
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     },
                     {
-                        "video_code": "ZnZfJDSH3j0",
-                        "image": "https://i.ytimg.com/vi/ZnZfJDSH3j0/mqdefault.jpg",
-                        "title": "APEX... [上原愛子 hkvtuber]",
+                        "video_code": "RvwXA-tUHRo",
+                        "image": "https://i.ytimg.com/vi/RvwXA-tUHRo/mqdefault.jpg",
+                        "title": "Human Pat Pat #1[上原愛子 hkvtuber]",
                         "author": "上原愛子 - Uehara Aiko Ch.【香港VTuber】"
                     }
                 ]

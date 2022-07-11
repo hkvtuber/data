@@ -76,6 +76,142 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "dcEMEHatpW8",
+                        "image": "https://i.ytimg.com/vi/dcEMEHatpW8/mqdefault.jpg",
+                        "title": "【自己紹介】きゅうけつき Vtuber? / 吸血鬼皇女Vtuber偶像?【HKVTuber~姫神さま】",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "yfuBI3i5ixk",
+                        "image": "https://i.ytimg.com/vi/yfuBI3i5ixk/mqdefault.jpg",
+                        "title": "English~中文~日本語]~姫神さま~PC ~World of Warships~戰艦世界",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "2cAcewCRBaw",
+                        "image": "https://i.ytimg.com/vi/2cAcewCRBaw/mqdefault.jpg",
+                        "title": "[アズールレーン ~ 碧藍航線] Kesha Hime ACG Channel ~姫神様的二次元空間 ~ Azur Lane",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "7Q1LmKdGRpE",
+                        "image": "https://i.ytimg.com/vi/7Q1LmKdGRpE/mqdefault.jpg",
+                        "title": "English~中文~日本語]~姫神さま~あつまれ どうぶつの森 ~ Animal Crossing: New Hor...",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "Gn_p3Muh6VM",
+                        "image": "https://i.ytimg.com/vi/Gn_p3Muh6VM/mqdefault.jpg",
+                        "title": "【MHW】Monster Hunter World~ モンスターハンター：ワールド ~Kesha Hime ACG Channel ~姫神様的二次元空間~",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "uDjJvK-3llg",
+                        "image": "https://i.ytimg.com/vi/uDjJvK-3llg/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~World of Warships",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "pn7sK2qTQuU",
+                        "image": "https://i.ytimg.com/vi/pn7sK2qTQuU/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~World of Warships",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "YJzrOt07cZU",
+                        "image": "https://i.ytimg.com/vi/YJzrOt07cZU/mqdefault.jpg",
+                        "title": "English~中文~日本語]~姫神さま~Apex Legends",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "gCRGLQkhaJY",
+                        "image": "https://i.ytimg.com/vi/gCRGLQkhaJY/mqdefault.jpg",
+                        "title": "[アズールレーン ~ 碧藍航線] Kesha Hime ACG Channel ~姫神様的二次元空間 ~ Azur Lane",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "7uMnS5dIOeQ",
+                        "image": "https://i.ytimg.com/vi/7uMnS5dIOeQ/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~あつまれ どうぶつの森",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "yLkeBt3Xi6I",
+                        "image": "https://i.ytimg.com/vi/yLkeBt3Xi6I/mqdefault.jpg",
+                        "title": "KeshaWorks Broadcast Test",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "Z1Aad0pTH5w",
+                        "image": "https://i.ytimg.com/vi/Z1Aad0pTH5w/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "v6S7Exuobz8",
+                        "image": "https://i.ytimg.com/vi/v6S7Exuobz8/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "pLqNW98Pi-U",
+                        "image": "https://i.ytimg.com/vi/pLqNW98Pi-U/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "5zXFwLleDdI",
+                        "image": "https://i.ytimg.com/vi/5zXFwLleDdI/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "u2fAr7sjsvA",
+                        "image": "https://i.ytimg.com/vi/u2fAr7sjsvA/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "lznfrT1hqwM",
+                        "image": "https://i.ytimg.com/vi/lznfrT1hqwM/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "hv_wcXdULjU",
+                        "image": "https://i.ytimg.com/vi/hv_wcXdULjU/mqdefault.jpg",
+                        "title": "モンスターハンター：ワールド~Kesha Hime ACG Channel ~姫神様的二次元空間~",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "TqHe2H0UJG8",
+                        "image": "https://i.ytimg.com/vi/TqHe2H0UJG8/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "uxgHZ76eBDE",
+                        "image": "https://i.ytimg.com/vi/uxgHZ76eBDE/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    }
+                ]
+            }
         }
     ]
 }

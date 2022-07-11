@@ -59,6 +59,118 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "FRhWnGyKn4M",
+                        "image": "https://i.ytimg.com/vi/FRhWnGyKn4M/mqdefault.jpg",
+                        "title": "【精華】暴言魚魚逃生精華！Dead by Daylight 【彌歌魚】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "1vqjBVHDgSU",
+                        "image": "https://i.ytimg.com/vi/1vqjBVHDgSU/mqdefault.jpg",
+                        "title": "【精華】直擊家暴現場！米津的雷包合集！全員氣到腦中風！｜PICO PARK【甜椒樂園】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "GgwJZc645Ts",
+                        "image": "https://i.ytimg.com/vi/GgwJZc645Ts/mqdefault.jpg",
+                        "title": "【精華】殺人魚狩獵合集｜ Among Us【彌歌魚】國語台",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "mfgm7on6Oyo",
+                        "image": "https://i.ytimg.com/vi/mfgm7on6Oyo/mqdefault.jpg",
+                        "title": "【精華】米律尖叫合集｜IB恐怖美術館【米津律】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "q353Xw_OAQY",
+                        "image": "https://i.ytimg.com/vi/q353Xw_OAQY/mqdefault.jpg",
+                        "title": "【精華】信仰之躍合集︱小小夢魘【艾路11】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "hyPwm91deYk",
+                        "image": "https://i.ytimg.com/vi/hyPwm91deYk/mqdefault.jpg",
+                        "title": "【精華】殺手病嬌魚魚！甚麼有情有義難聽過粗口！Dead by Daylight【彌歌魚】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "vU9llJ9pjlQ",
+                        "image": "https://i.ytimg.com/vi/vU9llJ9pjlQ/mqdefault.jpg",
+                        "title": "【直播】恐怖苦手初體驗！IB恐怖美術館 Remake【米津律】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "NDrVGZq0hts",
+                        "image": "https://i.ytimg.com/vi/NDrVGZq0hts/mqdefault.jpg",
+                        "title": "【直播】乖乖不要跑！！Dead by Daylight【彌歌魚, Ft. 艾路11, 企鵝麵, 德川, 悠爾】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "tYUXIPSdTx4",
+                        "image": "https://i.ytimg.com/vi/tYUXIPSdTx4/mqdefault.jpg",
+                        "title": "【直播】遊戲開始！全員PICO！氣到腦中風！【甜椒樂園】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "rmdMcxEwWX4",
+                        "image": "https://i.ytimg.com/vi/rmdMcxEwWX4/mqdefault.jpg",
+                        "title": "【直播】四個軟軟的怪人跌落街！Human: Fall Flat【艾路11｜米津律｜德川｜悠爾】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "L9T3Z5D1EWc",
+                        "image": "https://i.ytimg.com/vi/L9T3Z5D1EWc/mqdefault.jpg",
+                        "title": "【直播】逃出貪顎號！小小夢魘【艾路11】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "8bD8vafedEg",
+                        "image": "https://i.ytimg.com/vi/8bD8vafedEg/mqdefault.jpg",
+                        "title": "【直播】最遜二人組挑戰手速?? WarioWare: Get It Together!【米津律｜脆脆】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "HL_gPT1Er6A",
+                        "image": "https://i.ytimg.com/vi/HL_gPT1Er6A/mqdefault.jpg",
+                        "title": "【直播】重新岀發去冒險！古惑狼3【彌歌魚】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "LPx8hfwXESs",
+                        "image": "https://i.ytimg.com/vi/LPx8hfwXESs/mqdefault.jpg",
+                        "title": "【直播】這四個女生會和平地玩派對遊戲嗎？Mario Party【彌歌魚｜艾路11｜米津律｜脆脆】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "EuKZpYpI048",
+                        "image": "https://i.ytimg.com/vi/EuKZpYpI048/mqdefault.jpg",
+                        "title": "【直播】約會尖下巴學長！學園Handsome BL之旅【米津律】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    },
+                    {
+                        "video_code": "f7d-EE_hLTs",
+                        "image": "https://i.ytimg.com/vi/f7d-EE_hLTs/mqdefault.jpg",
+                        "title": "【直播】不高清也可以談戀愛！像素女友【艾路11】",
+                        "author": "甜椒樂園 Paprika Gameplay"
+                    }
+                ]
+            }
         }
     ]
 }

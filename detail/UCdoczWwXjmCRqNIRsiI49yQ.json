@@ -69,15 +69,27 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "02hKCICbBjw",
-                        "image": "https://i.ytimg.com/vi/02hKCICbBjw/mqdefault.jpg",
-                        "title": "【爐火純傾】EP. 1【5/6/2022】",
-                        "author": "☭ 青爐 ☭"
-                    },
-                    {
                         "video_code": "eWSjgKLjnqA",
                         "image": "https://i.ytimg.com/vi/eWSjgKLjnqA/mqdefault.jpg",
                         "title": "【告知】關於紫萊姆的一些事",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "WV3Tli4Rl1Y",
+                        "image": "https://i.ytimg.com/vi/WV3Tli4Rl1Y/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 3【3/7/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "pJOnSDDejn8",
+                        "image": "https://i.ytimg.com/vi/pJOnSDDejn8/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 2【19/6/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "LT38ijgvoUk",
+                        "image": "https://i.ytimg.com/vi/LT38ijgvoUk/mqdefault.jpg",
+                        "title": "【青爐大唱K日】神社線下聯動",
                         "author": "☭ 青爐 ☭"
                     },
                     {
@@ -87,21 +99,27 @@
                         "author": "☭ 青爐 ☭"
                     },
                     {
+                        "video_code": "02hKCICbBjw",
+                        "image": "https://i.ytimg.com/vi/02hKCICbBjw/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 1【5/6/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
                         "video_code": "p7SLCj7SFHY",
                         "image": "https://i.ytimg.com/vi/p7SLCj7SFHY/mqdefault.jpg",
                         "title": "【青爐TRPG】EP 1 完全隨興跑【16/03/2022】",
                         "author": "☭ 青爐 ☭"
                     },
                     {
-                        "video_code": "5dV--ThHAQo",
-                        "image": "https://i.ytimg.com/vi/5dV--ThHAQo/mqdefault.jpg",
-                        "title": "【青爐TRPG】EP 2 長青爐團【20/03/2022】",
-                        "author": "☭ 青爐 ☭"
-                    },
-                    {
                         "video_code": "UnvE6C1l3AU",
                         "image": "https://i.ytimg.com/vi/UnvE6C1l3AU/mqdefault.jpg",
                         "title": "【愚人節特企】9UP 無上限 with 特別形象！",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "5dV--ThHAQo",
+                        "image": "https://i.ytimg.com/vi/5dV--ThHAQo/mqdefault.jpg",
+                        "title": "【青爐TRPG】EP 2 長青爐團【20/03/2022】",
                         "author": "☭ 青爐 ☭"
                     }
                 ]

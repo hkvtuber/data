@@ -130,6 +130,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "rTIaU3dGe48",
+                        "image": "https://i.ytimg.com/vi/rTIaU3dGe48/mqdefault.jpg",
+                        "title": "【初投稿預告】惡靈來襲 ♦️ 鎖夜靈｜HKVTuber ♦️",
+                        "author": "Rei ch. 鎖夜レイ【HKVtuber 準備中】"
+                    }
+                ]
+            }
         }
     ]
 }

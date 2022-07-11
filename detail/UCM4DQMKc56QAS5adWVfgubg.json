@@ -91,58 +91,6 @@
                     }
                 ]
             }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "TFWHIbgPMks",
-                        "image": "https://i.ytimg.com/vi/TFWHIbgPMks/mqdefault.jpg",
-                        "title": "CH4NGE  歌ってみた／ 幸森シオン",
-                        "author": "Hatena ch. はてな"
-                    },
-                    {
-                        "video_code": "_0h0f9QXDB0",
-                        "image": "https://i.ytimg.com/vi/_0h0f9QXDB0/mqdefault.jpg",
-                        "title": "テレキャスタービーボーイ 歌ってみた ／幸森シオン",
-                        "author": "Hatena ch. はてな"
-                    },
-                    {
-                        "video_code": "gNPofpYKgfA",
-                        "image": "https://i.ytimg.com/vi/gNPofpYKgfA/mqdefault.jpg",
-                        "title": "たばこ　歌ってみた ／幸森シオン",
-                        "author": "Hatena ch. はてな"
-                    },
-                    {
-                        "video_code": "OdYWi1rJNRc",
-                        "image": "https://i.ytimg.com/vi/OdYWi1rJNRc/mqdefault.jpg",
-                        "title": "踊　歌ってみた ／はてな",
-                        "author": "Hatena ch. はてな"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "HFNG03S6KTo",
-                        "image": "https://i.ytimg.com/vi/HFNG03S6KTo/mqdefault.jpg",
-                        "title": "【試播】晨活雜談（中粵日ok）【HKVtuber】",
-                        "author": "Hatena ch. はてな"
-                    },
-                    {
-                        "video_code": "DQ8qnJIJOtE",
-                        "image": "https://i.ytimg.com/vi/DQ8qnJIJOtE/mqdefault.jpg",
-                        "title": "【Phasmophobia】去鬼屋打劫（【HKVtuber /はてな】",
-                        "author": "Hatena ch. はてな"
-                    }
-                ]
-            }
         }
     ]
 }

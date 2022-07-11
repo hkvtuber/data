@@ -98,15 +98,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "3eZMnArfZyU",
-                        "image": "https://i.ytimg.com/vi/3eZMnArfZyU/mqdefault.jpg",
-                        "title": "Hello",
-                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
-                    },
-                    {
                         "video_code": "LXlPm-76hrw",
                         "image": "https://i.ytimg.com/vi/LXlPm-76hrw/mqdefault.jpg",
                         "title": "棉花娃娃自製小教程(偽)",
+                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
+                    },
+                    {
+                        "video_code": "3eZMnArfZyU",
+                        "image": "https://i.ytimg.com/vi/3eZMnArfZyU/mqdefault.jpg",
+                        "title": "Hello",
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     }
                 ]
@@ -117,6 +117,18 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "U3OnutFyfjM",
+                        "image": "https://i.ytimg.com/vi/U3OnutFyfjM/mqdefault.jpg",
+                        "title": "【原神】非洲人真係無得救【花梨落 ／ HKVTuber】",
+                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
+                    },
+                    {
+                        "video_code": "ikmTMHQ5M6I",
+                        "image": "https://i.ytimg.com/vi/ikmTMHQ5M6I/mqdefault.jpg",
+                        "title": "【原神】未到中毒所以唔開電腦就唔想打【花梨落 ／ HKVTuber】",
+                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
+                    },
                     {
                         "video_code": "ZYGh7jPH7EA",
                         "image": "https://i.ytimg.com/vi/ZYGh7jPH7EA/mqdefault.jpg",
@@ -130,33 +142,15 @@
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     },
                     {
-                        "video_code": "Cdi7hMcyZpg",
-                        "image": "https://i.ytimg.com/vi/Cdi7hMcyZpg/mqdefault.jpg",
-                        "title": "【未定事件簿#2】唔想再200抽啦【花梨落 ／ HKVTuber】",
+                        "video_code": "lT_f4wplE2E",
+                        "image": "https://i.ytimg.com/vi/lT_f4wplE2E/mqdefault.jpg",
+                        "title": "【原神】我作為米哈游隻狗點解未玩過【花梨落 ／ HKVTuber】",
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     },
                     {
-                        "video_code": "4Kuk_KG4p2M",
-                        "image": "https://i.ytimg.com/vi/4Kuk_KG4p2M/mqdefault.jpg",
-                        "title": "【APEX】新手上緊堂【花梨落 ／ HKVTuber】",
-                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
-                    },
-                    {
-                        "video_code": "bFXmKdi3oTk",
-                        "image": "https://i.ytimg.com/vi/bFXmKdi3oTk/mqdefault.jpg",
-                        "title": "【首次雜談】會開鏡頭【花梨落 ／ HKVTuber】",
-                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
-                    },
-                    {
-                        "video_code": "8sGJaGhW8gg",
-                        "image": "https://i.ytimg.com/vi/8sGJaGhW8gg/mqdefault.jpg",
-                        "title": "【妻主，請善良】一個男人都唔夠，我要十個【花梨落 ／ HKVTuber】",
-                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
-                    },
-                    {
-                        "video_code": "v9n8TQGhO74",
-                        "image": "https://i.ytimg.com/vi/v9n8TQGhO74/mqdefault.jpg",
-                        "title": "【未定事件簿】去遊樂場拍拖！【花梨落 ／ HKVTuber】",
+                        "video_code": "LpkvJu6-Cms",
+                        "image": "https://i.ytimg.com/vi/LpkvJu6-Cms/mqdefault.jpg",
+                        "title": "【原神】宣傳下我開左DC【花梨落 ／ HKVTuber】",
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     },
                     {
@@ -166,15 +160,21 @@
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     },
                     {
+                        "video_code": "AbpTORyRo4E",
+                        "image": "https://i.ytimg.com/vi/AbpTORyRo4E/mqdefault.jpg",
+                        "title": "【HOLOCURE】同大家介紹我老婆【花梨落 ／ HKVTuber】",
+                        "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
+                    },
+                    {
                         "video_code": "aE-w72VIHM8",
                         "image": "https://i.ytimg.com/vi/aE-w72VIHM8/mqdefault.jpg",
                         "title": "【APEX】小包袱之想抱大腿 / ft.錨星こすも、天亮【花梨落 ／ HKVTuber】",
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     },
                     {
-                        "video_code": "Ef-OUEL6t68",
-                        "image": "https://i.ytimg.com/vi/Ef-OUEL6t68/mqdefault.jpg",
-                        "title": "【君為劍舞】「御前論劍比武」篇#4幸魂【花梨落 ／ HKVTuber】",
+                        "video_code": "bFXmKdi3oTk",
+                        "image": "https://i.ytimg.com/vi/bFXmKdi3oTk/mqdefault.jpg",
+                        "title": "【首次雜談】會開鏡頭【花梨落 ／ HKVTuber】",
                         "author": "花梨落Hanazawa Rui【乙女向HKVTUBER】"
                     }
                 ]

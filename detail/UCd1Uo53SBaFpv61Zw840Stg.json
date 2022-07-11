@@ -86,6 +86,106 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "eKmlqOplZqw",
+                        "image": "https://i.ytimg.com/vi/eKmlqOplZqw/mqdefault.jpg",
+                        "title": "如何在Nintendo Switch得到NAT類型A ( 內含CC字幕 )",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "9yclp4edF1s",
+                        "image": "https://i.ytimg.com/vi/9yclp4edF1s/mqdefault.jpg",
+                        "title": "彌敦道RP 教會 CDAB政府新聞",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "_p1qMoljGCU",
+                        "image": "https://i.ytimg.com/vi/_p1qMoljGCU/mqdefault.jpg",
+                        "title": "[粵/國] 02/07 消逝的光芒2 人與仁之戰 第二次挑戰台灣WIFI連結不穩台",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "m-7lq5A6QIQ",
+                        "image": "https://i.ytimg.com/vi/m-7lq5A6QIQ/mqdefault.jpg",
+                        "title": "6/28 初見Valorant 觀眾場 ft. Ruby Lam露比琳 | #御宅少女V #台V #澳V",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "75YH9DrJSC8",
+                        "image": "https://i.ytimg.com/vi/75YH9DrJSC8/mqdefault.jpg",
+                        "title": "[粵/國] 02/16 Florence / 彌敦道 GTA RP 網路測試台",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "S7nRn07HvSU",
+                        "image": "https://i.ytimg.com/vi/S7nRn07HvSU/mqdefault.jpg",
+                        "title": "[粵/國] 02/28 星之夢幻島 想看鬼片中午台 #御宅少女V",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "bMJjAt55sHc",
+                        "image": "https://i.ytimg.com/vi/bMJjAt55sHc/mqdefault.jpg",
+                        "title": "09/04 恐懼之間 - TWITCH 推理大奇蹟日(❁´◡`❁)",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "kDhy4GuREVU",
+                        "image": "https://i.ytimg.com/vi/kDhy4GuREVU/mqdefault.jpg",
+                        "title": "【小喵醬】 03/21 打完第三劑BNT後寫作業晚上台 #御宅少女V",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "IJF-fC0Xeek",
+                        "image": "https://i.ytimg.com/vi/IJF-fC0Xeek/mqdefault.jpg",
+                        "title": "【小喵醬】 03/13 趕作業中午台 #御宅少女V",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "BjFPTInNySg",
+                        "image": "https://i.ytimg.com/vi/BjFPTInNySg/mqdefault.jpg",
+                        "title": "2021/02/27 彌敦道教會電台-「怪奇物語」",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "ZEw_gmO-FGU",
+                        "image": "https://i.ytimg.com/vi/ZEw_gmO-FGU/mqdefault.jpg",
+                        "title": "2021/03/06 彌敦道教會電台-「開台騷」",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "qmkb2P8xuz8",
+                        "image": "https://i.ytimg.com/vi/qmkb2P8xuz8/mqdefault.jpg",
+                        "title": "[粵/國] 02/08 消逝的光芒2 人與仁之戰 挑戰台灣WIFI連結不穩就關台 FT. Cobal",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "SNVJr4xjRD8",
+                        "image": "https://i.ytimg.com/vi/SNVJr4xjRD8/mqdefault.jpg",
+                        "title": "6/11 唱歌聯動 ft.企鵝仔、Yukina、叮祈、阿月渾子 | #御宅少女 #台V #澳V",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    },
+                    {
+                        "video_code": "67ClHP6YK5o",
+                        "image": "https://i.ytimg.com/vi/67ClHP6YK5o/mqdefault.jpg",
+                        "title": "[粵/國] 02/07 消逝的光芒2 人與仁之戰 重拾蘿莉聲QQ",
+                        "author": "【台澳Vtuber】小喵醬ミアオ Ch."
+                    }
+                ]
+            }
         }
     ]
 }

@@ -3,7 +3,7 @@
     "header": {
         "name": "Yumemi Kanna Ch. 夢見カンナ",
         "image": "https://yt3.ggpht.com/jn2X1_AqLMWIzeqnVI88tKG6A-6M9mukQg4ACXz6tI9H6X7yVw8sykMrZPqs1EJlFjzpHm6vxQ=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/Oj1EiEb7BYOf6B6-3TTmNFtV7qpIYTw6fVkpiBEhULuUtDATFEjEBrDwglv1ELs5vOWsfGA9LQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/MXw15ipeQUxBx2n4UicUju5y5ppeKICBaz_f1ANnhN9kGhn9m0BhT2fGutsOqAjJKS7U3BC8yRk=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -117,6 +117,18 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "Fxr_UQbQmEs",
+                        "image": "https://i.ytimg.com/vi/Fxr_UQbQmEs/mqdefault.jpg",
+                        "title": "DECO*27 -乙女解剖 feat.夢見カンナ【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "7vnFsSoZ5Zw",
+                        "image": "https://i.ytimg.com/vi/7vnFsSoZ5Zw/mqdefault.jpg",
+                        "title": "YOASOBI-怪物 feat.夢見カンナ【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
                         "video_code": "9bNsUP2o0lU",
                         "image": "https://i.ytimg.com/vi/9bNsUP2o0lU/mqdefault.jpg",
                         "title": "「宣傳PV」魔王的首支影片！初配訊前導片段♡ 【Yumemi Kanna Ch. 夢見カンナ】",
@@ -135,15 +147,21 @@
                         "author": "Yumemi Kanna Ch. 夢見カンナ"
                     },
                     {
+                        "video_code": "ftCSCo-P-4c",
+                        "image": "https://i.ytimg.com/vi/ftCSCo-P-4c/mqdefault.jpg",
+                        "title": "魔王御姐聲綫的LEMON！快來聽聽吧！【歌回精華】【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
                         "video_code": "FI_3LIRNX8Q",
                         "image": "https://i.ytimg.com/vi/FI_3LIRNX8Q/mqdefault.jpg",
                         "title": "眷屬貴安！我是夢見康娜w （謝謝粉絲幫我弄的這個影片！）#魔王打工日記",
                         "author": "Yumemi Kanna Ch. 夢見カンナ"
                     },
                     {
-                        "video_code": "ftCSCo-P-4c",
-                        "image": "https://i.ytimg.com/vi/ftCSCo-P-4c/mqdefault.jpg",
-                        "title": "魔王御姐聲綫的LEMON！快來聽聽吧！【歌回精華】【Yumemi Kanna Ch. 夢見カンナ】",
+                        "video_code": "6fE8FrE0j-Q",
+                        "image": "https://i.ytimg.com/vi/6fE8FrE0j-Q/mqdefault.jpg",
+                        "title": "魔王の歌回精華！—你聽聽就好【官方歌回精華】Yumemi Kanna Ch. 夢見カンナ】",
                         "author": "Yumemi Kanna Ch. 夢見カンナ"
                     }
                 ]
@@ -161,15 +179,39 @@
                         "author": "Yumemi Kanna Ch. 夢見カンナ"
                     },
                     {
-                        "video_code": "UvgG7xk1MR8",
-                        "image": "https://i.ytimg.com/vi/UvgG7xk1MR8/mqdefault.jpg",
-                        "title": "突發耐久台！究竟魔王會不會睡着X 【Yumemi Kanna Ch. 夢見カンナ】",
+                        "video_code": "BSaXKGFVJlg",
+                        "image": "https://i.ytimg.com/vi/BSaXKGFVJlg/mqdefault.jpg",
+                        "title": "VTUBER 訪談企劃！炎上問題大解放！你敢答我就敢問！(feat.4Virtual TedoBear 泰多貝亞)【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "_Nf-eS9bFd8",
+                        "image": "https://i.ytimg.com/vi/_Nf-eS9bFd8/mqdefault.jpg",
+                        "title": "VTUBER 訪談企劃！炎上問題大解放！你敢答我就敢問！(feat.SOMY粟米)【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "89QuVx-BK-k",
+                        "image": "https://i.ytimg.com/vi/89QuVx-BK-k/mqdefault.jpg",
+                        "title": "魔王生日！各大Vtuber大型聯動企劃！！【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "NkvEGkTZLnw",
+                        "image": "https://i.ytimg.com/vi/NkvEGkTZLnw/mqdefault.jpg",
+                        "title": "又是突發歌回啦！+感情咨詢室+耐久台！！！【Yumemi Kanna Ch. 夢見カンナ】",
                         "author": "Yumemi Kanna Ch. 夢見カンナ"
                     },
                     {
                         "video_code": "cBUW2OxFqtE",
                         "image": "https://i.ytimg.com/vi/cBUW2OxFqtE/mqdefault.jpg",
                         "title": "突發歌回！【Yumemi Kanna Ch. 夢見カンナ】",
+                        "author": "Yumemi Kanna Ch. 夢見カンナ"
+                    },
+                    {
+                        "video_code": "UvgG7xk1MR8",
+                        "image": "https://i.ytimg.com/vi/UvgG7xk1MR8/mqdefault.jpg",
+                        "title": "突發耐久台！究竟魔王會不會睡着X 【Yumemi Kanna Ch. 夢見カンナ】",
                         "author": "Yumemi Kanna Ch. 夢見カンナ"
                     },
                     {

@@ -77,6 +77,46 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "dHOUtqiIvk0",
+                        "image": "https://i.ytimg.com/vi/dHOUtqiIvk0/mqdefault.jpg",
+                        "title": "【香港VTuber】花仙子成為Vtuber的故事 ໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    },
+                    {
+                        "video_code": "0Zqc594_vmk",
+                        "image": "https://i.ytimg.com/vi/0Zqc594_vmk/mqdefault.jpg",
+                        "title": "【MMD】好き！雪！本気マジック໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    },
+                    {
+                        "video_code": "HO5SX7J77JU",
+                        "image": "https://i.ytimg.com/vi/HO5SX7J77JU/mqdefault.jpg",
+                        "title": "在見面之前偷看～(´▽｜// 不知道大家準備好了嗎~~｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "wNM5gNiQJMk",
+                        "image": "https://i.ytimg.com/vi/wNM5gNiQJMk/mqdefault.jpg",
+                        "title": "【初配信】噠噠~ 來到人間征服所有食物的花仙子，出沒中!!  ໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    }
+                ]
+            }
         }
     ]
 }

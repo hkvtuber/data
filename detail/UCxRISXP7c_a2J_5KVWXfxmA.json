@@ -79,6 +79,88 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "I916C8J8Uks",
+                        "image": "https://i.ytimg.com/vi/I916C8J8Uks/mqdefault.jpg",
+                        "title": "懺悔録 黒木渚 ／歌ってみた 【夢魔ねむ】HKVtuber",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "aYFK6q9t8io",
+                        "image": "https://i.ytimg.com/vi/aYFK6q9t8io/mqdefault.jpg",
+                        "title": "眠い～【HKVtuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "DVgNEUJVwbs",
+                        "image": "https://i.ytimg.com/vi/DVgNEUJVwbs/mqdefault_live.jpg",
+                        "title": "aaaaaaaaa～【HKVtuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "wa2U4piFe1c",
+                        "image": "https://i.ytimg.com/vi/wa2U4piFe1c/mqdefault.jpg",
+                        "title": "oha～【HKVtuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "2DQi5251_Qg",
+                        "image": "https://i.ytimg.com/vi/2DQi5251_Qg/mqdefault.jpg",
+                        "title": "おはよう～早晨～【中粵日ok】HKVtuber",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "pcTK3t0m_Rw",
+                        "image": "https://i.ytimg.com/vi/pcTK3t0m_Rw/mqdefault.jpg",
+                        "title": "氣管炎幾時好～【HKVtuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "T6Gqo0Fbnv4",
+                        "image": "https://i.ytimg.com/vi/T6Gqo0Fbnv4/mqdefault.jpg",
+                        "title": "【雜】公主新衣太美【HKVtuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "KvAJjE24XpU",
+                        "image": "https://i.ytimg.com/vi/KvAJjE24XpU/mqdefault.jpg",
+                        "title": "晚間雜談～【中粵日ok】HKVtuber",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "cZtX294CZYY",
+                        "image": "https://i.ytimg.com/vi/cZtX294CZYY/mqdefault.jpg",
+                        "title": "早晨～おはよ～【中粵日ok】HKVtuber",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "CUMwK9G3FgU",
+                        "image": "https://i.ytimg.com/vi/CUMwK9G3FgU/mqdefault.jpg",
+                        "title": "還債了還債了～飲酒～【中粵日ok】HKVtuber",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "s224cZXTzow",
+                        "image": "https://i.ytimg.com/vi/s224cZXTzow/mqdefault.jpg",
+                        "title": "瞓唔著～～～【中粵日ok】HKVtuber",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

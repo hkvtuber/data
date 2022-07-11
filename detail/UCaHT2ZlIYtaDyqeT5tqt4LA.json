@@ -84,21 +84,33 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "mzbtoHDsDKY",
-                        "image": "https://i.ytimg.com/vi/mzbtoHDsDKY/mqdefault.jpg",
-                        "title": "【シャドウバース / Shadowverse】シエテのクエスト攻略と（ネメシス使う）(日本語の挑戦!)【新人vtuber/社畜A星野ニア】",
-                        "author": "Hosino Ch. 社畜A星野ニア"
-                    },
-                    {
                         "video_code": "tuGvUe2r3L4",
                         "image": "https://i.ytimg.com/vi/tuGvUe2r3L4/mqdefault.jpg",
                         "title": "（千年戦争アイギス）（放置）魔物の棲む島神級EX（神畜A星野二ア）",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     },
                     {
+                        "video_code": "mzbtoHDsDKY",
+                        "image": "https://i.ytimg.com/vi/mzbtoHDsDKY/mqdefault.jpg",
+                        "title": "【シャドウバース / Shadowverse】シエテのクエスト攻略と（ネメシス使う）(日本語の挑戦!)【新人vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "DcZgdAZHf-Q",
+                        "image": "https://i.ytimg.com/vi/DcZgdAZHf-Q/mqdefault.jpg",
+                        "title": "（千年戦争アイギス）花嫁を狙う十天君（白以下放置）（社畜A星野二ア）",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
                         "video_code": "kYZgolVuTKE",
                         "image": "https://i.ytimg.com/vi/kYZgolVuTKE/mqdefault.jpg",
                         "title": "【千年戦争アイギス】妖魔の逆襲神級EX(中文字幕)【新人vtuber/社畜A星野ニア】",
+                        "author": "Hosino Ch. 社畜A星野ニア"
+                    },
+                    {
+                        "video_code": "FPbzBLvoJyA",
+                        "image": "https://i.ytimg.com/vi/FPbzBLvoJyA/mqdefault.jpg",
+                        "title": "（千年戦争アイギス）解放！　狛犬キック！（白以下放置）（社畜A星野二ア）",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     },
                     {
@@ -129,18 +141,6 @@
                         "video_code": "yK_a1BACkZA",
                         "image": "https://i.ytimg.com/vi/yK_a1BACkZA/mqdefault.jpg",
                         "title": "【千年戦争アイギス】偽りの魔群神級EX【新人vtuber社畜A星野ニア】",
-                        "author": "Hosino Ch. 社畜A星野ニア"
-                    },
-                    {
-                        "video_code": "jCLhWLetdUQ",
-                        "image": "https://i.ytimg.com/vi/jCLhWLetdUQ/mqdefault.jpg",
-                        "title": "【千年戦争アイギス】障壁前の激戦神級EX(広東語と弱い日本語解説あり）【新人vtuber社畜A星野ニア】",
-                        "author": "Hosino Ch. 社畜A星野ニア"
-                    },
-                    {
-                        "video_code": "MiSjF5TOqXg",
-                        "image": "https://i.ytimg.com/vi/MiSjF5TOqXg/mqdefault.jpg",
-                        "title": "【千年戦争アイギス】二国合同軍事演習神級EX【半放置】新人vtuber社畜A星野ニア】",
                         "author": "Hosino Ch. 社畜A星野ニア"
                     }
                 ]

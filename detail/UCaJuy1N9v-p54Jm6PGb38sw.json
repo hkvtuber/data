@@ -79,6 +79,142 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "knqnzeN3Mlg",
+                        "image": "https://i.ytimg.com/vi/knqnzeN3Mlg/mqdefault.jpg",
+                        "title": "Meet Harry",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "G0vTZIdd_uo",
+                        "image": "https://i.ytimg.com/vi/G0vTZIdd_uo/mqdefault.jpg",
+                        "title": "葦名遊記 Part 1 | Ashina Travel Journal Part 1",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "sK62iwLQLlo",
+                        "image": "https://i.ytimg.com/vi/sK62iwLQLlo/mqdefault.jpg",
+                        "title": "在超人伺服器尋求生存感覺是否搞錯了什麼 | Is It Wrong To Try and Find Survival Experience in Supermen Server",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "EsHjazvBtmk",
+                        "image": "https://i.ytimg.com/vi/EsHjazvBtmk/mqdefault.jpg",
+                        "title": "重大事項告知 | Important Notice | 雷門達也 Raimon Tatsuya Ch.",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "EgF2_cKX1Vk",
+                        "image": "https://i.ytimg.com/vi/EgF2_cKX1Vk/mqdefault.jpg",
+                        "title": "預告: 那個女僕, 初配信 | Trailer: That Maid, in Debut",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "ixlIE9-T-PY",
+                        "image": "https://i.ytimg.com/vi/ixlIE9-T-PY/mqdefault.jpg",
+                        "title": "From Bloodhound to Puppy | 由獵犬變狗仔 ft. 梓神月かみつき",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "EGwsPaYR1M0",
+                        "image": "https://i.ytimg.com/vi/EGwsPaYR1M0/mqdefault.jpg",
+                        "title": "Coming Soon: 點解會打成廿四桿",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "UgKnAYPEX_I",
+                        "image": "https://i.ytimg.com/vi/UgKnAYPEX_I/mqdefault.jpg",
+                        "title": "What I've done in DS3 part 3 | 黑魂3雜炒 pt3",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "U-LV4J7ZFsY",
+                        "image": "https://i.ytimg.com/vi/U-LV4J7ZFsY/mqdefault.jpg",
+                        "title": "我好似玩壞咗二周目 | I Think I've Broke NG+ ft. 梓神月かみつき",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "t5VeUsdmJ1c",
+                        "image": "https://i.ytimg.com/vi/t5VeUsdmJ1c/mqdefault.jpg",
+                        "title": "碳黑創角史 | Carbon's Character Design History",
+                        "author": "Carbon Black 碳黑"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "dSJyd2bxkRM",
+                        "image": "https://i.ytimg.com/vi/dSJyd2bxkRM/mqdefault.jpg",
+                        "title": "兩把義手刀毀天滅地 | Double Hands of Malenia? Of Course | Elden Ring | 艾爾登法環 | 2/3/2022",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "hYnUcVkxN_c",
+                        "image": "https://i.ytimg.com/vi/hYnUcVkxN_c/mqdefault.jpg",
+                        "title": "Veiled Experts | Steam Global Beta | 8/6/2022",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "sxuD6nolNw8",
+                        "image": "https://i.ytimg.com/vi/sxuD6nolNw8/mqdefault.jpg",
+                        "title": "What I've done in DS3 part 1 | 黑魂3雜炒 pt1",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "-9ZTUuJ11IA",
+                        "image": "https://i.ytimg.com/vi/-9ZTUuJ11IA/mqdefault.jpg",
+                        "title": "點解會打成廿四桿 | Golf With Your Friends",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "1E1xJrk6QMc",
+                        "image": "https://i.ytimg.com/vi/1E1xJrk6QMc/mqdefault.jpg",
+                        "title": "那個女僕, 初配信 | Trailer: That Maid, in Debut",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "U1NmXqnkCHk",
+                        "image": "https://i.ytimg.com/vi/U1NmXqnkCHk/mqdefault.jpg",
+                        "title": "Safi' Jiva Open Season: March | 冥赤龍狩獵季: 三月 | 24/3/2022",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "JjCiFtWvPn4",
+                        "image": "https://i.ytimg.com/vi/JjCiFtWvPn4/mqdefault.jpg",
+                        "title": "PC Monster Hunter Rise Sunbreak Part 1 | 2/7/2022",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "HOvN6Zs6T20",
+                        "image": "https://i.ytimg.com/vi/HOvN6Zs6T20/mqdefault.jpg",
+                        "title": "What I've done in DS3 part 2 | 黑魂3雜炒 pt2",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "015hsp58Nxo",
+                        "image": "https://i.ytimg.com/vi/015hsp58Nxo/mqdefault.jpg",
+                        "title": "PC Monster Hunter Rise Sunbreak | 9/7/2022",
+                        "author": "Carbon Black 碳黑"
+                    },
+                    {
+                        "video_code": "72hdaKJqrS0",
+                        "image": "https://i.ytimg.com/vi/72hdaKJqrS0/mqdefault.jpg",
+                        "title": "Carbon Joker In Kamura: Day 3 | PC Monster Hunter Rise | 15/5/2022",
+                        "author": "Carbon Black 碳黑"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -93,7 +93,7 @@
                         "path": "kana_arora"
                     },
                     {
-                        "key": "twitcast",
+                        "key": "twitch",
                         "path": "https://www.twitch.tv/kanaarora"
                     }
                 ]
@@ -191,15 +191,15 @@
                         "author": "Arora Ch. 花奈アロラ"
                     },
                     {
-                        "video_code": "Ba4k72DJa6g",
-                        "image": "https://i.ytimg.com/vi/Ba4k72DJa6g/mqdefault.jpg",
-                        "title": "【APEX LEGENDS】S11 EP.5 We reach 2k subs!・登録2k達成!【KanaArora・花奈アロラ】",
-                        "author": "Arora Ch. 花奈アロラ"
-                    },
-                    {
                         "video_code": "i7rSy-vaUes",
                         "image": "https://i.ytimg.com/vi/i7rSy-vaUes/mqdefault.jpg",
                         "title": "【雑談・Chatting】回應匿名指控・Responding to Anonymous Allegations 【KanaArora・花奈アロラ】",
+                        "author": "Arora Ch. 花奈アロラ"
+                    },
+                    {
+                        "video_code": "Ba4k72DJa6g",
+                        "image": "https://i.ytimg.com/vi/Ba4k72DJa6g/mqdefault.jpg",
+                        "title": "【APEX LEGENDS】S11 EP.5 We reach 2k subs!・登録2k達成!【KanaArora・花奈アロラ】",
                         "author": "Arora Ch. 花奈アロラ"
                     },
                     {

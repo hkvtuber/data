@@ -156,6 +156,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "jOCUgpTxOlE",
+                        "image": "https://i.ytimg.com/vi/jOCUgpTxOlE/mqdefault.jpg",
+                        "title": "【觀眾參加型雀魂】觀眾壓力抒發日！有咩不滿入嚟擊飛我哋！Feat. 猫宮琉璃【HKVTuber・蒔幻タイム】",
+                        "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
+                    },
+                    {
                         "video_code": "MI5eK9XjHG4",
                         "image": "https://i.ytimg.com/vi/MI5eK9XjHG4/mqdefault.jpg",
                         "title": "【3.14】π【HKVTuber・蒔幻タイム】",
@@ -180,24 +186,6 @@
                         "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
                     },
                     {
-                        "video_code": "K1W3u51s_iM",
-                        "image": "https://i.ytimg.com/vi/K1W3u51s_iM/mqdefault.jpg",
-                        "title": "【COC TRPG】三原色 PL：偵探貓化靈 酒吞玖蘿娜 加藤小麻雀【HKVTuber・蒔幻タイム】",
-                        "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
-                    },
-                    {
-                        "video_code": "EieUzKmBSyc",
-                        "image": "https://i.ytimg.com/vi/EieUzKmBSyc/mqdefault.jpg",
-                        "title": "【不定蒔飲食】105件麥樂雞耐久大挑戰！【HKVTuber・蒔幻タイム】",
-                        "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
-                    },
-                    {
-                        "video_code": "r89V0AlpLug",
-                        "image": "https://i.ytimg.com/vi/r89V0AlpLug/mqdefault.jpg",
-                        "title": "【COC TRPG】狂氣山脈 -邪神的山嶺- 【前編】PL：狐塚千秋 猫宮琉璃 三日月列凌【HKVTuber・蒔幻タイム】",
-                        "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
-                    },
-                    {
                         "video_code": "W8NNuyq4XK4",
                         "image": "https://i.ytimg.com/vi/W8NNuyq4XK4/mqdefault.jpg",
                         "title": "【COC TRPG】狂氣山脈 -邪神的山嶺- 【前編】PL：希琉柏洛斯 偵探貓化靈 酒吞玖蘿娜【HKVTuber・蒔幻タイム】",
@@ -210,9 +198,21 @@
                         "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
                     },
                     {
-                        "video_code": "3LvR15tuSsg",
-                        "image": "https://i.ytimg.com/vi/3LvR15tuSsg/mqdefault.jpg",
-                        "title": "【艦これ2022冬】趕進度E3＆雜談Feat. 青爐member【HKVTuber・蒔幻タイム】",
+                        "video_code": "K1W3u51s_iM",
+                        "image": "https://i.ytimg.com/vi/K1W3u51s_iM/mqdefault.jpg",
+                        "title": "【COC TRPG】三原色 PL：偵探貓化靈 酒吞玖蘿娜 加藤小麻雀【HKVTuber・蒔幻タイム】",
+                        "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
+                    },
+                    {
+                        "video_code": "r89V0AlpLug",
+                        "image": "https://i.ytimg.com/vi/r89V0AlpLug/mqdefault.jpg",
+                        "title": "【COC TRPG】狂氣山脈 -邪神的山嶺- 【前編】PL：狐塚千秋 猫宮琉璃 三日月列凌【HKVTuber・蒔幻タイム】",
+                        "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
+                    },
+                    {
+                        "video_code": "EieUzKmBSyc",
+                        "image": "https://i.ytimg.com/vi/EieUzKmBSyc/mqdefault.jpg",
+                        "title": "【不定蒔飲食】105件麥樂雞耐久大挑戰！【HKVTuber・蒔幻タイム】",
                         "author": "蒔幻 タイム  JikanTime Ch. 【HK VTuber】"
                     }
                 ]

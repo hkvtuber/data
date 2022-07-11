@@ -101,6 +101,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "D5KQ8fWS92k",
+                        "image": "https://i.ytimg.com/vi/D5KQ8fWS92k/mqdefault.jpg",
+                        "title": "【COVER】水橙愛天下（原曲：娃娃愛天下）",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
                         "video_code": "JDnfxkt1JdQ",
                         "image": "https://i.ytimg.com/vi/JDnfxkt1JdQ/mqdefault.jpg",
                         "title": "【COVER】往生門(X（原曲：羅生門） ft. HT",
@@ -145,9 +151,21 @@
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
+                        "video_code": "3kxJ9uxfetQ",
+                        "image": "https://i.ytimg.com/vi/3kxJ9uxfetQ/mqdefault.jpg",
+                        "title": "【MHRS】【#2】やるやる 3Bo​Ť    Ö rĂ【香港VTUBER】",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
                         "video_code": "M8toRJjq8Jg",
                         "image": "https://i.ytimg.com/vi/M8toRJjq8Jg/mqdefault.jpg",
                         "title": "【賀】擇日不如撞日之收益化千人訂閱congratulations to MEEEEE【香港VTUBER】",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
+                        "video_code": "3aSST6j8r_w",
+                        "image": "https://i.ytimg.com/vi/3aSST6j8r_w/mqdefault.jpg",
+                        "title": "【賀】二千人大感謝之食綿花糖師【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
@@ -172,18 +190,6 @@
                         "video_code": "xeGLSVxhz8g",
                         "image": "https://i.ytimg.com/vi/xeGLSVxhz8g/mqdefault.jpg",
                         "title": "【Outlast】找數 頂唔順即88【香港VTUBER】",
-                        "author": "Nozomi Ch. 水澄のぞみ"
-                    },
-                    {
-                        "video_code": "5NRP68uhnlM",
-                        "image": "https://i.ytimg.com/vi/5NRP68uhnlM/mqdefault.jpg",
-                        "title": "【雜談】收到我BB嘅Goods  (心心眼) #水澄魚娘愚娘【香港VTUBER】",
-                        "author": "Nozomi Ch. 水澄のぞみ"
-                    },
-                    {
-                        "video_code": "gCAwgCtaZAo",
-                        "image": "https://i.ytimg.com/vi/gCAwgCtaZAo/mqdefault.jpg",
-                        "title": "【賀】開通會員啦啦啦~~~【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     }
                 ]

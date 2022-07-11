@@ -119,6 +119,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "I8hWRae5z_E",
+                        "image": "https://i.ytimg.com/vi/I8hWRae5z_E/mqdefault.jpg",
+                        "title": "【國語】耐久大爆死!賽馬娘台服終於開了!?來刷首抽啦~ #楠木野雪兔 #Vtuber",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
                         "video_code": "MiNaEHFYV4k",
                         "image": "https://i.ytimg.com/vi/MiNaEHFYV4k/mqdefault.jpg",
                         "title": "【粵語】突發 ! 來做性知識+香港地理達人挑戰 #楠木野雪兔 #Vtuber",
@@ -128,6 +134,12 @@
                         "video_code": "nLabijVU-2I",
                         "image": "https://i.ytimg.com/vi/nLabijVU-2I/mqdefault.jpg",
                         "title": "【國語】初配信!!! 開啟廢物人生~ #楠木野雪兔/Yukiusa",
+                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
+                    },
+                    {
+                        "video_code": "wz7Mtc5obc0",
+                        "image": "https://i.ytimg.com/vi/wz7Mtc5obc0/mqdefault.jpg",
+                        "title": "【國語】人形配信(2.0)~沒想到這麼快就能出現在大家面前~wakuwaku~ #楠木野雪兔 #Vtuber",
                         "author": "楠木野雪兔 Ch.【台港Vtuber】"
                     },
                     {
@@ -149,9 +161,9 @@
                         "author": "楠木野雪兔 Ch.【台港Vtuber】"
                     },
                     {
-                        "video_code": "wz7Mtc5obc0",
-                        "image": "https://i.ytimg.com/vi/wz7Mtc5obc0/mqdefault.jpg",
-                        "title": "【國語】人形配信(2.0)~沒想到這麼快就能出現在大家面前~wakuwaku~ #楠木野雪兔 #Vtuber",
+                        "video_code": "OVQSqvU3p40",
+                        "image": "https://i.ytimg.com/vi/OVQSqvU3p40/mqdefault.jpg",
+                        "title": "【國語】我想逃QAQ弱小心臟闖入廢棄玩具工廠~希望不要被嚇到心臟病#楠木野雪兔 #Vtuber",
                         "author": "楠木野雪兔 Ch.【台港Vtuber】"
                     },
                     {
@@ -161,21 +173,9 @@
                         "author": "楠木野雪兔 Ch.【台港Vtuber】"
                     },
                     {
-                        "video_code": "OVQSqvU3p40",
-                        "image": "https://i.ytimg.com/vi/OVQSqvU3p40/mqdefault.jpg",
-                        "title": "【國語】我想逃QAQ弱小心臟闖入廢棄玩具工廠~希望不要被嚇到心臟病#楠木野雪兔 #Vtuber",
-                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
-                    },
-                    {
                         "video_code": "yFxd0I8k_2k",
                         "image": "https://i.ytimg.com/vi/yFxd0I8k_2k/mqdefault.jpg",
                         "title": "【國語】港台找不同-教育篇 #楠木野雪兔 #Vtuber",
-                        "author": "楠木野雪兔 Ch.【台港Vtuber】"
-                    },
-                    {
-                        "video_code": "sg_Vdk0Qi2Y",
-                        "image": "https://i.ytimg.com/vi/sg_Vdk0Qi2Y/mqdefault.jpg",
-                        "title": "【國語】生日配信~第二次即新形象!? #楠木野雪兔 #Vtuber",
                         "author": "楠木野雪兔 Ch.【台港Vtuber】"
                     }
                 ]

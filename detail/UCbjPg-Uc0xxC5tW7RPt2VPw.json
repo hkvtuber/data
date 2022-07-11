@@ -86,20 +86,6 @@
                     }
                 ]
             }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "FfQBvVYN0Zo",
-                        "image": "https://i.ytimg.com/vi/FfQBvVYN0Zo/mqdefault.jpg",
-                        "title": "Wake up ! vtuber",
-                        "author": "犬見留萌 InumiRumoi Ch."
-                    }
-                ]
-            }
         }
     ]
 }

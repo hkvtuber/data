@@ -185,15 +185,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "gamjZ0DZ-v4",
-                        "image": "https://i.ytimg.com/vi/gamjZ0DZ-v4/mqdefault.jpg",
-                        "title": "【初直播】開始能力尋找之旅..◕ᴥ◕【HKVtuber/瑠凜紗紀】",
-                        "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
-                    },
-                    {
                         "video_code": "I1iFSz12wNs",
                         "image": "https://i.ytimg.com/vi/I1iFSz12wNs/mqdefault.jpg",
                         "title": "APEX【HKVtuber/瑠凜紗紀】",
+                        "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
+                    },
+                    {
+                        "video_code": "gamjZ0DZ-v4",
+                        "image": "https://i.ytimg.com/vi/gamjZ0DZ-v4/mqdefault.jpg",
+                        "title": "【初直播】開始能力尋找之旅..◕ᴥ◕【HKVtuber/瑠凜紗紀】",
                         "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
                     },
                     {
@@ -206,6 +206,12 @@
                         "video_code": "urpCAMP8U04",
                         "image": "https://i.ytimg.com/vi/urpCAMP8U04/mqdefault.jpg",
                         "title": "【平安夜晚會】和saki一起度過平安夜,請自備食物~~【HKVtuber/瑠凜紗紀】",
+                        "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
+                    },
+                    {
+                        "video_code": "76OBsDJDgEs",
+                        "image": "https://i.ytimg.com/vi/76OBsDJDgEs/mqdefault.jpg",
+                        "title": "【1000＆收益化感謝!】目標達到了Yea~~向未來目標前進!!【HKVtuber/瑠凜紗紀】",
                         "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
                     },
                     {
@@ -227,21 +233,15 @@
                         "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
                     },
                     {
+                        "video_code": "A_QtkGYvm3Q",
+                        "image": "https://i.ytimg.com/vi/A_QtkGYvm3Q/mqdefault.jpg",
+                        "title": "廣東話歌回【HKVtuber/瑠凜紗紀】",
+                        "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
+                    },
+                    {
                         "video_code": "XQkXPuLsB4I",
                         "image": "https://i.ytimg.com/vi/XQkXPuLsB4I/mqdefault.jpg",
                         "title": "直播",
-                        "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
-                    },
-                    {
-                        "video_code": "wpPNUQlgbTQ",
-                        "image": "https://i.ytimg.com/vi/wpPNUQlgbTQ/mqdefault.jpg",
-                        "title": "【繪畫】嘗試畫觀眾頭像~~【HKVtuber/瑠凜紗紀】",
-                        "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
-                    },
-                    {
-                        "video_code": "7SEYM4b2c_c",
-                        "image": "https://i.ytimg.com/vi/7SEYM4b2c_c/mqdefault.jpg",
-                        "title": "【跑Online】Saki同Nao一起和觀眾散步!!!【HKVtuber/瑠凜紗紀】",
                         "author": "瑠凜紗紀-RuriSaki【HKVtuber】"
                     }
                 ]

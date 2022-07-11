@@ -59,20 +59,6 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "BjgSPCjrcpM",
-                        "image": "https://i.ytimg.com/vi/BjgSPCjrcpM/mqdefault_live.jpg",
-                        "title": "【遊戲】落地獄? 勾引惡魔妹子!!! HELLTAKER 【Rubi露比 HKvtuber】",
-                        "author": "Rubi露比【新人HKvtuber】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -82,21 +68,57 @@
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
-                        "video_code": "y1reVT677Sc",
-                        "image": "https://i.ytimg.com/vi/y1reVT677Sc/mqdefault.jpg",
-                        "title": "【遊戲】一齊跌落街 !  💫 FALL GUYS 可以訓練手部肌肉?!!【Rubi露比 HKvtuber】",
+                        "video_code": "KWwIuMLjxBk",
+                        "image": "https://i.ytimg.com/vi/KWwIuMLjxBk/mqdefault.jpg",
+                        "title": "【雜談】露比教大家訓覺修行!!!!! 拯救失眠人士◅ ʢ•·̫•ʡ【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
-                        "video_code": "cXHz3KUo7mo",
-                        "image": "https://i.ytimg.com/vi/cXHz3KUo7mo/mqdefault.jpg",
-                        "title": "【雜談】講下初配信後的感想 (●´ϖ`●) 【Rubi露比 HKvtuber】",
+                        "video_code": "ynO2JfWC3Vc",
+                        "image": "https://i.ytimg.com/vi/ynO2JfWC3Vc/mqdefault.jpg",
+                        "title": "【歌回】 一個月紀念歌回! 挑戰廣東話會成功嗎???【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
                         "video_code": "u9ahShvvXIo",
                         "image": "https://i.ytimg.com/vi/u9ahShvvXIo/mqdefault.jpg",
                         "title": "【早晨練習】 開聲+唱歌/咬字練習 為左Aimer!!!!!【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "yYdTxx1h7ik",
+                        "image": "https://i.ytimg.com/vi/yYdTxx1h7ik/mqdefault.jpg",
+                        "title": "【雜談】輕鬆傾~ 大家近況/企劃想法【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "BjgSPCjrcpM",
+                        "image": "https://i.ytimg.com/vi/BjgSPCjrcpM/mqdefault.jpg",
+                        "title": "【遊戲】落地獄? 勾引惡魔妹子!!! HELLTAKER 【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "_nkX2Y-MClY",
+                        "image": "https://i.ytimg.com/vi/_nkX2Y-MClY/mqdefault.jpg",
+                        "title": "【雜談】STEAM 有咩玩~【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "y1reVT677Sc",
+                        "image": "https://i.ytimg.com/vi/y1reVT677Sc/mqdefault.jpg",
+                        "title": "【遊戲】一齊跌落街 !  💫 FALL GUYS 可以訓練手部肌肉?!!【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "MJ2_BUphAhk",
+                        "image": "https://i.ytimg.com/vi/MJ2_BUphAhk/mqdefault.jpg",
+                        "title": "【雜談】🖤廢水大分享🖤【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "cXHz3KUo7mo",
+                        "image": "https://i.ytimg.com/vi/cXHz3KUo7mo/mqdefault.jpg",
+                        "title": "【雜談】講下初配信後的感想 (●´ϖ`●) 【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     }
                 ]

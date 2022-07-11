@@ -59,6 +59,46 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "a3w9EvUFJbc",
+                        "image": "https://i.ytimg.com/vi/a3w9EvUFJbc/mqdefault.jpg",
+                        "title": "星期五啊~係星期五啊",
+                        "author": "佐藤健一【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "iqDUweckDA4",
+                        "image": "https://i.ytimg.com/vi/iqDUweckDA4/mqdefault.jpg",
+                        "title": "那個精靈要初配信啦啦啦啦 29/6 佐藤健一之初配信 (HKVtuber)",
+                        "author": "佐藤健一【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3mmhNYUDjQs",
+                        "image": "https://i.ytimg.com/vi/3mmhNYUDjQs/mqdefault.jpg",
+                        "title": "GTA經典系列 #1 佐藤健一【HKVtuber】 4/7",
+                        "author": "佐藤健一【HKVtuber】"
+                    },
+                    {
+                        "video_code": "YOtislFB-r0",
+                        "image": "https://i.ytimg.com/vi/YOtislFB-r0/mqdefault.jpg",
+                        "title": "re:從零開始的zomboid生活 ft:雷門達也 碳黑 8/7 佐藤健一【HKVtuber】",
+                        "author": "佐藤健一【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -116,15 +116,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "0NRU5qrD-Ww",
-                        "image": "https://i.ytimg.com/vi/0NRU5qrD-Ww/mqdefault.jpg",
-                        "title": "Zone Komodo",
-                        "author": "Komori Komodo Ch."
-                    },
-                    {
                         "video_code": "lcinCjvF7K8",
                         "image": "https://i.ytimg.com/vi/lcinCjvF7K8/mqdefault.jpg",
                         "title": "#shorts",
+                        "author": "Komori Komodo Ch."
+                    },
+                    {
+                        "video_code": "0NRU5qrD-Ww",
+                        "image": "https://i.ytimg.com/vi/0NRU5qrD-Ww/mqdefault.jpg",
+                        "title": "Zone Komodo",
                         "author": "Komori Komodo Ch."
                     },
                     {
@@ -134,15 +134,15 @@
                         "author": "Komori Komodo Ch."
                     },
                     {
-                        "video_code": "8ZpNK8ikpM8",
-                        "image": "https://i.ytimg.com/vi/8ZpNK8ikpM8/mqdefault.jpg",
-                        "title": "me after watching Netflix Festival Japan",
-                        "author": "Komori Komodo Ch."
-                    },
-                    {
                         "video_code": "BWn46bklMnY",
                         "image": "https://i.ytimg.com/vi/BWn46bklMnY/mqdefault.jpg",
                         "title": "Hi #shorts",
+                        "author": "Komori Komodo Ch."
+                    },
+                    {
+                        "video_code": "8ZpNK8ikpM8",
+                        "image": "https://i.ytimg.com/vi/8ZpNK8ikpM8/mqdefault.jpg",
+                        "title": "me after watching Netflix Festival Japan",
                         "author": "Komori Komodo Ch."
                     },
                     {
@@ -166,6 +166,12 @@
                         "author": "Komori Komodo Ch."
                     },
                     {
+                        "video_code": "dLMJhhkYTDM",
+                        "image": "https://i.ytimg.com/vi/dLMJhhkYTDM/mqdefault.jpg",
+                        "title": "【繪畫台】今天來上色拆件 #komoriLIVE",
+                        "author": "Komori Komodo Ch."
+                    },
+                    {
                         "video_code": "yZCnVtB6s_o",
                         "image": "https://i.ytimg.com/vi/yZCnVtB6s_o/mqdefault.jpg",
                         "title": "【雜談】看了很多酷化石 #komoriLIVE",
@@ -175,6 +181,18 @@
                         "video_code": "dVEGP-63s68",
                         "image": "https://i.ytimg.com/vi/dVEGP-63s68/mqdefault.jpg",
                         "title": "【繪畫台】最近都在下雨 #komoriLIVE",
+                        "author": "Komori Komodo Ch."
+                    },
+                    {
+                        "video_code": "iuwONPdvpEM",
+                        "image": "https://i.ytimg.com/vi/iuwONPdvpEM/mqdefault.jpg",
+                        "title": "【Jump King千訂耐久(上)】看我是會先千訂還是打爆機 #komoriLIVE",
+                        "author": "Komori Komodo Ch."
+                    },
+                    {
+                        "video_code": "oxOC0BpRLJ0",
+                        "image": "https://i.ytimg.com/vi/oxOC0BpRLJ0/mqdefault.jpg",
+                        "title": "【Yu-Gi-Oh! Master Duel】看來要帶一堆壞獸 #komoriLIVE",
                         "author": "Komori Komodo Ch."
                     },
                     {
@@ -199,24 +217,6 @@
                         "video_code": "_NFERBJagRU",
                         "image": "https://i.ytimg.com/vi/_NFERBJagRU/mqdefault.jpg",
                         "title": "【繪畫台】快樂畫委託 #komoriLIVE",
-                        "author": "Komori Komodo Ch."
-                    },
-                    {
-                        "video_code": "4D_rgWsRe00",
-                        "image": "https://i.ytimg.com/vi/4D_rgWsRe00/mqdefault.jpg",
-                        "title": "【歌回】平行時空蜥蜥的最後4小時 #komoriLIVE",
-                        "author": "Komori Komodo Ch."
-                    },
-                    {
-                        "video_code": "rsebHYUUU1c",
-                        "image": "https://i.ytimg.com/vi/rsebHYUUU1c/mqdefault.jpg",
-                        "title": "【生日凸待】祝我祝我生日快樂 #komoriLIVE",
-                        "author": "Komori Komodo Ch."
-                    },
-                    {
-                        "video_code": "AsW08Nv-o0Q",
-                        "image": "https://i.ytimg.com/vi/AsW08Nv-o0Q/mqdefault.jpg",
-                        "title": "【晨活】上色 #komoriLIVE",
                         "author": "Komori Komodo Ch."
                     }
                 ]

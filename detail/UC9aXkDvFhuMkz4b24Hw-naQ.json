@@ -78,6 +78,34 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "a4oT_WBLxmg",
+                        "image": "https://i.ytimg.com/vi/a4oT_WBLxmg/mqdefault.jpg",
+                        "title": "【自己紹介】【Self-introduction】Who is  Edana Simba ???",
+                        "author": "Edana simba 埃達納 獅巴 (HKvtuber)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "b1IxcSCXVGE",
+                        "image": "https://i.ytimg.com/vi/b1IxcSCXVGE/mqdefault.jpg",
+                        "title": "[DEBUT STREAM]【初配信】10/7/2022 (HKT 20:30) |  Edana Simba 埃達納 獅巴 | #Edana_Simba_Live #vtuberdebut",
+                        "author": "Edana simba 埃達納 獅巴 (HKvtuber)"
+                    }
+                ]
+            }
         }
     ]
 }

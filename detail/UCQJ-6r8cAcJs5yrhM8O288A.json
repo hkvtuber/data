@@ -105,19 +105,33 @@
                         "video_code": "vF_kv4KVkXQ",
                         "image": "https://i.ytimg.com/vi/vF_kv4KVkXQ/mqdefault.jpg",
                         "title": "【熱愛105°C的你】日語版 熱愛１０５℃の君へ【Coverd by 冬月ゆう/小游】",
-                        "author": "Yuu Ch. 冬月ゆう【HKVtype】"
+                        "author": "Yuu Ch. 冬月ゆう★小游【HKVtuber】"
                     },
                     {
                         "video_code": "JXu2DJyFoV8",
                         "image": "https://i.ytimg.com/vi/JXu2DJyFoV8/mqdefault.jpg",
                         "title": "冬月ゆう前傳 - 誕生 【香港Vtype】",
-                        "author": "Yuu Ch. 冬月ゆう【HKVtype】"
+                        "author": "Yuu Ch. 冬月ゆう★小游【HKVtuber】"
                     },
                     {
                         "video_code": "qFy0OT8XaxE",
                         "image": "https://i.ytimg.com/vi/qFy0OT8XaxE/mqdefault.jpg",
                         "title": "【少女終末旅行】More One Night【Coverd by 冬月ゆう/小游】",
-                        "author": "Yuu Ch. 冬月ゆう【HKVtype】"
+                        "author": "Yuu Ch. 冬月ゆう★小游【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "y6snlDvJxEc",
+                        "image": "https://i.ytimg.com/vi/y6snlDvJxEc/mqdefault.jpg",
+                        "title": "「【初配信】小游來了！歡迎來到國王至上的初配信！【Yuu Ch. 冬月ゆう★小游【HKVtuber】」(由於參賽,所以這是「刪剪複製」版)",
+                        "author": "Yuu Ch. 冬月ゆう★小游【HKVtuber】"
                     }
                 ]
             }

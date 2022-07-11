@@ -114,30 +114,44 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "bWvQKolnuUA",
+                        "image": "https://i.ytimg.com/vi/bWvQKolnuUA/mqdefault.jpg",
+                        "title": "2.0形象登場【HKVtuber修維斯Shuvis】",
+                        "author": "修維斯Shuvis[HKVtuber]"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "qiL3G6M-cns",
-                        "image": "https://i.ytimg.com/vi/qiL3G6M-cns/mqdefault.jpg",
-                        "title": "【修維斯Shuvis】初配信!!!來自現代的時空旅人，修維斯Shuvis 登場!【HKVtuber】",
+                        "video_code": "mj2dBw5cLxE",
+                        "image": "https://i.ytimg.com/vi/mj2dBw5cLxE/mqdefault.jpg",
+                        "title": "【2.0形象披露目+初配信】現代未來兩頭走的時空旅人，修維斯Shuvis再登場!【修維斯Shuvis】",
                         "author": "修維斯Shuvis[HKVtuber]"
                     },
                     {
-                        "video_code": "M8z5f-1St6k",
-                        "image": "https://i.ytimg.com/vi/M8z5f-1St6k/mqdefault.jpg",
-                        "title": "【修維斯Shuvis】12 minutes------時間輪迴解謎遊戲【HKVtuber】",
+                        "video_code": "EU794hpbhqE",
+                        "image": "https://i.ytimg.com/vi/EU794hpbhqE/mqdefault.jpg",
+                        "title": "【雜談+試歌回】想觀眾和寵物名字+病後開聲~【修維斯Shuvis】",
                         "author": "修維斯Shuvis[HKVtuber]"
                     },
                     {
-                        "video_code": "qB3a7cjyTNo",
-                        "image": "https://i.ytimg.com/vi/qB3a7cjyTNo/mqdefault.jpg",
-                        "title": "【修維斯Shuvis】Fall guys!目標是頭五~【HKVtuber】",
+                        "video_code": "nYZzDFx149E",
+                        "image": "https://i.ytimg.com/vi/nYZzDFx149E/mqdefault.jpg",
+                        "title": "【遊戲】轉你畫我猜觀眾場!【修維斯Shuvis】",
                         "author": "修維斯Shuvis[HKVtuber]"
                     },
                     {
-                        "video_code": "ZG9K1uS9fzE",
-                        "image": "https://i.ytimg.com/vi/ZG9K1uS9fzE/mqdefault.jpg",
-                        "title": "【修維斯Shuvis】Dead by daylight/黎明死線 來屠殺了~【HKVtuber】",
+                        "video_code": "JdbkQ9_cjKw",
+                        "image": "https://i.ytimg.com/vi/JdbkQ9_cjKw/mqdefault.jpg",
+                        "title": "【恐怖遊戲】Outlasttttttt 來直面恐懼!!【修維斯Shuvis】",
                         "author": "修維斯Shuvis[HKVtuber]"
                     }
                 ]

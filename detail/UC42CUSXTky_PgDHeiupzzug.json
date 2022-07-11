@@ -75,7 +75,7 @@
                         "path": "KM_YAPI"
                     },
                     {
-                        "key": "twitcast",
+                        "key": "twitch",
                         "path": "https://www.twitch.tv/nn_yapi"
                     }
                 ]
@@ -197,15 +197,15 @@
                         "author": "夜皮【YAPI】"
                     },
                     {
-                        "video_code": "uE4oKBSsGWE",
-                        "image": "https://i.ytimg.com/vi/uE4oKBSsGWE/mqdefault.jpg",
-                        "title": "【Midnight Ghost Hunt】試game",
+                        "video_code": "IeKtRJfcKJQ",
+                        "image": "https://i.ytimg.com/vi/IeKtRJfcKJQ/mqdefault.jpg",
+                        "title": "【艾爾之光】由我來引導露,露的笑容由我來守護",
                         "author": "夜皮【YAPI】"
                     },
                     {
-                        "video_code": "NiYfol-s4PM",
-                        "image": "https://i.ytimg.com/vi/NiYfol-s4PM/mqdefault.jpg",
-                        "title": "【Valorant+GTFO】戒毒中心",
+                        "video_code": "uE4oKBSsGWE",
+                        "image": "https://i.ytimg.com/vi/uE4oKBSsGWE/mqdefault.jpg",
+                        "title": "【Midnight Ghost Hunt】試game",
                         "author": "夜皮【YAPI】"
                     }
                 ]

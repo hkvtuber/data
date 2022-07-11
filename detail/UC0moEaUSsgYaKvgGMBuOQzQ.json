@@ -82,12 +82,104 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "YqBbghSfwu0",
+                        "image": "https://i.ytimg.com/vi/YqBbghSfwu0/mqdefault.jpg",
+                        "title": "曉晨時分 ------今日瞓醒未? Have you woken up? #01【 暁瑚あきこ Akiko】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "8QqvT2gjc4k",
+                        "image": "https://i.ytimg.com/vi/8QqvT2gjc4k/mqdefault.jpg",
+                        "title": "認真地寫......???【暁瑚あきこ/V Tuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "38Gs4LZeP2s",
+                        "image": "https://i.ytimg.com/vi/38Gs4LZeP2s/mqdefault.jpg",
+                        "title": "Au-Delà 恐怖解謎RPG 溫馨提示  Friendly Tips  【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "Nz-ctedTUqY",
+                        "image": "https://i.ytimg.com/vi/Nz-ctedTUqY/mqdefault.jpg",
+                        "title": "【魔藥研究所】唔舒服飲咩好?【暁瑚あきこ Akiko】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "SA8jU664mNQ",
+                        "image": "https://i.ytimg.com/vi/SA8jU664mNQ/mqdefault.jpg",
+                        "title": "滿月宴?",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "ilnEODeEVfw",
                         "image": "https://i.ytimg.com/vi/ilnEODeEVfw/mqdefault.jpg",
                         "title": "【初配信】◈初次見面，請多多指教◈",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "S4XwSXAavRM",
+                        "image": "https://i.ytimg.com/vi/S4XwSXAavRM/mqdefault.jpg",
+                        "title": "ummmmmmmmmm【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "CrqTxdprqFs",
+                        "image": "https://i.ytimg.com/vi/CrqTxdprqFs/mqdefault.jpg",
+                        "title": "【雜談】Would you like tea? coffee? or.....me【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "9AoTF2Rp-hE",
+                        "image": "https://i.ytimg.com/vi/9AoTF2Rp-hE/mqdefault.jpg",
+                        "title": "Painting Time ---level up活動 【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "v8N-XByLBC4",
+                        "image": "https://i.ytimg.com/vi/v8N-XByLBC4/mqdefault.jpg",
+                        "title": "【雜談】 free chat 404【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "Zhsstd5I41I",
+                        "image": "https://i.ytimg.com/vi/Zhsstd5I41I/mqdefault.jpg",
+                        "title": "【滿月宴】初次歌回?滿月感想【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "By-fyaJHzqQ",
+                        "image": "https://i.ytimg.com/vi/By-fyaJHzqQ/mqdefault.jpg",
+                        "title": "曉晨時分------今日瞓醒未? Have you woken up? #02【 暁瑚あきこ Akiko】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "EEjhIib95d8",
+                        "image": "https://i.ytimg.com/vi/EEjhIib95d8/mqdefault.jpg",
+                        "title": "DSE？有冇考試Tips?【暁瑚あきこ | HKVtuber】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "VWiATwnFIuw",
+                        "image": "https://i.ytimg.com/vi/VWiATwnFIuw/mqdefault.jpg",
+                        "title": "曉晨時分------今日瞓醒未? Have you woken up? #03【 暁瑚あきこ Akiko】",
+                        "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
+                    },
+                    {
+                        "video_code": "Udh_t0k-r8M",
+                        "image": "https://i.ytimg.com/vi/Udh_t0k-r8M/mqdefault.jpg",
+                        "title": "【瑚塗亂畫】---------百花繪宴 【暁瑚あきこ Akiko】",
                         "author": "Akiko ch. 暁瑚あきこ【Vtuber】"
                     }
                 ]

@@ -111,6 +111,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "am4I1DA7dJM",
+                        "image": "https://i.ytimg.com/vi/am4I1DA7dJM/mqdefault.jpg",
+                        "title": "(՞  ܸ. .ܸ՞)💗",
+                        "author": "Meownai Ch.櫻月喵奈【準備中HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

@@ -126,12 +126,104 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "JLITwMBB4M4",
+                        "image": "https://i.ytimg.com/vi/JLITwMBB4M4/mqdefault.jpg",
+                        "title": "【精華】屁孩魚總是在搞事！初配信精華【彌歌魚｜艾路11｜米津律】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "S0arniIIuDY",
+                        "image": "https://i.ytimg.com/vi/S0arniIIuDY/mqdefault.jpg",
+                        "title": "【動畫】甜椒工房待機動畫【彌歌魚｜艾路11｜米津律】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "UakDTs0BnPg",
+                        "image": "https://i.ytimg.com/vi/UakDTs0BnPg/mqdefault.jpg",
+                        "title": "【精華】所謂清泉的艾路｜初配信精華【艾路11｜米津律｜彌歌魚】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "C9sU9_M2BqM",
+                        "image": "https://i.ytimg.com/vi/C9sU9_M2BqM/mqdefault.jpg",
+                        "title": "【動畫】甜椒工房片頭動畫【彌歌魚｜艾路11｜米津律】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "ZClAiwii_oE",
+                        "image": "https://i.ytimg.com/vi/ZClAiwii_oE/mqdefault.jpg",
+                        "title": "【精華】米津可否正常點？初配信精華【米津律｜彌歌魚｜艾路11】",
+                        "author": "甜椒工房 Paprika Factory"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
                         "video_code": "J6HgV8G5Rkc",
                         "image": "https://i.ytimg.com/vi/J6HgV8G5Rkc/mqdefault.jpg",
                         "title": "【直播】６/２ Live2D 初配信【彌歌魚｜艾路11｜米津律】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "2TpeKUTXtOo",
+                        "image": "https://i.ytimg.com/vi/2TpeKUTXtOo/mqdefault.jpg",
+                        "title": "【直播】初配日後談【彌歌魚】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "oqrdvl-4Zeg",
+                        "image": "https://i.ytimg.com/vi/oqrdvl-4Zeg/mqdefault.jpg",
+                        "title": "【直播】耐久畫畫台！畫畫得獎觀眾和9xN格Vtuber【彌歌魚】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "wDSGzCzc_Dg",
+                        "image": "https://i.ytimg.com/vi/wDSGzCzc_Dg/mqdefault.jpg",
+                        "title": "【直播】米津走拍魔音歌回【米津律 Ft. 彌歌魚, 艾路11】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "LDJF37C04ic",
+                        "image": "https://i.ytimg.com/vi/LDJF37C04ic/mqdefault.jpg",
+                        "title": "【直播】來讀讀大家投稿的台詞【彌歌魚】國語台 (接受粵語投稿)",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "KoBhpCFpLIQ",
+                        "image": "https://i.ytimg.com/vi/KoBhpCFpLIQ/mqdefault.jpg",
+                        "title": "【直播】來一起畫我有病的椒友【艾路11】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "mkax-fLOC5Q",
+                        "image": "https://i.ytimg.com/vi/mkax-fLOC5Q/mqdefault.jpg",
+                        "title": "【直播】魔王生日聯動派對【彌歌魚】國語台",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "_6v0vdD7NPk",
+                        "image": "https://i.ytimg.com/vi/_6v0vdD7NPk/mqdefault.jpg",
+                        "title": "【直播】常識問題大挑戰！看米津有多沒常識（上半場）【艾路11｜米津律】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "R9k99YN6orM",
+                        "image": "https://i.ytimg.com/vi/R9k99YN6orM/mqdefault.jpg",
+                        "title": "【直播】新人V聯動！挑戰畫畫接龍！【彌歌魚｜艾路11｜Vtuber友人們】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
+                        "video_code": "i-o_gDTSUVc",
+                        "image": "https://i.ytimg.com/vi/i-o_gDTSUVc/mqdefault.jpg",
+                        "title": "【直播】遊戲前來個突發雜談【彌歌魚｜艾路11｜米津律】",
                         "author": "甜椒工房 Paprika Factory"
                     }
                 ]

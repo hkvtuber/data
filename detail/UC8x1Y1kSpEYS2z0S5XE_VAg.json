@@ -3,7 +3,7 @@
     "header": {
         "name": "GP07 (修復中)",
         "image": "https://yt3.ggpht.com/gT8KQ40jF_8FeCpv1ooJce0YRORjiXqIWRuze3l95SIhEyfnGH-2y-ZreRz3Dl6gA3XqR73k9Q=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/mG26DMIW5by7Q-yLIzZ1oqZfOQtuOLgeTL5euH9f7dZuvrlDAkt-d_L064wQ9KdYwg-nw5_0=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/D8oNeCRFTbxOdqXuDLDSTsIblRNh7pPAWkpYgws6Nuky2pw8L0wKANUlzb-CLzhM9alvkKCivw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -103,52 +103,64 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "tKY9d8LRssI",
-                        "image": "https://i.ytimg.com/vi/tKY9d8LRssI/mqdefault.jpg",
-                        "title": "無料 新聞報道 NO GOOD News｜2022年5月23日｜非知名虛擬實況主GP07頻道已被終止",
-                        "author": "GP07 (修復中)"
-                    },
-                    {
                         "video_code": "0ZgLCp8b4PQ",
                         "image": "https://i.ytimg.com/vi/0ZgLCp8b4PQ/mqdefault.jpg",
                         "title": "【GP07記錄】Vtuber一問一答自我介紹",
-                        "author": "GP07 (修復中)"
+                        "author": "GP07"
                     },
                     {
-                        "video_code": "PdE8sB-VyUA",
-                        "image": "https://i.ytimg.com/vi/PdE8sB-VyUA/mqdefault.jpg",
-                        "title": "【07改詞】無情疫情中（原曲：無情夜冷風）",
-                        "author": "GP07 (修復中)"
+                        "video_code": "tKY9d8LRssI",
+                        "image": "https://i.ytimg.com/vi/tKY9d8LRssI/mqdefault.jpg",
+                        "title": "無料 新聞報道 NO GOOD News｜2022年5月23日｜非知名虛擬實況主GP07頻道已被終止",
+                        "author": "GP07"
                     },
                     {
-                        "video_code": "fPh9spxY7o8",
-                        "image": "https://i.ytimg.com/vi/fPh9spxY7o8/mqdefault.jpg",
-                        "title": "【翻唱】もう何も怖くない、怖くはない",
-                        "author": "GP07 (修復中)"
-                    },
-                    {
-                        "video_code": "AF9fi0D_JfU",
-                        "image": "https://i.ytimg.com/vi/AF9fi0D_JfU/mqdefault.jpg",
-                        "title": "【MORTAL KOMBAT/真人快打】一起跟雷電跳舞吧！",
-                        "author": "GP07 (修復中)"
-                    },
-                    {
-                        "video_code": "YG6eCQcca_c",
-                        "image": "https://i.ytimg.com/vi/YG6eCQcca_c/mqdefault.jpg",
-                        "title": "【無法預測的事故】我怎麼會想到全港手機突然發出了警報",
-                        "author": "GP07 (修復中)"
-                    },
-                    {
-                        "video_code": "rh7QDh-LG3w",
-                        "image": "https://i.ytimg.com/vi/rh7QDh-LG3w/mqdefault.jpg",
-                        "title": "馬保國頭號弟子劉馬車，示範閃電五連鞭！",
-                        "author": "GP07 (修復中)"
+                        "video_code": "k-ZIrk-dI3w",
+                        "image": "https://i.ytimg.com/vi/k-ZIrk-dI3w/mqdefault.jpg",
+                        "title": "【高登歌膠唱大賽投稿】屯門公園的主題曲",
+                        "author": "GP07"
                     },
                     {
                         "video_code": "tZRMDcLNSNs",
                         "image": "https://i.ytimg.com/vi/tZRMDcLNSNs/mqdefault.jpg",
                         "title": "【翻唱】泰文版幪面超人",
-                        "author": "GP07 (修復中)"
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "PdE8sB-VyUA",
+                        "image": "https://i.ytimg.com/vi/PdE8sB-VyUA/mqdefault.jpg",
+                        "title": "【07改詞】無情疫情中（原曲：無情夜冷風）",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "rh7QDh-LG3w",
+                        "image": "https://i.ytimg.com/vi/rh7QDh-LG3w/mqdefault.jpg",
+                        "title": "馬保國頭號弟子劉馬車，示範閃電五連鞭！",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "p20miD9uPD0",
+                        "image": "https://i.ytimg.com/vi/p20miD9uPD0/mqdefault.jpg",
+                        "title": "【粵語】變成打工仔嘅貞德（假面騎士貞德配音）",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "C8U2Xv-TPDg",
+                        "image": "https://i.ytimg.com/vi/C8U2Xv-TPDg/mqdefault.jpg",
+                        "title": "【實驗】試下用網站將抬棺舞轉MIDI會不會中版權炮",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "fPh9spxY7o8",
+                        "image": "https://i.ytimg.com/vi/fPh9spxY7o8/mqdefault.jpg",
+                        "title": "【翻唱】もう何も怖くない、怖くはない",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "INU_0e5eUTQ",
+                        "image": "https://i.ytimg.com/vi/INU_0e5eUTQ/mqdefault.jpg",
+                        "title": "【精華剪輯】我好亂啊！哥布林定戈培爾啊？！",
+                        "author": "GP07"
                     }
                 ]
             }
@@ -162,25 +174,61 @@
                         "video_code": "h90gWNsRsiE",
                         "image": "https://i.ytimg.com/vi/h90gWNsRsiE/mqdefault.jpg",
                         "title": "重大通知",
-                        "author": "GP07 (修復中)"
+                        "author": "GP07"
                     },
                     {
                         "video_code": "cHegxLdEY_A",
                         "image": "https://i.ytimg.com/vi/cHegxLdEY_A/mqdefault.jpg",
                         "title": "【猜猜畫畫】第一屆港V聖杯戰爭！開始！",
-                        "author": "GP07 (修復中)"
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "R6_X_PChuCQ",
+                        "image": "https://i.ytimg.com/vi/R6_X_PChuCQ/mqdefault.jpg",
+                        "title": "【香港地道粵語達人挑戰】零準備！唔用錦囊作答！",
+                        "author": "GP07"
                     },
                     {
                         "video_code": "bcPV8Y1CZIc",
                         "image": "https://i.ytimg.com/vi/bcPV8Y1CZIc/mqdefault.jpg",
                         "title": "【隨心遊戲台】玩累了，直接睡覺！",
-                        "author": "GP07 (修復中)"
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "2WDGhbLebsw",
+                        "image": "https://i.ytimg.com/vi/2WDGhbLebsw/mqdefault.jpg",
+                        "title": "【黃河大合唱】回歸特備節目！打到日軍訓棺木！（新香港直播模式)",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "h3GW6FNsn14",
+                        "image": "https://i.ytimg.com/vi/h3GW6FNsn14/mqdefault.jpg",
+                        "title": "【魔音歌回】我要唱不同語言的洗腦歌曲來為大地帶來精神污染！",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "619RAkbnz8A",
+                        "image": "https://i.ytimg.com/vi/619RAkbnz8A/mqdefault.jpg",
+                        "title": "【1.5週年紀念】被YOUTUBE君BAN台的我，只能重新來一次初配信了！",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "hCZU7jDnGRQ",
+                        "image": "https://i.ytimg.com/vi/hCZU7jDnGRQ/mqdefault.jpg",
+                        "title": "【練畫台】高達UC-瑪莉妲·庫魯斯",
+                        "author": "GP07"
+                    },
+                    {
+                        "video_code": "519SNpWipew",
+                        "image": "https://i.ytimg.com/vi/519SNpWipew/mqdefault.jpg",
+                        "title": "【OVERCOOKED2聯動】港V廚房！燒到著火！(07視角)",
+                        "author": "GP07"
                     },
                     {
                         "video_code": "GhdeA_4N71M",
                         "image": "https://i.ytimg.com/vi/GhdeA_4N71M/mqdefault.jpg",
                         "title": "【艾爾之光】我要三轉！銀白總帥！",
-                        "author": "GP07 (修復中)"
+                        "author": "GP07"
                     }
                 ]
             }

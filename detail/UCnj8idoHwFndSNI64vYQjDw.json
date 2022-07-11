@@ -119,6 +119,88 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "a1omZlBJ9g0",
+                        "image": "https://i.ytimg.com/vi/a1omZlBJ9g0/mqdefault.jpg",
+                        "title": "【2.0模型展示】出道一個禮拜就換2.0咯！！！【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "1LrXHImyxh8",
+                        "image": "https://i.ytimg.com/vi/1LrXHImyxh8/mqdefault.jpg",
+                        "title": "【表情展示】我不再是沒有感情的機器了！！【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "joeZwhDH_Qk",
+                        "image": "https://i.ytimg.com/vi/joeZwhDH_Qk/mqdefault.jpg",
+                        "title": "【背景故事】一切的起點",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "nZIkf5kk9Zw",
+                        "image": "https://i.ytimg.com/vi/nZIkf5kk9Zw/mqdefault.jpg",
+                        "title": "【企劃宣傳】我想要開改圖台！大家快來投稿吧！【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "G1GOWblQXUA",
+                        "image": "https://i.ytimg.com/vi/G1GOWblQXUA/mqdefault.jpg",
+                        "title": "【初配信】雖然很遜，但我要初配了！【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "zHDJ7PNiHvM",
+                        "image": "https://i.ytimg.com/vi/zHDJ7PNiHvM/mqdefault.jpg",
+                        "title": "【歌回】對不起！！我來找數了！【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "81vnE74DJEg",
+                        "image": "https://i.ytimg.com/vi/81vnE74DJEg/mqdefault.jpg",
+                        "title": "【繪圖雜談】跟紫色好朋友一起畫畫吧～ft.Wisteria Sarling【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "o8GYhBdr-pk",
+                        "image": "https://i.ytimg.com/vi/o8GYhBdr-pk/mqdefault.jpg",
+                        "title": "【突發工作台】我很無聊，陪我一起肝圖吧～ft.我的肝臟【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "41O3YGe1jvY",
+                        "image": "https://i.ytimg.com/vi/41O3YGe1jvY/mqdefault.jpg",
+                        "title": "【Minecraft】伺服器要正式開幕了！！！ft. 齊齊旺角港V俱樂部, 莫諾諾【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "NA6CcDUC-RI",
+                        "image": "https://i.ytimg.com/vi/NA6CcDUC-RI/mqdefault.jpg",
+                        "title": "【突發Minecraft】今天來蓋一下房子【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    },
+                    {
+                        "video_code": "jpIWKwmN-SM",
+                        "image": "https://i.ytimg.com/vi/jpIWKwmN-SM/mqdefault.jpg",
+                        "title": "【Rhythm Doctor】該考驗我學樂器這麼久的成果了！【HKVtuber沐雨】",
+                        "author": "沐雨Muyu【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

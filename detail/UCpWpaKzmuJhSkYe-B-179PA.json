@@ -97,6 +97,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "KPFRUSo8fBc",
+                        "image": "https://i.ytimg.com/vi/KPFRUSo8fBc/mqdefault.jpg",
+                        "title": "【1st mini album】NOVOLETA/ kanagi keina金木啓那",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
                         "video_code": "6XI96kl7zk0",
                         "image": "https://i.ytimg.com/vi/6XI96kl7zk0/mqdefault.jpg",
                         "title": "【YOASOBI】怪物 /covered by Kanagi Keina",
@@ -111,7 +117,7 @@
                     {
                         "video_code": "yIy4AjIT7Eg",
                         "image": "https://i.ytimg.com/vi/yIy4AjIT7Eg/mqdefault.jpg",
-                        "title": "【cinnamon × evening cinema 】summertime /covered by 十七夜佳奈",
+                        "title": "【cinnamon × evening cinema 】summertime /covered by 十七夜月佳奈",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
@@ -127,15 +133,15 @@
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
-                        "video_code": "X4W8bagB1-k",
-                        "image": "https://i.ytimg.com/vi/X4W8bagB1-k/mqdefault.jpg",
-                        "title": "重要事項詢問",
+                        "video_code": "F3rPvqRRb0g",
+                        "image": "https://i.ytimg.com/vi/F3rPvqRRb0g/mqdefault.jpg",
+                        "title": "【自己紹介】Vtuber一問一答自己紹介-KANAU KANA",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
-                        "video_code": "XjoH229WKAA",
-                        "image": "https://i.ytimg.com/vi/XjoH229WKAA/mqdefault.jpg",
-                        "title": "【1st mini album】NOVOLETA/ kanagi keina",
+                        "video_code": "X4W8bagB1-k",
+                        "image": "https://i.ytimg.com/vi/X4W8bagB1-k/mqdefault.jpg",
+                        "title": "重要事項詢問",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     }
                 ]
@@ -165,15 +171,15 @@
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
-                        "video_code": "ofX-HuB5Sxk",
-                        "image": "https://i.ytimg.com/vi/ofX-HuB5Sxk/mqdefault.jpg",
-                        "title": "【今夜安眠 ★Night-Talk】晚上好【936radio】",
-                        "author": "十七夜月 佳奈【香港Vtuber】"
-                    },
-                    {
                         "video_code": "WxWLk_HEzXU",
                         "image": "https://i.ytimg.com/vi/WxWLk_HEzXU/mqdefault.jpg",
                         "title": "【歌枠】2022向山頂的你們揮手！",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "ofX-HuB5Sxk",
+                        "image": "https://i.ytimg.com/vi/ofX-HuB5Sxk/mqdefault.jpg",
+                        "title": "【今夜安眠 ★Night-Talk】晚上好【936radio】",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
@@ -195,15 +201,15 @@
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
-                        "video_code": "zPCCZnm9yhc",
-                        "image": "https://i.ytimg.com/vi/zPCCZnm9yhc/mqdefault.jpg",
-                        "title": "【歌枠】究竟唱歌聲音變成怎樣了？",
-                        "author": "十七夜月 佳奈【香港Vtuber】"
-                    },
-                    {
                         "video_code": "Y3sdZhX8wcg",
                         "image": "https://i.ytimg.com/vi/Y3sdZhX8wcg/mqdefault.jpg",
                         "title": "【＃2022魔女星牢祭​ 】二周年。獻上你愉快的靈值吧。",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "zPCCZnm9yhc",
+                        "image": "https://i.ytimg.com/vi/zPCCZnm9yhc/mqdefault.jpg",
+                        "title": "【歌枠】究竟唱歌聲音變成怎樣了？",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     }
                 ]

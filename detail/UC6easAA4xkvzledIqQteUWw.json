@@ -101,6 +101,46 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "QozRxlSbd6Q",
+                        "image": "https://i.ytimg.com/vi/QozRxlSbd6Q/mqdefault.jpg",
+                        "title": "【自我介紹】巧驚驚巧緊張的魔女【香港Vtuber/Alice Tarrandalf】",
+                        "author": "Alice Tarrandalf ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "e3PDd861Tqc",
+                        "image": "https://i.ytimg.com/vi/e3PDd861Tqc/mqdefault.jpg",
+                        "title": "Alice Tarrandalf【HKVtuber】音樂製作練習記錄-1",
+                        "author": "Alice Tarrandalf ch.【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "oBGd1VA4lFA",
+                        "image": "https://i.ytimg.com/vi/oBGd1VA4lFA/mqdefault.jpg",
+                        "title": "【初配信】宅在家中已久的綠魔女終於出門了！【香港Vtuber】",
+                        "author": "Alice Tarrandalf ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "7FSDWGg4974",
+                        "image": "https://i.ytimg.com/vi/7FSDWGg4974/mqdefault.jpg",
+                        "title": "【繪畫配信】突發畫畫台？！【HKVtuber Alice Tarrandalf】",
+                        "author": "Alice Tarrandalf ch.【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

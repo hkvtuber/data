@@ -64,6 +64,40 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "rWNi5cVF10I",
+                        "image": "https://i.ytimg.com/vi/rWNi5cVF10I/mqdefault.jpg",
+                        "title": "【Getting Over It】初見耐久【HKVtuber/天宮 むすび】",
+                        "author": "Musubi ch. 天宮むすび"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "vgZH324SWy0",
+                        "image": "https://i.ytimg.com/vi/vgZH324SWy0/mqdefault.jpg",
+                        "title": "【初配信】初次見面【香港Vtuber/天宮 むすび】",
+                        "author": "Musubi ch. 天宮むすび"
+                    },
+                    {
+                        "video_code": "4ekf7ozYTUw",
+                        "image": "https://i.ytimg.com/vi/4ekf7ozYTUw/mqdefault_live.jpg",
+                        "title": "【Getting Over It】初見耐久【HKVtuber/天宮 むすび】",
+                        "author": "Musubi ch. 天宮むすび"
+                    }
+                ]
+            }
         }
     ]
 }

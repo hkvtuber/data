@@ -123,6 +123,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "sYaTN09zSFY",
+                        "image": "https://i.ytimg.com/vi/sYaTN09zSFY/mqdefault.jpg",
+                        "title": "【Escape from tarkov/逃離塔科夫】去tarkov玩【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
                         "video_code": "CU1u3uLvw0c",
                         "image": "https://i.ytimg.com/vi/CU1u3uLvw0c/mqdefault.jpg",
                         "title": "[APEX] 新賽季新賽制 回歸鑽石之旅 第二季 【白鱗 ほし / HKVtuber】",
@@ -153,6 +159,12 @@
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     },
                     {
+                        "video_code": "zocqO-LRuCI",
+                        "image": "https://i.ytimg.com/vi/zocqO-LRuCI/mqdefault.jpg",
+                        "title": "[APEX] 新賽季新賽制 回歸鑽石之旅 第二季 【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
                         "video_code": "I7txkMxeYOs",
                         "image": "https://i.ytimg.com/vi/I7txkMxeYOs/mqdefault.jpg",
                         "title": "[APEX] NG休閒台 【白鱗 ほし / HKVtuber】",
@@ -168,18 +180,6 @@
                         "video_code": "W3n7ByGv6lE",
                         "image": "https://i.ytimg.com/vi/W3n7ByGv6lE/mqdefault.jpg",
                         "title": "[APEX/R6 ]上半場APEX 下半場R6【白鱗 ほし / HKVtuber】",
-                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
-                    },
-                    {
-                        "video_code": "oaDRs3PxFds",
-                        "image": "https://i.ytimg.com/vi/oaDRs3PxFds/mqdefault.jpg",
-                        "title": "[英雄聯盟]  復健!復健!復健!我要打番好啲!【白鱗 ほし / HKVtuber】",
-                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
-                    },
-                    {
-                        "video_code": "b3gREDUQVEk",
-                        "image": "https://i.ytimg.com/vi/b3gREDUQVEk/mqdefault.jpg",
-                        "title": "[APEX 掉分日記] 撞車小隊~到底是我命硬一點還是我分硬一點【白鱗 ほし / HKVtuber】",
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     }
                 ]

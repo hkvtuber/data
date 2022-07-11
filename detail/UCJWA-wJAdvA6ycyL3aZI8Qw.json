@@ -115,6 +115,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "xKxTpD6hi7Q",
+                        "image": "https://i.ytimg.com/vi/xKxTpD6hi7Q/mqdefault.jpg",
+                        "title": "☢️🚦【#初配信】事故放題 ;D🌈🌈【小林梓 HKVtuber】",
+                        "author": "小林梓【HKVtuber】"
+                    }
+                ]
+            }
         }
     ]
 }

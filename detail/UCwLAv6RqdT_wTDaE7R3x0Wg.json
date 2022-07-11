@@ -66,10 +66,90 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "YzIrea20xB4",
+                        "image": "https://i.ytimg.com/vi/YzIrea20xB4/mqdefault.jpg",
+                        "title": "【#香港Vtuber英雄聯盟邀請賽】桃桃後宮團挑機片【小川よしと/花咲桃桃/火神鳥】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
                         "video_code": "mOWktCKVEv4",
                         "image": "https://i.ytimg.com/vi/mOWktCKVEv4/mqdefault.jpg",
                         "title": "【小川よしと】RG27現地拍攝 第一個收得最多好人卡既V? 收卡企劃「你...係個好人」VLOG",
-                        "author": "小川よしと【HKvtuber準備中】"
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "yflCxwpeG_E",
+                        "image": "https://i.ytimg.com/vi/yflCxwpeG_E/mqdefault.jpg",
+                        "title": "【高登歌膠唱大賽】霸氣不失獎「小川よしと-屌你老母撞到我電話吧」Cover",
+                        "author": "小川よしと【HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "tdT_n4nLSiA",
+                        "image": "https://i.ytimg.com/vi/tdT_n4nLSiA/mqdefault.jpg",
+                        "title": "【#初配信 】鴨鴨族族長★爆誕，唔識飛既全部同我入黎！#小川よしと #hkvtuber",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "kfh7lXFR63Y",
+                        "image": "https://i.ytimg.com/vi/kfh7lXFR63Y/mqdefault.jpg",
+                        "title": "【#魔獸信長】Vlan03 信長之野望 手殘復健台【小川よしと】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "1X9u2S4DEc8",
+                        "image": "https://i.ytimg.com/vi/1X9u2S4DEc8/mqdefault.jpg",
+                        "title": "【#APEX】地獄教官？當最強遇上最弱！隻手1212！【小川よしと/ZETA/火神鳥】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "Foe0pZKlD9E",
+                        "image": "https://i.ytimg.com/vi/Foe0pZKlD9E/mqdefault.jpg",
+                        "title": "【#英雄聯盟】與比賽們的JG猛特訓！【小川よしと/火神鳥/柔木月】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "zL-IOeEdqXw",
+                        "image": "https://i.ytimg.com/vi/zL-IOeEdqXw/mqdefault.jpg",
+                        "title": "【#英雄聯盟】超突發！敵人的敵人就是朋友！【小川よしと/花咲桃桃/柔木月/莉絲/月見香夜】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "vUnJZ4k4v9I",
+                        "image": "https://i.ytimg.com/vi/vUnJZ4k4v9I/mqdefault.jpg",
+                        "title": "【#英雄聯盟】觀眾參加型 就算交換位置也大殺四方 讓你們見識桃桃後宮團下路的默契吧【小川よしと/花咲桃桃】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "ezEfKCMFJPo",
+                        "image": "https://i.ytimg.com/vi/ezEfKCMFJPo/mqdefault.jpg",
+                        "title": "【#英雄聯盟】練腳【小川よしと/莉絲】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "cpmxRtrVQd8",
+                        "image": "https://i.ytimg.com/vi/cpmxRtrVQd8/mqdefault.jpg",
+                        "title": "【#英雄聯盟】桃桃後宮團皇牌射手 開C【小川よしと】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "1R4QmgN9Uj0",
+                        "image": "https://i.ytimg.com/vi/1R4QmgN9Uj0/mqdefault.jpg",
+                        "title": "【#聯盟戰棋】Road to diamond要坐火箭了喔【小川よしと】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "VW8Ur36MDPQ",
+                        "image": "https://i.ytimg.com/vi/VW8Ur36MDPQ/mqdefault.jpg",
+                        "title": "【#聯盟戰棋】一刀殺進去12.12版本 Road to diamond要坐火箭了喔 賭狗熊 #4【小川よしと】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
                     }
                 ]
             }
