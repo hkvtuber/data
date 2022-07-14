@@ -7,26 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FCi_88wVEAUUxr1?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FCi_88wVEAUUxr1?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FCi_88yVUAU1wFa?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FCi_88yVUAU1wFa?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FCi_89rVUAEf497?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FCi_89rVUAEf497?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",

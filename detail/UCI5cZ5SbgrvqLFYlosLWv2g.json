@@ -12,8 +12,12 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/E032-gzVgAAyZLx?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E032-gzVgAAyZLx?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FFye2DKUYAE62dq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FFye2DKUYAE62dq?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FFyk7fjVQAA0FCM?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FFyk7fjVQAA0FCM?format=jpg&name=medium"
                     }
                 ]
             }

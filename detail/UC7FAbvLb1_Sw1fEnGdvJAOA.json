@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FHe05nlVQAE7uEu?format=jpg&name=smalll",
-                        "image_big": "https://pbs.twimg.com/media/FHe05nlVQAE7uEu?format=jpg&name=mediuml"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",

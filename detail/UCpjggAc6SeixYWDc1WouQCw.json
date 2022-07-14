@@ -14,6 +14,10 @@
                     {
                         "image": "https://pbs.twimg.com/media/FOsv_-UVgAMi6w8?format=jpg&name=small",
                         "image_big": "https://pbs.twimg.com/media/FOsv_-UVgAMi6w8?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FOsv_-VVUAAJIZ9?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FOsv_-VVUAAJIZ9?format=jpg&name=medium"
                     }
                 ]
             }
