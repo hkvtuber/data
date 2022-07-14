@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Ew7YVD9VcAEbpv8?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Ew7YVD9VcAEbpv8?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -95,7 +107,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "aoikamikonekoch"
+                        "path": "Koneko_aoikami"
                     }
                 ]
             }

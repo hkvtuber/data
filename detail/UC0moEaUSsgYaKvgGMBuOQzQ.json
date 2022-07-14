@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FPvYUgWaUAMYLPM?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FPvYUgWaUAMYLPM?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -70,7 +82,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "Akikomajo_hk"
+                        "path": "akikomajo"
                     },
                     {
                         "key": "facebook",
