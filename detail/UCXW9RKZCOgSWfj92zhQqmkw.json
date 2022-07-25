@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FULNy9ZaIAI0QWI?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FULNy9ZaIAI0QWI?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FX3h98caIAARaTr?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX3h98caIAARaTr?format=jpg&name=medium"
                     }
                 ]
             }
@@ -88,106 +88,6 @@
                     {
                         "key": "twitter",
                         "path": "higanruri"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "qNPq4rzUDU8",
-                        "image": "https://i.ytimg.com/vi/qNPq4rzUDU8/mqdefault.jpg",
-                        "title": "【自我介紹】猶如在彼岸盛開的鮮花,初次見面,我是彼岸るり Ruri 【香港Vtuber】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "np8xcIkLbug",
-                        "image": "https://i.ytimg.com/vi/np8xcIkLbug/mqdefault.jpg",
-                        "title": "【動物森友會】 Bubblegum．RURI 【香港Vtuber】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "NmUpzquk6dg",
-                        "image": "https://i.ytimg.com/vi/NmUpzquk6dg/mqdefault.jpg",
-                        "title": "彼岸るり 「Flamingo」",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "qxc0l2xM9wc",
-                        "image": "https://i.ytimg.com/vi/qxc0l2xM9wc/mqdefault.jpg",
-                        "title": "🥀 🌹",
-                        "author": "彼岸るりRuri Channel"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "4SzNcH1VlKw",
-                        "image": "https://i.ytimg.com/vi/4SzNcH1VlKw/mqdefault.jpg",
-                        "title": "【正月】新衣装お披露目配信 | 正月新衣裝【#りり配信】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "LMW-9f-HFkg",
-                        "image": "https://i.ytimg.com/vi/LMW-9f-HFkg/mqdefault.jpg",
-                        "title": "【AmongUs】為什麼在一旁看著！難道你真的背叛了嗎！OMO【ruri視點】【#りり配信】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "-INBcnwipzo",
-                        "image": "https://i.ytimg.com/vi/-INBcnwipzo/mqdefault.jpg",
-                        "title": "【初配信】雑談+打陣遊戲 【香港Vtuber】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "Y5mSfj4XUWA",
-                        "image": "https://i.ytimg.com/vi/Y5mSfj4XUWA/mqdefault.jpg",
-                        "title": "【復活配信】各位我返嚟啦!近況雜談同埋清問題時間~【彼岸るり】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "RI1zgXJ9FN8",
-                        "image": "https://i.ytimg.com/vi/RI1zgXJ9FN8/mqdefault.jpg",
-                        "title": "【2.0】解放 ! 彼岸るり新造型發佈會 !【#りり配信】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "yplowe89-8o",
-                        "image": "https://i.ytimg.com/vi/yplowe89-8o/mqdefault.jpg",
-                        "title": "【誕生日配信】大家和我一起過生日!多謝大家!但是......",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "MsityUHfD7w",
-                        "image": "https://i.ytimg.com/vi/MsityUHfD7w/mqdefault.jpg",
-                        "title": "【聯動】同夜華玩Superbunnyman | 因為雪女上傳變0所以我開(x【#りり配信】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "k3DBzEf41QI",
-                        "image": "https://i.ytimg.com/vi/k3DBzEf41QI/mqdefault.jpg",
-                        "title": "【槍彈辯駁】入讀?拐带?解開希望峰學園的秘密! 序幕打開 【香港Vtuber】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "68VKwFifIwA",
-                        "image": "https://i.ytimg.com/vi/68VKwFifIwA/mqdefault.jpg",
-                        "title": "【瑪利歐賽車8DX】 第一屆激鬪瑪車V | 彼岸るり視角【#りり配信】",
-                        "author": "彼岸るりRuri Channel"
-                    },
-                    {
-                        "video_code": "pJtnP38M4P4",
-                        "image": "https://i.ytimg.com/vi/pJtnP38M4P4/mqdefault.jpg",
-                        "title": "【聖誕節】大家一齊過聖誕交換禮物~ ft.佐藤サキ 黑佃みほ 如月兎苺【#りり配信】",
-                        "author": "彼岸るりRuri Channel"
                     }
                 ]
             }

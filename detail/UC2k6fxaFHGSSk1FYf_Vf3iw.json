@@ -106,15 +106,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "uXtNwYSeIKg",
-                        "image": "https://i.ytimg.com/vi/uXtNwYSeIKg/mqdefault.jpg",
-                        "title": "【Cover】フクロウ ~フクロウが知らせる客が来たと【森乃あき / HKVtuber】",
-                        "author": "Aki Ch. 森乃あき【HKVTuber】"
-                    },
-                    {
                         "video_code": "FKXRcBcyjP0",
                         "image": "https://i.ytimg.com/vi/FKXRcBcyjP0/mqdefault.jpg",
                         "title": "【Cover】いのちの名前【森乃あき / HKVtuber】",
+                        "author": "Aki Ch. 森乃あき【HKVTuber】"
+                    },
+                    {
+                        "video_code": "uXtNwYSeIKg",
+                        "image": "https://i.ytimg.com/vi/uXtNwYSeIKg/mqdefault.jpg",
+                        "title": "【Cover】フクロウ ~フクロウが知らせる客が来たと【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     },
                     {
@@ -198,6 +198,12 @@
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     },
                     {
+                        "video_code": "7JdoqcJ4HIA",
+                        "image": "https://i.ytimg.com/vi/7JdoqcJ4HIA/mqdefault.jpg",
+                        "title": "【Stray】放棄豬生轉生為貓【森乃あき / HKVtuber】",
+                        "author": "Aki Ch. 森乃あき【HKVTuber】"
+                    },
+                    {
                         "video_code": "GLNUHI6comU",
                         "image": "https://i.ytimg.com/vi/GLNUHI6comU/mqdefault.jpg",
                         "title": "【早神】情人節......快樂 (´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥ `) ?【森乃あき / HKVtuber】",
@@ -225,12 +231,6 @@
                         "video_code": "CdpD47OblOU",
                         "image": "https://i.ytimg.com/vi/CdpD47OblOU/mqdefault.jpg",
                         "title": "【初配信】噗~  (๑´(00)`๑) 【森乃あき / HKVtuber】",
-                        "author": "Aki Ch. 森乃あき【HKVTuber】"
-                    },
-                    {
-                        "video_code": "H5tdc4V3Gic",
-                        "image": "https://i.ytimg.com/vi/H5tdc4V3Gic/mqdefault.jpg",
-                        "title": "【Apex】悠閒玩，泡槍之神是我【森乃あき / HKVtuber】",
                         "author": "Aki Ch. 森乃あき【HKVTuber】"
                     }
                 ]

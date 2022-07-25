@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FOCbuPMUcAAyu-7?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FOCbuPMUcAAyu-7?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -136,6 +124,12 @@
             "data": {
                 "title": "推薦影片",
                 "video_list": [
+                    {
+                        "video_code": "kUk4mlDig2c",
+                        "image": "https://i.ytimg.com/vi/kUk4mlDig2c/mqdefault.jpg",
+                        "title": "ぴんく-MARETU／鎖夜レイ (cover)【HKVTuber】",
+                        "author": "Rei ch. 鎖夜レイ【HKVtuber 準備中】"
+                    },
                     {
                         "video_code": "rTIaU3dGe48",
                         "image": "https://i.ytimg.com/vi/rTIaU3dGe48/mqdefault.jpg",

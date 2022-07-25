@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FXgdYdwUUAE0pab?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FXgdYdwUUAE0pab?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FYcXlhuVUAAL-K5?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYcXlhuVUAAL-K5?format=jpg&name=medium"
                     }
                 ]
             }
@@ -169,6 +169,12 @@
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
+                        "video_code": "L8G8Yi0yXYU",
+                        "image": "https://i.ytimg.com/vi/L8G8Yi0yXYU/mqdefault.jpg",
+                        "title": "【雜談】終於見到三寶了【香港VTUBER】",
+                        "author": "Nozomi Ch. 水澄のぞみ"
+                    },
+                    {
                         "video_code": "M8toRJjq8Jg",
                         "image": "https://i.ytimg.com/vi/M8toRJjq8Jg/mqdefault.jpg",
                         "title": "【賀】擇日不如撞日之收益化千人訂閱congratulations to MEEEEE【香港VTUBER】",
@@ -187,21 +193,15 @@
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
-                        "video_code": "6UHRAKVXuc8",
-                        "image": "https://i.ytimg.com/vi/6UHRAKVXuc8/mqdefault.jpg",
-                        "title": "【Apex】常聽說用手制玩會瞄得準一點..【【香港VTUBER】",
-                        "author": "Nozomi Ch. 水澄のぞみ"
-                    },
-                    {
                         "video_code": "GSUHvsovmUw",
                         "image": "https://i.ytimg.com/vi/GSUHvsovmUw/mqdefault.jpg",
                         "title": "【歌回】300&400人紀念之都話咗唔會走數歌回【香港新人VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     },
                     {
-                        "video_code": "xeGLSVxhz8g",
-                        "image": "https://i.ytimg.com/vi/xeGLSVxhz8g/mqdefault.jpg",
-                        "title": "【Outlast】找數 頂唔順即88【香港VTUBER】",
+                        "video_code": "6UHRAKVXuc8",
+                        "image": "https://i.ytimg.com/vi/6UHRAKVXuc8/mqdefault.jpg",
+                        "title": "【Apex】常聽說用手制玩會瞄得準一點..【【香港VTUBER】",
                         "author": "Nozomi Ch. 水澄のぞみ"
                     }
                 ]

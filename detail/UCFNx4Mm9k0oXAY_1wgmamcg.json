@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FXY_-DKaMAAuRzK?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FXY_-DKaMAAuRzK?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FX-32j-akAAtpVW?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX-32j-akAAtpVW?format=jpg&name=medium"
                     }
                 ]
             }
@@ -98,15 +98,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "_QeHxl9NFDc",
-                        "image": "https://i.ytimg.com/vi/_QeHxl9NFDc/mqdefault.jpg",
-                        "title": "我要出道了嗎? 不理了先出自我介紹",
-                        "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
-                    },
-                    {
                         "video_code": "2GE7XLfMVdE",
                         "image": "https://i.ytimg.com/vi/2GE7XLfMVdE/mqdefault.jpg",
                         "title": "這個影片是給想色色的人看的 所以如果你沒興趣請按掉 .w.",
+                        "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
+                    },
+                    {
+                        "video_code": "_QeHxl9NFDc",
+                        "image": "https://i.ytimg.com/vi/_QeHxl9NFDc/mqdefault.jpg",
+                        "title": "我要出道了嗎? 不理了先出自我介紹",
                         "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
                     },
                     {

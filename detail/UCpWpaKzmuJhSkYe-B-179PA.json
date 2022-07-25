@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FUkJhU-aQAEj2b-?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUkJhU-aQAEj2b-?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FX1GdOnacAE4F2R?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX1GdOnacAE4F2R?format=jpg&name=medium"
                     }
                 ]
             }
@@ -133,6 +133,12 @@
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
+                        "video_code": "zGVh3D6ViQw",
+                        "image": "https://i.ytimg.com/vi/zGVh3D6ViQw/mqdefault.jpg",
+                        "title": "【NOVOLETA project】金木啓那 KanagiKeina / 希望稅【Original Song】",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
                         "video_code": "F3rPvqRRb0g",
                         "image": "https://i.ytimg.com/vi/F3rPvqRRb0g/mqdefault.jpg",
                         "title": "【自己紹介】Vtuber一問一答自己紹介-KANAU KANA",
@@ -142,6 +148,12 @@
                         "video_code": "X4W8bagB1-k",
                         "image": "https://i.ytimg.com/vi/X4W8bagB1-k/mqdefault.jpg",
                         "title": "重要事項詢問",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "Uvsda99QB9w",
+                        "image": "https://i.ytimg.com/vi/Uvsda99QB9w/mqdefault.jpg",
+                        "title": "【初出道3D時期大公開】onegai darling【#shorts 】",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     }
                 ]
@@ -183,15 +195,15 @@
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
-                        "video_code": "p-550oAv1is",
-                        "image": "https://i.ytimg.com/vi/p-550oAv1is/mqdefault.jpg",
-                        "title": "【＃2021魔女血月祭​ 】絕對會唱錯，不過還是要開的歌回！",
-                        "author": "十七夜月 佳奈【香港Vtuber】"
-                    },
-                    {
                         "video_code": "b-Fpl8hCaDA",
                         "image": "https://i.ytimg.com/vi/b-Fpl8hCaDA/mqdefault.jpg",
                         "title": "【聲劇類】ASMR-病嬌劇本【936radio】",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "p-550oAv1is",
+                        "image": "https://i.ytimg.com/vi/p-550oAv1is/mqdefault.jpg",
+                        "title": "【＃2021魔女血月祭​ 】絕對會唱錯，不過還是要開的歌回！",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {

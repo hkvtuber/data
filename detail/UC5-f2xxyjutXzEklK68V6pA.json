@@ -59,6 +59,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "_DHkfh2SEq4",
+                        "image": "https://i.ytimg.com/vi/_DHkfh2SEq4/mqdefault.jpg",
+                        "title": "【早晨練習】繼續努力~【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -80,6 +94,12 @@
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
+                        "video_code": "JoY9orsbHRc",
+                        "image": "https://i.ytimg.com/vi/JoY9orsbHRc/mqdefault.jpg",
+                        "title": "【遊戲】FALL GUYS來玩啦✨觀眾可參加✨【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
                         "video_code": "u9ahShvvXIo",
                         "image": "https://i.ytimg.com/vi/u9ahShvvXIo/mqdefault.jpg",
                         "title": "【早晨練習】 開聲+唱歌/咬字練習 為左Aimer!!!!!【Rubi露比 HKvtuber】",
@@ -98,9 +118,9 @@
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
-                        "video_code": "_nkX2Y-MClY",
-                        "image": "https://i.ytimg.com/vi/_nkX2Y-MClY/mqdefault.jpg",
-                        "title": "【雜談】STEAM 有咩玩~【Rubi露比 HKvtuber】",
+                        "video_code": "7VtzHR16v6A",
+                        "image": "https://i.ytimg.com/vi/7VtzHR16v6A/mqdefault.jpg",
+                        "title": "【雜談】廢人計劃?! 【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
@@ -113,12 +133,6 @@
                         "video_code": "MJ2_BUphAhk",
                         "image": "https://i.ytimg.com/vi/MJ2_BUphAhk/mqdefault.jpg",
                         "title": "【雜談】🖤廢水大分享🖤【Rubi露比 HKvtuber】",
-                        "author": "Rubi露比【新人HKvtuber】"
-                    },
-                    {
-                        "video_code": "cXHz3KUo7mo",
-                        "image": "https://i.ytimg.com/vi/cXHz3KUo7mo/mqdefault.jpg",
-                        "title": "【雜談】講下初配信後的感想 (●´ϖ`●) 【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     }
                 ]

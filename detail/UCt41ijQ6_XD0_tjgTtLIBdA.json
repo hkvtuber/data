@@ -151,15 +151,33 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "7BfDfLfFat0",
+                        "image": "https://i.ytimg.com/vi/7BfDfLfFat0/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
                         "video_code": "yLkeBt3Xi6I",
                         "image": "https://i.ytimg.com/vi/yLkeBt3Xi6I/mqdefault.jpg",
                         "title": "KeshaWorks Broadcast Test",
                         "author": "Himegami Ch. 姫神さま [HK Vtuber]"
                     },
                     {
+                        "video_code": "_v_RfMpQi0g",
+                        "image": "https://i.ytimg.com/vi/_v_RfMpQi0g/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
                         "video_code": "Z1Aad0pTH5w",
                         "image": "https://i.ytimg.com/vi/Z1Aad0pTH5w/mqdefault.jpg",
                         "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "FIqertLcshA",
+                        "image": "https://i.ytimg.com/vi/FIqertLcshA/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
                         "author": "Himegami Ch. 姫神さま [HK Vtuber]"
                     },
                     {
@@ -175,39 +193,21 @@
                         "author": "Himegami Ch. 姫神さま [HK Vtuber]"
                     },
                     {
+                        "video_code": "YtcRsXs3qCY",
+                        "image": "https://i.ytimg.com/vi/YtcRsXs3qCY/mqdefault.jpg",
+                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
+                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
+                    },
+                    {
                         "video_code": "5zXFwLleDdI",
                         "image": "https://i.ytimg.com/vi/5zXFwLleDdI/mqdefault.jpg",
                         "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
                         "author": "Himegami Ch. 姫神さま [HK Vtuber]"
                     },
                     {
-                        "video_code": "u2fAr7sjsvA",
-                        "image": "https://i.ytimg.com/vi/u2fAr7sjsvA/mqdefault.jpg",
+                        "video_code": "h_8AWJGnWTA",
+                        "image": "https://i.ytimg.com/vi/h_8AWJGnWTA/mqdefault.jpg",
                         "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
-                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
-                    },
-                    {
-                        "video_code": "lznfrT1hqwM",
-                        "image": "https://i.ytimg.com/vi/lznfrT1hqwM/mqdefault.jpg",
-                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
-                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
-                    },
-                    {
-                        "video_code": "hv_wcXdULjU",
-                        "image": "https://i.ytimg.com/vi/hv_wcXdULjU/mqdefault.jpg",
-                        "title": "モンスターハンター：ワールド~Kesha Hime ACG Channel ~姫神様的二次元空間~",
-                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
-                    },
-                    {
-                        "video_code": "TqHe2H0UJG8",
-                        "image": "https://i.ytimg.com/vi/TqHe2H0UJG8/mqdefault.jpg",
-                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ：サンブレイク~MH Rise~Sunbreak",
-                        "author": "Himegami Ch. 姫神さま [HK Vtuber]"
-                    },
-                    {
-                        "video_code": "uxgHZ76eBDE",
-                        "image": "https://i.ytimg.com/vi/uxgHZ76eBDE/mqdefault.jpg",
-                        "title": "[English~中文~日本語]~姫神さま~モンスターハンターライズ~MH Rise",
                         "author": "Himegami Ch. 姫神さま [HK Vtuber]"
                     }
                 ]

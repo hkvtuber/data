@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FVJajcsaIAAW4oQ?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FVJajcsaIAAW4oQ?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -180,15 +168,15 @@
                         "author": "馬特斯‧文迪 Matex Vamdy 【HKVtuber】"
                     },
                     {
-                        "video_code": "YMZnxES4mA4",
-                        "image": "https://i.ytimg.com/vi/YMZnxES4mA4/mqdefault.jpg",
-                        "title": "【Chicken Police #3】呢單野唔係咁簡單",
-                        "author": "馬特斯‧文迪 Matex Vamdy 【HKVtuber】"
-                    },
-                    {
                         "video_code": "R2BvYTtZoGo",
                         "image": "https://i.ytimg.com/vi/R2BvYTtZoGo/mqdefault.jpg",
                         "title": "【Chicken Police】雙雞探長？",
+                        "author": "馬特斯‧文迪 Matex Vamdy 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "YMZnxES4mA4",
+                        "image": "https://i.ytimg.com/vi/YMZnxES4mA4/mqdefault.jpg",
+                        "title": "【Chicken Police #3】呢單野唔係咁簡單",
                         "author": "馬特斯‧文迪 Matex Vamdy 【HKVtuber】"
                     },
                     {

@@ -115,6 +115,44 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "-BQPUvbkVLk",
+                        "image": "https://i.ytimg.com/vi/-BQPUvbkVLk/mqdefault.jpg",
+                        "title": "【初配信】宅左千年既九尾狐要出道成為idol？！狐狸這麼可愛怎麼可以不推！",
+                        "author": "Sen Ch. 天ノ宮せん"
+                    },
+                    {
+                        "video_code": "zI56VT8mbq4",
+                        "image": "https://i.ytimg.com/vi/zI56VT8mbq4/mqdefault.jpg",
+                        "title": "【雜談】初配信後日談，來聊聊當時的想法",
+                        "author": "Sen Ch. 天ノ宮せん"
+                    },
+                    {
+                        "video_code": "y1w6PYLP6_c",
+                        "image": "https://i.ytimg.com/vi/y1w6PYLP6_c/mqdefault.jpg",
+                        "title": "【雀魂】觀眾參加型！來決鬥吧！",
+                        "author": "Sen Ch. 天ノ宮せん"
+                    },
+                    {
+                        "video_code": "LnZX2KF-ikI",
+                        "image": "https://i.ytimg.com/vi/LnZX2KF-ikI/mqdefault.jpg",
+                        "title": "【歌枠】初歌回！挑戰難聽既極限？",
+                        "author": "Sen Ch. 天ノ宮せん"
+                    },
+                    {
+                        "video_code": "Cn4U7-NC5gk",
+                        "image": "https://i.ytimg.com/vi/Cn4U7-NC5gk/mqdefault.jpg",
+                        "title": "【Fall Guys】聽說這個遊戲可以摸到很多人...？",
+                        "author": "Sen Ch. 天ノ宮せん"
+                    }
+                ]
+            }
         }
     ]
 }

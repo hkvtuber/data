@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FVihHzvVEAET4pN?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FVihHzvVEAET4pN?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FYaQOQQVEAAlhCk?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYaQOQQVEAAlhCk?format=jpg&name=medium"
                     }
                 ]
             }
@@ -102,12 +102,6 @@
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "1lN9WhrYUUM",
-                        "image": "https://i.ytimg.com/vi/1lN9WhrYUUM/mqdefault.jpg",
-                        "title": "警示鞋宣傳短片",
-                        "author": "Ding's Gaming Channel"
-                    },
-                    {
                         "video_code": "BLrgqBBE4Io",
                         "image": "https://i.ytimg.com/vi/BLrgqBBE4Io/mqdefault.jpg",
                         "title": "じっくり絵心教室 - スプラトゥーン　ラストフェス応援",
@@ -135,6 +129,12 @@
                         "video_code": "cqmYy-lOx3M",
                         "image": "https://i.ytimg.com/vi/cqmYy-lOx3M/mqdefault.jpg",
                         "title": "じっくり絵心教室 - スプラトゥーン　メリークリスマス",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "dSp8wbASc8g",
+                        "image": "https://i.ytimg.com/vi/dSp8wbASc8g/mqdefault.jpg",
+                        "title": "【試唱／歌ってみた】Space Dog",
                         "author": "Ding's Gaming Channel"
                     }
                 ]
@@ -170,15 +170,15 @@
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "1kQ6Fsbu2to",
-                        "image": "https://i.ytimg.com/vi/1kQ6Fsbu2to/mqdefault.jpg",
-                        "title": "韓製AVG 《BURIED STARS》#1 - 選秀節目大慘事",
-                        "author": "Ding's Gaming Channel"
-                    },
-                    {
                         "video_code": "vT446YS9TXA",
                         "image": "https://i.ytimg.com/vi/vT446YS9TXA/mqdefault.jpg",
                         "title": "大逆轉裁判 - #1 我選擇自辯！",
+                        "author": "Ding's Gaming Channel"
+                    },
+                    {
+                        "video_code": "1kQ6Fsbu2to",
+                        "image": "https://i.ytimg.com/vi/1kQ6Fsbu2to/mqdefault.jpg",
+                        "title": "韓製AVG 《BURIED STARS》#1 - 選秀節目大慘事",
                         "author": "Ding's Gaming Channel"
                     },
                     {
@@ -194,15 +194,15 @@
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "mX11vzXLrGg",
-                        "image": "https://i.ytimg.com/vi/mX11vzXLrGg/mqdefault.jpg",
-                        "title": "【心跳回憶GS4】#2 冰室先生你冷靜啲！",
+                        "video_code": "7ASGQtHQ8ac",
+                        "image": "https://i.ytimg.com/vi/7ASGQtHQ8ac/mqdefault.jpg",
+                        "title": "【新衣裝發表】外星人有新衫！【HKVTuber/Ding】",
                         "author": "Ding's Gaming Channel"
                     },
                     {
-                        "video_code": "BNN0_98fLQQ",
-                        "image": "https://i.ytimg.com/vi/BNN0_98fLQQ/mqdefault.jpg",
-                        "title": "【第一次的遊戲程式設計】外星人要玩小遊戲！【HKVTuber/Ding】",
+                        "video_code": "mX11vzXLrGg",
+                        "image": "https://i.ytimg.com/vi/mX11vzXLrGg/mqdefault.jpg",
+                        "title": "【心跳回憶GS4】#2 冰室先生你冷靜啲！",
                         "author": "Ding's Gaming Channel"
                     }
                 ]

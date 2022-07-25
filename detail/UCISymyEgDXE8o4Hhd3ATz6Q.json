@@ -100,6 +100,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "7RN9xdgSy9k",
+                        "image": "https://i.ytimg.com/vi/7RN9xdgSy9k/mqdefault.jpg",
+                        "title": "【觀眾精華】澪音的第一次///就在這裡了",
+                        "author": "澪音 【香港vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {

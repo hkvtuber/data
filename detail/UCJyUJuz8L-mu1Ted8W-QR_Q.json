@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FXlNT8uagAAmErb?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FXlNT8uagAAmErb?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -195,15 +183,15 @@
                         "author": "貓耳 Nekomix Ch."
                     },
                     {
-                        "video_code": "ciaCSlv0SPM",
-                        "image": "https://i.ytimg.com/vi/ciaCSlv0SPM/mqdefault.jpg",
-                        "title": "🔴【🀄️貓耳日麻 MP16】繼續雀士之路 | 衝等 + 觀眾同樂場 (耐久了~) 【雀魂 Mahjong Soul】",
-                        "author": "貓耳 Nekomix Ch."
-                    },
-                    {
                         "video_code": "MrW_16Egw1s",
                         "image": "https://i.ytimg.com/vi/MrW_16Egw1s/mqdefault.jpg",
                         "title": "【貓耳亂播 EP.110】在重生前來聊聊天 貓耳重生凸待 (前編)",
+                        "author": "貓耳 Nekomix Ch."
+                    },
+                    {
+                        "video_code": "ciaCSlv0SPM",
+                        "image": "https://i.ytimg.com/vi/ciaCSlv0SPM/mqdefault.jpg",
+                        "title": "🔴【🀄️貓耳日麻 MP16】繼續雀士之路 | 衝等 + 觀眾同樂場 (耐久了~) 【雀魂 Mahjong Soul】",
                         "author": "貓耳 Nekomix Ch."
                     },
                     {
@@ -213,15 +201,15 @@
                         "author": "貓耳 Nekomix Ch."
                     },
                     {
-                        "video_code": "TOJ7c--KeG0",
-                        "image": "https://i.ytimg.com/vi/TOJ7c--KeG0/mqdefault.jpg",
-                        "title": "🔴【🀄️貓耳日麻 MP17】繼續雀士之路 | 衝等 + 觀眾同樂場【雀魂 Mahjong Soul】",
-                        "author": "貓耳 Nekomix Ch."
-                    },
-                    {
                         "video_code": "PsQ81_gA-r8",
                         "image": "https://i.ytimg.com/vi/PsQ81_gA-r8/mqdefault.jpg",
                         "title": "🔴LIVE【貓耳亂播 EP.119】貓耳日麻 | 衝等 + 觀眾場 【雀魂 Mahjong Soul】",
+                        "author": "貓耳 Nekomix Ch."
+                    },
+                    {
+                        "video_code": "TOJ7c--KeG0",
+                        "image": "https://i.ytimg.com/vi/TOJ7c--KeG0/mqdefault.jpg",
+                        "title": "🔴【🀄️貓耳日麻 MP17】繼續雀士之路 | 衝等 + 觀眾同樂場【雀魂 Mahjong Soul】",
                         "author": "貓耳 Nekomix Ch."
                     },
                     {

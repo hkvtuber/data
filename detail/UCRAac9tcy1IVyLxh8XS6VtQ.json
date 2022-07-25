@@ -76,6 +76,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "iZEfPJA5xj8",
+                        "image": "https://i.ytimg.com/vi/iZEfPJA5xj8/mqdefault.jpg",
+                        "title": "Vtuber日麻部 One Night交流戰 #香港vtuber #Vtuber日麻部",
+                        "author": "紫"
+                    },
+                    {
                         "video_code": "kWm9gpc-f_M",
                         "image": "https://i.ytimg.com/vi/kWm9gpc-f_M/mqdefault.jpg",
                         "title": "Purple初配信土炮預告，請支持5月7日晚上8時半初配信",
@@ -102,6 +108,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "uiagkPyMrdI",
+                        "image": "https://i.ytimg.com/vi/uiagkPyMrdI/mqdefault.jpg",
+                        "title": "Vtuber日麻部 One Night交流戰 #香港vtuber #Vtuber日麻部",
+                        "author": "紫"
+                    },
+                    {
                         "video_code": "yhBq8uaE1iU",
                         "image": "https://i.ytimg.com/vi/yhBq8uaE1iU/mqdefault.jpg",
                         "title": "Vtuber日麻部 7月部活DAY1 熱身邀請賽 #香港vtuber #vtuber日麻部",
@@ -120,6 +132,12 @@
                         "author": "紫"
                     },
                     {
+                        "video_code": "fKaX7kdTz20",
+                        "image": "https://i.ytimg.com/vi/fKaX7kdTz20/mqdefault.jpg",
+                        "title": "日麻部事故現場 (第三直播室)",
+                        "author": "紫"
+                    },
+                    {
                         "video_code": "rbsGsn8lUQI",
                         "image": "https://i.ytimg.com/vi/rbsGsn8lUQI/mqdefault.jpg",
                         "title": "日麻部測試 (前半)+ MHR新角開荒(後半) #香港vtuber  #Vtuber日麻部 #麻雀一番街",
@@ -132,6 +150,12 @@
                         "author": "紫"
                     },
                     {
+                        "video_code": "MZYUA1zPETo",
+                        "image": "https://i.ytimg.com/vi/MZYUA1zPETo/mqdefault.jpg",
+                        "title": "突發砌機現場：換換病Purple今晚來換機箱",
+                        "author": "紫"
+                    },
+                    {
                         "video_code": "JmEP42MGOPE",
                         "image": "https://i.ytimg.com/vi/JmEP42MGOPE/mqdefault.jpg",
                         "title": "星期六專題：談自組電腦",
@@ -141,24 +165,6 @@
                         "video_code": "EtH1Ok-u5jw",
                         "image": "https://i.ytimg.com/vi/EtH1Ok-u5jw/mqdefault.jpg",
                         "title": "MHRS 自由參與型貓車團 絕對貓車時間 #香港vtuber #hkvtuber #monsterhunterrisesunbreak",
-                        "author": "紫"
-                    },
-                    {
-                        "video_code": "ZMvyC_S-AKA",
-                        "image": "https://i.ytimg.com/vi/ZMvyC_S-AKA/mqdefault.jpg",
-                        "title": "遊戲王DM 鑽石1耐久台 Part2",
-                        "author": "紫"
-                    },
-                    {
-                        "video_code": "VNpkwcJ6G1U",
-                        "image": "https://i.ytimg.com/vi/VNpkwcJ6G1U/mqdefault.jpg",
-                        "title": "突發！麻雀一番街試玩",
-                        "author": "紫"
-                    },
-                    {
-                        "video_code": "4kJCOmP-rFE",
-                        "image": "https://i.ytimg.com/vi/4kJCOmP-rFE/mqdefault.jpg",
-                        "title": "星期六專題：談自組電腦",
                         "author": "紫"
                     }
                 ]

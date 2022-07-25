@@ -103,26 +103,6 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "M4pbiG9D0Tc",
-                        "image": "https://i.ytimg.com/vi/M4pbiG9D0Tc/mqdefault.jpg",
-                        "title": "Hello?你好?",
-                        "author": "沐幽 MukJau Ch. [HKVtuber]"
-                    },
-                    {
-                        "video_code": "Q-Y5mpTfuAQ",
-                        "image": "https://i.ytimg.com/vi/Q-Y5mpTfuAQ/mqdefault.jpg",
-                        "title": "【Elden Ring】直播結束後的激戰 ! 3:20:00 的最後5分鐘...【HKVtuber/ 沐幽】",
-                        "author": "沐幽 MukJau Ch. [HKVtuber]"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -144,15 +124,15 @@
                         "author": "沐幽 MukJau Ch. [HKVtuber]"
                     },
                     {
-                        "video_code": "dQHGzhdJbdo",
-                        "image": "https://i.ytimg.com/vi/dQHGzhdJbdo/mqdefault.jpg",
-                        "title": "【聯動◈廣東話/粵語】Satisfactory #2【HKVtuber/ 沐幽】",
-                        "author": "沐幽 MukJau Ch. [HKVtuber]"
-                    },
-                    {
                         "video_code": "AkgbtzZh7t4",
                         "image": "https://i.ytimg.com/vi/AkgbtzZh7t4/mqdefault.jpg",
                         "title": "【廣東話/粵語】好久沒玩的Apex ~ 感覺自己變爛了【HKVtuber/ 沐幽】",
+                        "author": "沐幽 MukJau Ch. [HKVtuber]"
+                    },
+                    {
+                        "video_code": "dQHGzhdJbdo",
+                        "image": "https://i.ytimg.com/vi/dQHGzhdJbdo/mqdefault.jpg",
+                        "title": "【聯動◈廣東話/粵語】Satisfactory #2【HKVtuber/ 沐幽】",
                         "author": "沐幽 MukJau Ch. [HKVtuber]"
                     },
                     {

@@ -86,6 +86,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "-wt0dS_v-ZA",
+                        "image": "https://i.ytimg.com/vi/-wt0dS_v-ZA/mqdefault.jpg",
+                        "title": "能多來看看留萌嗎。。",
+                        "author": "犬見留萌 InumiRumoi Ch."
+                    }
+                ]
+            }
         }
     ]
 }

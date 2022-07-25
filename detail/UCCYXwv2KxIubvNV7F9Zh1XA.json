@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYDNxCyaUAAcagV?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYDNxCyaUAAcagV?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -93,20 +105,6 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "pHFjKozoDmo",
-                        "image": "https://i.ytimg.com/vi/pHFjKozoDmo/mqdefault.jpg",
-                        "title": "【COVER】星間飛行 || covered by 萌香百花 MOKA MOMOKA || Stardio🌟",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -158,15 +156,15 @@
                         "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
                     },
                     {
-                        "video_code": "wn5pcLC5H48",
-                        "image": "https://i.ytimg.com/vi/wn5pcLC5H48/mqdefault.jpg",
-                        "title": "【Dead by Daylight】KUMI初見DBD~與他一起享受被追的快感💋💦",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
                         "video_code": "IQEdE7cGpAs",
                         "image": "https://i.ytimg.com/vi/IQEdE7cGpAs/mqdefault.jpg",
                         "title": "【Muse Dash】啪，沒了🤲🏽",
+                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
+                    },
+                    {
+                        "video_code": "1miLrXBOyws",
+                        "image": "https://i.ytimg.com/vi/1miLrXBOyws/mqdefault.jpg",
+                        "title": "【KA路里系列】晚飯雜談~和大家聊聊天! @銀十 Ginto Ch.【Stardio所屬】  #hkvtuber  #EternalGarden",
                         "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
                     }
                 ]

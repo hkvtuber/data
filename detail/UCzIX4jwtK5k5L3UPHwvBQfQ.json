@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYT8oU4X0AAbNBm?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYT8oU4X0AAbNBm?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -153,15 +165,15 @@
                         "author": "Tora Ch. 雪見とら【HKVTuber】"
                     },
                     {
-                        "video_code": "95raIHZpcb4",
-                        "image": "https://i.ytimg.com/vi/95raIHZpcb4/mqdefault.jpg",
-                        "title": "❄️ 【自我介紹】這隻白虎很想吃烏冬🤤【HKVTuber/雪見縚那】",
+                        "video_code": "3bbIPslJOB0",
+                        "image": "https://i.ytimg.com/vi/3bbIPslJOB0/mqdefault.jpg",
+                        "title": "💧沒有歌名因為不想想 / 雪見縚那【原創曲demo】",
                         "author": "Tora Ch. 雪見とら【HKVTuber】"
                     },
                     {
-                        "video_code": "HueisrZfBEY",
-                        "image": "https://i.ytimg.com/vi/HueisrZfBEY/mqdefault.jpg",
-                        "title": "🌙 ルナだけのために (Just for Moon) / 雪見とら【Official MV】",
+                        "video_code": "95raIHZpcb4",
+                        "image": "https://i.ytimg.com/vi/95raIHZpcb4/mqdefault.jpg",
+                        "title": "❄️ 【自我介紹】這隻白虎很想吃烏冬🤤【HKVTuber/雪見縚那】",
                         "author": "Tora Ch. 雪見とら【HKVTuber】"
                     }
                 ]
@@ -203,15 +215,15 @@
                         "author": "Tora Ch. 雪見とら【HKVTuber】"
                     },
                     {
-                        "video_code": "E0nWbrJTG4A",
-                        "image": "https://i.ytimg.com/vi/E0nWbrJTG4A/mqdefault.jpg",
-                        "title": "❄️ 【一天拖拉】睡醒後開始 有觀眾call-in和生日倒數~【雪見縚那/HKVtuber】",
-                        "author": "Tora Ch. 雪見とら【HKVTuber】"
-                    },
-                    {
                         "video_code": "NJ7VEuvmsu4",
                         "image": "https://i.ytimg.com/vi/NJ7VEuvmsu4/mqdefault.jpg",
                         "title": "❄️ 【生日凸待】今天Tora要吃窩夫🤤 【雪見縚那/HKVtuber】",
+                        "author": "Tora Ch. 雪見とら【HKVTuber】"
+                    },
+                    {
+                        "video_code": "E0nWbrJTG4A",
+                        "image": "https://i.ytimg.com/vi/E0nWbrJTG4A/mqdefault.jpg",
+                        "title": "❄️ 【一天拖拉】睡醒後開始 有觀眾call-in和生日倒數~【雪見縚那/HKVtuber】",
                         "author": "Tora Ch. 雪見とら【HKVTuber】"
                     },
                     {

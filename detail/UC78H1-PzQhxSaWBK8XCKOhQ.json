@@ -12,8 +12,20 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FUjkg4iUAAE_RPN?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUjkg4iUAAE_RPN?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FX2RBZCUEAEwqrW?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX2RBZCUEAEwqrW?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FX2RBY7VQAAaVWn?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX2RBY7VQAAaVWn?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FX2RBY5UIAIxcw4?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX2RBY5UIAIxcw4?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FX2RBY3UsAAUhOx?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FX2RBY3UsAAUhOx?format=jpg&name=medium"
                     }
                 ]
             }
@@ -143,15 +155,15 @@
                         "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
                     },
                     {
-                        "video_code": "ORRa7zWfGJE",
-                        "image": "https://i.ytimg.com/vi/ORRa7zWfGJE/mqdefault.jpg",
-                        "title": "【DCS WORLD】 BF109 1 v 1 P51【Hoshiai Yutaka /星合 豊 澳門Vtuber】",
-                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
-                    },
-                    {
                         "video_code": "ya3Igi5wF8c",
                         "image": "https://i.ytimg.com/vi/ya3Igi5wF8c/mqdefault.jpg",
                         "title": "【Escape from tarkov/塔科夫/タルコフ】  Can You Speak Japanese ? はい、私は日本語を話します【Hoshiai Yutaka 星合豊/澳門Vtuber】",
+                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
+                    },
+                    {
+                        "video_code": "ORRa7zWfGJE",
+                        "image": "https://i.ytimg.com/vi/ORRa7zWfGJE/mqdefault.jpg",
+                        "title": "【DCS WORLD】 BF109 1 v 1 P51【Hoshiai Yutaka /星合 豊 澳門Vtuber】",
                         "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
                     },
                     {
@@ -181,6 +193,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "GRtJE9zwFxI",
+                        "image": "https://i.ytimg.com/vi/GRtJE9zwFxI/mqdefault.jpg",
+                        "title": "【一週年紀念／新衣裝披露／凸待 / 茶繪】很多事情不是看到希望才堅持下去，而是堅持下去才看到希望【澳門VTuber】",
+                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
+                    },
+                    {
                         "video_code": "9i1BV9NgcZg",
                         "image": "https://i.ytimg.com/vi/9i1BV9NgcZg/mqdefault.jpg",
                         "title": "【性知識達人挑戰 】科學求正完全無羞恥心【Hoshiai Yutaka /星合 豊 澳門Vtuber】",
@@ -193,6 +211,12 @@
                         "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
                     },
                     {
+                        "video_code": "m7kBJMfeEUc",
+                        "image": "https://i.ytimg.com/vi/m7kBJMfeEUc/mqdefault.jpg",
+                        "title": "【一週年紀念／凸待 / 茶繪】等大家 ! 歡迎凸待 ! 第3夜【澳門VTuber】",
+                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
+                    },
+                    {
                         "video_code": "JnwI79geZ3c",
                         "image": "https://i.ytimg.com/vi/JnwI79geZ3c/mqdefault.jpg",
                         "title": "【hot wheels unleashed】速度與激情【星合豊/澳門Vtuber】",
@@ -202,6 +226,12 @@
                         "video_code": "kcvvvecuyd4",
                         "image": "https://i.ytimg.com/vi/kcvvvecuyd4/mqdefault.jpg",
                         "title": "【棟篤笑/雜談】男性朋友單兵應對死命題作戰技能手冊-化妝品篇",
+                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
+                    },
+                    {
+                        "video_code": "VIasUZeO_h8",
+                        "image": "https://i.ytimg.com/vi/VIasUZeO_h8/mqdefault.jpg",
+                        "title": "【一週年紀念／凸待 / 茶繪】歡迎凸待 ! 第2夜【澳門VTuber】",
                         "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
                     },
                     {
@@ -220,24 +250,6 @@
                         "video_code": "QUmgmIkElJU",
                         "image": "https://i.ytimg.com/vi/QUmgmIkElJU/mqdefault.jpg",
                         "title": "【初配信】只要能在天空飛，就擁有自由【澳門VTuber】【新人VTuber】",
-                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
-                    },
-                    {
-                        "video_code": "9UN7IW3f3ow",
-                        "image": "https://i.ytimg.com/vi/9UN7IW3f3ow/mqdefault.jpg",
-                        "title": "Re : 初配信",
-                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
-                    },
-                    {
-                        "video_code": "vpv8M8azu98",
-                        "image": "https://i.ytimg.com/vi/vpv8M8azu98/mqdefault.jpg",
-                        "title": "【APEX】 APEX 澳門JK頂獵【星合 豊 w/ 花崎あやめ 澳門Vtuber】",
-                        "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
-                    },
-                    {
-                        "video_code": "X5kMnFYBhBE",
-                        "image": "https://i.ytimg.com/vi/X5kMnFYBhBE/mqdefault.jpg",
-                        "title": "【APEX】R ! 3 ! 0 ! 雲 ! here ! 【Hoshiai Yutaka 星合 豊 澳門Vtuber/w 出雲ふゆ/香港Vtuber 】",
                         "author": "星合 豊/Hoshiai Yutaka channel 澳門Vtuber"
                     }
                 ]

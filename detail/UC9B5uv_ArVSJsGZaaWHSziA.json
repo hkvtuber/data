@@ -80,20 +80,6 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "rWNi5cVF10I",
-                        "image": "https://i.ytimg.com/vi/rWNi5cVF10I/mqdefault.jpg",
-                        "title": "【Getting Over It】初見耐久【HKVtuber/天宮 むすび】",
-                        "author": "Musubi ch. 天宮むすび"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -104,8 +90,20 @@
                     },
                     {
                         "video_code": "4ekf7ozYTUw",
-                        "image": "https://i.ytimg.com/vi/4ekf7ozYTUw/mqdefault_live.jpg",
+                        "image": "https://i.ytimg.com/vi/4ekf7ozYTUw/mqdefault.jpg",
                         "title": "【Getting Over It】初見耐久【HKVtuber/天宮 むすび】",
+                        "author": "Musubi ch. 天宮むすび"
+                    },
+                    {
+                        "video_code": "Rzr4VvMx6rU",
+                        "image": "https://i.ytimg.com/vi/Rzr4VvMx6rU/mqdefault.jpg",
+                        "title": "雜談&食棉花糖&出道日後談💖【HKVtuber/天宮 むすび】",
+                        "author": "Musubi ch. 天宮むすび"
+                    },
+                    {
+                        "video_code": "Yb8gj7_lGgU",
+                        "image": "https://i.ytimg.com/vi/Yb8gj7_lGgU/mqdefault.jpg",
+                        "title": "【籠中窺夢 Moncage】【HKVtuber/天宮 むすび】",
                         "author": "Musubi ch. 天宮むすび"
                     }
                 ]

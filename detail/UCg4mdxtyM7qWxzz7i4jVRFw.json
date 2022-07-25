@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FWbHdG4aUAMBZJf?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWbHdG4aUAMBZJf?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FPHJK2hakAAFr5Z?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FPHJK2hakAAFr5Z?format=jpg&name=medium"
                     }
                 ]
             }
@@ -118,15 +118,15 @@
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
-                        "video_code": "1-elV_WFchA",
-                        "image": "https://i.ytimg.com/vi/1-elV_WFchA/mqdefault.jpg",
-                        "title": "ゆめは的畢業禮【軒轅虛KYON】",
-                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
-                    },
-                    {
                         "video_code": "joROtBhfVA8",
                         "image": "https://i.ytimg.com/vi/joROtBhfVA8/mqdefault.jpg",
                         "title": "【一問一答】虛子我都要自我介紹~~~【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "1-elV_WFchA",
+                        "image": "https://i.ytimg.com/vi/1-elV_WFchA/mqdefault.jpg",
+                        "title": "ゆめは的畢業禮【軒轅虛KYON】",
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {

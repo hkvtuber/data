@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/Ekt7eufVMAAZO7Y?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/Ekt7eufVMAAZO7Y?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -113,64 +101,58 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "Hr-SeuEFWLU",
-                        "image": "https://i.ytimg.com/vi/Hr-SeuEFWLU/mqdefault.jpg",
-                        "title": "【歌ってみた🎵】講你知123！ feat. 蘇聯共產兒童合唱團【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
-                    },
-                    {
-                        "video_code": "e9FrOsQFhgQ",
-                        "image": "https://i.ytimg.com/vi/e9FrOsQFhgQ/mqdefault.jpg",
-                        "title": "【歌ってみた🎵】粵語版《派對咖孔明》 OP チキチキバンバン 【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
-                    },
-                    {
-                        "video_code": "nZYDF4MMoYI",
-                        "image": "https://i.ytimg.com/vi/nZYDF4MMoYI/mqdefault.jpg",
-                        "title": "【歌ってみた🎵】E先生連環不幸事件 【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
-                    },
-                    {
                         "video_code": "Honv1sQGVy8",
                         "image": "https://i.ytimg.com/vi/Honv1sQGVy8/mqdefault.jpg",
                         "title": "頭目戰挑戰 - 英招｜Time 1:12:37 無傷 No Damage｜見招拆招！挑戰小技巧解說｜九日Nine Sols【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "j_KwJ6Kibys",
                         "image": "https://i.ytimg.com/vi/j_KwJ6Kibys/mqdefault.jpg",
                         "title": "【For The King 直播精華】三人行必有小千｜絕地反擊一打三｜女巫唔食細路瘦皮包骨【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "OMHXDLs9lVI",
                         "image": "https://i.ytimg.com/vi/OMHXDLs9lVI/mqdefault.jpg",
                         "title": "【Resident Evil 3 直播精華】砲槍之鬼千秋 VS. 爆旋陀螺Nemesis？！【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "WtXuzraQnlQ",
                         "image": "https://i.ytimg.com/vi/WtXuzraQnlQ/mqdefault.jpg",
                         "title": "【中史鳩噏】岳飛當年參加奧運實情！姜濤其實係岳飛？！仲要識得分身術？！【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "V1aBmHPOeaw",
                         "image": "https://i.ytimg.com/vi/V1aBmHPOeaw/mqdefault.jpg",
                         "title": "【重大廢片！】狐貓生存日記EP.1 揾老細出糧【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "UECPmETxEX4",
                         "image": "https://i.ytimg.com/vi/UECPmETxEX4/mqdefault.jpg",
                         "title": "【遊戲精華】Inscryption 賭命牌卡 #1 - 出嚟啦歐西里斯嘅天空龍！第一章精華兼少量劇情【KitsuNeko Ch    香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "bmnNqXX1tXg",
                         "image": "https://i.ytimg.com/vi/bmnNqXX1tXg/mqdefault.jpg",
                         "title": "【Elden Ring精華ep1】真．隻狼式打法！拼刀拼死惡兆妖鬼！【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
+                    },
+                    {
+                        "video_code": "q3p52qCKdn0",
+                        "image": "https://i.ytimg.com/vi/q3p52qCKdn0/mqdefault.jpg",
+                        "title": "【APEX精華片段】尋甲犬一出手，便知有沒有！成地紫甲，你點同我鬥呀！【KitsuNeko Ch. | 香港VTuber】",
+                        "author": "狐塚千秋【Vtuber】"
+                    },
+                    {
+                        "video_code": "z8kaLtvMIJ0",
+                        "image": "https://i.ytimg.com/vi/z8kaLtvMIJ0/mqdefault.jpg",
+                        "title": "可愛蟲蟲騎士初到聖巢，竟遇巨大數倍的假騎士擋路！？《空洞騎士ep1》",
+                        "author": "狐塚千秋【Vtuber】"
                     }
                 ]
             }
@@ -181,64 +163,64 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "pnDn2qHAavo",
-                        "image": "https://i.ytimg.com/vi/pnDn2qHAavo/mqdefault.jpg",
-                        "title": "【重大花生】蒔幻Time與貓宮琉璃給我戴上了綠帽【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
-                    },
-                    {
                         "video_code": "zsfY9kvQWsg",
                         "image": "https://i.ytimg.com/vi/zsfY9kvQWsg/mqdefault.jpg",
                         "title": "【突發耍廢台】深夜雜談aka Time哥福利台 feat.蒔幻 タイム【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
+                    },
+                    {
+                        "video_code": "Zu9JavZOZDA",
+                        "image": "https://i.ytimg.com/vi/Zu9JavZOZDA/mqdefault.jpg",
+                        "title": "【道歉】一直以來支持的觀眾，對不起【狐塚千秋 | 香港VTuber】",
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "EwXhOzFJ_sw",
                         "image": "https://i.ytimg.com/vi/EwXhOzFJ_sw/mqdefault.jpg",
                         "title": "【200訂耐久＋(now)文字遊戲】紫萊姆追悼會，歌回，雀魂，文字遊戲（全破）【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "Jf_zcMhUVYQ",
                         "image": "https://i.ytimg.com/vi/Jf_zcMhUVYQ/mqdefault.jpg",
                         "title": "【圍主席爐】真心話大冒險！觀眾問我地答！唔敢答就飲！！！【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "mxi3UXob640",
                         "image": "https://i.ytimg.com/vi/mxi3UXob640/mqdefault.jpg",
                         "title": "【西樹泡芙評食會】訂西樹全menu嚟食！逐個逐個評分邊樣最好食！？【KitsuNeko Ch. | 香港VTuber】FT.三日月列凌 HanaNeko 貓村彌音",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "rvb_ZToSN0Y",
                         "image": "https://i.ytimg.com/vi/rvb_ZToSN0Y/mqdefault.jpg",
                         "title": "【突發耍廢台】放假又係時候隨心唱下歌開下雜談台！【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "R9jup79mu_Q",
                         "image": "https://i.ytimg.com/vi/R9jup79mu_Q/mqdefault.jpg",
                         "title": "【Getting Over It with Bennett Foddy #4】又又又又爬山... feat.三日月レーニン & はなねこ【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "hScCJyXeU9w",
                         "image": "https://i.ytimg.com/vi/hScCJyXeU9w/mqdefault.jpg",
                         "title": "【0識學砌機】由零開始學砌機｜竟然險些弄壞CPU？！ feat.猫村彌音【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
+                    },
+                    {
+                        "video_code": "D6bxGhXM6eo",
+                        "image": "https://i.ytimg.com/vi/D6bxGhXM6eo/mqdefault.jpg",
+                        "title": "【狐說八道】想開台吹水了~【KitsuNeko Ch. | 香港VTuber】",
+                        "author": "狐塚千秋【Vtuber】"
                     },
                     {
                         "video_code": "WcCfiBsvQeg",
                         "image": "https://i.ytimg.com/vi/WcCfiBsvQeg/mqdefault.jpg",
                         "title": "【Getting Over It with Bennett Foddy #1】陪Hana突發壺男！ feat.はなねこ【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
-                    },
-                    {
-                        "video_code": "FCy4tHhLwN0",
-                        "image": "https://i.ytimg.com/vi/FCy4tHhLwN0/mqdefault.jpg",
-                        "title": "【港V百萬富翁 EP.1】挑戰者: 三日月列凌&亞實 みのる【KitsuNeko Ch. | 香港VTuber】",
-                        "author": "KitsuNeko Channel"
+                        "author": "狐塚千秋【Vtuber】"
                     }
                 ]
             }

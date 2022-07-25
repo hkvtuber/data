@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FVCa_ZyagAI0p6i?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FVCa_ZyagAI0p6i?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -100,9 +88,9 @@
                         "author": "Makoto / 虚言まこと ch."
                     },
                     {
-                        "video_code": "Vt5fsgrpsMk",
-                        "image": "https://i.ytimg.com/vi/Vt5fsgrpsMk/mqdefault_live.jpg",
-                        "title": "【こんこと】十二星座 本週運程！(11/07~17/07)【虚言まこと】",
+                        "video_code": "tzupLIbVRlw",
+                        "image": "https://i.ytimg.com/vi/tzupLIbVRlw/mqdefault_live.jpg",
+                        "title": "【こんこと】十二星座 本週運程！(25/07~31/07)【虚言まこと】",
                         "author": "Makoto / 虚言まこと ch."
                     }
                 ]
@@ -138,15 +126,15 @@
                         "author": "Makoto / 虚言まこと ch."
                     },
                     {
-                        "video_code": "veqvXR11TWA",
-                        "image": "https://i.ytimg.com/vi/veqvXR11TWA/mqdefault.jpg",
-                        "title": "【鐵拳7】鐵拳7！Readly？Fight！！！【虚言まこと】",
-                        "author": "Makoto / 虚言まこと ch."
-                    },
-                    {
                         "video_code": "g_m-fjSw8_8",
                         "image": "https://i.ytimg.com/vi/g_m-fjSw8_8/mqdefault.jpg",
                         "title": "【迴淵迷城DEMO】在地下城尋求…啊不是，是作大死！是否搞錯了什麼www【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
+                        "video_code": "veqvXR11TWA",
+                        "image": "https://i.ytimg.com/vi/veqvXR11TWA/mqdefault.jpg",
+                        "title": "【鐵拳7】鐵拳7！Readly？Fight！！！【虚言まこと】",
                         "author": "Makoto / 虚言まこと ch."
                     },
                     {

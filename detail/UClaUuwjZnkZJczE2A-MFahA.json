@@ -7,22 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FWaxI_kakAA3JfU?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWaxI_kakAA3JfU?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FWaxI_maMAARXMZ?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWaxI_maMAARXMZ?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -195,15 +179,15 @@
                         "author": "Kuri ch. 織夢 玖璃"
                     },
                     {
-                        "video_code": "VmvHSRxhoWE",
-                        "image": "https://i.ytimg.com/vi/VmvHSRxhoWE/mqdefault.jpg",
-                        "title": "[達人問答]係呀，又做卷ww 廣東話達人挑戰！ [🐧HKvTuber玖璃]",
-                        "author": "Kuri ch. 織夢 玖璃"
-                    },
-                    {
                         "video_code": "YVS93mWShRA",
                         "image": "https://i.ytimg.com/vi/YVS93mWShRA/mqdefault.jpg",
                         "title": "[among us 聯動] 初見就係時候心結喇 ft.很多人（玖璃視覺） [🐧HKvTuber玖璃]",
+                        "author": "Kuri ch. 織夢 玖璃"
+                    },
+                    {
+                        "video_code": "VmvHSRxhoWE",
+                        "image": "https://i.ytimg.com/vi/VmvHSRxhoWE/mqdefault.jpg",
+                        "title": "[達人問答]係呀，又做卷ww 廣東話達人挑戰！ [🐧HKvTuber玖璃]",
                         "author": "Kuri ch. 織夢 玖璃"
                     }
                 ]

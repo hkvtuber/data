@@ -69,32 +69,6 @@
                     }
                 ]
             }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "zv5jxJ9IBz8",
-                        "image": "https://i.ytimg.com/vi/zv5jxJ9IBz8/mqdefault.jpg",
-                        "title": "【Cover】KING/Kanaria cover by 御神火令華",
-                        "author": "御神火令華 Reika Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "TS-TXCoogFk",
-                        "image": "https://i.ytimg.com/vi/TS-TXCoogFk/mqdefault.jpg",
-                        "title": "【Debut Pv】閻王降臨 | 御神火令華 |  Stardio |",
-                        "author": "御神火令華 Reika Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "KkAe0tEQtEU",
-                        "image": "https://i.ytimg.com/vi/KkAe0tEQtEU/mqdefault.jpg",
-                        "title": "【Re：Debut Pv】閻王降臨2.0 | 御神火令華 | Stardio |",
-                        "author": "御神火令華 Reika Ch. 【Stardio所屬】"
-                    }
-                ]
-            }
         }
     ]
 }

@@ -173,15 +173,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "M2wLURSiB2Q",
-                        "image": "https://i.ytimg.com/vi/M2wLURSiB2Q/mqdefault.jpg",
-                        "title": "[雜談]初六上水同大家傾下啦!的らく直播台![らく][香港VTuber]",
-                        "author": "らく_さん[香港VTuber]"
-                    },
-                    {
                         "video_code": "eqY5GcK2p7g",
                         "image": "https://i.ytimg.com/vi/eqY5GcK2p7g/mqdefault.jpg",
                         "title": "[歌唱台]2021最後的らく歌唱台[らく][香港VTuber]",
+                        "author": "らく_さん[香港VTuber]"
+                    },
+                    {
+                        "video_code": "M2wLURSiB2Q",
+                        "image": "https://i.ytimg.com/vi/M2wLURSiB2Q/mqdefault.jpg",
+                        "title": "[雜談]初六上水同大家傾下啦!的らく直播台![らく][香港VTuber]",
                         "author": "らく_さん[香港VTuber]"
                     },
                     {

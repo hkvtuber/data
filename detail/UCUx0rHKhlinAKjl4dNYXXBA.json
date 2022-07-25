@@ -7,22 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FUk0Q7-UUAIpoSc?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUk0Q7-UUAIpoSc?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FUk0SYKUsAAiuPX?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUk0SYKUsAAiuPX?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -128,6 +112,12 @@
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
+                        "video_code": "o9Z4i4oOo2s",
+                        "image": "https://i.ytimg.com/vi/o9Z4i4oOo2s/mqdefault.jpg",
+                        "title": "為什麼你要dd🥺🥺",
+                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                    },
+                    {
                         "video_code": "zylJhoC3yHI",
                         "image": "https://i.ytimg.com/vi/zylJhoC3yHI/mqdefault.jpg",
                         "title": "如果可以full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
@@ -146,9 +136,9 @@
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
-                        "video_code": "o9Z4i4oOo2s",
-                        "image": "https://i.ytimg.com/vi/o9Z4i4oOo2s/mqdefault.jpg",
-                        "title": "為什麼你要dd🥺🥺",
+                        "video_code": "VfwVNo0u6P0",
+                        "image": "https://i.ytimg.com/vi/VfwVNo0u6P0/mqdefault.jpg",
+                        "title": "可以喜歡Kana嗎🥺💖",
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
@@ -158,9 +148,9 @@
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
-                        "video_code": "VfwVNo0u6P0",
-                        "image": "https://i.ytimg.com/vi/VfwVNo0u6P0/mqdefault.jpg",
-                        "title": "可以喜歡Kana嗎🥺💖",
+                        "video_code": "cFod_jb_Kww",
+                        "image": "https://i.ytimg.com/vi/cFod_jb_Kww/mqdefault.jpg",
+                        "title": "【歌回精華】要愛愛full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
@@ -173,12 +163,6 @@
                         "video_code": "cK7Y4-rdk-M",
                         "image": "https://i.ytimg.com/vi/cK7Y4-rdk-M/mqdefault.jpg",
                         "title": "戀愛畫板full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "9td5ucgsSdA",
-                        "image": "https://i.ytimg.com/vi/9td5ucgsSdA/mqdefault.jpg",
-                        "title": "到底這人有什麼毛病...",
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     }
                 ]
@@ -220,9 +204,15 @@
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
-                        "video_code": "EOV1QIbfD4o",
-                        "image": "https://i.ytimg.com/vi/EOV1QIbfD4o/mqdefault.jpg",
-                        "title": "【雀魂】雀魂高手！出統?不存在的！【貓又ガシア/香港VTuber】",
+                        "video_code": "N93y_a3kELM",
+                        "image": "https://i.ytimg.com/vi/N93y_a3kELM/mqdefault.jpg",
+                        "title": "【500訂閱慶祝日子】終於達到了500訂閱了，感謝大家一直的陪伴!!【貓又ガシア/香港VTuber】",
+                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                    },
+                    {
+                        "video_code": "b4wdiYDeaBc",
+                        "image": "https://i.ytimg.com/vi/b4wdiYDeaBc/mqdefault.jpg",
+                        "title": "【 Five Nights at Freddy's 4】好驚啊啊啊啊QAQ應該...不會暴言吧!!!!!!【貓又ガシア/香港VTuber】",
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
@@ -232,21 +222,15 @@
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     },
                     {
+                        "video_code": "EOV1QIbfD4o",
+                        "image": "https://i.ytimg.com/vi/EOV1QIbfD4o/mqdefault.jpg",
+                        "title": "【雀魂】雀魂高手！出統?不存在的！【貓又ガシア/香港VTuber】",
+                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                    },
+                    {
                         "video_code": "DPBZ7oyWVV0",
                         "image": "https://i.ytimg.com/vi/DPBZ7oyWVV0/mqdefault.jpg",
                         "title": "【突發歌回】突然想唱歌♥可以點歌，會唱就唱♥專心唱歌【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "Q5YW7I1s6wc",
-                        "image": "https://i.ytimg.com/vi/Q5YW7I1s6wc/mqdefault.jpg",
-                        "title": "【歌回】今天只唱廣東話歌~【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "pvsq210nLTQ",
-                        "image": "https://i.ytimg.com/vi/pvsq210nLTQ/mqdefault.jpg",
-                        "title": "【雀魂】觀衆參加型✧這一次絕對不會輸!!【貓又ガシア/香港VTuber】",
                         "author": "Kana Ch. 貓又ガシア【HKvtuber】"
                     }
                 ]

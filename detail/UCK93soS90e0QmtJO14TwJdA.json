@@ -112,12 +112,6 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "QmECFBNAETE",
-                        "image": "https://i.ytimg.com/vi/QmECFBNAETE/mqdefault.jpg",
-                        "title": "【自己紹介 | Q&A Self Introduction】🐐Vtuber 一問一答自己紹介【黑木ヤギ/HKVTuber】",
-                        "author": "Yagi Ch. 黑木ヤギ"
-                    },
-                    {
                         "video_code": "1QZGxnPnd5I",
                         "image": "https://i.ytimg.com/vi/1QZGxnPnd5I/mqdefault.jpg",
                         "title": "🐐🔥炎上山羊 (物理) 【黑木ヤギ | HKVtuber】【香港Vtuber精華】(繁中字幕/ENG SUB)",
@@ -163,6 +157,12 @@
                         "video_code": "UIl2yCK1P_4",
                         "image": "https://i.ytimg.com/vi/UIl2yCK1P_4/mqdefault.jpg",
                         "title": "【SPEEDPAINT】Vox Akuma | NIJISANJI 縮時繪圖過程 #shorts #procreate",
+                        "author": "Yagi Ch. 黑木ヤギ"
+                    },
+                    {
+                        "video_code": "5MKHYcWOgxU",
+                        "image": "https://i.ytimg.com/vi/5MKHYcWOgxU/mqdefault.jpg",
+                        "title": "【直播精華】小兒麻痺🐐爆笑合輯 EP.1【黑木ヤギ | HKVTUBER】【香港Vtuber精華】( CC 中文字幕 )",
                         "author": "Yagi Ch. 黑木ヤギ"
                     },
                     {

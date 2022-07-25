@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FTDxwOwagAYmxwn?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FTDxwOwagAYmxwn?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -78,74 +66,6 @@
                     {
                         "key": "twitter",
                         "path": "SIdXgDFoOG3bKjU"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "7-LRNcVcZ5k",
-                        "image": "https://i.ytimg.com/vi/7-LRNcVcZ5k/mqdefault.jpg",
-                        "title": "[稜_月9砌模型]我哋搵咗三個月喇.砌完先收台,稜斬月,暴走型hkvtuber",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "rwUnbIeyGDI",
-                        "image": "https://i.ytimg.com/vi/rwUnbIeyGDI/mqdefault.jpg",
-                        "title": "APEX FINAL 辭職.EXE",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "fi1924vaOPE",
-                        "image": "https://i.ytimg.com/vi/fi1924vaOPE/mqdefault.jpg",
-                        "title": "APEX.EXE，ＮＧ",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "sYdPrGViTHk",
-                        "image": "https://i.ytimg.com/vi/sYdPrGViTHk/mqdefault.jpg",
-                        "title": "生日倒數(封面仲未畫好),稜斬月,暴走型hkvtuber",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "vxk1EcmM3sI",
-                        "image": "https://i.ytimg.com/vi/vxk1EcmM3sI/mqdefault.jpg",
-                        "title": "[SDgundam]黑月代班,直播到天光,稜斬月,暴走型hkvtuber",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "ajMSYoIggSc",
-                        "image": "https://i.ytimg.com/vi/ajMSYoIggSc/mqdefault.jpg",
-                        "title": "[黑月代班]代班都有新衫著係想點.新衣裝?,稜斬月,暴走型hkvtuber",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "0rrJaSFiOwA",
-                        "image": "https://i.ytimg.com/vi/0rrJaSFiOwA/mqdefault.jpg",
-                        "title": "[突發]apex暴走式上排,稜斬月,暴走型hkvtuber",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "d26oTwYBE_I",
-                        "image": "https://i.ytimg.com/vi/d26oTwYBE_I/mqdefault.jpg",
-                        "title": "[黑月代班]唔知話咩好所以樣樣都玩啲,稜斬月,暴走型hkvtuber",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "cq4dQ3swLx4",
-                        "image": "https://i.ytimg.com/vi/cq4dQ3swLx4/mqdefault.jpg",
-                        "title": "肝肝肝肝",
-                        "author": "稜月.孤狼type"
-                    },
-                    {
-                        "video_code": "SBdt6ad-eFw",
-                        "image": "https://i.ytimg.com/vi/SBdt6ad-eFw/mqdefault.jpg",
-                        "title": "我都係唔講嘢算....",
-                        "author": "稜月.孤狼type"
                     }
                 ]
             }

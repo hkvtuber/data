@@ -118,6 +118,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "eQleDV8QY-w",
+                        "image": "https://i.ytimg.com/vi/eQleDV8QY-w/mqdefault.jpg",
+                        "title": "【粵語翻唱】浮城遺熊／東京テディベア【星野リュウセイ／歌ってみた】",
+                        "author": "星野流星 ch.【HKVtuber】"
+                    },
+                    {
                         "video_code": "SeE9kAU1L48",
                         "image": "https://i.ytimg.com/vi/SeE9kAU1L48/mqdefault.jpg",
                         "title": "【Cover】 Be With You - Tiara【星野リュウセイ／歌ってみた】",
