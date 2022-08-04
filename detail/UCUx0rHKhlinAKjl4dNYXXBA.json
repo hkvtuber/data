@@ -2,10 +2,22 @@
     "id": "UCUx0rHKhlinAKjl4dNYXXBA",
     "header": {
         "name": "Kana Ch. 貓又ガシア【HKvtuber】",
-        "image": "https://yt3.ggpht.com/EHP_VCj1xj8x2kM-eumcI05t-PcHMV8HwaPBPEnHRW3RhJaOysHUXQXcqHtM6aS94XgEtjnYmA=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/2C12GMcOUwNukeTgvpxh-Biob6Yn6UQo8lDyaso-SVxej1ef2pw25UhpUpiqWp2smDD820aq=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/LFdsvWSzcjxLy9xuycmwvB0WMH-VY_FCAKBudjcsN9MlmfVZiwRfZvUYQP_TdqLAKAGVyZD9RA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYuSGK5VsAA3fiW?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYuSGK5VsAA3fiW?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -95,7 +107,7 @@
                     },
                     {
                         "key": "twitter",
-                        "path": "Kanaa_430"
+                        "path": "Kanaa_OwO"
                     }
                 ]
             }
@@ -109,129 +121,61 @@
                         "video_code": "9SDEVNCxVrg",
                         "image": "https://i.ytimg.com/vi/9SDEVNCxVrg/mqdefault.jpg",
                         "title": "ひまわりの約束(cover)/貓又伽夏",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "o9Z4i4oOo2s",
                         "image": "https://i.ytimg.com/vi/o9Z4i4oOo2s/mqdefault.jpg",
                         "title": "為什麼你要dd🥺🥺",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "zylJhoC3yHI",
                         "image": "https://i.ytimg.com/vi/zylJhoC3yHI/mqdefault.jpg",
                         "title": "如果可以full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "P0_GMyTaJyw",
-                        "image": "https://i.ytimg.com/vi/P0_GMyTaJyw/mqdefault.jpg",
-                        "title": "Kana搵你呀(廢片)",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "V26K4GuVuM0",
                         "image": "https://i.ytimg.com/vi/V26K4GuVuM0/mqdefault.jpg",
                         "title": "【COVER】LiSA×Uru 再会/貓又伽夏x伽夏姐姐",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "VfwVNo0u6P0",
                         "image": "https://i.ytimg.com/vi/VfwVNo0u6P0/mqdefault.jpg",
                         "title": "可以喜歡Kana嗎🥺💖",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "i43Gw-1YurU",
                         "image": "https://i.ytimg.com/vi/i43Gw-1YurU/mqdefault.jpg",
                         "title": "不要放東西在我頭上面！😡😡我會生氣噠！(｀ε´)",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "cFod_jb_Kww",
                         "image": "https://i.ytimg.com/vi/cFod_jb_Kww/mqdefault.jpg",
                         "title": "【歌回精華】要愛愛full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
-                        "video_code": "Gc3P7EK1NPs",
-                        "image": "https://i.ytimg.com/vi/Gc3P7EK1NPs/mqdefault.jpg",
-                        "title": "Love Is Gone",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "video_code": "qVQTMWHdtbA",
+                        "image": "https://i.ytimg.com/vi/qVQTMWHdtbA/mqdefault.jpg",
+                        "title": "我的秘密full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
                         "video_code": "cK7Y4-rdk-M",
                         "image": "https://i.ytimg.com/vi/cK7Y4-rdk-M/mqdefault.jpg",
                         "title": "戀愛畫板full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "PfbUUTxayvk",
-                        "image": "https://i.ytimg.com/vi/PfbUUTxayvk/mqdefault.jpg",
-                        "title": "【初配信】來互相認識一下ww?【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
-                        "video_code": "poYhLpnr8Zg",
-                        "image": "https://i.ytimg.com/vi/poYhLpnr8Zg/mqdefault.jpg",
-                        "title": "【2.0新裝發布！】是美美的2.0新裝！【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "KtBP7Wa_uHA",
-                        "image": "https://i.ytimg.com/vi/KtBP7Wa_uHA/mqdefault.jpg",
-                        "title": "【一周年和新衣裝發佈】祝Kana一周年快樂!!【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "59Z9pxcSEKY",
-                        "image": "https://i.ytimg.com/vi/59Z9pxcSEKY/mqdefault.jpg",
-                        "title": "【KANA的一天！】kana的一日生活到底是?！【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "oxajgPNYqZE",
-                        "image": "https://i.ytimg.com/vi/oxajgPNYqZE/mqdefault.jpg",
-                        "title": "【goose goose duck】到底誰才是真正的狼人?欺騙感情的遊戲【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "N93y_a3kELM",
-                        "image": "https://i.ytimg.com/vi/N93y_a3kELM/mqdefault.jpg",
-                        "title": "【500訂閱慶祝日子】終於達到了500訂閱了，感謝大家一直的陪伴!!【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "b4wdiYDeaBc",
-                        "image": "https://i.ytimg.com/vi/b4wdiYDeaBc/mqdefault.jpg",
-                        "title": "【 Five Nights at Freddy's 4】好驚啊啊啊啊QAQ應該...不會暴言吧!!!!!!【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "rzYRGo300Ms",
-                        "image": "https://i.ytimg.com/vi/rzYRGo300Ms/mqdefault.jpg",
-                        "title": "【普通話限定台】一星期一次的限定台，這次是限定歌回!!【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "EOV1QIbfD4o",
-                        "image": "https://i.ytimg.com/vi/EOV1QIbfD4o/mqdefault.jpg",
-                        "title": "【雀魂】雀魂高手！出統?不存在的！【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
-                    },
-                    {
-                        "video_code": "DPBZ7oyWVV0",
-                        "image": "https://i.ytimg.com/vi/DPBZ7oyWVV0/mqdefault.jpg",
-                        "title": "【突發歌回】突然想唱歌♥可以點歌，會唱就唱♥專心唱歌【貓又ガシア/香港VTuber】",
-                        "author": "Kana Ch. 貓又ガシア【HKvtuber】"
+                        "video_code": "GBxRLyNRues",
+                        "image": "https://i.ytimg.com/vi/GBxRLyNRues/mqdefault.jpg",
+                        "title": "【歌回精華】學貓叫full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     }
                 ]
             }

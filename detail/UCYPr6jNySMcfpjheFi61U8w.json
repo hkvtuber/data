@@ -2,22 +2,10 @@
     "id": "UCYPr6jNySMcfpjheFi61U8w",
     "header": {
         "name": "Kurona Ch.酒吞クロナ",
-        "image": "https://yt3.ggpht.com/WScIDrVCvtOEdc3YBNxbpgzt19GXhNKhISOgbkk9qRxUiU98cZIJEYr5dKAYWPj8BkiTvjt6=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/pdo9AwiIQKPCW82cGovJf5RhDkgkL6YSmF6J7zfv6sLOzyTIyi7QqxqOKVh1pM-mGX0Bifg1dw=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/wf9EAQ6MgXxasFcAnUt5OZxDzihF5-l2ViIZTNblUQaAVywdhp9S_vj-hlqQStQ22WjR3cfQH3U=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FWyIUyaaIAABp9X?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWyIUyaaIAABp9X?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -200,15 +188,15 @@
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
-                        "video_code": "UU5BGLk2gtc",
-                        "image": "https://i.ytimg.com/vi/UU5BGLk2gtc/mqdefault.jpg",
-                        "title": "【鬥陣特攻】 突發！小萌新來了！【HKvtuber/酒吞クロナ】",
-                        "author": "Kurona Ch.酒吞玖蘿娜"
-                    },
-                    {
                         "video_code": "fDW60-qoH7I",
                         "image": "https://i.ytimg.com/vi/fDW60-qoH7I/mqdefault.jpg",
                         "title": "【歌台】抱歉，突然就想唱歌了www【HKvtuber | 酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞玖蘿娜"
+                    },
+                    {
+                        "video_code": "UU5BGLk2gtc",
+                        "image": "https://i.ytimg.com/vi/UU5BGLk2gtc/mqdefault.jpg",
+                        "title": "【鬥陣特攻】 突發！小萌新來了！【HKvtuber/酒吞クロナ】",
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {

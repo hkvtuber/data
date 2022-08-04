@@ -2,10 +2,22 @@
     "id": "UCno7Wn0TdVbfLV-vl4UysxQ",
     "header": {
         "name": "艾莉絲 Iris Ch. / BLOSSOMY【香港Vtuber】",
-        "image": "https://yt3.ggpht.com/ytc/AKedOLTjBD4tMZ7NPnRTDV74WcawS_BQ21sVtFFjhDGo=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/ytc/AMLnZu86Strwf7X6SxN1xiSH05XRKanjhn9rbEUS-rqx=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FO00I5XaQAEJ7x7?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FO00I5XaQAEJ7x7?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {

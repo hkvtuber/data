@@ -1,0 +1,100 @@
+{
+    "id": "UCMSaZ9D5OXbtZbs1CBMZ_kg",
+    "header": {
+        "name": "Elda",
+        "image": "https://yt3.ggpht.com/_nbuq3EFuShL0bj4IS3Mtffrg_PGJWXpAeHaqHDHR1uXe6W-DKe-S5nxsdJ9hSMBywSGsY5S9DY=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/Ta3E3RWsO7tgsMxbPmNCDyaGsamY8F_wLfh107ndSByeAHw5PdEKmOZrvVT0dg6Xwe65i4s=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FXdwiTLUEAAYanE?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FXdwiTLUEAAYanE?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Elda",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#ELDA_LIVE",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#ELDART",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCMSaZ9D5OXbtZbs1CBMZ_kg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Elda_Revant"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "UdpLYJgeawc",
+                        "image": "https://i.ytimg.com/vi/UdpLYJgeawc/mqdefault.jpg",
+                        "title": "Hello World.",
+                        "author": "Elda"
+                    }
+                ]
+            }
+        }
+    ]
+}

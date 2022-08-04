@@ -1,0 +1,128 @@
+{
+    "id": "UCTiwXUA_wSktZ8NfefjWRSg",
+    "header": {
+        "name": "綠茶牛奶 ch.",
+        "image": "https://yt3.ggpht.com/js2LzCOP4olXf_-UaGDRDAmItyfdHPBlFNFXN2MiSeFLp6sCfixg6cXU3y_7OsT0ydoOlIF2=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/9AbQQc3r_hpWhYEFjQV3hjcP75B1Yusp44KeXHktkxiwW8g8eEvej-EXFTtou_p7OgGuyiUEuA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FVyim0AUAAAU9tD?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FVyim0AUAAAU9tD?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "-來自地獄的手搖店的老闆牛奶🥛"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "綠茶牛奶",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "6月13日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#平平無奇但緊張刺激的牛奶\n#67milk",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#牛奶好像在直播欸\n#67milkOnStream",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#生產牛奶的牧場\n#GalloneryOfMilk",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#上班不要亂點進來看牛奶啦嗨呀\n#MilkNsfwHaiya",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#小惡魔",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCTiwXUA_wSktZ8NfefjWRSg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "lokchamilk"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://reurl.cc/o1b3b3"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/lokchamilk"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "95Zi6Kw4_RA",
+                        "image": "https://i.ytimg.com/vi/95Zi6Kw4_RA/mqdefault.jpg",
+                        "title": "『綠茶牛奶』Vtuber一問一答自我介紹",
+                        "author": "綠茶牛奶 ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -115,15 +115,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "BXY8EbO8C2U",
-                        "image": "https://i.ytimg.com/vi/BXY8EbO8C2U/mqdefault.jpg",
-                        "title": "Onigiri dance",
-                        "author": "神崎涼子【香港Vtuber】"
-                    },
-                    {
                         "video_code": "ASM3Cr3MXRQ",
                         "image": "https://i.ytimg.com/vi/ASM3Cr3MXRQ/mqdefault.jpg",
                         "title": "internet overdose",
+                        "author": "神崎涼子【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "BXY8EbO8C2U",
+                        "image": "https://i.ytimg.com/vi/BXY8EbO8C2U/mqdefault.jpg",
+                        "title": "Onigiri dance",
                         "author": "神崎涼子【香港Vtuber】"
                     },
                     {

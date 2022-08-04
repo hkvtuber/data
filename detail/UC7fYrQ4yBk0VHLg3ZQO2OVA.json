@@ -1,0 +1,220 @@
+{
+    "id": "UC7fYrQ4yBk0VHLg3ZQO2OVA",
+    "header": {
+        "name": " RBYORK Ch.約克兔",
+        "image": "https://yt3.ggpht.com/NrWVVlH9nEZ6Jn8DwhKg5hv2apQYnuaZ3d3MiGClAX2bmBgclxLOTHgbyFsB7HbMrOX3uP9zCw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/yKKTyD1drgalS9T8MAal2LsnbIGtl2kZGZlPSj_xc2JtnKPLTz0hGt9skIoWM7XMJgOfLkHGjg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FZH-cIHaIAAOB7I?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZH-cIHaIAAOB7I?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "約克兔\nRBYORK",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC7fYrQ4yBk0VHLg3ZQO2OVA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "RABBITYORK"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/marco.york10/"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/rbyork"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "rLIBbSxUADw",
+                        "image": "https://i.ytimg.com/vi/rLIBbSxUADw/mqdefault.jpg",
+                        "title": "閃亂神樂 ESTIVAL VERSUS -少女們的抉擇-【純動畫🎬】",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "hGAV4BBv4EM",
+                        "image": "https://i.ytimg.com/vi/hGAV4BBv4EM/mqdefault.jpg",
+                        "title": "火影忍者疾風傳 終極風暴4 聯盟賽 1 希vs光",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "bAmyxQAlchw",
+                        "image": "https://i.ytimg.com/vi/bAmyxQAlchw/mqdefault.jpg",
+                        "title": "火影忍者疾風傳 終極風暴4_在使用綱手練習，最尾發生的有趣事情,決勝負的一腳（實戰中能實用吗……？！）",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "Rjohw8BREdc",
+                        "image": "https://i.ytimg.com/vi/Rjohw8BREdc/mqdefault.jpg",
+                        "title": "刀劍神域 虛空幻界【蒼空鬥士】PART 2-伶茵參戰〖回音注意〗",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "yHSejD_B2u4",
+                        "image": "https://i.ytimg.com/vi/yHSejD_B2u4/mqdefault.jpg",
+                        "title": "【心血來潮🌝】MHW燒肉技巧~｜MONSTER HUNTER:WORLD",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "NrN4b_YApIk",
+                        "image": "https://i.ytimg.com/vi/NrN4b_YApIk/mqdefault.jpg",
+                        "title": "DARK SOULS™ III_【大老戰】葛温德林唔易消化~",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "PT6cJ8_WNbc",
+                        "image": "https://i.ytimg.com/vi/PT6cJ8_WNbc/mqdefault.jpg",
+                        "title": "七龍珠 異戰2【對戰記錄】#2 Marco&Tingo VS ToWaiHong",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "NmMFZLjJ6SU",
+                        "image": "https://i.ytimg.com/vi/NmMFZLjJ6SU/mqdefault.jpg",
+                        "title": "【深淵巫女】技能融合事件 - 愛麗絲 l 刀劍神域 虛空幻界",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "0V6IOsBfByw",
+                        "image": "https://i.ytimg.com/vi/0V6IOsBfByw/mqdefault.jpg",
+                        "title": "【加速世界 VS 刀劍神域 -千年的黃昏-】#26 三大神獸級公敵登埸",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "LjtKUkediyA",
+                        "image": "https://i.ytimg.com/vi/LjtKUkediyA/mqdefault.jpg",
+                        "title": "火影忍者疾風傳 終極風暴4_爆SEED之戰 3 希（黄毛三代小隊）vs 光（卡卡西雷射小隊）",
+                        "author": "RBYORK Ch.約克兔"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "SYYxQvKAsQ4",
+                        "image": "https://i.ytimg.com/vi/SYYxQvKAsQ4/mqdefault.jpg",
+                        "title": "【加速世界 VS 刀劍神域 -千年的黃昏-】#21 白之王- White Cosmos and 加速研究會副社長(小幸發威!!!)",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "ZrQCKVWWutw",
+                        "image": "https://i.ytimg.com/vi/ZrQCKVWWutw/mqdefault.jpg",
+                        "title": "【深淵巫女】『第三章 - 神之違抗者』愛麗絲登場故事 01(CV:茅野愛衣) | 刀劍神域 虛空幻界",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "lvQzFos1hww",
+                        "image": "https://i.ytimg.com/vi/lvQzFos1hww/mqdefault.jpg",
+                        "title": "【加速世界 VS 刀劍神域 -千年的黃昏-】#12 紫之王 - Purple Thorn and 災禍之鎧",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "okGdB9Xj8bc",
+                        "image": "https://i.ytimg.com/vi/okGdB9Xj8bc/mqdefault.jpg",
+                        "title": "【深淵巫女】『第二章 - 因果調律者』PART 1 繼續攻略！ | 刀劍神域 虛空幻界",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "TdXL6vFYPvA",
+                        "image": "https://i.ytimg.com/vi/TdXL6vFYPvA/mqdefault.jpg",
+                        "title": "刀劍神域 虛空幻界【蒼空鬥士】PART 1-重踏艾恩葛朗特",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "R7N87MkIEhY",
+                        "image": "https://i.ytimg.com/vi/R7N87MkIEhY/mqdefault.jpg",
+                        "title": "【加速世界 VS 刀劍神域 -千年的黃昏-】#9 黃之王 - Yellow Radio",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "Ft10tHHnes8",
+                        "image": "https://i.ytimg.com/vi/Ft10tHHnes8/mqdefault.jpg",
+                        "title": "【深淵巫女】『第三章 - 神之違抗者』尤吉歐登場故事合集(CV.島崎信長) | 刀劍神域 虛空幻界",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "c_YViZexljs",
+                        "image": "https://i.ytimg.com/vi/c_YViZexljs/mqdefault.jpg",
+                        "title": "刀劍神域 虛空幻界【蒼空鬥士】PART 5 決鬥系統",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "p0d3TIPzy7A",
+                        "image": "https://i.ytimg.com/vi/p0d3TIPzy7A/mqdefault.jpg",
+                        "title": "🔴 硬撐巴巴托斯 - MOBILE SUIT GUNDAM EXTREME VS. 極限爆發 早鳥線上試玩會 #2",
+                        "author": "RBYORK Ch.約克兔"
+                    },
+                    {
+                        "video_code": "_cFbJ-Ohoeo",
+                        "image": "https://i.ytimg.com/vi/_cFbJ-Ohoeo/mqdefault.jpg",
+                        "title": "【加速世界 VS 刀劍神域 -千年的黃昏-】#25 災禍之鎧 - Chrome Disaster and 到達目的地",
+                        "author": "RBYORK Ch.約克兔"
+                    }
+                ]
+            }
+        }
+    ]
+}

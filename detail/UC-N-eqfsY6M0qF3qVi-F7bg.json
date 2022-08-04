@@ -1,0 +1,189 @@
+{
+    "id": "UC-N-eqfsY6M0qF3qVi-F7bg",
+    "header": {
+        "name": "摩亞冒險團 Moa ch.",
+        "image": "https://yt3.ggpht.com/moEnLC8RI38wAW4VqHl1Lfz64Fi1k-5p4s6p-yZ2HYVoLJ610SiyUpnTKvicboHjnZUxazXG=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/LB7O--ZtA35FAHEb1J6yc5T1fSjHhX7nuJZHQXNlkCsarsE4jRV_AahoDhVbb82xH6K921FIMxQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "天谷モア\nAmaya Moa",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "3月22日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "167cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#MoaMate",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC-N-eqfsY6M0qF3qVi-F7bg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "AmayaMoa_"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/moa0322/"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "ag_o8vR4gXg",
+                        "image": "https://i.ytimg.com/vi/ag_o8vR4gXg/mqdefault.jpg",
+                        "title": "【直播精華】W&S Day：吳哥窟 (Requested by 輝哥)",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "gj_mbsHCDIQ",
+                        "image": "https://i.ytimg.com/vi/gj_mbsHCDIQ/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】初დ甜蜜日記☀ - 03 可愛いねって言われちゃった",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "rMohf7sfZMs",
+                        "image": "https://i.ytimg.com/vi/rMohf7sfZMs/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 02 斷點【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "K9BOjKy7fNA",
+                        "image": "https://i.ytimg.com/vi/K9BOjKy7fNA/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 01 You are the reason【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "Ky6G33nMcHk",
+                        "image": "https://i.ytimg.com/vi/Ky6G33nMcHk/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 04 かくれんぼ【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "1hKnJhcF6pY",
+                        "image": "https://i.ytimg.com/vi/1hKnJhcF6pY/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 03 零分【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "5eZ3QPdi0jE",
+                        "image": "https://i.ytimg.com/vi/5eZ3QPdi0jE/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 11 幸福門【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "9Y5W22I1HbU",
+                        "image": "https://i.ytimg.com/vi/9Y5W22I1HbU/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 10 你沒有好結果【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "JJPbPYKavIk",
+                        "image": "https://i.ytimg.com/vi/JJPbPYKavIk/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 09 Someone you loved【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "BUTfPQ8UXIs",
+                        "image": "https://i.ytimg.com/vi/BUTfPQ8UXIs/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】貳დ別離之夜 🌩 - 08 隔離【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "bMwgo9kVUV0",
+                        "image": "https://i.ytimg.com/vi/bMwgo9kVUV0/mqdefault.jpg",
+                        "title": "【突發】細語APEX ️【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "y4HrEmMMRLQ",
+                        "image": "https://i.ytimg.com/vi/y4HrEmMMRLQ/mqdefault.jpg",
+                        "title": "【合作歌回】螢光棒準備好嗎? 和前輩們來歡樂唱Ｋ吧～星合豊さん, 黑虎さん, 軒猿虛さん, 克里斯さん【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "JT4P0NuYXfI",
+                        "image": "https://i.ytimg.com/vi/JT4P0NuYXfI/mqdefault.jpg",
+                        "title": "【品酒型】Wine & Song Day! 混音台終於回來了! (全14曲)【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "f_1p4Qx3ESs",
+                        "image": "https://i.ytimg.com/vi/f_1p4Qx3ESs/mqdefault.jpg",
+                        "title": "【夏之戀愛五部曲】 肆დ黑暗盡頭 🌠【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    },
+                    {
+                        "video_code": "HeIV1cuUmH0",
+                        "image": "https://i.ytimg.com/vi/HeIV1cuUmH0/mqdefault.jpg",
+                        "title": "【歌回本篇】【夏之戀愛五部曲】初დ甜蜜日記☀【天谷モア/摩亞冒險團】",
+                        "author": "摩亞冒險團 Moa ch."
+                    }
+                ]
+            }
+        }
+    ]
+}

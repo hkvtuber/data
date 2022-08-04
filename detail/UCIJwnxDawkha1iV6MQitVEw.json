@@ -2,7 +2,7 @@
     "id": "UCIJwnxDawkha1iV6MQitVEw",
     "header": {
         "name": "鹿鳴 Roku【HK VTuber】",
-        "image": "https://yt3.ggpht.com/CE2osidLkICJ6pz1L7WoPdi8tDikxyK9WEPIDXiTZBgvB0s-ww4xdxopUMGTfPKpA37wg8m0=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/IQadf-qi6eMxG4r9_5h4XnWUiobKxCaApBVk1Z5a8uMg9bIK0OY7Q467EbHFOxBcSsMjjY13MQ=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/cla3KdcC5ZSZbfHOb21NDnBNx_QooBMEYlhxA7LK0AhPrW2vp8DLAOgT3juhXX2h7HnWIE4E=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -60,20 +60,6 @@
                     {
                         "key": "facebook",
                         "path": "https://www.facebook.com/%E9%B9%BF%E9%B3%B4Roku%E9%A6%99%E6%B8%AFVTuber-106466801509241/"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "15_jSg2oHG8",
-                        "image": "https://i.ytimg.com/vi/15_jSg2oHG8/mqdefault.jpg",
-                        "title": "【鹿鳴宴】蜂蜜的世界史 | 最古老的甜品 |「蜜月」的真正含意 |「瘋蜜」都市傳說  | 日食三罐蜂蜜 ? | 史前人鳥的共享經濟? | 改變蜂蜜口感的方法 | 嬰兒不可食蜜糖? | 香港Vtuber",
-                        "author": "鹿鳴 Roku【HK VTuber】"
                     }
                 ]
             }

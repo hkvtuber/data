@@ -2,22 +2,9 @@
     "id": "UCwPmb2ZmQAyaXhbEpgrEVtw",
     "header": {
         "name": "久海 Kumi Ch. 【Stardio所屬】",
-        "image": "https://yt3.ggpht.com/1czUq5G-c96P_JRPP2L3U2-2RK9Px0equD_Kxc8BshAzmj5f5gkfm4Nl0OkTnkpM4QxC_5RmaAo=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/KQqZD-BvOt9qfycrMnNCYHD02y6FJs_FQajgfZCjvl2TlvD0vU8300BFuXajq6xbbohb8oFqLQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": ""
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FUvEdVWVEAAZVio?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUvEdVWVEAAZVio?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -101,106 +88,8 @@
                         "path": "UCwPmb2ZmQAyaXhbEpgrEVtw"
                     },
                     {
-                        "key": "twitter",
-                        "path": "Hayami_Kumi"
-                    },
-                    {
                         "key": "twitch",
                         "path": "https://www.twitch.tv/hayami_kumi"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦影片",
-                "video_list": [
-                    {
-                        "video_code": "7Qcp-2d2Hs0",
-                        "image": "https://i.ytimg.com/vi/7Qcp-2d2Hs0/mqdefault.jpg",
-                        "title": "【ペイメント/Heavenz】歌ってみた // 久海 Kumi | Stardio ✨",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "1gaT8LwO9W8",
-                        "image": "https://i.ytimg.com/vi/1gaT8LwO9W8/mqdefault.jpg",
-                        "title": "【糖豆人 Fall Guys w/ Momoka!)】 Seafood我來了！！！久海 Kumi w/ Momoka 百花 | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "02r6dLUGero",
-                        "image": "https://i.ytimg.com/vi/02r6dLUGero/mqdefault.jpg",
-                        "title": "【糖豆人 Fall Guys w/ Momoka!)】 Seafood我來了！！！久海 Kumi w/ Momoka 百花 | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "BQGgQtAAMAg",
-                        "image": "https://i.ytimg.com/vi/BQGgQtAAMAg/mqdefault.jpg",
-                        "title": "【初配信 ouo】魔鬼魚來了！ 久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "Fd8ZeeoeMZA",
-                        "image": "https://i.ytimg.com/vi/Fd8ZeeoeMZA/mqdefault.jpg",
-                        "title": "【撞車車！ // OMSI 2】一邊揸車車一邊同大家傾偈！ 久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "XArXEne5dTk",
-                        "image": "https://i.ytimg.com/vi/XArXEne5dTk/mqdefault.jpg",
-                        "title": "【歌枠久海】唱歌！ 雖然下手 QQ 久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "5bx0IGRzdqc",
-                        "image": "https://i.ytimg.com/vi/5bx0IGRzdqc/mqdefault.jpg",
-                        "title": "【Minecraft w/ Momoka!)】和百花姐姐的第一次真聯動！ 久海 Kumi w/ Momoka 百花 | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "MYMDmNpNHw4",
-                        "image": "https://i.ytimg.com/vi/MYMDmNpNHw4/mqdefault.jpg",
-                        "title": "【初配信回顧！】一邊揸車車一邊同大家傾偈！ 久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "MwuK5OEiGf4",
-                        "image": "https://i.ytimg.com/vi/MwuK5OEiGf4/mqdefault.jpg",
-                        "title": "【雜談】滿一周月雜談！一起聊聊光合作用和呼吸！  久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "ymcJ6SHIsuU",
-                        "image": "https://i.ytimg.com/vi/ymcJ6SHIsuU/mqdefault.jpg",
-                        "title": "【OMSI 2】櫻桃市危險駕駛！ 久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "1ebBVoj3Q3c",
-                        "image": "https://i.ytimg.com/vi/1ebBVoj3Q3c/mqdefault.jpg",
-                        "title": "【Minecraft】突發~~ 可能耐久 ouo  久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "_pIpsqi9Roo",
-                        "image": "https://i.ytimg.com/vi/_pIpsqi9Roo/mqdefault.jpg",
-                        "title": "【EN Zatsu】Studying while chatting OuO Hayamai Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
-                    },
-                    {
-                        "video_code": "SGQwwMw9qJc",
-                        "image": "https://i.ytimg.com/vi/SGQwwMw9qJc/mqdefault.jpg",
-                        "title": "【撞車車！ // OMSI 2】一邊揸車車一邊同大家傾偈！ 久海 Kumi | #Novieus #Stardio",
-                        "author": "久海 Kumi Ch. 【Stardio所屬】"
                     }
                 ]
             }

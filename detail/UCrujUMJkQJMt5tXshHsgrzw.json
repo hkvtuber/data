@@ -2,7 +2,7 @@
     "id": "UCrujUMJkQJMt5tXshHsgrzw",
     "header": {
         "name": "南楓一白【HKVtuber】",
-        "image": "https://yt3.ggpht.com/UOTx3eQaUH6O2CAWCDzQXjUyIITf64_XDzSsg_xjRzkH-C2PkofJpvltGF4ZC1sxRTKnXb1Q0Q=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/bPgxya9nfqH3RnlU6hHfPd3J0pkFF9QRx7XfEYj9b6ktRhIi9k-yFaaA4_e4Q43Klwx6_-ZBWw=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/oaDJeNvEvu-xyXwF03h9b4NujMDJJDOdf54kBpU2dLlBlJ3njqdfnhDwUXnco16PDu9Y8Fz4=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -106,15 +106,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "JS4fn87U9TA",
-                        "image": "https://i.ytimg.com/vi/JS4fn87U9TA/mqdefault.jpg",
-                        "title": "【初配信】才不是愚人節的Debut！【南楓一白KAEDE】",
-                        "author": "南楓一白【HKVtuber】"
-                    },
-                    {
                         "video_code": "ZE14MGydVvQ",
                         "image": "https://i.ytimg.com/vi/ZE14MGydVvQ/mqdefault.jpg",
                         "title": "【跑Online】跑亂碼【南楓一白KAEDE】",
+                        "author": "南楓一白【HKVtuber】"
+                    },
+                    {
+                        "video_code": "JS4fn87U9TA",
+                        "image": "https://i.ytimg.com/vi/JS4fn87U9TA/mqdefault.jpg",
+                        "title": "【初配信】才不是愚人節的Debut！【南楓一白KAEDE】",
                         "author": "南楓一白【HKVtuber】"
                     },
                     {

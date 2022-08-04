@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FAmnBNIVEAI-51P?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FAmnBNIVEAI-51P?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -162,21 +150,27 @@
                         "author": "星野流星 ch.【HKVtuber】"
                     },
                     {
+                        "video_code": "ejrD42yO5Hs",
+                        "image": "https://i.ytimg.com/vi/ejrD42yO5Hs/mqdefault.jpg",
+                        "title": "【關於流星的50件事】帶大家深入地認識真正的流星！【星野流星/HKVtuber】",
+                        "author": "星野流星 ch.【HKVtuber】"
+                    },
+                    {
                         "video_code": "ltmUA_Vz728",
                         "image": "https://i.ytimg.com/vi/ltmUA_Vz728/mqdefault.jpg",
                         "title": "【粵語動畫歌回】長大了就遺忘了嗎～一起重溫經典的童年回憶！【星野流星/HKVtuber】",
                         "author": "星野流星 ch.【HKVtuber】"
                     },
                     {
-                        "video_code": "aUbT5hivj5c",
-                        "image": "https://i.ytimg.com/vi/aUbT5hivj5c/mqdefault.jpg",
-                        "title": "【雜談向】稍微報告一下近況，閒聊一下最近的日常～【星野流星/HKVtuber】",
-                        "author": "星野流星 ch.【HKVtuber】"
-                    },
-                    {
                         "video_code": "bTLnBbf6400",
                         "image": "https://i.ytimg.com/vi/bTLnBbf6400/mqdefault.jpg",
                         "title": "【MarioKart8】觀眾參加型～8位以下即收！【星野流星/HKVtuber】",
+                        "author": "星野流星 ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "aUbT5hivj5c",
+                        "image": "https://i.ytimg.com/vi/aUbT5hivj5c/mqdefault.jpg",
+                        "title": "【雜談向】稍微報告一下近況，閒聊一下最近的日常～【星野流星/HKVtuber】",
                         "author": "星野流星 ch.【HKVtuber】"
                     },
                     {
@@ -192,15 +186,9 @@
                         "author": "星野流星 ch.【HKVtuber】"
                     },
                     {
-                        "video_code": "4W4LXJHbMnk",
-                        "image": "https://i.ytimg.com/vi/4W4LXJHbMnk/mqdefault.jpg",
-                        "title": "【送命題2.0】挽回分手日失去嘅形象！今次認真答！feat. 神生璃空【星野流星/HKVtuber】",
-                        "author": "星野流星 ch.【HKVtuber】"
-                    },
-                    {
-                        "video_code": "Iv-IOlydZW8",
-                        "image": "https://i.ytimg.com/vi/Iv-IOlydZW8/mqdefault.jpg",
-                        "title": "【港詭實錄#1】二人同行，雙倍尖叫，快樂加倍！！Feat. 神生璃空【星野流星/HKVtuber】",
+                        "video_code": "fiHqRLVseRg",
+                        "image": "https://i.ytimg.com/vi/fiHqRLVseRg/mqdefault.jpg",
+                        "title": "【安眠故事台】牧羊少年奇幻之旅【星野流星/HKVtuber】",
                         "author": "星野流星 ch.【HKVtuber】"
                     }
                 ]

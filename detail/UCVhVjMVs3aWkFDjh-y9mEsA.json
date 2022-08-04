@@ -22,6 +22,11 @@
                         "key": "名字",
                         "content": "音羽 ことせ\nAorëa",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "6月17日",
+                        "heightRate": "1"
                     }
                 ]
             }

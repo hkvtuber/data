@@ -34,6 +34,11 @@
                         "key": "名字",
                         "content": "猫羽飛魚\nNekoha Tobiuo",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "5月29日",
+                        "heightRate": "1"
                     }
                 ]
             }

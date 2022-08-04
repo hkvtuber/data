@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FYYCB-gacAAZ5n7?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FYYCB-gacAAZ5n7?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FY-mJnYaMAAyHMR?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FY-mJnYaMAAyHMR?format=jpg&name=medium"
                     }
                 ]
             }
@@ -134,6 +134,12 @@
                         "author": "暴言公仔_布伽【HKVtuber 】"
                     },
                     {
+                        "video_code": "4XrneMrqVos",
+                        "image": "https://i.ytimg.com/vi/4XrneMrqVos/mqdefault.jpg",
+                        "title": "【二次滿月】號外！布伽人形狀態公開，網傳炸蝦尾驚現【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
                         "video_code": "tAHQu7jUla0",
                         "image": "https://i.ytimg.com/vi/tAHQu7jUla0/mqdefault.jpg",
                         "title": "【作業雜談】那夜凌晨布伽的恐怖經歷【香港VTuber】",
@@ -146,39 +152,33 @@
                         "author": "暴言公仔_布伽【HKVtuber 】"
                     },
                     {
-                        "video_code": "1OJhHdi_nUc",
-                        "image": "https://i.ytimg.com/vi/1OJhHdi_nUc/mqdefault.jpg",
-                        "title": "【繪圖雜談】小朋友們！一齊嚟畫畫啦！#2【香港VTuber】",
-                        "author": "暴言公仔_布伽【HKVtuber 】"
-                    },
-                    {
                         "video_code": "BAdfKV5wSZo",
                         "image": "https://i.ytimg.com/vi/BAdfKV5wSZo/mqdefault.jpg",
                         "title": "【遊戲雜談】Minecraft Server休閒養生日記#2｜Minecraft｜【香港VTuber】",
                         "author": "暴言公仔_布伽【HKVtuber 】"
                     },
                     {
+                        "video_code": "1OJhHdi_nUc",
+                        "image": "https://i.ytimg.com/vi/1OJhHdi_nUc/mqdefault.jpg",
+                        "title": "【繪圖雜談】小朋友們！一齊嚟畫畫啦！#2【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
+                        "video_code": "V_dD7GtgZC8",
+                        "image": "https://i.ytimg.com/vi/V_dD7GtgZC8/mqdefault.jpg",
+                        "title": "【遊戲雜談】Minecraft Server休閒養生日記#3｜Minecraft｜【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
+                        "video_code": "Lu_ZjDr9dkc",
+                        "image": "https://i.ytimg.com/vi/Lu_ZjDr9dkc/mqdefault.jpg",
+                        "title": "【遊戲雜談】賽馬娘抽卡大挑戰！｜賽馬娘Pretty Derby｜【香港VTuber】",
+                        "author": "暴言公仔_布伽【HKVtuber 】"
+                    },
+                    {
                         "video_code": "RGs8OkT1V6M",
                         "image": "https://i.ytimg.com/vi/RGs8OkT1V6M/mqdefault.jpg",
                         "title": "【繪圖雜談】小朋友們！一齊嚟畫畫啦！#7【香港VTuber】",
-                        "author": "暴言公仔_布伽【HKVtuber 】"
-                    },
-                    {
-                        "video_code": "cPTmQpTrOJE",
-                        "image": "https://i.ytimg.com/vi/cPTmQpTrOJE/mqdefault.jpg",
-                        "title": "【繪圖雜談】小朋友們！一齊嚟畫畫啦！#3【香港VTuber】",
-                        "author": "暴言公仔_布伽【HKVtuber 】"
-                    },
-                    {
-                        "video_code": "SW_UC-L8kwk",
-                        "image": "https://i.ytimg.com/vi/SW_UC-L8kwk/mqdefault.jpg",
-                        "title": "【遊戲雜談】Minecraft Server休閒養生日記#1｜Minecraft｜【香港VTuber】",
-                        "author": "暴言公仔_布伽【HKVtuber 】"
-                    },
-                    {
-                        "video_code": "rd3hOeaZBWE",
-                        "image": "https://i.ytimg.com/vi/rd3hOeaZBWE/mqdefault.jpg",
-                        "title": "【突發】小朋友們！一齊嚟畫畫啦！#1【香港VTuber】",
                         "author": "暴言公仔_布伽【HKVtuber 】"
                     }
                 ]

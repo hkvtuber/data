@@ -2,22 +2,10 @@
     "id": "UCCYXwv2KxIubvNV7F9Zh1XA",
     "header": {
         "name": "百花 momoka Ch.【Stardio所屬🌟】",
-        "image": "https://yt3.ggpht.com/TX6Yt1MnKQctlxiVojm984vkcwvV9cM_oZJArRIDDT0-7dM_cEdR7JAJz2qH2rDOr1zl5CZGkHE=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/Vux2BCPAQVRgm_BuhyK94-AXqYgdjXVnkOpFQ-ASiZFt-ILTLbAZuRGd63M1fsPm2rBmRHmgfg=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/sTbpx2E-_vCeCYDdIAqIUNellZp7aRMeFfKPkgsN8UQ7Xr-blr1UZGL9-SQjCvkGV08_ZYM94g=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FYDNxCyaUAAcagV?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FYDNxCyaUAAcagV?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -111,61 +99,43 @@
                         "video_code": "Vh498dfQKs4",
                         "image": "https://i.ytimg.com/vi/Vh498dfQKs4/mqdefault.jpg",
                         "title": "【初配信】Eternal Garden is opening💐",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "lPsaCrmJZOw",
-                        "image": "https://i.ytimg.com/vi/lPsaCrmJZOw/mqdefault.jpg",
-                        "title": "【雜談♡】談一下對成員們的印象~",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "ZGTBRsanLyw",
-                        "image": "https://i.ytimg.com/vi/ZGTBRsanLyw/mqdefault.jpg",
-                        "title": "【Fall guys】哦喔喔喔喔喔喔喔喔喔喔with KUMI!!!",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
+                        "author": "萌香百花 Momoka Ch."
                     },
                     {
                         "video_code": "cgH8P3EFhb8",
                         "image": "https://i.ytimg.com/vi/cgH8P3EFhb8/mqdefault.jpg",
                         "title": "【雜談♡】birthday happy to me！就算生日我都唔會發大！",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "hs-dLXxb7sw",
-                        "image": "https://i.ytimg.com/vi/hs-dLXxb7sw/mqdefault.jpg",
-                        "title": "【Fall Guys】哦嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚!!!",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "TiWRMMGsOew",
-                        "image": "https://i.ytimg.com/vi/TiWRMMGsOew/mqdefault.jpg",
-                        "title": "【第1次雜談♡】想讓大家更加了解我💐💞",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "lf9tC0tOiiQ",
-                        "image": "https://i.ytimg.com/vi/lf9tC0tOiiQ/mqdefault.jpg",
-                        "title": "【Dark Deception】馬騮先生試下咪撚行埋嚟… 😖 !",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "kpBqHB_Difk",
-                        "image": "https://i.ytimg.com/vi/kpBqHB_Difk/mqdefault.jpg",
-                        "title": "晚上好！ 我我我…好像有了DEAD BY DAYLIGHT 上癮症👉👈",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
-                    },
-                    {
-                        "video_code": "IQEdE7cGpAs",
-                        "image": "https://i.ytimg.com/vi/IQEdE7cGpAs/mqdefault.jpg",
-                        "title": "【Muse Dash】啪，沒了🤲🏽",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
+                        "author": "萌香百花 Momoka Ch."
                     },
                     {
                         "video_code": "1miLrXBOyws",
                         "image": "https://i.ytimg.com/vi/1miLrXBOyws/mqdefault.jpg",
                         "title": "【KA路里系列】晚飯雜談~和大家聊聊天! @銀十 Ginto Ch.【Stardio所屬】  #hkvtuber  #EternalGarden",
-                        "author": "萌香百花 Momoka Ch.【Stardio所屬🌟】"
+                        "author": "萌香百花 Momoka Ch."
+                    },
+                    {
+                        "video_code": "dMc6I5QV4Gc",
+                        "image": "https://i.ytimg.com/vi/dMc6I5QV4Gc/mqdefault.jpg",
+                        "title": "【KA路里系列】吃個辣辣的晚餐～#EternalGarden  #hkvtuber #MOKAMOMOKA",
+                        "author": "萌香百花 Momoka Ch."
+                    },
+                    {
+                        "video_code": "kpBqHB_Difk",
+                        "image": "https://i.ytimg.com/vi/kpBqHB_Difk/mqdefault.jpg",
+                        "title": "晚上好！ 我我我…好像有了DEAD BY DAYLIGHT 上癮症👉👈",
+                        "author": "萌香百花 Momoka Ch."
+                    },
+                    {
+                        "video_code": "IQEdE7cGpAs",
+                        "image": "https://i.ytimg.com/vi/IQEdE7cGpAs/mqdefault.jpg",
+                        "title": "【Muse Dash】啪，沒了🤲🏽",
+                        "author": "萌香百花 Momoka Ch."
+                    },
+                    {
+                        "video_code": "IwecsgUtgcs",
+                        "image": "https://i.ytimg.com/vi/IwecsgUtgcs/mqdefault.jpg",
+                        "title": "【雜談】GOOD MORNING☀️",
+                        "author": "萌香百花 Momoka Ch."
                     }
                 ]
             }

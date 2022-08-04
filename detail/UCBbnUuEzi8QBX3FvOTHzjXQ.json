@@ -2,22 +2,10 @@
     "id": "UCBbnUuEzi8QBX3FvOTHzjXQ",
     "header": {
         "name": "Yuzu Ch. 日向柚子【HKVtuber】",
-        "image": "https://yt3.ggpht.com/ytc/AKedOLTxXCS1SNE0VsR9AGumVLlvJw4eg5i9KrUIJUWVKg=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/npgxIoe9LYssecGR_wR2s3gelML-844j73DdOWh6iYRHm1o_wV6WIIHjHJRIJXyHf2klOUkXeqU=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/jEy7yp3yEuZVUtw6Zx2W9TzzDtcfQnwyycapEQapWpiTjf_QNKFKtRk_jAM8pz6CBfHHZmdBYg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FVesSS0aAAA0bQo?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FVesSS0aAAA0bQo?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -69,10 +57,6 @@
                     {
                         "key": "youtube",
                         "path": "UCBbnUuEzi8QBX3FvOTHzjXQ"
-                    },
-                    {
-                        "key": "twitter",
-                        "path": "Hareyuzu__"
                     }
                 ]
             }

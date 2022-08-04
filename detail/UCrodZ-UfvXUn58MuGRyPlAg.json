@@ -103,6 +103,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "B42gTkpanBg",
+                        "image": "https://i.ytimg.com/vi/B42gTkpanBg/mqdefault.jpg",
+                        "title": "【Cover】ドライフラワー／優里 by 紫萊姆",
+                        "author": "紫萊姆 Raimu ch. 【HKVtuber】"
+                    },
+                    {
                         "video_code": "opoL6KjcfAA",
                         "image": "https://i.ytimg.com/vi/opoL6KjcfAA/mqdefault.jpg",
                         "title": "【突發】HahaNeko doko？尋貓啓事 | 開到本人上線【香港VTuber/紫萊姆】",
@@ -153,27 +159,27 @@
                         "author": "紫萊姆 Raimu ch. 【HKVtuber】"
                     },
                     {
+                        "video_code": "u9W8lbS60Ao",
+                        "image": "https://i.ytimg.com/vi/u9W8lbS60Ao/mqdefault.jpg",
+                        "title": "【異度神劍3】終於有心水RPG玩，一齊試水溫 ٩(ˊᗜˋ*)و【香港VTuber/紫萊姆】",
+                        "author": "紫萊姆 Raimu ch. 【HKVtuber】"
+                    },
+                    {
                         "video_code": "mzwKHaYunQ8",
                         "image": "https://i.ytimg.com/vi/mzwKHaYunQ8/mqdefault.jpg",
                         "title": "【Hand Simulator】收台先嚟轉game，宜家去玩手【香港VTuber/紫萊姆】ft. 好多人",
                         "author": "紫萊姆 Raimu ch. 【HKVtuber】"
                     },
                     {
+                        "video_code": "lPNyhubko6I",
+                        "image": "https://i.ytimg.com/vi/lPNyhubko6I/mqdefault.jpg",
+                        "title": "【深夜唱歌】希望唔會俾隔離左右投訴【香港VTuber/紫萊姆】",
+                        "author": "紫萊姆 Raimu ch. 【HKVtuber】"
+                    },
+                    {
                         "video_code": "a-mKDy8-vG8",
                         "image": "https://i.ytimg.com/vi/a-mKDy8-vG8/mqdefault.jpg",
                         "title": "【音樂台】娘娘doko？粵語兵歌合集【香港VTuber/紫萊姆】",
-                        "author": "紫萊姆 Raimu ch. 【HKVtuber】"
-                    },
-                    {
-                        "video_code": "g_5j_03nYHA",
-                        "image": "https://i.ytimg.com/vi/g_5j_03nYHA/mqdefault.jpg",
-                        "title": "【突發雜談】2021年就快完，吹水傾下今年發生係萊姆身上嘅大小事【香港VTuber/紫萊姆】",
-                        "author": "紫萊姆 Raimu ch. 【HKVtuber】"
-                    },
-                    {
-                        "video_code": "15Q0Q4sVJqY",
-                        "image": "https://i.ytimg.com/vi/15Q0Q4sVJqY/mqdefault.jpg",
-                        "title": "【音樂台】當我細細個仲係一pat泥膠咁嗰陣，就係聽開你哋大㗎【香港VTuber/紫萊姆】",
                         "author": "紫萊姆 Raimu ch. 【HKVtuber】"
                     }
                 ]

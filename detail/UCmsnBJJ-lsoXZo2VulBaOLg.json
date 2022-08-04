@@ -2,7 +2,7 @@
     "id": "UCmsnBJJ-lsoXZo2VulBaOLg",
     "header": {
         "name": "甜椒工房 Paprika Factory",
-        "image": "https://yt3.ggpht.com/nzmvK3DuqXplNbm25YsgSgZOjsOvDM9XN7vcuP6WPfDWeAnq-7FwNSRFtRT7gZGjz6zkGGpH-w=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/wHeBJDFJBL_TD_MSaPO4sDBvxYPLJsDHp4tpgbW1_iZgTzNhiG1lgOiKoVqmFDiQh3udvp_X4g=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/3DjqGpPEbFDG5O96Y-mtryWGvyBpZcuEnUvD7g2tFN_TUFDzGFQ8HGKskTvFIn8VFJ63lMg4dw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -12,16 +12,16 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FUE6sPxVIAAAuQn?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUE6sPxVIAAAuQn?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FYu8-pjUsAACOyz?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYu8-pjUsAACOyz?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/FUE6sbZVUAAE1MS?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUE6sbZVUAAE1MS?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FYu8-piVQAAdkfL?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYu8-piVQAAdkfL?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/FUE6siUUsAAHQaY?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUE6siUUsAAHQaY?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FYu8-phVsAAaZLP?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYu8-phVsAAaZLP?format=jpg&name=medium"
                     }
                 ]
             }
@@ -203,6 +203,12 @@
                         "author": "甜椒工房 Paprika Factory"
                     },
                     {
+                        "video_code": "ZE32sQqMz8M",
+                        "image": "https://i.ytimg.com/vi/ZE32sQqMz8M/mqdefault.jpg",
+                        "title": "【直播】畫畫台！一邊畫畫一邊聊天～【艾路11】",
+                        "author": "甜椒工房 Paprika Factory"
+                    },
+                    {
                         "video_code": "KoBhpCFpLIQ",
                         "image": "https://i.ytimg.com/vi/KoBhpCFpLIQ/mqdefault.jpg",
                         "title": "【直播】來一起畫我有病的椒友【艾路11】",
@@ -218,12 +224,6 @@
                         "video_code": "_6v0vdD7NPk",
                         "image": "https://i.ytimg.com/vi/_6v0vdD7NPk/mqdefault.jpg",
                         "title": "【直播】常識問題大挑戰！看米津有多沒常識（上半場）【艾路11｜米津律】",
-                        "author": "甜椒工房 Paprika Factory"
-                    },
-                    {
-                        "video_code": "R9k99YN6orM",
-                        "image": "https://i.ytimg.com/vi/R9k99YN6orM/mqdefault.jpg",
-                        "title": "【直播】新人V聯動！挑戰畫畫接龍！【彌歌魚｜艾路11｜Vtuber友人們】",
                         "author": "甜椒工房 Paprika Factory"
                     }
                 ]

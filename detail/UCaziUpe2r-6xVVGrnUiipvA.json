@@ -1,0 +1,76 @@
+{
+    "id": "UCaziUpe2r-6xVVGrnUiipvA",
+    "header": {
+        "name": "恢靈*【香港Vtuber準備中】",
+        "image": "https://yt3.ggpht.com/-6hwl7yt_al9ufOdQhsEbsrQ4B8pAQHJxiaVUPuYRG-imAJp17gJz0h5MjXVWZVitC17ow8nrNs=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/b-ju9h1ojk7wJvnTwl4RyMdFIKiZsJ9NNHroRdW6dD1LhfM5ULe9jBCfYDFlGZhcHglPWZII=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FVJio0HaAAA58cQ?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FVJio0HaAAA58cQ?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "剛睡醒的古代妖精...... 嘗試接觸外界事物，而踏出一步...... "
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "恢靈",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCaziUpe2r-6xVVGrnUiipvA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "FuiNing_HKV"
+                    }
+                ]
+            }
+        }
+    ]
+}

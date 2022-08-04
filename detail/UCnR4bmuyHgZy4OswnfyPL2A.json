@@ -1,0 +1,174 @@
+{
+    "id": "UCnR4bmuyHgZy4OswnfyPL2A",
+    "header": {
+        "name": "栗子ritsu ch.【HKVtuber】",
+        "image": "https://yt3.ggpht.com/GOyfmR06zwjxmAyTDmlwEf1_nUDrjJlUdxuDYp06GHaGTD1B6c1CIx50Q4qEf1Fbki_5lopx6gs=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/KuNJUEBtBeRSmJCqk-bfB2gkLiJfHa51vfIHl6rwqX0q-Ut9rJ9PLHD2CgflQI5S4QwCTSA64w=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FWEkvdDaMAA_AfL?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FWEkvdDaMAA_AfL?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "來自松鼠國,因職位太低無法升職為人型態的松鼠🐿️界的社畜,努力脫離社畜及獲得關注度以回復成人狀態。誰能拒絕毛茸茸的生物!"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "栗子\nritsu",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "5月7日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "120歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "163cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#千篇一栗\n#食栗之秋",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#栗子升職之路",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#LittleRitsuArt",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCnR4bmuyHgZy4OswnfyPL2A"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "ritsu_ch0507"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/ritsu_ch0507"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "3f5nxr-BRnw",
+                        "image": "https://i.ytimg.com/vi/3f5nxr-BRnw/mqdefault.jpg",
+                        "title": "【試唱】一分の妄想稅【栗子Ritsu┃HKVTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "2DnBXqBqLSE",
+                        "image": "https://i.ytimg.com/vi/2DnBXqBqLSE/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自己紹介 【栗子Ritsu/HKVtuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "SsxenMsdAxU",
+                        "image": "https://i.ytimg.com/vi/SsxenMsdAxU/mqdefault.jpg",
+                        "title": "【CUPHEAD】#1 首次挑戰就爆機?【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "eFllxtzSX8A",
+                        "image": "https://i.ytimg.com/vi/eFllxtzSX8A/mqdefault.jpg",
+                        "title": "【CUPHEAD】#2下集終於來了┃帶著阿桃【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "0SqetkZ7zIY",
+                        "image": "https://i.ytimg.com/vi/0SqetkZ7zIY/mqdefault.jpg",
+                        "title": "【INSIDE】#1 松鼠撚狗?新幫派松鼠幫?被壓扁的松鼠到底是鬆餅還是薯餅?【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "tPCgzRHeCsw",
+                        "image": "https://i.ytimg.com/vi/tPCgzRHeCsw/mqdefault.jpg",
+                        "title": "【突發事故台】冰與火之舞#1 + 談雜+首次接觸雀魂【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "l86a27P1iwk",
+                        "image": "https://i.ytimg.com/vi/l86a27P1iwk/mqdefault.jpg",
+                        "title": "【Hollow Knight】#1 重灌電腦後事故台Day【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "VflkGTIAEXs",
+                        "image": "https://i.ytimg.com/vi/VflkGTIAEXs/mqdefault.jpg",
+                        "title": "【CARTO】#1 另類拼圖解謎遊戲,栗子能成功嗎?【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

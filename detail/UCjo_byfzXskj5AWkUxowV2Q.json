@@ -2,22 +2,10 @@
     "id": "UCjo_byfzXskj5AWkUxowV2Q",
     "header": {
         "name": "獵人公會",
-        "image": "https://yt3.ggpht.com/ytc/AKedOLT7Ir_DnBJyx1EZ-9AuHjxY_SVqeLG1AM0qgwHz=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/ytc/AMLnZu8zamAFEcA76A0rT_9Jt8OWOeW6QljDui6Ug4_d=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/WrWbOaeNmtTpMPwyYR4yO4hIPPR3txC9Uggy_sadfB4Q2fjyqqWpCEkg8M9cUA9qUAmXp6wEFw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FX7xep4aMAAxrqj?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FX7xep4aMAAxrqj?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -79,15 +67,15 @@
                         "author": "獵人公會"
                     },
                     {
-                        "video_code": "wd3Ws2NmJaY",
-                        "image": "https://i.ytimg.com/vi/wd3Ws2NmJaY/mqdefault.jpg",
-                        "title": "【獵人公會第一屆香港VTuber四麻盃】7/4 比賽模式說明會",
-                        "author": "獵人公會"
-                    },
-                    {
                         "video_code": "pA3vTRR13mk",
                         "image": "https://i.ytimg.com/vi/pA3vTRR13mk/mqdefault.jpg",
                         "title": "【中秋你注定一人】Covered by 中空獵人(Short Ver.)",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "wd3Ws2NmJaY",
+                        "image": "https://i.ytimg.com/vi/wd3Ws2NmJaY/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber四麻盃】7/4 比賽模式說明會",
                         "author": "獵人公會"
                     },
                     {

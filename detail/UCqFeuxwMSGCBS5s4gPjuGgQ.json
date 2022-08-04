@@ -2,8 +2,7 @@
     "id": "UCqFeuxwMSGCBS5s4gPjuGgQ",
     "header": {
         "name": "[Vtuber] Zeta Ch",
-        "image": "https://yt3.ggpht.com/vCYkvijKaRw8xNL70JCijA69MezmQF8q-BngHD7dAAuN4G6T6odsdFO9vzA6coQklnXZkP14=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/4DX9JNSPCRBLN4PxNX3rlGa1cxrWFMnWlJV390UDZOKxPylP8Hifk6pBYkE9-MmK105yO4xt=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": ""
     },
     "body": [
         {
@@ -116,6 +115,12 @@
                         "video_code": "v0C75RdjJ4o",
                         "image": "https://i.ytimg.com/vi/v0C75RdjJ4o/mqdefault.jpg",
                         "title": "[精華] arena? YES STONKS",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
+                        "video_code": "6o3XmvMrE9U",
+                        "image": "https://i.ytimg.com/vi/6o3XmvMrE9U/mqdefault.jpg",
+                        "title": "WoT spin",
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {

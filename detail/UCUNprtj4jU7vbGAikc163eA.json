@@ -2,10 +2,22 @@
     "id": "UCUNprtj4jU7vbGAikc163eA",
     "header": {
         "name": "神田なつせ Ch. [HK Vtuber 準備中]",
-        "image": "https://yt3.ggpht.com/ODfi8D0dCi4CPrZZeei96XSJ_N03jZKwHl9gi9fvzDerKVJ32iU1jJXLq5J3PQrLkx_tjbXBG5g=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/3kLi0NMm3nz75R7gLEqHLqVv2qYKdbX2qWLX6GNIRIHHD1GxHkFlgj33sSDi1KJHIz8xa8oSHQ=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/R_C5WjXYsxmuRAzfUS5WiA4-ORZ93icsYxvMb83eUWgx6Wn-dBPkSn0RoOHneXPJHKP-iKxVrA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FUkyJiaVEAA_Cdt?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FUkyJiaVEAA_Cdt?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -21,6 +33,11 @@
                     {
                         "key": "名字",
                         "content": "神田なつせ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "178cm",
                         "heightRate": "1"
                     }
                 ]
@@ -40,6 +57,21 @@
                         "key": "語言",
                         "content": "廣東話\n普通話\n日文\n英文",
                         "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#神田残業中",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#部長繪",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#神田報告",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -69,13 +101,13 @@
                         "video_code": "8dT4kX1CbpM",
                         "image": "https://i.ytimg.com/vi/8dT4kX1CbpM/mqdefault.jpg",
                         "title": "【自己紹介】Vtuber一問一答自己紹介【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     },
                     {
                         "video_code": "LjJs0tBQmxw",
                         "image": "https://i.ytimg.com/vi/LjJs0tBQmxw/mqdefault.jpg",
                         "title": "愛情光 -【月月好聲音】(Behind the scenes) 沒有採用的版本",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     }
                 ]
             }
@@ -89,61 +121,61 @@
                         "video_code": "GxjIfFJhteM",
                         "image": "https://i.ytimg.com/vi/GxjIfFJhteM/mqdefault.jpg",
                         "title": "【初配信】神田會社本部長 開業了! 【HKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     },
                     {
                         "video_code": "JjMGu_RIfpQ",
                         "image": "https://i.ytimg.com/vi/JjMGu_RIfpQ/mqdefault.jpg",
                         "title": "【遊戲配信】英雄聯盟 百獸特攻隊活動代幣募集耐久【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     },
                     {
                         "video_code": "GksJFDqzLLk",
                         "image": "https://i.ytimg.com/vi/GksJFDqzLLk/mqdefault.jpg",
                         "title": "【遊戲配信】Apex 1000傷挑戰耐久【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     },
                     {
                         "video_code": "d2NoEJ_Rn5I",
                         "image": "https://i.ytimg.com/vi/d2NoEJ_Rn5I/mqdefault.jpg",
                         "title": "【雜談配信】模型山積清理計劃【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
-                    },
-                    {
-                        "video_code": "87nKOUsgmg0",
-                        "image": "https://i.ytimg.com/vi/87nKOUsgmg0/mqdefault.jpg",
-                        "title": "【遊戲配信】雲船仔與女神APEX的一天 feat. 出雲ふゆ【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
-                    },
-                    {
-                        "video_code": "lgsS9AuSpjQ",
-                        "image": "https://i.ytimg.com/vi/lgsS9AuSpjQ/mqdefault.jpg",
-                        "title": "【職人配信】FM100 GAT-X370 獵殺高達 假組耐久【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     },
                     {
                         "video_code": "AYw6TiWnfBY",
                         "image": "https://i.ytimg.com/vi/AYw6TiWnfBY/mqdefault.jpg",
                         "title": "【雜談配信】模型山積清理計劃【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
+                    },
+                    {
+                        "video_code": "87nKOUsgmg0",
+                        "image": "https://i.ytimg.com/vi/87nKOUsgmg0/mqdefault.jpg",
+                        "title": "【遊戲配信】雲船仔與女神APEX的一天 feat. 出雲ふゆ【神田なつせHKVtuber】",
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
+                    },
+                    {
+                        "video_code": "lgsS9AuSpjQ",
+                        "image": "https://i.ytimg.com/vi/lgsS9AuSpjQ/mqdefault.jpg",
+                        "title": "【職人配信】FM100 GAT-X370 獵殺高達 假組耐久【神田なつせHKVtuber】",
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
+                    },
+                    {
+                        "video_code": "zPdSThURdXQ",
+                        "image": "https://i.ytimg.com/vi/zPdSThURdXQ/mqdefault.jpg",
+                        "title": "【雜談配信】模型山積清理計劃【神田なつせHKVtuber】",
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
+                    },
+                    {
+                        "video_code": "wOj50uqW6kc",
+                        "image": "https://i.ytimg.com/vi/wOj50uqW6kc/mqdefault.jpg",
+                        "title": "【雜談配信】模型山積清理計劃【神田なつせHKVtuber】",
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     },
                     {
                         "video_code": "_LS-e9d7rfg",
                         "image": "https://i.ytimg.com/vi/_LS-e9d7rfg/mqdefault.jpg",
                         "title": "【殘業配信】殘業作業台(雜談可能?)【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
-                    },
-                    {
-                        "video_code": "vrdg6vE7MPI",
-                        "image": "https://i.ytimg.com/vi/vrdg6vE7MPI/mqdefault.jpg",
-                        "title": "【遊戲配信】Monster Hunter Rise 繼續復健【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
-                    },
-                    {
-                        "video_code": "b0_Fx4oTKSM",
-                        "image": "https://i.ytimg.com/vi/b0_Fx4oTKSM/mqdefault.jpg",
-                        "title": "【職人配信】遊戲製作之旅 經驗者的遊戲製作簡介【神田なつせHKVtuber】",
-                        "author": "神田なつせ【HK Vtuber】"
+                        "author": "神田なつせ Natsuse Ch.【Vtuber】"
                     }
                 ]
             }

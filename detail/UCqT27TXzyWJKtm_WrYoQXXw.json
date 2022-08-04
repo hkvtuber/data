@@ -2,10 +2,30 @@
     "id": "UCqT27TXzyWJKtm_WrYoQXXw",
     "header": {
         "name": "浣熊 KinaRira ch.",
-        "image": "https://yt3.ggpht.com/L6mvjGqNniKcqjEsYOKJS5UbweJzjan7Ak1weXf3S4bsyb-3uLp5fdR9f0nW6m68uOko1yJe=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/x6SDF-5qJc_Qh5aOEgZB_4U1j0iCQwFFfu6F_mD_ZeCu5BIQElRNzDPb_bphGl-GfBCRE7kR=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/7TAr6AefRQynfMjSy6yWvRxHvLqE8uejOIC7K-Yv-dG3e-ebLJLLk0gX717YorNC9mMalp9SyyE=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/LPPcKj04B2v7Ejg7L1plLHvHxgeYU1bQjY3H95BJL3qPPsHKsu1poxvLI4JtixDpM8iub3mSJxI=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FZRN3Y3UYAABmey?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZRN3Y3UYAABmey?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FZRN4q7UsAED5Ev?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZRN4q7UsAED5Ev?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FZRN6X2UEAEsIG2?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZRN6X2UEAEsIG2?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {

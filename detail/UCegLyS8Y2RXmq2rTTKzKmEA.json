@@ -1,0 +1,114 @@
+{
+    "id": "UCegLyS8Y2RXmq2rTTKzKmEA",
+    "header": {
+        "name": "Chiyo ch. 羽狐神ちよ HKVtuber",
+        "image": "https://yt3.ggpht.com/ycRcP-ELov_OC1etwnpxFF5hPkHqN1TLGIHFAHKsxovL8K2eAl2MTY0tD9MNJhc57BtnlgTKsA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/U1QIeH2lBBTKXmwNUotCU-iVSsLAV4k0bf2ulTfjmZxc3KjEZzgn_6Kq5HrTH8l2GzHVv1D79g=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FVsgzzbakAATbXH?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FVsgzzbakAATbXH?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "羽狐神ちよ\nChiyo",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "10月10日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#神明顯靈中\n#Chilive",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#千代絵集",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#spichiyo",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCegLyS8Y2RXmq2rTTKzKmEA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "chiyokamisama"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/chiyoookami_"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "X_xvbFHNKnI",
+                        "image": "https://i.ytimg.com/vi/X_xvbFHNKnI/mqdefault.jpg",
+                        "title": "羽狐神 ちよ 閃亮登場 ✨ | Debut Trailer | 初配信預告",
+                        "author": "Chiyo ch. 羽狐神ちよ HKVtuber"
+                    }
+                ]
+            }
+        }
+    ]
+}

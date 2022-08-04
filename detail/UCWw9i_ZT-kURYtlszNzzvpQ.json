@@ -1,0 +1,200 @@
+{
+    "id": "UCWw9i_ZT-kURYtlszNzzvpQ",
+    "header": {
+        "name": "Kokoro Ch. 胡桃ココロ",
+        "image": "https://yt3.ggpht.com/v79m0F6AM3SzhfJRso_-mt8It5mTbUVRh3GvVlExfnJm7e1MawuPAgGTbbn9TCSD98cmG2_GGg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/wfwz-YUUrBJCMmUOX2v6WkYTF6ZzMAK_fJkHoD8PcEmwKvL4pLPtIbA2COFEwMS6R-dnlVnpD_M=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYfaKSgUYAAnam-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYfaKSgUYAAnam-?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "胡桃ココロ\nKokoro",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#kokorowo",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#kokorowolive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#kokorowoart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#胡桃夾子help",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCWw9i_ZT-kURYtlszNzzvpQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "kurumikokorowo"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/kurumikokorowo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "FNhL3IimQIc",
+                        "image": "https://i.ytimg.com/vi/FNhL3IimQIc/mqdefault.jpg",
+                        "title": "【優しい彗星 Yasashii Suisei】Cover 胡桃ココロ【YOASOBI】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "IwQj6id9VsY",
+                        "image": "https://i.ytimg.com/vi/IwQj6id9VsY/mqdefault.jpg",
+                        "title": "【kokorowoclip】當胡桃遇上Poppy 呀～呀～呀～【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "BLg7yiYZQMo",
+                        "image": "https://i.ytimg.com/vi/BLg7yiYZQMo/mqdefault.jpg",
+                        "title": "【精華重溫】未開始先事故，忘了mute麥克風耶QwQ【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "jX_3EM46rv8",
+                        "image": "https://i.ytimg.com/vi/jX_3EM46rv8/mqdefault.jpg",
+                        "title": "【精華重溫】上到太空吶wohooooo~【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "1fsjNcjX3S8",
+                        "image": "https://i.ytimg.com/vi/1fsjNcjX3S8/mqdefault.jpg",
+                        "title": "【DEBUT 初配信】我全都要！！【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "VDN_ot47DOA",
+                        "image": "https://i.ytimg.com/vi/VDN_ot47DOA/mqdefault.jpg",
+                        "title": "【OUTLAST】我死定了QAQ...【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "rD7QyvLFlpk",
+                        "image": "https://i.ytimg.com/vi/rD7QyvLFlpk/mqdefault.jpg",
+                        "title": "【雜談配信】Kokoro醬對吃的執著+++【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "4F10drweTks",
+                        "image": "https://i.ytimg.com/vi/4F10drweTks/mqdefault.jpg",
+                        "title": "【Fall Guys】Let's fallllllllllll~~~【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "qP6VklawswQ",
+                        "image": "https://i.ytimg.com/vi/qP6VklawswQ/mqdefault.jpg",
+                        "title": "【雜談】Let's goooo~ ft.Maya&Hanari【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "X_RzkVns6Zg",
+                        "image": "https://i.ytimg.com/vi/X_RzkVns6Zg/mqdefault.jpg",
+                        "title": "【Poppy Playtime】觸手魯霧play...いや～～【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "picOI9pS8pg",
+                        "image": "https://i.ytimg.com/vi/picOI9pS8pg/mqdefault.jpg",
+                        "title": "【GALL GUYS】夜點開場會不會能吃雞？【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "_k8ob1on3Ok",
+                        "image": "https://i.ytimg.com/vi/_k8ob1on3Ok/mqdefault.jpg",
+                        "title": "【Stray】喵~~~~~奴才我個罐呢？【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "kzj2zsdZIQA",
+                        "image": "https://i.ytimg.com/vi/kzj2zsdZIQA/mqdefault.jpg",
+                        "title": "【壺男】壺壺壺桃~介紹我的好朋友王德發比大家識AwA【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    },
+                    {
+                        "video_code": "cdddOnwzXhU",
+                        "image": "https://i.ytimg.com/vi/cdddOnwzXhU/mqdefault.jpg",
+                        "title": "【OVERCOOKED!2】烤蛋糕燒廚房烤蛋糕燒廚房烤蛋糕燒廚房【胡桃ココロ ꕥ HKVtuber】",
+                        "author": "Kokoro Ch. 胡桃ココロ"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -2,10 +2,26 @@
     "id": "UC5-f2xxyjutXzEklK68V6pA",
     "header": {
         "name": "Rubi露比 ~ 香港Vtuber 準備中",
-        "image": "https://yt3.ggpht.com/i71C63WH5jNlBXOdwzo8oXaSPkJu5GXexp6nCuJLRQALU2uEJ-S-vKBR-VR6v7vQjZgJok1OxA=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/uexYw87LG6AdLMRlur--IPrA6rfkFfyjKlUkajcdaVvy1z_Mu7-nl2Mlsci5tfNOfmaarQSJag=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/qVcT4U69LxqvNTmiw6Cqoq54-Ov8pCwmWgT-7lmuC0xANF7WUTSR_N88D8Kp8W9M28dL3Oqm=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYHTr9vUIAEoZFK?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYHTr9vUIAEoZFK?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FYHT4AQUcAASKXD?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYHT4AQUcAASKXD?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -22,6 +38,16 @@
                         "key": "名字",
                         "content": "露比\nRubi",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "7月28日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "160cm",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -40,6 +66,31 @@
                         "key": "語言",
                         "content": "廣東話",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#時空探索",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#露D唔露D",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#露比你睇",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#穿越者",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#金華火腿",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -52,6 +103,10 @@
                     {
                         "key": "youtube",
                         "path": "UC5-f2xxyjutXzEklK68V6pA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "rubi_0w0"
                     }
                 ]
             }
@@ -82,6 +137,18 @@
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
+                        "video_code": "pHkeygWwm6Q",
+                        "image": "https://i.ytimg.com/vi/pHkeygWwm6Q/mqdefault.jpg",
+                        "title": "❤ 魔女生日大會 ❤ 【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
+                        "video_code": "JoY9orsbHRc",
+                        "image": "https://i.ytimg.com/vi/JoY9orsbHRc/mqdefault.jpg",
+                        "title": "【遊戲】FALL GUYS來玩啦✨觀眾可參加✨【Rubi露比 HKvtuber】",
+                        "author": "Rubi露比【新人HKvtuber】"
+                    },
+                    {
                         "video_code": "KWwIuMLjxBk",
                         "image": "https://i.ytimg.com/vi/KWwIuMLjxBk/mqdefault.jpg",
                         "title": "【雜談】露比教大家訓覺修行!!!!! 拯救失眠人士◅ ʢ•·̫•ʡ【Rubi露比 HKvtuber】",
@@ -91,12 +158,6 @@
                         "video_code": "ynO2JfWC3Vc",
                         "image": "https://i.ytimg.com/vi/ynO2JfWC3Vc/mqdefault.jpg",
                         "title": "【歌回】 一個月紀念歌回! 挑戰廣東話會成功嗎???【Rubi露比 HKvtuber】",
-                        "author": "Rubi露比【新人HKvtuber】"
-                    },
-                    {
-                        "video_code": "JoY9orsbHRc",
-                        "image": "https://i.ytimg.com/vi/JoY9orsbHRc/mqdefault.jpg",
-                        "title": "【遊戲】FALL GUYS來玩啦✨觀眾可參加✨【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
@@ -124,15 +185,9 @@
                         "author": "Rubi露比【新人HKvtuber】"
                     },
                     {
-                        "video_code": "y1reVT677Sc",
-                        "image": "https://i.ytimg.com/vi/y1reVT677Sc/mqdefault.jpg",
-                        "title": "【遊戲】一齊跌落街 !  💫 FALL GUYS 可以訓練手部肌肉?!!【Rubi露比 HKvtuber】",
-                        "author": "Rubi露比【新人HKvtuber】"
-                    },
-                    {
-                        "video_code": "MJ2_BUphAhk",
-                        "image": "https://i.ytimg.com/vi/MJ2_BUphAhk/mqdefault.jpg",
-                        "title": "【雜談】🖤廢水大分享🖤【Rubi露比 HKvtuber】",
+                        "video_code": "IfnPVp9K4CI",
+                        "image": "https://i.ytimg.com/vi/IfnPVp9K4CI/mqdefault.jpg",
+                        "title": "【聯動】Among us 初體驗!! 我超廢QAQ【Rubi露比 HKvtuber】",
                         "author": "Rubi露比【新人HKvtuber】"
                     }
                 ]

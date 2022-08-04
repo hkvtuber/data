@@ -2,7 +2,7 @@
     "id": "UCwLAv6RqdT_wTDaE7R3x0Wg",
     "header": {
         "name": "小川よしと【HKvtuber準備中】",
-        "image": "https://yt3.ggpht.com/L_VOCzIKvlUdvssur-AAPEdt5cEIlm9R6HTJecqkUoujLyKsC4JgraGYMOfzQszr1qp1DrJGbw=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/wuGSCoknvmRp0L8uKLCvxocRD5_UTLE1cfpxr1fjQ5nMj-OubD4smgkls5LZqn-5t2E7jtGI=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/10SCBVrLv17r9Z5cgR1kkfHRKjOZl0yGKksM_02S9AJWo8NVrKtYIcIcrVl9Qtu4zFMldhU6Nw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -38,6 +38,16 @@
                         "key": "名字",
                         "content": "小川よしと",
                         "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "4月10日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "171cm",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -56,6 +66,26 @@
                         "key": "語言",
                         "content": "廣東話\n普通話\n日文\n英文",
                         "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#鴨鴨開播",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#鴨畫",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#金鴨",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#片皮鴨鴨",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -138,15 +168,15 @@
                         "author": "小川よしと【HKvtuber】"
                     },
                     {
-                        "video_code": "vUnJZ4k4v9I",
-                        "image": "https://i.ytimg.com/vi/vUnJZ4k4v9I/mqdefault.jpg",
-                        "title": "【#英雄聯盟】觀眾參加型 就算交換位置也大殺四方 讓你們見識桃桃後宮團下路的默契吧【小川よしと/花咲桃桃】#鴨鴨開播",
-                        "author": "小川よしと【HKvtuber】"
-                    },
-                    {
                         "video_code": "e0FdeIOkd2Q",
                         "image": "https://i.ytimg.com/vi/e0FdeIOkd2Q/mqdefault.jpg",
                         "title": "【#聯盟戰棋】 Road to diamond要坐火箭了喔 賭莉莉牙 #5【小川よしと】#鴨鴨開播",
+                        "author": "小川よしと【HKvtuber】"
+                    },
+                    {
+                        "video_code": "vUnJZ4k4v9I",
+                        "image": "https://i.ytimg.com/vi/vUnJZ4k4v9I/mqdefault.jpg",
+                        "title": "【#英雄聯盟】觀眾參加型 就算交換位置也大殺四方 讓你們見識桃桃後宮團下路的默契吧【小川よしと/花咲桃桃】#鴨鴨開播",
                         "author": "小川よしと【HKvtuber】"
                     },
                     {

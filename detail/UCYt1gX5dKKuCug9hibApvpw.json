@@ -2,22 +2,10 @@
     "id": "UCYt1gX5dKKuCug9hibApvpw",
     "header": {
         "name": "Dolla朵拉 Ch. EggtartV",
-        "image": "https://yt3.ggpht.com/r_o5zB8ALdN886m6mLLdm7k_-p4VWzhynULZM3CmqXz1Y3lEGlwZxTB1XBKfa-GMej4cwj51hew=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/XAunRWmWuEDS6a8pzjzFahkFgPtQ9GzqVKVOqTkx4nUco4hbkMUyMUM37VtO_mtLHagUzgvdwIE=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/o1oE7F088yZ5464JxMXPh_915-VUBuOtKmtAnocx30tUblKxjPOlim2cSpyAI5ohNsnQc2A7=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FSJqQ1naUAAikzQ?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FSJqQ1naUAAikzQ?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -145,15 +133,15 @@
                         "author": "Dolla朵拉 Ch. EggtartV"
                     },
                     {
-                        "video_code": "wpBDDOyqJWw",
-                        "image": "https://i.ytimg.com/vi/wpBDDOyqJWw/mqdefault.jpg",
-                        "title": "做眼球手術前必須知道的小知識【手術模擬器/Dolla朵拉】",
-                        "author": "Dolla朵拉 Ch. EggtartV"
-                    },
-                    {
                         "video_code": "3pCJiK2hhAI",
                         "image": "https://i.ytimg.com/vi/3pCJiK2hhAI/mqdefault.jpg",
                         "title": "對不起，一直瞞住大家",
+                        "author": "Dolla朵拉 Ch. EggtartV"
+                    },
+                    {
+                        "video_code": "wpBDDOyqJWw",
+                        "image": "https://i.ytimg.com/vi/wpBDDOyqJWw/mqdefault.jpg",
+                        "title": "做眼球手術前必須知道的小知識【手術模擬器/Dolla朵拉】",
                         "author": "Dolla朵拉 Ch. EggtartV"
                     }
                 ]

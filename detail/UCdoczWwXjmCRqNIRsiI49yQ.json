@@ -2,7 +2,7 @@
     "id": "UCdoczWwXjmCRqNIRsiI49yQ",
     "header": {
         "name": "☭ 青爐 ☭",
-        "image": "https://yt3.ggpht.com/omq33sEBnMlmvLCn2hQqRp5vi7mC29mcExhluoupm1ZQ-XOjBbCQSMpOrx3x3_PjRTMMWzzX2A=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/P1_UBceTqc8v0W1VlU837HcU9WlSf12VP67xjSECDubjmLXxF0DHWNBQKCy9QfYOQZWuTUu3=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/VfaVXMwTTsPLzPwa75RJIEiEjkc_ZeXtuQyXKUut0StoJeyZCYNZ4oHKdNe4ek3DGmmzjFNA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FXjWUSeVQAA3Tlk?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FXjWUSeVQAA3Tlk?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FYvPY70VQAAkSLk?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYvPY70VQAAkSLk?format=jpg&name=medium"
                     }
                 ]
             }
@@ -81,6 +81,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "oq2caL3YVxM",
+                        "image": "https://i.ytimg.com/vi/oq2caL3YVxM/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 5【31/7/2022】",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
                         "video_code": "WV3Tli4Rl1Y",
                         "image": "https://i.ytimg.com/vi/WV3Tli4Rl1Y/mqdefault.jpg",
                         "title": "【爐火純傾】EP. 3【3/7/2022】",
@@ -132,12 +138,6 @@
                         "video_code": "UnvE6C1l3AU",
                         "image": "https://i.ytimg.com/vi/UnvE6C1l3AU/mqdefault.jpg",
                         "title": "【愚人節特企】9UP 無上限 with 特別形象！",
-                        "author": "☭ 青爐 ☭"
-                    },
-                    {
-                        "video_code": "5dV--ThHAQo",
-                        "image": "https://i.ytimg.com/vi/5dV--ThHAQo/mqdefault.jpg",
-                        "title": "【青爐TRPG】EP 2 長青爐團【20/03/2022】",
                         "author": "☭ 青爐 ☭"
                     }
                 ]

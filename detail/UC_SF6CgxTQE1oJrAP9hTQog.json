@@ -1,0 +1,99 @@
+{
+    "id": "UC_SF6CgxTQE1oJrAP9hTQog",
+    "header": {
+        "name": "VTuber ON",
+        "image": "https://yt3.ggpht.com/re0S5sJ01S48y_K2W1B1W6vi2PC15oJb10ob4awB3Yx5HkSWmN70v9O-tleUQz2vPqCpumbslQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/FKO2351bE2E18cb6rxYvz2lMD-O19gbRTqjoR0d5LY7UdsgrcBTU1dJnRyuXG3GVlEBkZ9fUU1k=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "由喜歡VTuber的同好制作的，介紹香港VTuber活動的Channel。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "VTuber ON",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC_SF6CgxTQE1oJrAP9hTQog"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "VtuberOn"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "NF81_lJm_Sk",
+                        "image": "https://i.ytimg.com/vi/NF81_lJm_Sk/mqdefault.jpg",
+                        "title": "【HKVTUBER】おちゃめ機能 【48人で歌ってみた】",
+                        "author": "VTuber ON"
+                    },
+                    {
+                        "video_code": "9aVZZBVZzlg",
+                        "image": "https://i.ytimg.com/vi/9aVZZBVZzlg/mqdefault.jpg",
+                        "title": "VTuber-ON THE NIGHT - 重大告知PV",
+                        "author": "VTuber ON"
+                    },
+                    {
+                        "video_code": "BzlRZZMowOc",
+                        "image": "https://i.ytimg.com/vi/BzlRZZMowOc/mqdefault.jpg",
+                        "title": "VTuber-ON THE NIGHT - 重大告知PV 第2彈",
+                        "author": "VTuber ON"
+                    },
+                    {
+                        "video_code": "4SSn7DocImM",
+                        "image": "https://i.ytimg.com/vi/4SSn7DocImM/mqdefault.jpg",
+                        "title": "ACGHK 2022 Vtuber-ON 活動介紹PV",
+                        "author": "VTuber ON"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "QZO8PRqBp1o",
+                        "image": "https://i.ytimg.com/vi/QZO8PRqBp1o/mqdefault.jpg",
+                        "title": "香港動漫電玩節2022 - Vtuber 活動節目巡禮【港V好聲音】",
+                        "author": "VTuber ON"
+                    }
+                ]
+            }
+        }
+    ]
+}

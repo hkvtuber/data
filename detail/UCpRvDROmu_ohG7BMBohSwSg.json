@@ -2,7 +2,7 @@
     "id": "UCpRvDROmu_ohG7BMBohSwSg",
     "header": {
         "name": "津路あさひ [香港VTuber]",
-        "image": "https://yt3.ggpht.com/ytc/AKedOLSc5sn4jTuYDzuDrwLhwKGChsLfc5ikhtbERiZj=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/ytc/AMLnZu_rABrrq-rvBeWeeQdx_Hp8z4IWFV3sL_vVwEI8=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/JD3im2AjcdVajUpp5bO5MBeKvYcb-pWSYHA_5oOeXvbuPJGB7ECIcb0T86PeapF0O3m4_sTBWA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -195,15 +195,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "QAmvUzVkVy0",
-                        "image": "https://i.ytimg.com/vi/QAmvUzVkVy0/mqdefault.jpg",
-                        "title": "【初配信】 賢者的小休時間 雜談 【香港Vtuber】",
-                        "author": "津路あさひ [香港VTuber]"
-                    },
-                    {
                         "video_code": "m31aD0ob8H8",
                         "image": "https://i.ytimg.com/vi/m31aD0ob8H8/mqdefault.jpg",
                         "title": "【茶樓lunch time】第一回【香港Vtuber】",
+                        "author": "津路あさひ [香港VTuber]"
+                    },
+                    {
+                        "video_code": "QAmvUzVkVy0",
+                        "image": "https://i.ytimg.com/vi/QAmvUzVkVy0/mqdefault.jpg",
+                        "title": "【初配信】 賢者的小休時間 雜談 【香港Vtuber】",
                         "author": "津路あさひ [香港VTuber]"
                     },
                     {
@@ -231,15 +231,15 @@
                         "author": "津路あさひ [香港VTuber]"
                     },
                     {
-                        "video_code": "BoOUzp8TcOo",
-                        "image": "https://i.ytimg.com/vi/BoOUzp8TcOo/mqdefault.jpg",
-                        "title": "【Good Old Days雜談】《我在香港當毒撚的日子》Vol.2 ft. 御影骸【香港Vtuber】",
-                        "author": "津路あさひ [香港VTuber]"
-                    },
-                    {
                         "video_code": "CFl1tOw98Kk",
                         "image": "https://i.ytimg.com/vi/CFl1tOw98Kk/mqdefault.jpg",
                         "title": "【港V TRPG】港V CoC跑團 -轉生回- ft. 月島十字 水琴五月 赤紀麗 8rice【香港Vtuber】",
+                        "author": "津路あさひ [香港VTuber]"
+                    },
+                    {
+                        "video_code": "BoOUzp8TcOo",
+                        "image": "https://i.ytimg.com/vi/BoOUzp8TcOo/mqdefault.jpg",
+                        "title": "【Good Old Days雜談】《我在香港當毒撚的日子》Vol.2 ft. 御影骸【香港Vtuber】",
                         "author": "津路あさひ [香港VTuber]"
                     },
                     {

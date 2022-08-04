@@ -2,10 +2,22 @@
     "id": "UCLFtuqzt6OOsCR1oh43CpJA",
     "header": {
         "name": "BASA🦊83 Ch.",
-        "image": "https://yt3.ggpht.com/A05Xp7XifrGtrsb2aooq0HySpJPKo04CKwmV9PAafjNSPAdJBFBEFygOLEDQkrdJlv3vhh-4=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/aFEUM8xSwyxltd401W8X4BL0KmN0GiTDoBJQSxPF2eIt_771P8tphhj23flfwltFmvM-KO2UA7M=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/ckYWP_Us9jBPAcRDeYr55ieXGxmt1FSTBQpwTARAKo-giFHgXqyyEGDKyHE8o5MRFeYy2pbE=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FZCfs2QUsAAr0Ok?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZCfs2QUsAAr0Ok?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -205,6 +217,12 @@
                         "author": "BASA🦊83 Ch."
                     },
                     {
+                        "video_code": "Z49KMHjhdzA",
+                        "image": "https://i.ytimg.com/vi/Z49KMHjhdzA/mqdefault.jpg",
+                        "title": "【耐久歌回】黑歷大回顧！！！由2022回到人生初投稿【80曲以上】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
                         "video_code": "rFIgHE7GIPU",
                         "image": "https://i.ytimg.com/vi/rFIgHE7GIPU/mqdefault.jpg",
                         "title": "【BASA】兄弟對決！！世界遊戲大全51！！ft. 緋佐あきと【HKVTuber】",
@@ -220,12 +238,6 @@
                         "video_code": "ertV1lzC0CI",
                         "image": "https://i.ytimg.com/vi/ertV1lzC0CI/mqdefault.jpg",
                         "title": "【BASA】和大家聊聊天順便吃點棉花糖！！【重大發表】",
-                        "author": "BASA🦊83 Ch."
-                    },
-                    {
-                        "video_code": "Z49KMHjhdzA",
-                        "image": "https://i.ytimg.com/vi/Z49KMHjhdzA/mqdefault.jpg",
-                        "title": "【耐久歌回】黑歷大回顧！！！由2022回到人生初投稿【80曲以上】",
                         "author": "BASA🦊83 Ch."
                     }
                 ]

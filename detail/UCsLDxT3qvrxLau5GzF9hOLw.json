@@ -1,0 +1,236 @@
+{
+    "id": "UCsLDxT3qvrxLau5GzF9hOLw",
+    "header": {
+        "name": "Yuri Ch. 加藤游離【HKVTuber】",
+        "image": "https://yt3.ggpht.com/hNz4UHhibuBxHK6evo174H9eugOROYA6koiCZjm2smfTe67OMV-45OSjo-WJavhXDOA8uLbo=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/3jTjcwGYr7qGOiJweJPWt0yXaHivluLe547tTOa9MykcmOFhUVvUVPc1VO2GMVFM_3oCbmYGDg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FRmH-8lakAAIAEa?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FRmH-8lakAAIAEa?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "培育香噴噴的蘿莉，乃「卒子育兒園」的辦學宗旨也！\n本園由幼兒導師加藤游離負責管理及推廣，\n卒子育兒園現正進行招生程序，\n歡迎各位清楚系同好多多支持本園＜３！"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "加藤游離\nYuri",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月13日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "158cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#Katoyuri_HK\n#加藤游離",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#YuriLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#YuriArt",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCsLDxT3qvrxLau5GzF9hOLw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Katoyuri_HK"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/sotsuko3"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://instagram.com/tsy_Sotsuko/"
+                    },
+                    {
+                        "key": "pixiv",
+                        "path": "https://www.pixiv.net/member.php?id=3382051"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "Y1guq2IbkK8",
+                        "image": "https://i.ytimg.com/vi/Y1guq2IbkK8/mqdefault.jpg",
+                        "title": "[Sharing: body proportions]簡單骨架教學",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "kFRYVjScQcE",
+                        "image": "https://i.ytimg.com/vi/kFRYVjScQcE/mqdefault.jpg",
+                        "title": "[Sharing: skin coloring]分享皮膚上色方法",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "G9QOs5BSw2E",
+                        "image": "https://i.ytimg.com/vi/G9QOs5BSw2E/mqdefault.jpg",
+                        "title": "[Sharing: transparent eyes]透明眼睛效果",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "7i_fB0JJiXc",
+                        "image": "https://i.ytimg.com/vi/7i_fB0JJiXc/mqdefault.jpg",
+                        "title": "[Sharing: coloring tips]分享上色技巧",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "cQILxq-ckqo",
+                        "image": "https://i.ytimg.com/vi/cQILxq-ckqo/mqdefault.jpg",
+                        "title": "【HKVTuber/加藤游離】跟游離一起做口部運動👄❤️！Yuri plays mouth exercise!",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "jQ0HTQshbCE",
+                        "image": "https://i.ytimg.com/vi/jQ0HTQshbCE/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] - Witch of Vainglory Pandora 虚飾の魔女 speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "O7ZDQO-u2V8",
+                        "image": "https://i.ytimg.com/vi/O7ZDQO-u2V8/mqdefault.jpg",
+                        "title": "【HKVTuber/加藤游離】被戴上貓耳、裝上貓尾的游離，被迫賣萌營業？！I am back with Yuri!",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "ddgM3qVL9HI",
+                        "image": "https://i.ytimg.com/vi/ddgM3qVL9HI/mqdefault.jpg",
+                        "title": "Yuri plays Emoji picture 游離玩IG小遊戲！ #Shorts",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "03PRZALCXoA",
+                        "image": "https://i.ytimg.com/vi/03PRZALCXoA/mqdefault.jpg",
+                        "title": "[Speedpaint] - Kamado Nezuko 竈門 禰豆子",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "-hgHBQYVyC4",
+                        "image": "https://i.ytimg.com/vi/-hgHBQYVyC4/mqdefault.jpg",
+                        "title": "[Speedpaint] - 86―エイティシックス― 蕾娜 LENA",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "7CPmOtzdn84",
+                        "image": "https://i.ytimg.com/vi/7CPmOtzdn84/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] 雷姆 Rem speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "2El608y5o2E",
+                        "image": "https://i.ytimg.com/vi/2El608y5o2E/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] - SwimSwim speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "B5CqpQfkScM",
+                        "image": "https://i.ytimg.com/vi/B5CqpQfkScM/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] - Neko Jack speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "gX7z83Uvg2M",
+                        "image": "https://i.ytimg.com/vi/gX7z83Uvg2M/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] - Kemomimi speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "v5fckLQtRTk",
+                        "image": "https://i.ytimg.com/vi/v5fckLQtRTk/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] - Jack the Ripper speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "s8yxHHQ2EbE",
+                        "image": "https://i.ytimg.com/vi/s8yxHHQ2EbE/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] 亞風爐照美 Afuro Terumi speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    },
+                    {
+                        "video_code": "hgM5zwsbyzI",
+                        "image": "https://i.ytimg.com/vi/hgM5zwsbyzI/mqdefault.jpg",
+                        "title": "[CLIP STUDIO PAINT] Lady Bat speedpaint",
+                        "author": "Yuri Ch. 加藤游離【HKVTuber】"
+                    }
+                ]
+            }
+        }
+    ]
+}

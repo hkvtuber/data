@@ -2,7 +2,7 @@
     "id": "UCFXM3VpMha0H5a-0M4bgwZQ",
     "header": {
         "name": "凱特斯Kates{HKVtuber}",
-        "image": "https://yt3.ggpht.com/F2yq1P8ZGojt6h250wMSgNfuLXJsFHvH8mWXru3oCZSb9A8-zqKTFwrdGAUg4JiXiFo1amR8=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/cE5ntd_RZtwAlxmkq9n0gy-7C7SmTokfsrmO0ZXTjspf_H1G4-2XtlBsElN5iu2iq44eVrSE25k=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/5-7Zj6f4OL8Sc5krqa8v6rU4bZ4KwxtGMOh2eDlsm5YXMR-ZsQBOeWbXzmiMr4L-yz9a9jhZmsQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -105,6 +105,12 @@
             "data": {
                 "title": "推薦影片",
                 "video_list": [
+                    {
+                        "video_code": "8n2_8WWIFOQ",
+                        "image": "https://i.ytimg.com/vi/8n2_8WWIFOQ/mqdefault.jpg",
+                        "title": "[Live2D showcase] Agatha",
+                        "author": "凱特斯Kates Sophia ch."
+                    },
                     {
                         "video_code": "HRnIZ8BIfl0",
                         "image": "https://i.ytimg.com/vi/HRnIZ8BIfl0/mqdefault.jpg",

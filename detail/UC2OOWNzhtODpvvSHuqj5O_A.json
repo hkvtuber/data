@@ -2,10 +2,22 @@
     "id": "UC2OOWNzhtODpvvSHuqj5O_A",
     "header": {
         "name": "虚言まこと✡️✨VTUBER準備中",
-        "image": "https://yt3.ggpht.com/C9qpduF1fBS5xRzoRWXDNjeG_YBsIL8C8tFFOmMuxJtnrDHO6uYxRDQtAFkfTBtBQzyCK5DJ=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/TZJdmzZIgkZ2SE40od2APZ1i3XsqYpmAjPf1yAw_I3cC6OJQiOvlfKTWR3DKpU9Gk_EUOp8h8ys=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/PaFUSDPSe-NOc2bvxBh6EnKIrJuZhOeZ3x0AxOdhFOEChnggsPeM4Fqd8S-6WeL2HnSJ65mm0Go=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYSHQzwaIAAwh41?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYSHQzwaIAAwh41?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -86,12 +98,6 @@
                         "image": "https://i.ytimg.com/vi/pUYU9c4PVLc/mqdefault.jpg",
                         "title": "【九日精華】死亡合集！打boss打到快失智的makoto【虚言まこと】",
                         "author": "Makoto / 虚言まこと ch."
-                    },
-                    {
-                        "video_code": "tzupLIbVRlw",
-                        "image": "https://i.ytimg.com/vi/tzupLIbVRlw/mqdefault_live.jpg",
-                        "title": "【こんこと】十二星座 本週運程！(25/07~31/07)【虚言まこと】",
-                        "author": "Makoto / 虚言まこと ch."
                     }
                 ]
             }
@@ -108,6 +114,12 @@
                         "author": "Makoto / 虚言まこと ch."
                     },
                     {
+                        "video_code": "69Lxxpcmf4g",
+                        "image": "https://i.ytimg.com/vi/69Lxxpcmf4g/mqdefault.jpg",
+                        "title": "【COC TRPG】原創劇本：和平的(?)大學生活　第一回　feat. 羽鳥楓鈴 軒轅虛 路君LJ 出雲ふゆ【虚言まこと】",
+                        "author": "Makoto / 虚言まこと ch."
+                    },
+                    {
                         "video_code": "Q3otNjOMHsE",
                         "image": "https://i.ytimg.com/vi/Q3otNjOMHsE/mqdefault.jpg",
                         "title": "【深夜雜談心事台?】快來一起吐嘈生活上的白痴事吧！【虚言まこと】",
@@ -117,12 +129,6 @@
                         "video_code": "UiHFVkoJ138",
                         "image": "https://i.ytimg.com/vi/UiHFVkoJ138/mqdefault.jpg",
                         "title": "【文字遊戲】內容全文字？是時候上點中文課了(?)【虚言まこと】",
-                        "author": "Makoto / 虚言まこと ch."
-                    },
-                    {
-                        "video_code": "69Lxxpcmf4g",
-                        "image": "https://i.ytimg.com/vi/69Lxxpcmf4g/mqdefault.jpg",
-                        "title": "【COC TRPG】原創劇本：和平的(?)大學生活　第一回　feat. 羽鳥楓鈴 軒轅虛 路君LJ 出雲ふゆ【虚言まこと】",
                         "author": "Makoto / 虚言まこと ch."
                     },
                     {

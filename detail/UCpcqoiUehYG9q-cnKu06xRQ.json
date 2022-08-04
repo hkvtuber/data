@@ -2,7 +2,6 @@
     "id": "UCpcqoiUehYG9q-cnKu06xRQ",
     "header": {
         "name": "稜月.Ch_孤狼type",
-        "image": "https://yt3.ggpht.com/qvnJx8Ags709pYaO0ZvI6Y0VbYxRircYz4opIvnXjnszb3xUj1q39HFK6wrk7N6212JCqQuwig=s88-c-k-c0x00ffffff-no-rj",
         "bg": ""
     },
     "body": [
@@ -62,10 +61,6 @@
                     {
                         "key": "youtube",
                         "path": "UCpcqoiUehYG9q-cnKu06xRQ"
-                    },
-                    {
-                        "key": "twitter",
-                        "path": "SIdXgDFoOG3bKjU"
                     }
                 ]
             }

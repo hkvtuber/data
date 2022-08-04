@@ -2,10 +2,22 @@
     "id": "UCJyUJuz8L-mu1Ted8W-QR_Q",
     "header": {
         "name": "貓耳 Nekomix Ch.",
-        "image": "https://yt3.ggpht.com/3ztzadAb0AuzCAwRIHZtI3dZJhYeOHI0Y2Hz6_I9KrMwqXuYPBKc2MdG8xl_sDGyviCLbDau3w=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/quEOAqivfE1iBB2701ue1JsDLPMPWWJapOjw4wz9nEVl9o4t_86_QVoH5ChNUVF4PYJTKsZDXxs=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/3_VDj0aJdRDMPuRHQEyow8yt5UVxHFSo9XI9ZL3XUKwvEIXf8ZARfSKysVVzWCoP7xEEoMUo=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FYxhukCVUAAtZ0H?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FYxhukCVUAAtZ0H?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -183,6 +195,12 @@
                         "author": "貓耳 Nekomix Ch."
                     },
                     {
+                        "video_code": "JN8QJO-gK30",
+                        "image": "https://i.ytimg.com/vi/JN8QJO-gK30/mqdefault.jpg",
+                        "title": "🔴【廣東話/ 同步視聽】《Pokemon Presents + 寶可夢 朱．紫 發佈會》ft. 冰咲",
+                        "author": "貓耳 Nekomix Ch."
+                    },
+                    {
                         "video_code": "MrW_16Egw1s",
                         "image": "https://i.ytimg.com/vi/MrW_16Egw1s/mqdefault.jpg",
                         "title": "【貓耳亂播 EP.110】在重生前來聊聊天 貓耳重生凸待 (前編)",
@@ -210,12 +228,6 @@
                         "video_code": "TOJ7c--KeG0",
                         "image": "https://i.ytimg.com/vi/TOJ7c--KeG0/mqdefault.jpg",
                         "title": "🔴【🀄️貓耳日麻 MP17】繼續雀士之路 | 衝等 + 觀眾同樂場【雀魂 Mahjong Soul】",
-                        "author": "貓耳 Nekomix Ch."
-                    },
-                    {
-                        "video_code": "GFUDbOu6Ncs",
-                        "image": "https://i.ytimg.com/vi/GFUDbOu6Ncs/mqdefault.jpg",
-                        "title": "【#貓耳聯動 EP.05】 文化大交流 (多地聯動) / ft. 中文Vtuber 【Gartic Phone】",
                         "author": "貓耳 Nekomix Ch."
                     }
                 ]
