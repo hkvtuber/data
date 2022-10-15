@@ -2,10 +2,22 @@
     "id": "UCTEbURoClOBpdz4WTDMDP1Q",
     "header": {
         "name": "星珀千夜【HKVTuber準備中】",
-        "image": "https://yt3.ggpht.com/LU597qoFTqfyZ9xFiDrJpK6168Mvz2ppfX_p1Z-EqL-yC4hmC_o7B4luCSzgXs53LKUBy6TO5IE=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/N-5qiYud9Mr6-F9dEXrE5ViyoggaYwNURJ_jvV8hLCffqKD4L2ezWua2Ic7ylkn-AUyPn369=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/7GZlPmP_dlOtKa8A5jG0K7D8XeDYQyskA-tLSqgMY5oQm4lFffCfU_eB7qxiQdPd7jromQuIDQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Feepfp4UYAAQJJT?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Feepfp4UYAAQJJT?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -156,15 +168,15 @@
                         "author": "星珀千夜【HKVTuber】"
                     },
                     {
-                        "video_code": "xX7cQr2nICk",
-                        "image": "https://i.ytimg.com/vi/xX7cQr2nICk/mqdefault.jpg",
-                        "title": "【雜談】其實好想開情感台【香港Vtuber/星珀千夜】",
+                        "video_code": "EV8XxqpwsYs",
+                        "image": "https://i.ytimg.com/vi/EV8XxqpwsYs/mqdefault.jpg",
+                        "title": "【雜談】想不到吧w【香港Vtuber/星珀千夜】",
                         "author": "星珀千夜【HKVTuber】"
                     },
                     {
-                        "video_code": "6M_RjkL_68E",
-                        "image": "https://i.ytimg.com/vi/6M_RjkL_68E/mqdefault.jpg",
-                        "title": "【文字遊戲】我要救艾斯!!!【香港Vtuber/星珀千夜】",
+                        "video_code": "xX7cQr2nICk",
+                        "image": "https://i.ytimg.com/vi/xX7cQr2nICk/mqdefault.jpg",
+                        "title": "【雜談】其實好想開情感台【香港Vtuber/星珀千夜】",
                         "author": "星珀千夜【HKVTuber】"
                     },
                     {
@@ -174,9 +186,9 @@
                         "author": "星珀千夜【HKVTuber】"
                     },
                     {
-                        "video_code": "FwSEtTWKvwo",
-                        "image": "https://i.ytimg.com/vi/FwSEtTWKvwo/mqdefault.jpg",
-                        "title": "【恐怖RPG Game】千夜的狂父time【香港Vtuber/星珀千夜】",
+                        "video_code": "6M_RjkL_68E",
+                        "image": "https://i.ytimg.com/vi/6M_RjkL_68E/mqdefault.jpg",
+                        "title": "【文字遊戲】我要救艾斯!!!【香港Vtuber/星珀千夜】",
                         "author": "星珀千夜【HKVTuber】"
                     }
                 ]

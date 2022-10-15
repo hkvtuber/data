@@ -2,10 +2,26 @@
     "id": "UCYlM7nl3K9WvkoV_K6vdQkQ",
     "header": {
         "name": "Mori Hotaru Ch. もり ホタル",
-        "image": "https://yt3.ggpht.com/VO_53cP3jkqcAEfmd_4TgjW-d8eYbz6YD1S1Log7jAE-beo1qf2Cwt6G1PgGqusJVLfDLUDOmV0=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/Tf1H-OY6epb8s4Xjg4a3xncO4X9-lDObqabwq5iafdJ6t9gBJmuA5nY3wcgxd-Q850jnfsF-kw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/RVbHhzFtEf7KBwZO0MKTa_7iVhwRCrM2Y6ksvlf-3en1ikviE3Z4YULPZgPcfRTPNK1wLNWyS5w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/yQjySyzE1D0_96PQnFfnHVHXrlWZyrQLJKTwLh9TNsUI6MJXuRnXtziuKEb6T58uNHUIELu4iw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FeKIBoXXwAMlnW6?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FeKIBoXXwAMlnW6?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FeKIBoaXEAI8GJL?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FeKIBoaXEAI8GJL?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -106,9 +122,21 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "RMWuCIG5X9Y",
+                        "image": "https://i.ytimg.com/vi/RMWuCIG5X9Y/mqdefault.jpg",
+                        "title": "Wa! Hotaru怪聲合集 #螢onlive #hkvtuber #clips #shorts",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
                         "video_code": "hk01HofiKJo",
                         "image": "https://i.ytimg.com/vi/hk01HofiKJo/mqdefault.jpg",
                         "title": "【自己紹介】Vtuber 一問一答自我紹介! 螢螢終於要出了嗎? 【Mori Hotaru 森螢 /佛系HKVtuber】",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
+                        "video_code": "4LsIdGa8nLs",
+                        "image": "https://i.ytimg.com/vi/4LsIdGa8nLs/mqdefault.jpg",
+                        "title": "黑化肥花飛飛飛??? #螢onlive #hkvtuber #clips #shorts",
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
@@ -121,6 +149,24 @@
                         "video_code": "MWFDhWzckFU",
                         "image": "https://i.ytimg.com/vi/MWFDhWzckFU/mqdefault.jpg",
                         "title": "#shorts #vtuber #hkvtuber #envtuber Hotaru~?🤭",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
+                        "video_code": "ndeq9Qws6-0",
+                        "image": "https://i.ytimg.com/vi/ndeq9Qws6-0/mqdefault.jpg",
+                        "title": "【精華】 出道前的behind the scene?? Hotaru的各種奇怪聲音【森螢/ Mori Hotaru HKVtuber】",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
+                        "video_code": "4K9Mnm4vzSs",
+                        "image": "https://i.ytimg.com/vi/4K9Mnm4vzSs/mqdefault.jpg",
+                        "title": "【Apex精華】 被霸凌的生命線 1【Mori Hotaru 森螢 /佛系HKVtuber】",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
+                        "video_code": "wmXlGIFXgT0",
+                        "image": "https://i.ytimg.com/vi/wmXlGIFXgT0/mqdefault.jpg",
+                        "title": "哇哇哇！哇哇哇！ #螢onlive #hkvtuber #clips #ow2 #shorts",
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     }
                 ]
@@ -138,6 +184,18 @@
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
+                        "video_code": "KOcmzEWUM3U",
+                        "image": "https://i.ytimg.com/vi/KOcmzEWUM3U/mqdefault.jpg",
+                        "title": "【新衣裝! New outfit reveal! #森林螢新日】一週年有新衣服穿! | [ 森螢 / Mori Hotaru HKVtuber ]",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
+                        "video_code": "0pY3tamdiPc",
+                        "image": "https://i.ytimg.com/vi/0pY3tamdiPc/mqdefault.jpg",
+                        "title": "【OW2】新手上路？還是假新手？中風Hotaru再次出現！ | OW2 [ 森螢 / Mori Hotaru HKVtuber ]",
+                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
+                    },
+                    {
                         "video_code": "ZkGaAFUfGkw",
                         "image": "https://i.ytimg.com/vi/ZkGaAFUfGkw/mqdefault.jpg",
                         "title": "【雜談】早晨阿各位!  | 早晨雜談#1 [ 螢螢 / Hotaru 佛系vtuber ]",
@@ -150,27 +208,15 @@
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
-                        "video_code": "Ne3Lh6JdMQ8",
-                        "image": "https://i.ytimg.com/vi/Ne3Lh6JdMQ8/mqdefault.jpg",
-                        "title": "【遊戲】新手上路! 落地成盒QAQ | APEX [ 螢螢 / Hotaru 佛系HKvtuber ]",
+                        "video_code": "ILGVGXmJkL8",
+                        "image": "https://i.ytimg.com/vi/ILGVGXmJkL8/mqdefault.jpg",
+                        "title": "【突發遊戲】我的A皮終於可以開了！ | APEX [ 森螢 / Mori Hotaru HKVtuber ]",
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
-                        "video_code": "ETg2hD9_Vpg",
-                        "image": "https://i.ytimg.com/vi/ETg2hD9_Vpg/mqdefault.jpg",
-                        "title": "【拼拼圖】來看看螢火蟲的觸手手? 1000塊大拼圖! w/Hotaru's Hands [ 螢螢 / Hotaru 佛系vtuber ]",
-                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
-                    },
-                    {
-                        "video_code": "D7fwVYKWRpw",
-                        "image": "https://i.ytimg.com/vi/D7fwVYKWRpw/mqdefault.jpg",
-                        "title": "【歌雜】台灣螢火蟲?!  | 國語歌雜 [ 螢螢 / Hotaru 佛系vtuber ]",
-                        "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
-                    },
-                    {
-                        "video_code": "WJz_m7IyZLo",
-                        "image": "https://i.ytimg.com/vi/WJz_m7IyZLo/mqdefault.jpg",
-                        "title": "【手作】端午節要吃怎麼阿~ | w/螢火蟲的手手 [ 螢螢 / Hotaru 佛系vtuber ]",
+                        "video_code": "WN9pa1nZb2g",
+                        "image": "https://i.ytimg.com/vi/WN9pa1nZb2g/mqdefault.jpg",
+                        "title": "【Lego】小朋友們跟Hotaru一起玩LEGO~ | Hand Cam/手手 [ 森螢 / Mori Hotaru HKVtuber ]",
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
@@ -180,15 +226,15 @@
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
-                        "video_code": "Y99TCLH1cgo",
-                        "image": "https://i.ytimg.com/vi/Y99TCLH1cgo/mqdefault.jpg",
-                        "title": "【突發遊戲】魔法森林我來啦!  | Minecraft#1 [ 螢螢 / Hotaru 佛系vtuber ]",
+                        "video_code": "Ne3Lh6JdMQ8",
+                        "image": "https://i.ytimg.com/vi/Ne3Lh6JdMQ8/mqdefault.jpg",
+                        "title": "【遊戲】新手上路! 落地成盒QAQ | APEX [ 螢螢 / Hotaru 佛系HKvtuber ]",
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     },
                     {
-                        "video_code": "_eBrQVTZ64E",
-                        "image": "https://i.ytimg.com/vi/_eBrQVTZ64E/mqdefault.jpg",
-                        "title": "【遊戲】螢螢的眼睛不行了 | APEX [ 螢螢 / Hotaru 佛系HKvtuber ]",
+                        "video_code": "Ik6Vn7EhdOE",
+                        "image": "https://i.ytimg.com/vi/Ik6Vn7EhdOE/mqdefault.jpg",
+                        "title": "【Lego】小朋友們跟Hotaru一起玩LEGO~ Pt.2 | Hand Cam/手手 [ 森螢 / Mori Hotaru HKVtuber ]",
                         "author": "Mori Hotaru Ch. 森 ホタル [HKVtuber]"
                     }
                 ]

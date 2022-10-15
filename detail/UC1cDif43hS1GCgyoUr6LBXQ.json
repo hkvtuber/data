@@ -2,8 +2,8 @@
     "id": "UC1cDif43hS1GCgyoUr6LBXQ",
     "header": {
         "name": "Area Shojo 面積少女",
-        "image": "https://yt3.ggpht.com/dd6660gxO3mbpydFJY1ginioQHx1z9N_98q3KQg2zQtBqxfFIRe9ejB4MXeQzeLks2xz96MO5A=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/K46CpVV-wC9ZrcqlyUP9IvPcWJ1FZOCnzF67elvbOtsJAKaqw7DriXJd_WhVTAEgAM3V3IWS4iw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/tvc_Vn-FxFe9fYREdpISIFdFF5hd0uLheXCClwo0Hhl-xV52hxfEf780GrxTWoX8tuTe5BJSjQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/xiwDi4K_Hoz3-8FLBGzFfuI4MkfSKlLIDSUM9smgQW_fCfGlZpSvszBLt9zDTrxw1VeYdvvj_Qs=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -91,6 +91,64 @@
                     {
                         "key": "twitter",
                         "path": "AreaShojo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "nCDTxcPFsZw",
+                        "image": "https://i.ytimg.com/vi/nCDTxcPFsZw/mqdefault.jpg",
+                        "title": "自傷無色 / covered by Elta △ 【歌ってみた】",
+                        "author": "Elta △"
+                    },
+                    {
+                        "video_code": "JZp6keKMyZQ",
+                        "image": "https://i.ytimg.com/vi/JZp6keKMyZQ/mqdefault.jpg",
+                        "title": "【パリピ孔明/Paripi koumei】I'm Still Alive Today / covered by Elta △ 弾き語り【Cover】",
+                        "author": "Elta △"
+                    },
+                    {
+                        "video_code": "8H-Ickv95VY",
+                        "image": "https://i.ytimg.com/vi/8H-Ickv95VY/mqdefault.jpg",
+                        "title": "【🌙 #01】斑馬斑馬 / covered by Elta △【Cover】",
+                        "author": "Elta △"
+                    },
+                    {
+                        "video_code": "WTWJbJLTI5s",
+                        "image": "https://i.ytimg.com/vi/WTWJbJLTI5s/mqdefault.jpg",
+                        "title": "Elta △ #00 -「 Lab 」【Redebut】",
+                        "author": "Elta △"
+                    },
+                    {
+                        "video_code": "h6czEVzHxVo",
+                        "image": "https://i.ytimg.com/vi/h6czEVzHxVo/mqdefault.jpg",
+                        "title": "【🎧】Would You Like to Spend Time with me In This Summer ?【Elta △】",
+                        "author": "Elta △"
+                    },
+                    {
+                        "video_code": "7CLpcVwDHuI",
+                        "image": "https://i.ytimg.com/vi/7CLpcVwDHuI/mqdefault.jpg",
+                        "title": "Goldfish Elta 🐟 【Elta △ / Vtuber】#shorts",
+                        "author": "Elta △"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "PMy_L4FQeVk",
+                        "image": "https://i.ytimg.com/vi/PMy_L4FQeVk/mqdefault.jpg",
+                        "title": "【1st ANNIVERSARY】１周年記念配信👾💜 初見面即一周年？！Sing & Talk 【Elta △】",
+                        "author": "Elta △"
                     }
                 ]
             }

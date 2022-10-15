@@ -1,0 +1,100 @@
+{
+    "id": "UCOKIE9zJH_8Rrr0FBDIvdng",
+    "header": {
+        "name": "Leooo Ch.猫崎雷歐",
+        "image": "https://yt3.ggpht.com/_vCLTF066tM68zcmVKW48LoK7ea9vf-Eez5jetk6tUGsNsXEz7ChNgv1jYHFLzJoAuNeaTd13g=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/d5ZOsjgjNWa1nGrcLKnyYbk9s_rpxaLFQFEyNmixAATFt_n5CuyrXIXuWuhI1G8DW3csmbdFow=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FWLUDNUUIAEm1sD?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FWLUDNUUIAEm1sD?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "猫崎雷歐\nLeooo",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "8月16日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#獅獅大冒險",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#猫崎家的紙箱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#猫崎家の貓砂",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCOKIE9zJH_8Rrr0FBDIvdng"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Nekozaki_Leo"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/nekozaki_leo"
+                    }
+                ]
+            }
+        }
+    ]
+}

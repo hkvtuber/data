@@ -113,9 +113,21 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "cr7_6jHBQ_g",
+                        "image": "https://i.ytimg.com/vi/cr7_6jHBQ_g/mqdefault.jpg",
+                        "title": "【It take two 】突發亂動!!!日文直播desu!!!!【HKVtuber/夏日Natsu  w.Nara】",
+                        "author": "夏日NatsuAS.ch[香港Vtuber]"
+                    },
+                    {
                         "video_code": "KppuUAB-tvA",
                         "image": "https://i.ytimg.com/vi/KppuUAB-tvA/mqdefault.jpg",
                         "title": "【初配信】貧窮神降臨人間打工做V?!【HKVtuber/夏日Natsu】",
+                        "author": "夏日NatsuAS.ch[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "vqwu-AKTnB8",
+                        "image": "https://i.ytimg.com/vi/vqwu-AKTnB8/mqdefault.jpg",
+                        "title": "【It take two #2】突發亂動!!!日文直播desu!!!!【HKVtuber/夏日Natsu  w.Nara】",
                         "author": "夏日NatsuAS.ch[香港Vtuber]"
                     },
                     {
@@ -143,33 +155,21 @@
                         "author": "夏日NatsuAS.ch[香港Vtuber]"
                     },
                     {
+                        "video_code": "09ngc8xpUMY",
+                        "image": "https://i.ytimg.com/vi/09ngc8xpUMY/mqdefault.jpg",
+                        "title": "【APEX】APEX ????雜談???【HKVtuber/夏日Natsu】",
+                        "author": "夏日NatsuAS.ch[香港Vtuber]"
+                    },
+                    {
                         "video_code": "_sQ7_iORbzM",
                         "image": "https://i.ytimg.com/vi/_sQ7_iORbzM/mqdefault.jpg",
                         "title": "【APEX】上半季尾衝刺!!!【HKVtuber/夏日Natsu】",
                         "author": "夏日NatsuAS.ch[香港Vtuber]"
                     },
                     {
-                        "video_code": "0hDldwX9RKc",
-                        "image": "https://i.ytimg.com/vi/0hDldwX9RKc/mqdefault.jpg",
-                        "title": "【undertale#3】地下下午茶會...??大家咁話....w(【HKVtuber/夏日Natsu】",
-                        "author": "夏日NatsuAS.ch[香港Vtuber]"
-                    },
-                    {
-                        "video_code": "ZQK0BIWkhdQ",
-                        "image": "https://i.ytimg.com/vi/ZQK0BIWkhdQ/mqdefault.jpg",
-                        "title": "【APEX】排位打掉重練 ,回歸青銅；；【HKVtuber/夏日Natsu】",
-                        "author": "夏日NatsuAS.ch[香港Vtuber]"
-                    },
-                    {
-                        "video_code": "DUM-O7bUzfk",
-                        "image": "https://i.ytimg.com/vi/DUM-O7bUzfk/mqdefault.jpg",
-                        "title": "【helltaker】貧窮神大人要成為地獄征服者!!!!【HKVtuber/夏日Natsu】",
-                        "author": "夏日NatsuAS.ch[香港Vtuber]"
-                    },
-                    {
-                        "video_code": "tBKPkEhe8u8",
-                        "image": "https://i.ytimg.com/vi/tBKPkEhe8u8/mqdefault.jpg",
-                        "title": "【APEX】八號風突發！APEX rank down yo!!!!!!!!!!!!!!【HKVtuber/夏日Natsu w.沐幽】",
+                        "video_code": "hFiWBYXP7WE",
+                        "image": "https://i.ytimg.com/vi/hFiWBYXP7WE/mqdefault.jpg",
+                        "title": "【APEX】不知不覺新賽季:000【HKVtuber/夏日Natsu】",
                         "author": "夏日NatsuAS.ch[香港Vtuber]"
                     }
                 ]

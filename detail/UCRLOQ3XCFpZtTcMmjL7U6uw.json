@@ -12,8 +12,20 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FJpJQOJacAI2Q3l?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FJpJQOJacAI2Q3l?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FaMOS9EaMAA0XzB?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FaMOS9EaMAA0XzB?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FaMOZXwaQAAax8e?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FaMOZXwaQAAax8e?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FaMOayiagAEiszN?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FaMOayiagAEiszN?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FaMOdT6aIAAevgO?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FaMOdT6aIAAevgO?format=jpg&name=medium"
                     }
                 ]
             }
@@ -116,43 +128,49 @@
                         "video_code": "hokxmrAgICQ",
                         "image": "https://i.ytimg.com/vi/hokxmrAgICQ/mqdefault.jpg",
                         "title": "月月才不色0////0(帶好耳機!!!!!)【柔木月】【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "HOJ8PL4_7mk",
                         "image": "https://i.ytimg.com/vi/HOJ8PL4_7mk/mqdefault.jpg",
                         "title": "想幫你打打氣^^",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "hkrY9yeZUJA",
                         "image": "https://i.ytimg.com/vi/hkrY9yeZUJA/mqdefault.jpg",
                         "title": "Shall we talk 參加月月好聲音 0////0",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "aAI8Hg-tqKs",
                         "image": "https://i.ytimg.com/vi/aAI8Hg-tqKs/mqdefault.jpg",
                         "title": "【雀魂三麻】來打低我La~不過你地做唔到㗎喇~【柔木月】【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "YxQ2wQKsDk0",
                         "image": "https://i.ytimg.com/vi/YxQ2wQKsDk0/mqdefault.jpg",
                         "title": "【雀魂三麻】來打低我La~不過你地做唔到㗎喇~2復仇【柔木月】【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
+                    },
+                    {
+                        "video_code": "4b-6RFRl3oc",
+                        "image": "https://i.ytimg.com/vi/4b-6RFRl3oc/mqdefault.jpg",
+                        "title": "童言無忌 參加月月好聲音2～",
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "PFmrpyXdfOc",
                         "image": "https://i.ytimg.com/vi/PFmrpyXdfOc/mqdefault.jpg",
                         "title": "遲了的5 20 唱歌 歌曲：夠愛【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "Edu7kSU0TGk",
                         "image": "https://i.ytimg.com/vi/Edu7kSU0TGk/mqdefault.jpg",
                         "title": "星期一喇～ ╮(‵▽′)╭ 半斤八兩 【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     }
                 ]
             }
@@ -163,64 +181,64 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "SVGJ_RCLHXw",
+                        "image": "https://i.ytimg.com/vi/SVGJ_RCLHXw/mqdefault.jpg",
+                        "title": "【Hololive 2選1】雖然自己一定選星街,但也是要來苦惱一下 !!!!【香港VTuber】",
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
+                    },
+                    {
                         "video_code": "9tm122_NvOs",
                         "image": "https://i.ytimg.com/vi/9tm122_NvOs/mqdefault.jpg",
                         "title": "【初配信】天使降臨0///0 【柔木月】【香港VTuber/新人Vtuber】2",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "Z8s4vmayjD0",
                         "image": "https://i.ytimg.com/vi/Z8s4vmayjD0/mqdefault.jpg",
                         "title": "港V桌遊企劃 山中小屋 第一回 Ft.Yona Moana,天葉あり(Ari),白昼夢ティアラ(Tiara) 米亞MYA【香港VTuber/新人Vtuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "JI0E5yyB-CY",
                         "image": "https://i.ytimg.com/vi/JI0E5yyB-CY/mqdefault.jpg",
                         "title": "【初配信】天使降臨0///0 【柔木月】【香港VTuber/新人Vtuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "NaOVvpKu1gU",
                         "image": "https://i.ytimg.com/vi/NaOVvpKu1gU/mqdefault.jpg",
                         "title": "【月9噏 月認真】 一齊討論下對港V圈嘅睇法 (頭盔: 非客觀) (炎上準備)【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "IGILbp18w8M",
                         "image": "https://i.ytimg.com/vi/IGILbp18w8M/mqdefault.jpg",
                         "title": "港V桌遊企劃  第二回 賭城之夜間!!賭賭賭~Ft.白昼夢ティアラ(Tiara),Nagisa 凪砂,猫宮あゆめ,蒼神こねこ 木星とき toki 【香港VTuberr】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "k-uEooMMFLM",
                         "image": "https://i.ytimg.com/vi/k-uEooMMFLM/mqdefault.jpg",
                         "title": "Gartic Phone 來畫畫你們的推吧!!!!0////0【香港VTuber/新人Vtuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "ma02Yl1RMX0",
                         "image": "https://i.ytimg.com/vi/ma02Yl1RMX0/mqdefault.jpg",
                         "title": "【雀魂】大家來打雀魂!!!!!【柔木月】【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
+                    },
+                    {
+                        "video_code": "IaFKH-0P6n8",
+                        "image": "https://i.ytimg.com/vi/IaFKH-0P6n8/mqdefault.jpg",
+                        "title": "【雀魂】三麻同你地打架 WWWW【柔木月】【香港VTuber】",
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     },
                     {
                         "video_code": "Qa1TOlWLxsk",
                         "image": "https://i.ytimg.com/vi/Qa1TOlWLxsk/mqdefault.jpg",
                         "title": "放假返來同大家傾下計 【香港VTuber/新人Vtuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
-                    },
-                    {
-                        "video_code": "KRxk7QZyYSE",
-                        "image": "https://i.ytimg.com/vi/KRxk7QZyYSE/mqdefault.jpg",
-                        "title": "成為Vtuber 一個月雜談加上 Master Duel 來決鬥吧!!! 【香港VTuber/新人Vtuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
-                    },
-                    {
-                        "video_code": "PDB9chR7Et0",
-                        "image": "https://i.ytimg.com/vi/PDB9chR7Et0/mqdefault.jpg",
-                        "title": "LOL觀眾場之夜【香港VTuber】",
-                        "author": "柔木月 YawaragiTsuki Ch.(HKvtuber )"
+                        "author": "柔木月.好西月巴系V(HKVtuber )"
                     }
                 ]
             }

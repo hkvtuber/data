@@ -2,7 +2,7 @@
     "id": "UCMREoa6oWpvCwdLFxPNXg1w",
     "header": {
         "name": "小百子－バココ .ch【HKVtuber】 ",
-        "image": "https://yt3.ggpht.com/W6T2H6XKMljf_BodNBmJMWS5RfRe19qu76I5bsWB0k7NZLArBJvRn-RcmBZ_1Xsl62p6Hg8xFg=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/_WZlDLdSacernuscyoj574IHeW6VUr5n26LASw26Hi6-5DBCEk4FLe4JX_FPnbjHJsPFvP7aqg=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/wfA9H9pbu7JEFQSp67weznzFZZDjDSUQzL6onnzTXX6lfLPqnNCZr3WRxWOY1NS1_pkz8Iq4fQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -117,6 +117,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "OG8znjWdGb0",
+                        "image": "https://i.ytimg.com/vi/OG8znjWdGb0/mqdefault.jpg",
+                        "title": "【自我介紹2.0】我係可愛小白狐:ehe:【HKVTuber | 白狐はくこ】",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
                         "video_code": "CJ2T5yweSOI",
                         "image": "https://i.ytimg.com/vi/CJ2T5yweSOI/mqdefault.jpg",
                         "title": "【尼爾：人工生命】全武器詳細入手方法介紹",
@@ -126,12 +132,6 @@
                         "video_code": "Iz9BjK9WB2Y",
                         "image": "https://i.ytimg.com/vi/Iz9BjK9WB2Y/mqdefault.jpg",
                         "title": "【尼爾:人工生命】OST－『Ashes of Dreams/夢之灰燼』【中日英歌詞】",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
-                        "video_code": "OG8znjWdGb0",
-                        "image": "https://i.ytimg.com/vi/OG8znjWdGb0/mqdefault.jpg",
-                        "title": "【自我介紹2.0】我係可愛小白狐:ehe:【HKVTuber | 白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
@@ -153,27 +153,27 @@
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "VNZHFEE29tM",
-                        "image": "https://i.ytimg.com/vi/VNZHFEE29tM/mqdefault.jpg",
-                        "title": "【直播精華】 發生啲咁嘅事我都唔想㗎....【香港Vtuber精華】",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
                         "video_code": "NN_sMFEjm0g",
                         "image": "https://i.ytimg.com/vi/NN_sMFEjm0g/mqdefault.jpg",
                         "title": "【直播精華】立Flag收Flag一氣呵成係點做到？？？【香港Vtuber精華】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "089_d0bSB9M",
-                        "image": "https://i.ytimg.com/vi/089_d0bSB9M/mqdefault.jpg",
-                        "title": "【百孤バグ】－ 聽講係2022年度大事回顧？？？",
+                        "video_code": "VNZHFEE29tM",
+                        "image": "https://i.ytimg.com/vi/VNZHFEE29tM/mqdefault.jpg",
+                        "title": "【直播精華】 發生啲咁嘅事我都唔想㗎....【香港Vtuber精華】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
                         "video_code": "4-kf8m3VW_E",
                         "image": "https://i.ytimg.com/vi/4-kf8m3VW_E/mqdefault.jpg",
                         "title": "【講你知123】Short ver.【試唱版】【百孤－バグ】",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "089_d0bSB9M",
+                        "image": "https://i.ytimg.com/vi/089_d0bSB9M/mqdefault.jpg",
+                        "title": "【百孤バグ】－ 聽講係2022年度大事回顧？？？",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     }
                 ]
@@ -185,9 +185,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "tZ0a_Yvi7y8",
-                        "image": "https://i.ytimg.com/vi/tZ0a_Yvi7y8/mqdefault.jpg",
-                        "title": "【Overwatch2】我都係擁有Beta的玩家啦【百孤 | 白狐はくこ】",
+                        "video_code": "_-ouG6lXYJc",
+                        "image": "https://i.ytimg.com/vi/_-ouG6lXYJc/mqdefault.jpg",
+                        "title": "【突發】Website雑談作業台【白狐はくこ】",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "0iIdirnSHHY",
+                        "image": "https://i.ytimg.com/vi/0iIdirnSHHY/mqdefault.jpg",
+                        "title": "【一週年倒數】君は誰?【白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
@@ -209,9 +215,21 @@
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
+                        "video_code": "AHh43umrXXs",
+                        "image": "https://i.ytimg.com/vi/AHh43umrXXs/mqdefault.jpg",
+                        "title": "【BBQ模擬器】中秋節就是要烤肉啊！不然要幹嘛？【白狐はくこ】",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
                         "video_code": "NohXnUC8vWY",
                         "image": "https://i.ytimg.com/vi/NohXnUC8vWY/mqdefault.jpg",
                         "title": "【初配信】惡魔降臨 [百孤/バグ- HKVTuber]",
+                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
+                    },
+                    {
+                        "video_code": "rqrcMS06ABE",
+                        "image": "https://i.ytimg.com/vi/rqrcMS06ABE/mqdefault.jpg",
+                        "title": "【雑】轉生成社畜IT-Code9一週後雑談【白狐はくこ】",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
@@ -221,27 +239,9 @@
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     },
                     {
-                        "video_code": "hlYZNr4xT-E",
-                        "image": "https://i.ytimg.com/vi/hlYZNr4xT-E/mqdefault.jpg",
-                        "title": "【遊戲解說】從零開始講述尼爾世界觀-大災厄【百孤 | 白狐はくこ】",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
-                        "video_code": "GLhTpJDuHJI",
-                        "image": "https://i.ytimg.com/vi/GLhTpJDuHJI/mqdefault.jpg",
-                        "title": "【JumpKing偽耐久】找數之下次唔敢再立Flag了【白狐はくこ】",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
-                        "video_code": "7XdadGyfXyA",
-                        "image": "https://i.ytimg.com/vi/7XdadGyfXyA/mqdefault.jpg",
-                        "title": "【突發RG死線戰士】包裝Piro明信片作業台【百孤 | 白狐はくこ】",
-                        "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
-                    },
-                    {
-                        "video_code": "XCm7c9c2IGA",
-                        "image": "https://i.ytimg.com/vi/XCm7c9c2IGA/mqdefault.jpg",
-                        "title": "【DST-抱狐龍】新手飢荒者-小狐狸【百孤 | 白狐はくこ】",
+                        "video_code": "EzoVXiTxuSg",
+                        "image": "https://i.ytimg.com/vi/EzoVXiTxuSg/mqdefault.jpg",
+                        "title": "【小百子半週年】今次百孤又入咗咩身體到？",
                         "author": "白狐🦊はくこ | 小狐狸.ch【HKVtuber】"
                     }
                 ]

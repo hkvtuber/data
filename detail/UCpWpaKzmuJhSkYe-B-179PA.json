@@ -2,22 +2,10 @@
     "id": "UCpWpaKzmuJhSkYe-B-179PA",
     "header": {
         "name": "十七夜佳奈【香港Vtuber】",
-        "image": "https://yt3.ggpht.com/l2ZAIODUCKiyR9ZeA87LYNTs0_bvfeKVPLZevURr1CG07AOUGuKpdjKbercBs2UFsaTnmTWDHw=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/cZguULm47yCBL_iBMAIal1vy8jzNv6_gU_goAD8VZG_oJPi9qCXgkbLG_E2hOZwgfWc7aGhSVw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/JoyHgTXHMYG5v0aYvYgM8RBHFUd87Xk5Em6ktSelZFCmRvVx5rPli8UvTSrn0XbTFnPsvZd_bQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/DC70rsmEtvikJEPcX1qZS54_lgwDFHwRNuRjZpZTfFoAVsdxIMqDy0xLWlymmxWiSszOMWh7g6s=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FX1GdOnacAE4F2R?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FX1GdOnacAE4F2R?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -97,6 +85,18 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "zGVh3D6ViQw",
+                        "image": "https://i.ytimg.com/vi/zGVh3D6ViQw/mqdefault.jpg",
+                        "title": "【NOVOLETA project】KanagiKeina / 希望稅【Original Song】",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "jrfB-cQ06LI",
+                        "image": "https://i.ytimg.com/vi/jrfB-cQ06LI/mqdefault.jpg",
+                        "title": "【NOVOLETA project】KanagiKeina / _logue【Original Song】",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
                         "video_code": "KPFRUSo8fBc",
                         "image": "https://i.ytimg.com/vi/KPFRUSo8fBc/mqdefault.jpg",
                         "title": "【1st mini album】NOVOLETA/ kanagi keina金木啓那",
@@ -133,21 +133,9 @@
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
-                        "video_code": "zGVh3D6ViQw",
-                        "image": "https://i.ytimg.com/vi/zGVh3D6ViQw/mqdefault.jpg",
-                        "title": "【NOVOLETA project】金木啓那 KanagiKeina / 希望稅【Original Song】",
-                        "author": "十七夜月 佳奈【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "F3rPvqRRb0g",
-                        "image": "https://i.ytimg.com/vi/F3rPvqRRb0g/mqdefault.jpg",
-                        "title": "【自己紹介】Vtuber一問一答自己紹介-KANAU KANA",
-                        "author": "十七夜月 佳奈【香港Vtuber】"
-                    },
-                    {
                         "video_code": "X4W8bagB1-k",
                         "image": "https://i.ytimg.com/vi/X4W8bagB1-k/mqdefault.jpg",
-                        "title": "重要事項詢問",
+                        "title": "重要事項詢問 #shorts",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
@@ -167,13 +155,19 @@
                     {
                         "video_code": "HR6jg0OL82w",
                         "image": "https://i.ytimg.com/vi/HR6jg0OL82w/mqdefault.jpg",
-                        "title": "「【歌枠】爲了深夜的你能夠安眠。【十七夜佳奈】」的副本",
+                        "title": "【歌枠】爲了深夜的你能夠安眠。【十七夜佳奈】",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
                         "video_code": "VNCxxYGYDqg",
                         "image": "https://i.ytimg.com/vi/VNCxxYGYDqg/mqdefault.jpg",
                         "title": "【＃2021魔女血月祭​ 】一周年！！本體召喚！",
+                        "author": "十七夜月 佳奈【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "5VVr8M72WcU",
+                        "image": "https://i.ytimg.com/vi/5VVr8M72WcU/mqdefault.jpg",
+                        "title": "【8月31】でわ GOODBYE",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     },
                     {
@@ -216,12 +210,6 @@
                         "video_code": "Y3sdZhX8wcg",
                         "image": "https://i.ytimg.com/vi/Y3sdZhX8wcg/mqdefault.jpg",
                         "title": "【＃2022魔女星牢祭​ 】二周年。獻上你愉快的靈值吧。",
-                        "author": "十七夜月 佳奈【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "zPCCZnm9yhc",
-                        "image": "https://i.ytimg.com/vi/zPCCZnm9yhc/mqdefault.jpg",
-                        "title": "【歌枠】究竟唱歌聲音變成怎樣了？",
                         "author": "十七夜月 佳奈【香港Vtuber】"
                     }
                 ]

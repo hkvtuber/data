@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FVmy0YEagAIclI9?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FVmy0YEagAIclI9?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/Fb79ciuagAMTO68?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fb79ciuagAMTO68?format=jpg&name=medium"
                     }
                 ]
             }
@@ -73,6 +73,74 @@
                     {
                         "key": "twitter",
                         "path": "Eiri_Uemura"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "lLVJ7xgQr0s",
+                        "image": "https://i.ytimg.com/vi/lLVJ7xgQr0s/mqdefault.jpg",
+                        "title": "21/8 上村瑛理初配信 了解人偶的秘密時間",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "ntYl3V2YmDg",
+                        "image": "https://i.ytimg.com/vi/ntYl3V2YmDg/mqdefault.jpg",
+                        "title": "☆初配信新衣裝☆ 阿囡佢又有新衫著啦 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "aFkI9DX2m70",
+                        "image": "https://i.ytimg.com/vi/aFkI9DX2m70/mqdefault.jpg",
+                        "title": "☆遊戲舊衣裝☆ 阿囡今日好快就剪曬草所以我俾佢打機 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "isnAqsdf3nY",
+                        "image": "https://i.ytimg.com/vi/isnAqsdf3nY/mqdefault.jpg",
+                        "title": "☆遊戲衣裝☆ LOL英雄聯盟 觀眾場 阿囡今日想去召喚峽谷影相 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "A-S0UlEs8wI",
+                        "image": "https://i.ytimg.com/vi/A-S0UlEs8wI/mqdefault.jpg",
+                        "title": "☆Azone手術雜談☆ 手術現場直播 Azone咁多人入你坑??? 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "sKabAwgL-oE",
+                        "image": "https://i.ytimg.com/vi/sKabAwgL-oE/mqdefault.jpg",
+                        "title": "☆飲酒聯動台☆完全運吉型 第一次玩恐鬼症ft.虛子,狄瓦思,犬猫",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "V6nQ4OcBXHo",
+                        "image": "https://i.ytimg.com/vi/V6nQ4OcBXHo/mqdefault.jpg",
+                        "title": "☆遊戲舊衣裝☆ 阿囡好似唔小心病左 希望大家比啲祝福 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "hFmSUWTSsD0",
+                        "image": "https://i.ytimg.com/vi/hFmSUWTSsD0/mqdefault.jpg",
+                        "title": "☆娃展開箱日☆娃展後我到底破產了嗎? 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "kzGGz9tPDPM",
+                        "image": "https://i.ytimg.com/vi/kzGGz9tPDPM/mqdefault.jpg",
+                        "title": "☆娃展準備日☆娃展前娃談 我要吸娃毒 娃系HKvtuber",
+                        "author": "上村瑛理"
+                    },
+                    {
+                        "video_code": "fvxj4Z_af1Y",
+                        "image": "https://i.ytimg.com/vi/fvxj4Z_af1Y/mqdefault.jpg",
+                        "title": "☆老V10月新作發表會☆老V新品雜談 10月主打黑白色?",
+                        "author": "上村瑛理"
                     }
                 ]
             }

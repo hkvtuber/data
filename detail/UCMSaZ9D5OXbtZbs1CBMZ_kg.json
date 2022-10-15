@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FXdwiTLUEAAYanE?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FXdwiTLUEAAYanE?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -91,6 +79,18 @@
                         "video_code": "UdpLYJgeawc",
                         "image": "https://i.ytimg.com/vi/UdpLYJgeawc/mqdefault.jpg",
                         "title": "Hello World.",
+                        "author": "Elda"
+                    },
+                    {
+                        "video_code": "UXBg-5yCY_Q",
+                        "image": "https://i.ytimg.com/vi/UXBg-5yCY_Q/mqdefault.jpg",
+                        "title": "試著製作機戰特報風PV",
+                        "author": "Elda"
+                    },
+                    {
+                        "video_code": "tFXL8e-FcV4",
+                        "image": "https://i.ytimg.com/vi/tFXL8e-FcV4/mqdefault.jpg",
+                        "title": "日常.mp4",
                         "author": "Elda"
                     }
                 ]

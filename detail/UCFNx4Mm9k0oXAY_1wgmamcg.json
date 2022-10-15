@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FYmspJBaUAcE0a3?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FYmspJBaUAcE0a3?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -134,15 +122,15 @@
                         "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
                     },
                     {
-                        "video_code": "7NZBS7aY1Uo",
-                        "image": "https://i.ytimg.com/vi/7NZBS7aY1Uo/mqdefault.jpg",
-                        "title": "當你認為你是蘿芭什麼都有的時候....",
-                        "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
-                    },
-                    {
                         "video_code": "omm8BmWhQHY",
                         "image": "https://i.ytimg.com/vi/omm8BmWhQHY/mqdefault.jpg",
                         "title": "在棉花糖尋求對白是否搞錯了什麼 QwQ",
+                        "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
+                    },
+                    {
+                        "video_code": "7NZBS7aY1Uo",
+                        "image": "https://i.ytimg.com/vi/7NZBS7aY1Uo/mqdefault.jpg",
+                        "title": "當你認為你是蘿芭什麼都有的時候....",
                         "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
                     },
                     {
@@ -220,9 +208,9 @@
                         "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
                     },
                     {
-                        "video_code": "Xaska7vKDxI",
-                        "image": "https://i.ytimg.com/vi/Xaska7vKDxI/mqdefault.jpg",
-                        "title": "【香港VTuber直播】是時候慶祝一週年!! 回顧 & 身世公開",
+                        "video_code": "zJGCtGbwI0s",
+                        "image": "https://i.ytimg.com/vi/zJGCtGbwI0s/mqdefault.jpg",
+                        "title": "【Elden Ring 12小時耐久】EP.6 有最強的黑刃 找最强的武器 .w.[迪莫尼奧.HKvtuber]",
                         "author": "Aorëa Ch. 迪莫尼奧 & 狄瓦思"
                     }
                 ]

@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FDfvz5YVEAI-xjF?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FDfvz5YVEAI-xjF?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -122,21 +110,27 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "ddastzCM8ZQ",
-                        "image": "https://i.ytimg.com/vi/ddastzCM8ZQ/mqdefault.jpg",
-                        "title": "【Original Music】 Strange Nightingale",
-                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
-                    },
-                    {
                         "video_code": "cluZU3mKERM",
                         "image": "https://i.ytimg.com/vi/cluZU3mKERM/mqdefault.jpg",
                         "title": "【Royalty Free Music / No Copyright】 Bossanova for Tea Time",
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
+                        "video_code": "ddastzCM8ZQ",
+                        "image": "https://i.ytimg.com/vi/ddastzCM8ZQ/mqdefault.jpg",
+                        "title": "【Original Music】 Strange Nightingale",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
                         "video_code": "fXK5IOO7mfY",
                         "image": "https://i.ytimg.com/vi/fXK5IOO7mfY/mqdefault.jpg",
                         "title": "【Remix】 Your Story (Nightingale Remix) ft. Akesa Akito",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "PJZvEGgDQWU",
+                        "image": "https://i.ytimg.com/vi/PJZvEGgDQWU/mqdefault.jpg",
+                        "title": "【Royalty Free Music / No Copyright】 2022 LNY Chinese | Oriental | Eastern Music",
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
@@ -152,33 +146,27 @@
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
-                        "video_code": "5ieaw6sFZkQ",
-                        "image": "https://i.ytimg.com/vi/5ieaw6sFZkQ/mqdefault.jpg",
-                        "title": "【Original Music】 Himawari",
-                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
-                    },
-                    {
-                        "video_code": "PJZvEGgDQWU",
-                        "image": "https://i.ytimg.com/vi/PJZvEGgDQWU/mqdefault.jpg",
-                        "title": "【Royalty Free Music / No Copyright】 2022 LNY Chinese | Oriental | Eastern Music",
-                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
-                    },
-                    {
                         "video_code": "orQiwpzV47Y",
                         "image": "https://i.ytimg.com/vi/orQiwpzV47Y/mqdefault.jpg",
                         "title": "【Royalty Free Music / No Copyright】 2022 LNY Piano | Chinese | Oriental | Eastern Music",
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
-                        "video_code": "uUb5KqJP4hE",
-                        "image": "https://i.ytimg.com/vi/uUb5KqJP4hE/mqdefault.jpg",
-                        "title": "【Original Music】 Dino Galaxy (Slow ver.)",
+                        "video_code": "UugibE-p-6M",
+                        "image": "https://i.ytimg.com/vi/UugibE-p-6M/mqdefault.jpg",
+                        "title": "【Royalty Free Music / No Copyright】 Morning in the Aviary",
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
-                        "video_code": "ypDPCtvMT-8",
-                        "image": "https://i.ytimg.com/vi/ypDPCtvMT-8/mqdefault.jpg",
-                        "title": "【Original Music】 Panta Rhei",
+                        "video_code": "5ieaw6sFZkQ",
+                        "image": "https://i.ytimg.com/vi/5ieaw6sFZkQ/mqdefault.jpg",
+                        "title": "【Original Music】 Himawari",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
+                        "video_code": "uUb5KqJP4hE",
+                        "image": "https://i.ytimg.com/vi/uUb5KqJP4hE/mqdefault.jpg",
+                        "title": "【Original Music】 Dino Galaxy (Slow ver.)",
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     }
                 ]
@@ -220,6 +208,12 @@
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
+                        "video_code": "gakZ18MVnCw",
+                        "image": "https://i.ytimg.com/vi/gakZ18MVnCw/mqdefault.jpg",
+                        "title": "【遊戲直播】 三個爸爸玩中國式家長 ft. Arata & 無界",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
                         "video_code": "czsEWLVvIL0",
                         "image": "https://i.ytimg.com/vi/czsEWLVvIL0/mqdefault.jpg",
                         "title": "【日麻直播】 第一次YouTube 日麻直播",
@@ -232,21 +226,15 @@
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     },
                     {
+                        "video_code": "WEDHxH8RFLI",
+                        "image": "https://i.ytimg.com/vi/WEDHxH8RFLI/mqdefault.jpg",
+                        "title": "【作曲直播】 作遊戲音樂",
+                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
+                    },
+                    {
                         "video_code": "ZrdO3X-HLZQ",
                         "image": "https://i.ytimg.com/vi/ZrdO3X-HLZQ/mqdefault.jpg",
                         "title": "Ring Fit + 練琴 cool down",
-                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
-                    },
-                    {
-                        "video_code": "4Zqzrfrn3Rk",
-                        "image": "https://i.ytimg.com/vi/4Zqzrfrn3Rk/mqdefault.jpg",
-                        "title": "練琴 /  Practice Piano + Ring Fit",
-                        "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
-                    },
-                    {
-                        "video_code": "GEzD-ivfjvo",
-                        "image": "https://i.ytimg.com/vi/GEzD-ivfjvo/mqdefault.jpg",
-                        "title": "【作曲直播】 Bossanova for Tea Time",
                         "author": "Ng Reimond 吳雷文 - 夜鶯Vtuber"
                     }
                 ]

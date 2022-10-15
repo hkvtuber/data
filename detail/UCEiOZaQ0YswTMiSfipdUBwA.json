@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FL1bRDXVUAAhGAc?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FL1bRDXVUAAhGAc?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -96,61 +84,61 @@
                         "video_code": "CEERGIc4QKU",
                         "image": "https://i.ytimg.com/vi/CEERGIc4QKU/mqdefault.jpg",
                         "title": "【 咩都玩】游戲王 master duel 中。。。【ユラ】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "IeVs82NbmF8",
                         "image": "https://i.ytimg.com/vi/IeVs82NbmF8/mqdefault.jpg",
                         "title": "【 玩咩你話事！】Splatoon2 - MonHun Rise - 雀魂麻將(觀衆場) - 讀棉花糖【ユラ】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "ptFNXHPs9SE",
                         "image": "https://i.ytimg.com/vi/ptFNXHPs9SE/mqdefault.jpg",
                         "title": "【100訂紀念】100訂紀念之乜都玩【幽羅ヒカリ / HKVTUBER】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "8AQsWUsV5ZE",
                         "image": "https://i.ytimg.com/vi/8AQsWUsV5ZE/mqdefault.jpg",
                         "title": "【寶可夢傳說 阿爾宙斯】魔物＂獵＂人 洗翠【幽羅ヒカリ / HKVTUBER】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "bsd5KH8g8YA",
                         "image": "https://i.ytimg.com/vi/bsd5KH8g8YA/mqdefault.jpg",
                         "title": "【寶可夢大集結】上唔到 大師唔收台（大概） 【Yuura /HKVtuber】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "J1ZSa8MfjPI",
                         "image": "https://i.ytimg.com/vi/J1ZSa8MfjPI/mqdefault.jpg",
                         "title": "繼續Monhun 升HR , 目標100 (Switch)【Yura】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "VSMIyM43FVo",
                         "image": "https://i.ytimg.com/vi/VSMIyM43FVo/mqdefault.jpg",
                         "title": "【寶可夢阿爾宙斯】目標：完成一周目！ 【幽羅ヒカリ / HKVTUBER】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "XhjHD9CqpJc",
                         "image": "https://i.ytimg.com/vi/XhjHD9CqpJc/mqdefault.jpg",
                         "title": "【寶可夢傳說 阿爾宙斯 - 雀魂】三分球確定【幽羅ヒカリ / HKVTUBER】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "kInqtPBuBSw",
                         "image": "https://i.ytimg.com/vi/kInqtPBuBSw/mqdefault.jpg",
                         "title": "【聯盟戰棋 - R6】話左要玩， 今日來吧！【ユラ】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     },
                     {
                         "video_code": "-fg4nO2BD_s",
                         "image": "https://i.ytimg.com/vi/-fg4nO2BD_s/mqdefault.jpg",
                         "title": "【砌模型- 紅蓮騎士獸】完成！NEXT~麻將中 w/arata 雪櫃reiha【ユラ】",
-                        "author": "ユラ Ch. 幽羅ヒカリ"
+                        "author": "ユラ(幽羅) Ch."
                     }
                 ]
             }

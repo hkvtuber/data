@@ -55,6 +55,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "bO92sgUHnwg",
+                        "image": "https://i.ytimg.com/vi/bO92sgUHnwg/mqdefault.jpg",
+                        "title": "【失憶症候群】Cover by 幽靈獵人 ft.中空獵人",
+                        "author": "獵人公會"
+                    },
+                    {
                         "video_code": "RcNst6r-Nj4",
                         "image": "https://i.ytimg.com/vi/RcNst6r-Nj4/mqdefault.jpg",
                         "title": "【獵人公會第一屆香港VTuber三麻盃】4/4 模擬賽 feat.魔女-日本麻雀",
@@ -69,7 +75,7 @@
                     {
                         "video_code": "pA3vTRR13mk",
                         "image": "https://i.ytimg.com/vi/pA3vTRR13mk/mqdefault.jpg",
-                        "title": "【中秋你注定一人】Covered by 中空獵人(Short Ver.)",
+                        "title": "【中秋你注定一人】Cover by 中空獵人(Short Ver.)",
                         "author": "獵人公會"
                     },
                     {
@@ -107,12 +113,6 @@
                         "image": "https://i.ytimg.com/vi/Cx20o87zqmQ/mqdefault.jpg",
                         "title": "【獵人公會第一屆香港VTuber四麻盃】9/19 復活賽Z組/水琴五月 紡霊拉比 千影はるか",
                         "author": "獵人公會"
-                    },
-                    {
-                        "video_code": "zIpTK2DZyWI",
-                        "image": "https://i.ytimg.com/vi/zIpTK2DZyWI/mqdefault.jpg",
-                        "title": "會長(魔女獵人)在敵陣中找回自我",
-                        "author": "獵人公會"
                     }
                 ]
             }
@@ -123,15 +123,15 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "lfh1zZjJihA",
-                        "image": "https://i.ytimg.com/vi/lfh1zZjJihA/mqdefault.jpg",
-                        "title": "【獵人公會第一屆香港VTuber三麻盃】4/24 準決賽West組/米亞 沈醒 紡霊拉比",
-                        "author": "獵人公會"
-                    },
-                    {
                         "video_code": "mtrhMj0b_2k",
                         "image": "https://i.ytimg.com/vi/mtrhMj0b_2k/mqdefault.jpg",
                         "title": "【雀魂】4/22 雀魂×狂賭之淵××聯動抽角色試伏 feat.狛井葵 高町音月",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "lfh1zZjJihA",
+                        "image": "https://i.ytimg.com/vi/lfh1zZjJihA/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber三麻盃】4/24 準決賽West組/米亞 沈醒 紡霊拉比",
                         "author": "獵人公會"
                     },
                     {
@@ -153,15 +153,15 @@
                         "author": "獵人公會"
                     },
                     {
-                        "video_code": "iTsm3BImhZ8",
-                        "image": "https://i.ytimg.com/vi/iTsm3BImhZ8/mqdefault.jpg",
-                        "title": "【獵人公會第一屆香港VTuber四麻盃】8/9 淘汰賽 第七組&第四組/竺重 蒼神子貓 目黑梅利 千影はるか 真黒 凱婷",
-                        "author": "獵人公會"
-                    },
-                    {
                         "video_code": "-yt2ZqzCDFc",
                         "image": "https://i.ytimg.com/vi/-yt2ZqzCDFc/mqdefault.jpg",
                         "title": "【獵人公會第一屆香港VTuber三麻盃】4/13 初賽C組/神崎涼子 紡霊拉比",
+                        "author": "獵人公會"
+                    },
+                    {
+                        "video_code": "iTsm3BImhZ8",
+                        "image": "https://i.ytimg.com/vi/iTsm3BImhZ8/mqdefault.jpg",
+                        "title": "【獵人公會第一屆香港VTuber四麻盃】8/9 淘汰賽 第七組&第四組/竺重 蒼神子貓 目黑梅利 千影はるか 真黒 凱婷",
                         "author": "獵人公會"
                     },
                     {

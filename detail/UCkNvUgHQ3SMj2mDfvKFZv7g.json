@@ -84,6 +84,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "NluQKE_u0TM",
+                        "image": "https://i.ytimg.com/vi/NluQKE_u0TM/mqdefault.jpg",
+                        "title": "【Cover】少女レイ/Shoujo Rei ໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    },
+                    {
                         "video_code": "dHOUtqiIvk0",
                         "image": "https://i.ytimg.com/vi/dHOUtqiIvk0/mqdefault.jpg",
                         "title": "【香港VTuber】花仙子成為Vtuber的故事 ໒꒱˚.*｜椛音Kanon",
@@ -110,9 +116,27 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "3fhkxB1G1k4",
+                        "image": "https://i.ytimg.com/vi/3fhkxB1G1k4/mqdefault.jpg",
+                        "title": "【Spider-Man #3】只要你需要卡蘿 卡蘿便會盪到你身邊 ໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    },
+                    {
                         "video_code": "wNM5gNiQJMk",
                         "image": "https://i.ytimg.com/vi/wNM5gNiQJMk/mqdefault.jpg",
                         "title": "【初配信】噠噠~ 來到人間征服所有食物的花仙子，出沒中!!  ໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    },
+                    {
+                        "video_code": "E5hZAVz-Ct0",
+                        "image": "https://i.ytimg.com/vi/E5hZAVz-Ct0/mqdefault.jpg",
+                        "title": "【Spider-Man】蜘蛛俠卡蘿盪呀~盪進大家的心裡!! ໒꒱˚.*｜椛音Kanon",
+                        "author": "Kanon Ch. 椛音かのん"
+                    },
+                    {
+                        "video_code": "EZKLmHDazkk",
+                        "image": "https://i.ytimg.com/vi/EZKLmHDazkk/mqdefault.jpg",
+                        "title": "【Spider-Man #2】豬豬俠卡蘿盪呀~盪進彼得·帕克的家裡!! ໒꒱˚.*｜椛音Kanon",
                         "author": "Kanon Ch. 椛音かのん"
                     }
                 ]

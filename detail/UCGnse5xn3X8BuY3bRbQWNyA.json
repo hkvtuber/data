@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fe21awYaUAAaG7B?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fe21awYaUAAaG7B?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -174,6 +186,12 @@
                         "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
                     },
                     {
+                        "video_code": "rgd1JCv7IMs",
+                        "image": "https://i.ytimg.com/vi/rgd1JCv7IMs/mqdefault.jpg",
+                        "title": "【FREE CHAT】閉關都要抖氣 ~IN BED WITH MAYA~【獅子堂マヤ･HKVtuber】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
                         "video_code": "nZIhX764HyA",
                         "image": "https://i.ytimg.com/vi/nZIhX764HyA/mqdefault.jpg",
                         "title": "【慟哭そして/慟哭之後】攻略梨代路線 目標: 黃金結局!【獅子堂マヤ･HKVtuber】",
@@ -192,6 +210,12 @@
                         "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
                     },
                     {
+                        "video_code": "ecD8qm9GlFQ",
+                        "image": "https://i.ytimg.com/vi/ecD8qm9GlFQ/mqdefault.jpg",
+                        "title": "【昏迷2：惡毒姐妹 #2】入到街巿 比豬肉佬追殺係好正常的吧【獅子堂マヤ･HKVtuber】",
+                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
+                    },
+                    {
                         "video_code": "ZGmsyi6Yvjw",
                         "image": "https://i.ytimg.com/vi/ZGmsyi6Yvjw/mqdefault.jpg",
                         "title": "【RG後雜談】EVENT是怎樣榨乾你的? 瀕死狀態但係想同大家傾偈【獅子堂マヤ･HKVtuber】",
@@ -201,18 +225,6 @@
                         "video_code": "LwiEN4VGKBw",
                         "image": "https://i.ytimg.com/vi/LwiEN4VGKBw/mqdefault.jpg",
                         "title": "［Free Chat]冇得旅行得個諗字，旅行趣事分享［HKVtuber/獅子堂マヤ］",
-                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
-                    },
-                    {
-                        "video_code": "4-Gmjh67Aws",
-                        "image": "https://i.ytimg.com/vi/4-Gmjh67Aws/mqdefault.jpg",
-                        "title": "【English Day】Rusty Lake Paradise 1【HKVTUBER/獅子堂マヤ】",
-                        "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
-                    },
-                    {
-                        "video_code": "Rsya3jIjaB0",
-                        "image": "https://i.ytimg.com/vi/Rsya3jIjaB0/mqdefault.jpg",
-                        "title": "【Vampire Survivors】試用Hololive人物模組 & 新角色寶鐘Marin試用! 打完第三針隻手仲打唔打到機呢 【獅子堂マヤ･HKVtuber】",
                         "author": "Maya Ch. 獅子堂マヤ ~HKVtuber~"
                     },
                     {

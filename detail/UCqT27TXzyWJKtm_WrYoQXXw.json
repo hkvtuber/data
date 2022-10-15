@@ -91,15 +91,15 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "U4vaeIYujkU",
-                        "image": "https://i.ytimg.com/vi/U4vaeIYujkU/mqdefault.jpg",
-                        "title": "【自我介紹】最速の自己紹介 ! 【KinaRira ch.】",
-                        "author": "浣熊 KinaRira ch."
-                    },
-                    {
                         "video_code": "-QexF1Gx7Uk",
                         "image": "https://i.ytimg.com/vi/-QexF1Gx7Uk/mqdefault.jpg",
                         "title": "Let me introduce myself !  【KinaRira ch.】",
+                        "author": "浣熊 KinaRira ch."
+                    },
+                    {
+                        "video_code": "U4vaeIYujkU",
+                        "image": "https://i.ytimg.com/vi/U4vaeIYujkU/mqdefault.jpg",
+                        "title": "【自我介紹】最速の自己紹介 ! 【KinaRira ch.】",
                         "author": "浣熊 KinaRira ch."
                     },
                     {

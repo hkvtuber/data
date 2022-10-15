@@ -1,0 +1,87 @@
+{
+    "id": "UCMQlW8pkl-M9ntWcaaiKxXQ",
+    "header": {
+        "name": "戲生漫緣 Enishi",
+        "image": "https://yt3.ggpht.com/dqPIvrSrnYINV8PoiRruCk-6VbK9LbZM1PU2ayHp6RC4iYEKLK78KTbWelD39q3r9wiArq8Xne4=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/DvnXhXklcr_6PbtosU7WsuUqKxoq9uudLnx7dPrAAKXEFlICXeRPHZFoSKiapp3Y3uafpc7t=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "緣 / Yukari\n琰 / En\n莫比烏斯 / Möbius",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "4月23日\n2月22日\n8月8日",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "16歲\n-\n-",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "150cm\n155cm\n-",
+                        "heightRate": "2.00"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCMQlW8pkl-M9ntWcaaiKxXQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "EnishiV_Offcial"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/cityucads"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/cityucads_enishi/"
+                    }
+                ]
+            }
+        }
+    ]
+}

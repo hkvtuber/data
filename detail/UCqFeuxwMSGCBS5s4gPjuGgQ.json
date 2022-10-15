@@ -2,7 +2,7 @@
     "id": "UCqFeuxwMSGCBS5s4gPjuGgQ",
     "header": {
         "name": "[Vtuber] Zeta Ch",
-        "bg": ""
+        "bg": "https://yt3.ggpht.com/4DX9JNSPCRBLN4PxNX3rlGa1cxrWFMnWlJV390UDZOKxPylP8Hifk6pBYkE9-MmK105yO4xt=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -11,8 +11,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/E8vujS6VIAYTOzs?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E8vujS6VIAYTOzs?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/Fcq6j1aaUAAITm6?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fcq6j1aaUAAITm6?format=jpg&name=medium"
                     }
                 ]
             }
@@ -112,15 +112,21 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "6o3XmvMrE9U",
+                        "image": "https://i.ytimg.com/vi/6o3XmvMrE9U/mqdefault.jpg",
+                        "title": "WoT spin",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
                         "video_code": "v0C75RdjJ4o",
                         "image": "https://i.ytimg.com/vi/v0C75RdjJ4o/mqdefault.jpg",
                         "title": "[精華] arena? YES STONKS",
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
-                        "video_code": "6o3XmvMrE9U",
-                        "image": "https://i.ytimg.com/vi/6o3XmvMrE9U/mqdefault.jpg",
-                        "title": "WoT spin",
+                        "video_code": "jfaIqCl3iDg",
+                        "image": "https://i.ytimg.com/vi/jfaIqCl3iDg/mqdefault.jpg",
+                        "title": "доброе утро",
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
@@ -130,9 +136,9 @@
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
-                        "video_code": "jfaIqCl3iDg",
-                        "image": "https://i.ytimg.com/vi/jfaIqCl3iDg/mqdefault.jpg",
-                        "title": "доброе утро",
+                        "video_code": "feUcWct1kxI",
+                        "image": "https://i.ytimg.com/vi/feUcWct1kxI/mqdefault.jpg",
+                        "title": "hunt:showdown squad wipe",
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
@@ -180,6 +186,12 @@
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
+                        "video_code": "t29hVTONdJM",
+                        "image": "https://i.ytimg.com/vi/t29hVTONdJM/mqdefault.jpg",
+                        "title": "Metal Gear Rising: Revengeance [Vtuber zeta]",
+                        "author": "[Vtuber] Zeta Ch"
+                    },
+                    {
                         "video_code": "Go6mfB_HrXM",
                         "image": "https://i.ytimg.com/vi/Go6mfB_HrXM/mqdefault.jpg",
                         "title": "halo infinite  [Vtuber Zeta]",
@@ -198,15 +210,9 @@
                         "author": "[Vtuber] Zeta Ch"
                     },
                     {
-                        "video_code": "t29hVTONdJM",
-                        "image": "https://i.ytimg.com/vi/t29hVTONdJM/mqdefault.jpg",
-                        "title": "Metal Gear Rising: Revengeance [Vtuber zeta]",
-                        "author": "[Vtuber] Zeta Ch"
-                    },
-                    {
-                        "video_code": "tV9TDlu_Qu4",
-                        "image": "https://i.ytimg.com/vi/tV9TDlu_Qu4/mqdefault.jpg",
-                        "title": "Elden Ring [Vtuber zeta]",
+                        "video_code": "uAUCMb4GUaQ",
+                        "image": "https://i.ytimg.com/vi/uAUCMb4GUaQ/mqdefault.jpg",
+                        "title": "Vpex MonkaS edition [Vtuber zeta]",
                         "author": "[Vtuber] Zeta Ch"
                     }
                 ]

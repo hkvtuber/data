@@ -2,8 +2,8 @@
     "id": "UC3Zyham9yYOpmiQJGfVa_gg",
     "header": {
         "name": "Asame Ch.白熊あさめ",
-        "image": "https://yt3.ggpht.com/I8rzDL3Hal2uhYgEduC-YMCU0yjo5Jeg14PbZZ9r40S4AF9eXI9Zy11nRVd3uzQ8gbzGi2yWlQ=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/uc4EUpG99Si-P1TSRRNF8xyctL8zKc7D590V_YjzgUuT1M8eoJvCGoa8Fp8Q0mP-CFPsBPBqrQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/FNF1s0FEIaaKHAl9NkRd4z6nwoWtuEgpSd-Z_b971tVhHN17K9zniQ9idbzFK_1qSXAbfwj7Lg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/scv6ulVxsiHgpz-0jkFdzwxhne6PSutS8-1MXaRhPEqcIb87H0hrnYJvy7qfdxwAUfriFScu=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FUs9t4MUAAEhe3i?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUs9t4MUAAEhe3i?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FaqgbRIakAAgb3y?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FaqgbRIakAAgb3y?format=jpg&name=medium"
                     }
                 ]
             }
@@ -121,6 +121,18 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "WF-Du7kWVWc",
+                        "image": "https://i.ytimg.com/vi/WF-Du7kWVWc/mqdefault.jpg",
+                        "title": "【深夜無人看系列】Splatoon 3 Shorts—只是跟風玩玩",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "zFniWVznEQ0",
+                        "image": "https://i.ytimg.com/vi/zFniWVznEQ0/mqdefault.jpg",
+                        "title": "白熊進化史2020-2022 The Evolution of Asame",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
                         "video_code": "aXtvyJXQoVI",
                         "image": "https://i.ytimg.com/vi/aXtvyJXQoVI/mqdefault.jpg",
                         "title": "【廢動畫】Dancing 熊糰？",
@@ -145,15 +157,15 @@
                         "author": "Asame Ch.白熊あさめ"
                     },
                     {
-                        "video_code": "_fd4X6mnihk",
-                        "image": "https://i.ytimg.com/vi/_fd4X6mnihk/mqdefault.jpg",
-                        "title": "【菜鳥級動畫】熊貓ダンゴくん01話: Boyon～熊貓糰子",
-                        "author": "Asame Ch.白熊あさめ"
-                    },
-                    {
                         "video_code": "Lf9UuGtB6DI",
                         "image": "https://i.ytimg.com/vi/Lf9UuGtB6DI/mqdefault.jpg",
                         "title": "【廢片】歷代服裝回顧？夏季要著比基尼了嗎？？？",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "_fd4X6mnihk",
+                        "image": "https://i.ytimg.com/vi/_fd4X6mnihk/mqdefault.jpg",
+                        "title": "【菜鳥級動畫】熊貓ダンゴくん01話: Boyon～熊貓糰子",
                         "author": "Asame Ch.白熊あさめ"
                     },
                     {
@@ -166,18 +178,6 @@
                         "video_code": "ht3E4hP0u-Q",
                         "image": "https://i.ytimg.com/vi/ht3E4hP0u-Q/mqdefault.jpg",
                         "title": "【白熊の畫「廢」圖系列】01：總之就是畫自己",
-                        "author": "Asame Ch.白熊あさめ"
-                    },
-                    {
-                        "video_code": "-An3DwPvGuU",
-                        "image": "https://i.ytimg.com/vi/-An3DwPvGuU/mqdefault.jpg",
-                        "title": "白熊の頻道内容介紹",
-                        "author": "Asame Ch.白熊あさめ"
-                    },
-                    {
-                        "video_code": "pVkrx09Xn3k",
-                        "image": "https://i.ytimg.com/vi/pVkrx09Xn3k/mqdefault.jpg",
-                        "title": "【#shorts 】只是出來耍廢。",
                         "author": "Asame Ch.白熊あさめ"
                     }
                 ]
@@ -201,6 +201,12 @@
                         "author": "Asame Ch.白熊あさめ"
                     },
                     {
+                        "video_code": "M5jDqSRkSuo",
+                        "image": "https://i.ytimg.com/vi/M5jDqSRkSuo/mqdefault.jpg",
+                        "title": "用色色治愈心靈……？？？？【白熊あさめ/HKVTuber】",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
                         "video_code": "GJJvqoT7eB0",
                         "image": "https://i.ytimg.com/vi/GJJvqoT7eB0/mqdefault.jpg",
                         "title": "【Apex初見】新手上路！【白熊あさめ/HKVTuber】",
@@ -210,6 +216,18 @@
                         "video_code": "XCGzXQ3bwWM",
                         "image": "https://i.ytimg.com/vi/XCGzXQ3bwWM/mqdefault.jpg",
                         "title": "MHRise初見，目標是虐爆龍族【白熊あさめ/HKVTuber】",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "ZKh3OJwGa58",
+                        "image": "https://i.ytimg.com/vi/ZKh3OJwGa58/mqdefault.jpg",
+                        "title": "Asame 1.5 Anniversary Special【白熊あさめ/HKVTuber】",
+                        "author": "Asame Ch.白熊あさめ"
+                    },
+                    {
+                        "video_code": "uuNNEt63Hg8",
+                        "image": "https://i.ytimg.com/vi/uuNNEt63Hg8/mqdefault.jpg",
+                        "title": "VTuber無償繪圖RE—望夜 Night篇【白熊あさめ/HKVTuber】",
                         "author": "Asame Ch.白熊あさめ"
                     },
                     {
@@ -225,27 +243,9 @@
                         "author": "Asame Ch.白熊あさめ"
                     },
                     {
-                        "video_code": "bfeHHftFfMU",
-                        "image": "https://i.ytimg.com/vi/bfeHHftFfMU/mqdefault.jpg",
-                        "title": "Asame 1st spotlight前夕：『The Story About Asame』【白熊あさめ/HKVTuber】",
-                        "author": "Asame Ch.白熊あさめ"
-                    },
-                    {
-                        "video_code": "CIrcOOpsGBg",
-                        "image": "https://i.ytimg.com/vi/CIrcOOpsGBg/mqdefault.jpg",
-                        "title": "【Gartic Phone初見】齊來畫畫，齊來瑟（色）瑟（色）。【白熊あさめ/HKVTuber】",
-                        "author": "Asame Ch.白熊あさめ"
-                    },
-                    {
-                        "video_code": "kEVzWlFhqXs",
-                        "image": "https://i.ytimg.com/vi/kEVzWlFhqXs/mqdefault.jpg",
-                        "title": "【一週年紀念配信】Asame 1st spotlight 2022 【白熊あさめ/HKVTuber】",
-                        "author": "Asame Ch.白熊あさめ"
-                    },
-                    {
-                        "video_code": "0SGsCiOLJ1A",
-                        "image": "https://i.ytimg.com/vi/0SGsCiOLJ1A/mqdefault.jpg",
-                        "title": "【賀卡繪製（？】與大家一起繪製新年賀卡！【白熊あさめ/HKVTuber】",
+                        "video_code": "aZ3XoumTEAQ",
+                        "image": "https://i.ytimg.com/vi/aZ3XoumTEAQ/mqdefault.jpg",
+                        "title": "一年一度！深宵遊戲雜玩！【白熊あさめ/HKVTuber】",
                         "author": "Asame Ch.白熊あさめ"
                     }
                 ]

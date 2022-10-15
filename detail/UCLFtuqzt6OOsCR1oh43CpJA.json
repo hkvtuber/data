@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FZCfs2QUsAAr0Ok?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FZCfs2QUsAAr0Ok?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -137,15 +125,15 @@
                         "author": "BASA🦊83 Ch."
                     },
                     {
-                        "video_code": "THsHFr0-ynQ",
-                        "image": "https://i.ytimg.com/vi/THsHFr0-ynQ/mqdefault.jpg",
-                        "title": "【COVER】センセンフコク / 山田二郎 ◆ ver. BASA",
-                        "author": "BASA🦊83 Ch."
-                    },
-                    {
                         "video_code": "T9pGrKsNuOA",
                         "image": "https://i.ytimg.com/vi/T9pGrKsNuOA/mqdefault.jpg",
                         "title": "【COVER】冬のはなし / ギヴン ◆ ver. BASA 【GIVEN劇場版支援！！】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "CltUwMHeOyg",
+                        "image": "https://i.ytimg.com/vi/CltUwMHeOyg/mqdefault.jpg",
+                        "title": "【COVER】KING / kanaria ◆ ver. BASA 【HKVtuber...?】",
                         "author": "BASA🦊83 Ch."
                     },
                     {
@@ -155,9 +143,9 @@
                         "author": "BASA🦊83 Ch."
                     },
                     {
-                        "video_code": "CltUwMHeOyg",
-                        "image": "https://i.ytimg.com/vi/CltUwMHeOyg/mqdefault.jpg",
-                        "title": "【COVER】KING / kanaria ◆ ver. BASA 【HKVtuber...?】",
+                        "video_code": "THsHFr0-ynQ",
+                        "image": "https://i.ytimg.com/vi/THsHFr0-ynQ/mqdefault.jpg",
+                        "title": "【COVER】センセンフコク / 山田二郎 ◆ ver. BASA",
                         "author": "BASA🦊83 Ch."
                     },
                     {
@@ -193,33 +181,9 @@
                         "author": "BASA🦊83 Ch."
                     },
                     {
-                        "video_code": "eMr3OEk0Zoc",
-                        "image": "https://i.ytimg.com/vi/eMr3OEk0Zoc/mqdefault.jpg",
-                        "title": "【初配2.0】年末就是要來唱歌啦！！【BASA】",
-                        "author": "BASA🦊83 Ch."
-                    },
-                    {
-                        "video_code": "_4YgwEnARs4",
-                        "image": "https://i.ytimg.com/vi/_4YgwEnARs4/mqdefault.jpg",
-                        "title": "【BASA】以防會忘記所以第一天就來開歌回啦！！【新曲同時視聽】",
-                        "author": "BASA🦊83 Ch."
-                    },
-                    {
-                        "video_code": "r0Fst-HqHWU",
-                        "image": "https://i.ytimg.com/vi/r0Fst-HqHWU/mqdefault.jpg",
-                        "title": "【BASA】5月歌回！！！【動漫曲限定】",
-                        "author": "BASA🦊83 Ch."
-                    },
-                    {
                         "video_code": "4kk39d7HgFA",
                         "image": "https://i.ytimg.com/vi/4kk39d7HgFA/mqdefault.jpg",
                         "title": "【映像研#1】PV解説！！來談談梅伊的GHOST！！！【BASA】",
-                        "author": "BASA🦊83 Ch."
-                    },
-                    {
-                        "video_code": "Z49KMHjhdzA",
-                        "image": "https://i.ytimg.com/vi/Z49KMHjhdzA/mqdefault.jpg",
-                        "title": "【耐久歌回】黑歷大回顧！！！由2022回到人生初投稿【80曲以上】",
                         "author": "BASA🦊83 Ch."
                     },
                     {
@@ -238,6 +202,30 @@
                         "video_code": "ertV1lzC0CI",
                         "image": "https://i.ytimg.com/vi/ertV1lzC0CI/mqdefault.jpg",
                         "title": "【BASA】和大家聊聊天順便吃點棉花糖！！【重大發表】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "TQwtSnZ_seg",
+                        "image": "https://i.ytimg.com/vi/TQwtSnZ_seg/mqdefault.jpg",
+                        "title": "【生誕祭】20歲生日快樂！！！來讀讀生日卡和唱歌吧！！【BASA】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "uLkuVYFhkx0",
+                        "image": "https://i.ytimg.com/vi/uLkuVYFhkx0/mqdefault.jpg",
+                        "title": "【BASA】親手讓自己和親媽壞掉。回【全隨機vtuber九宮格#2】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "9LWL62xyWyg",
+                        "image": "https://i.ytimg.com/vi/9LWL62xyWyg/mqdefault.jpg",
+                        "title": "【BASA】第一次主揪就災難？公關！！ft.  很多人【聽說沒有ng沒有底線】",
+                        "author": "BASA🦊83 Ch."
+                    },
+                    {
+                        "video_code": "EoynFdkd5n0",
+                        "image": "https://i.ytimg.com/vi/EoynFdkd5n0/mqdefault.jpg",
+                        "title": "【\\|/】初見壺男！！！不通關不收台！！！【BASA】",
                         "author": "BASA🦊83 Ch."
                     }
                 ]

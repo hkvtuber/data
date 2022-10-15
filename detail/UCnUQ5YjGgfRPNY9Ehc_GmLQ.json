@@ -1,0 +1,79 @@
+{
+    "id": "UCnUQ5YjGgfRPNY9Ehc_GmLQ",
+    "header": {
+        "name": "灰野悠 | HKVTuber ",
+        "image": "https://yt3.ggpht.com/n7HgHSkr0XvwqYq-IFGnG10_n2ZGA7pa11X9k6BqJDGEaJajNIAQERexPuhFTI0oDVm5o0RZ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": ""
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "一個普通的打工人"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "灰野悠",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月31日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "年齡",
+                        "content": "24歲",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "175cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCnUQ5YjGgfRPNY9Ehc_GmLQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "huiyeyou"
+                    }
+                ]
+            }
+        }
+    ]
+}

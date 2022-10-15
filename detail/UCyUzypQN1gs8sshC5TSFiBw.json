@@ -1,0 +1,81 @@
+{
+    "id": "UCyUzypQN1gs8sshC5TSFiBw",
+    "header": {
+        "name": "白空シルヴァ【HKVtuber】",
+        "image": "https://yt3.ggpht.com/no53KE6JH67UMqCB6xtgliCgDqwq9OHJXJpGQZ2H-68l7BhGuwkYaLmZxwYc8TTwxuIrk1Y3=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/emUG80T3pKhEB1_RGmlyigzC-874TTt7JuAx_lNyZgAKP2aLEO-FLo3VlXwGRKbKScnED1OayQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FeyU3x_UAAA6Nmz?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FeyU3x_UAAA6Nmz?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "白空シルヴァ",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "12月6日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCyUzypQN1gs8sshC5TSFiBw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "Shirosora_Silva"
+                    }
+                ]
+            }
+        }
+    ]
+}

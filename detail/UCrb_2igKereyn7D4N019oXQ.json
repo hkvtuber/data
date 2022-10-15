@@ -3,7 +3,7 @@
     "header": {
         "name": "Kappa卡帕",
         "image": "https://yt3.ggpht.com/b7c9-bxG73A_s6KdHnWx7y_eZqZBvlpJdH9Vr_5YWtdQ3h7_LDPwSu-7HM9BnyK9qtQrqS31yA=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/VkJdYL0DY_eAZblHXeAj8JC5Y4-a09JCwvOj_WeP_kOV9oGHI7Pqe36cMSloTpIMDO9tqyTzdA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/Ko5vH7Cjs8-uzwqHhoFBSb-pXn_YQWgtkvK60omelSW4X89-zvImxELebR9OfPnqkR7kPzK7Nso=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -145,6 +145,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "bGvwd2vh2JE",
+                        "image": "https://i.ytimg.com/vi/bGvwd2vh2JE/mqdefault.jpg",
+                        "title": "【生日會限定 - 雜談/凸待會】🐸生日會?? 定係凸待會? 使用本音配信????｜Kappa卡帕🐸｜#Kappa生誕2022",
+                        "author": "Kappa卡帕"
+                    },
+                    {
                         "video_code": "dagXlB-bw5M",
                         "image": "https://i.ytimg.com/vi/dagXlB-bw5M/mqdefault.jpg",
                         "title": "【Vtuber初配信】卡帕和大家分享青瓜 !｜Kappa卡帕",
@@ -154,6 +160,18 @@
                         "video_code": "JtoVynBMdcA",
                         "image": "https://i.ytimg.com/vi/JtoVynBMdcA/mqdefault.jpg",
                         "title": "【酒雜談】第一次的酒雜談!! 可以一直燃起來!!｜Kappa卡帕🐸｜Feat. 騎士奧蒂斯",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "SWaHcb3SbOg",
+                        "image": "https://i.ytimg.com/vi/SWaHcb3SbOg/mqdefault.jpg",
+                        "title": "【Kappalories 系列之 - 酸辣米線】🐸三哥 X 譚仔~ 由三少辣先生現場大比拼!!!! ｜Kappa卡帕🐸｜#譚仔三哥大對決 #三哥必勝",
+                        "author": "Kappa卡帕"
+                    },
+                    {
+                        "video_code": "qWSURSidG7c",
+                        "image": "https://i.ytimg.com/vi/qWSURSidG7c/mqdefault.jpg",
+                        "title": "【Phasmophobia】偽捉鬼敢死隊! 叫聲TSKR ? ! ｜Kappa卡帕🐸｜Feat. 雪櫃Reiha❄ & Yura🧸ユラ & 犬猫いのち｜",
                         "author": "Kappa卡帕"
                     },
                     {
@@ -184,24 +202,6 @@
                         "video_code": "AJGHUPZxScw",
                         "image": "https://i.ytimg.com/vi/AJGHUPZxScw/mqdefault.jpg",
                         "title": "【MHW】初三赤口挑戰冰呪龍~~ 來一場冰與火的交融 ✨✨｜Kappa卡帕🐸｜",
-                        "author": "Kappa卡帕"
-                    },
-                    {
-                        "video_code": "32ZcvYN3Wg4",
-                        "image": "https://i.ytimg.com/vi/32ZcvYN3Wg4/mqdefault.jpg",
-                        "title": "【清唱台/DAEMON X MACHINA】初嘗試完全清唱台~~ / 已經完全機械人上癮了✨✨｜Kappa卡帕🐸｜",
-                        "author": "Kappa卡帕"
-                    },
-                    {
-                        "video_code": "K9lzUgJeoRI",
-                        "image": "https://i.ytimg.com/vi/K9lzUgJeoRI/mqdefault.jpg",
-                        "title": "【Beat Saber】賣懶之後新年就來激烈運動✨(觀眾加入可)｜Kappa卡帕🐸",
-                        "author": "Kappa卡帕"
-                    },
-                    {
-                        "video_code": "A23BH7wYWQA",
-                        "image": "https://i.ytimg.com/vi/A23BH7wYWQA/mqdefault.jpg",
-                        "title": "【MHWIB】MHWIB之舊地重遊!!✨希望內心的劍術大師還在w ｜Kappa卡帕🐸｜",
                         "author": "Kappa卡帕"
                     }
                 ]

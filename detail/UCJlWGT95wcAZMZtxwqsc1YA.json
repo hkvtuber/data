@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FNi3LheagAAOoH5?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FNi3LheagAAOoH5?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -99,6 +87,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "bLTeSKF63qA",
+                        "image": "https://i.ytimg.com/vi/bLTeSKF63qA/mqdefault.jpg",
+                        "title": "【直播精華】【月月好聲音】聞者傷心、聽者流淚！記得SAVE(哭腔版)！",
+                        "author": "Uncle B.B. 【852Virtual channel】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -144,21 +146,21 @@
                         "author": "Uncle B.B. 【852Virtual channel】"
                     },
                     {
+                        "video_code": "dI8ojdXVRsU",
+                        "image": "https://i.ytimg.com/vi/dI8ojdXVRsU/mqdefault.jpg",
+                        "title": "【主題雜談】foodpanda vs deliveroo！兩大外賣平台大對決！",
+                        "author": "Uncle B.B. 【852Virtual channel】"
+                    },
+                    {
                         "video_code": "n6moM3AS0eY",
                         "image": "https://i.ytimg.com/vi/n6moM3AS0eY/mqdefault.jpg",
                         "title": "【同時視聽】【A1M1初配信】愛與正義的機械人，有不看的理由嗎！？ft.白石幽怜、朵拉、暁きのこ",
                         "author": "Uncle B.B. 【852Virtual channel】"
                     },
                     {
-                        "video_code": "D-vLkI88IZY",
-                        "image": "https://i.ytimg.com/vi/D-vLkI88IZY/mqdefault.jpg",
-                        "title": "【虐殿聯動?】【慶祝收益化特別週】虐殿變虐自己！地理歷史問答大會！ft.月島クロス",
-                        "author": "Uncle B.B. 【852Virtual channel】"
-                    },
-                    {
-                        "video_code": "JCC3eQbfcG4",
-                        "image": "https://i.ytimg.com/vi/JCC3eQbfcG4/mqdefault.jpg",
-                        "title": "【Switch Sports】【觀眾參加型】第二屆Uncle Switch Sports挑戰賽！！！",
+                        "video_code": "RyhAdvjT4Yg",
+                        "image": "https://i.ytimg.com/vi/RyhAdvjT4Yg/mqdefault.jpg",
+                        "title": "【香城中學交換生校園月】【ACG學會】倒播估歌仔(動畫主題曲篇)！！！ft.十六夜蒼月、煌梓玥(月島クロス)",
                         "author": "Uncle B.B. 【852Virtual channel】"
                     }
                 ]

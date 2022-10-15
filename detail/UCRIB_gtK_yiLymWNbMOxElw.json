@@ -1,0 +1,49 @@
+{
+    "id": "UCRIB_gtK_yiLymWNbMOxElw",
+    "header": {
+        "name": "【Next Ch.】",
+        "image": "https://yt3.ggpht.com/kDz5t5E9FRNgv-RrWUihmYir8JEQzeQgmMi5ymXoPqNYWUVE6y7dAwMH6jYl-2s_BFOzU_daoA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/-Jh4VxmoxZoQS4WUVw6SVjm84mSeZytelM02YvpIFf5lUr0X-d8VgLuxNiqo4C3DMWRg9L4HSyc=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "Our next chapter.\n香港虛擬原創音樂團體。"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "Next",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": []
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCRIB_gtK_yiLymWNbMOxElw"
+                    }
+                ]
+            }
+        }
+    ]
+}

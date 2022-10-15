@@ -2,10 +2,22 @@
     "id": "UCDwhatFL0lGNKGc0NRgMq2Q",
     "header": {
         "name": "Cou ch. 火神 紅【HKVTuber】",
-        "image": "https://yt3.ggpht.com/so5HcUBvxIizvk_00FLWzJ1VrsBtiX6aj8sZh2slM_QeJdwx4_7kZAn6OC7iHCX8eh30ffKLvkM=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/2JvCBi2kRYXHDxOB2_pZCUHHHG6uZoTd1nnhHdBpQGXM9MUydRNs109eizrlG_XjqTXA3dvR1so=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/WG1XQoLIzHaHZk7nyQLSdZwzAGbZXb7RUX_ehfDfWIOLhidxcfBZyR7ysLnKdHaSbQZfYSUUlQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Faxfy8eVEAAHS_5?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Faxfy8eVEAAHS_5?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -97,6 +109,12 @@
                         "author": "Cou ch. 火神 紅"
                     },
                     {
+                        "video_code": "mWEQXqYiNtk",
+                        "image": "https://i.ytimg.com/vi/mWEQXqYiNtk/mqdefault.jpg",
+                        "title": "☆ゲッダン☆",
+                        "author": "Cou ch. 火神 紅"
+                    },
+                    {
                         "video_code": "wCi_fYPMwwk",
                         "image": "https://i.ytimg.com/vi/wCi_fYPMwwk/mqdefault.jpg",
                         "title": "モンスター娘TD - EX1 神秘の果実を見極めろ",
@@ -106,6 +124,12 @@
                         "video_code": "9TwTi84njOw",
                         "image": "https://i.ytimg.com/vi/9TwTi84njOw/mqdefault.jpg",
                         "title": "【2分動画】 起 承 転 結 【火神コウ/HKVTuber】",
+                        "author": "Cou ch. 火神 紅"
+                    },
+                    {
+                        "video_code": "KYcvM87Thp0",
+                        "image": "https://i.ytimg.com/vi/KYcvM87Thp0/mqdefault.jpg",
+                        "title": "【VRMLiveViewer】Turn Off The Light",
                         "author": "Cou ch. 火神 紅"
                     },
                     {
@@ -144,6 +168,12 @@
                         "video_code": "9SsmDaOJjUA",
                         "image": "https://i.ytimg.com/vi/9SsmDaOJjUA/mqdefault.jpg",
                         "title": "雀魂 觀眾場 - 07/21",
+                        "author": "Cou ch. 火神 紅"
+                    },
+                    {
+                        "video_code": "pAiLu0KlOMg",
+                        "image": "https://i.ytimg.com/vi/pAiLu0KlOMg/mqdefault.jpg",
+                        "title": "【麻雀一番街】晨運 - 10/12 ft. 羽鳥楓鈴、山吹あげは、希織",
                         "author": "Cou ch. 火神 紅"
                     }
                 ]

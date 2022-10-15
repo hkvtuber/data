@@ -2,8 +2,8 @@
     "id": "UCx0Yy7_fAzkPUjCoLgDTc2w",
     "header": {
         "name": "如月兎苺 Kisaragi Ui Ch.",
-        "image": "https://yt3.ggpht.com/KMVE9bcVtm1DNAfTC1gWlhgeyFtCEAnVTPVjhOiFWzhPWCz_vqhFSN1AIC3gkAdnQzd56h4uXA=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/N4yMm3C113EQePMPuikWub5wDOADOEthWnoVCaEV-Igt3tRukkVxtT8RITC7px0isXRFcf_igw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/NZBdVipphx_b4CTJmRx5EtKJtvfdUVYSlVNMyHOZNLusEQW_5s0-K337xDD8SJ5YVzb7qOeLRA=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/MX-GjjQzj4KmHPx9g7nO1CWf3Y4lhTtAhhmPZ49CefN7hunhTwW7e4-Yy62ilBNzo-kx5NE4=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,12 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FWwVgEIaUAAcvbl?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWwVgEIaUAAcvbl?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FWwVg8UaAAImu5B?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWwVg8UaAAImu5B?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FZfzxGWaAAA3dBb?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZfzxGWaAAA3dBb?format=jpg&name=medium"
                     }
                 ]
             }
@@ -124,25 +120,43 @@
                         "video_code": "QAGhri_9hOU",
                         "image": "https://i.ytimg.com/vi/QAGhri_9hOU/mqdefault.jpg",
                         "title": "【自我介紹】如月兎苺，參上！",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "JoBdVFaoliM",
                         "image": "https://i.ytimg.com/vi/JoBdVFaoliM/mqdefault.jpg",
                         "title": "【#000 秘密檔案】誰？",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "RihZmOrLDqY",
                         "image": "https://i.ytimg.com/vi/RihZmOrLDqY/mqdefault.jpg",
                         "title": "🌊🐰【#兔苺記錄冊 】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "uA_MVJGOhfo",
+                        "image": "https://i.ytimg.com/vi/uA_MVJGOhfo/mqdefault.jpg",
+                        "title": "【剪輯精華 #Stray】本以為是治愈遊戲但其實......【#兔苺記錄冊】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "dbA16euFPps",
                         "image": "https://i.ytimg.com/vi/dbA16euFPps/mqdefault.jpg",
                         "title": "【剪輯精華】兔仔廚房30秒被嚇記錄【#兔苺記錄冊】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "lqP_PmEZjkU",
+                        "image": "https://i.ytimg.com/vi/lqP_PmEZjkU/mqdefault.jpg",
+                        "title": "【角色BGM】star of am2:00【#兔苺記錄冊】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "0iTVlA4J-io",
+                        "image": "https://i.ytimg.com/vi/0iTVlA4J-io/mqdefault.jpg",
+                        "title": "！HA！【#兔苺記錄冊】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     }
                 ]
             }
@@ -156,61 +170,61 @@
                         "video_code": "-zKcv15_iG8",
                         "image": "https://i.ytimg.com/vi/-zKcv15_iG8/mqdefault.jpg",
                         "title": "【雜談+Minecraft】決定了！就在此刻讓大家認識我吧！【香港Vtuber】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "Vbw0RduHzKY",
                         "image": "https://i.ytimg.com/vi/Vbw0RduHzKY/mqdefault.jpg",
                         "title": "【生日雜談】有新衣服有蛋糕還有棉花糖！！【#兔談time 】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "rTXIUF7wG3U",
+                        "image": "https://i.ytimg.com/vi/rTXIUF7wG3U/mqdefault.jpg",
+                        "title": "【新形象發佈】新的旅程，新的開始。【#兔談time】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
+                    },
+                    {
+                        "video_code": "w27ONh7NRwM",
+                        "image": "https://i.ytimg.com/vi/w27ONh7NRwM/mqdefault.jpg",
+                        "title": "【Stray #2】恐 怖 跳 蚤 快 快 散 去【#兔苺研究冊】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "ddheeAC9jqk",
                         "image": "https://i.ytimg.com/vi/ddheeAC9jqk/mqdefault.jpg",
                         "title": "【2.0更新】A whole new me ~【#兔談time】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "YBWll9F0h2I",
                         "image": "https://i.ytimg.com/vi/YBWll9F0h2I/mqdefault.jpg",
                         "title": "【畫畫台】來給大家畫聖誕禮物！！【#兔談time】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "zvXoGjHtRRI",
                         "image": "https://i.ytimg.com/vi/zvXoGjHtRRI/mqdefault.jpg",
                         "title": "【Fall Guys】你們全部都同我Fall！！！【香港vtuber/如月兎苺】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
                         "video_code": "eLIkrgF5PqE",
                         "image": "https://i.ytimg.com/vi/eLIkrgF5PqE/mqdefault.jpg",
                         "title": "【雜談+重大告知】假日後的閒聊時間~ #兔談time【如月兎苺】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
-                        "video_code": "jDl2MPJTfqQ",
-                        "image": "https://i.ytimg.com/vi/jDl2MPJTfqQ/mqdefault.jpg",
-                        "title": "【#一週年兔莓】一週年當然是要OOO啦！！【#兔談time】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "video_code": "CoGx4Y-1Ol8",
+                        "image": "https://i.ytimg.com/vi/CoGx4Y-1Ol8/mqdefault.jpg",
+                        "title": "【splatoon 3 前夜祭 w/  @黑佃みほ.MihoCH @彼岸琉璃 】👊夏日！去玩！去顛！👊【#兔苺研究冊】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     },
                     {
-                        "video_code": "Mi9N-_OitQA",
-                        "image": "https://i.ytimg.com/vi/Mi9N-_OitQA/mqdefault.jpg",
-                        "title": "【Fall Guys】Guys同我一齊Fall啦！！【香港vtuber/如月兎苺】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
-                    },
-                    {
-                        "video_code": "SQ-CUw_1NhU",
-                        "image": "https://i.ytimg.com/vi/SQ-CUw_1NhU/mqdefault.jpg",
-                        "title": "【雜談】年末了，來聊聊吧【#兔談time 】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
-                    },
-                    {
-                        "video_code": "zaAIcYcNEh0",
-                        "image": "https://i.ytimg.com/vi/zaAIcYcNEh0/mqdefault.jpg",
-                        "title": "【瑪利歐賽車8DX】第一屆激鬪瑪車V | 迷之高中生參上【#兔苺研究冊】",
-                        "author": "如月兎苺 Kisaragi Ui Ch."
+                        "video_code": "q6LRO1Oh6ao",
+                        "image": "https://i.ytimg.com/vi/q6LRO1Oh6ao/mqdefault.jpg",
+                        "title": "【雜談/新形象展示會】什麼都聊一下！【#兔談time】",
+                        "author": "如月兔苺 Kisaragi Ui Ch."
                     }
                 ]
             }

@@ -2,8 +2,8 @@
     "id": "UC0VAAQCFQqaQvPERWdUwfPg",
     "header": {
         "name": "Diria Julie / 迪妮雅・朱莉【HKVtuber】",
-        "image": "https://yt3.ggpht.com/OYRl0jMBvh02a23m11AE8fskPfz5ZGVcNOwc5aGj-EH9ecZwi9_wIi-sG_FixeaVM--zDLguWQ=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/_v-3V3paI6Wr14164dn05mcchyn6yJ0K6tknTNhiA96POmEL7zuyHpR6tntPuRzWfhRGClpr=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/l1rZwn53iEA1GiNS6c5Wqr_e5cWljcD8NbqcwRcLTQVf4g95LLX6f6_n0or-jkd5c1HXnGbnAQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/uwASJfnH-g7eEN_kpscAdXTliwXYIwM80TK_DKN_lD8vNX4Jqq7vLwfQ2iMXRLNTdqQNmq3zug=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -126,6 +126,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "uW3QyGgIzC0",
+                        "image": "https://i.ytimg.com/vi/uW3QyGgIzC0/mqdefault.jpg",
+                        "title": "【沒背景音版】星の消えた夜に - Aimer / Diria Julie (Cover)",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
                         "video_code": "-DTXXxwLQW4",
                         "image": "https://i.ytimg.com/vi/-DTXXxwLQW4/mqdefault.jpg",
                         "title": "【全部自己聲音】星の消えた夜に - Aimer / Diria Julie (Cover)",
@@ -138,15 +144,21 @@
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
-                        "video_code": "xC1YrMd5PM8",
-                        "image": "https://i.ytimg.com/vi/xC1YrMd5PM8/mqdefault.jpg",
-                        "title": "I hate you I love you - Diria Julie Cover",
+                        "video_code": "B07vKOfaPlM",
+                        "image": "https://i.ytimg.com/vi/B07vKOfaPlM/mqdefault.jpg",
+                        "title": "【唱將前哨戰】《打ち上げひかり》(原曲：打上花火 | 原詞：Let Us Go Then You and I)【歌ってみた】【HKVtuber/迪妮雅・朱莉】",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
-                        "video_code": "qNTTEiDPTW8",
-                        "image": "https://i.ytimg.com/vi/qNTTEiDPTW8/mqdefault.jpg",
-                        "title": "【新年快樂】希望2022年大家都快樂！【HKVtuber/迪妮雅・朱莉】",
+                        "video_code": "yCZHQOj2jWY",
+                        "image": "https://i.ytimg.com/vi/yCZHQOj2jWY/mqdefault.jpg",
+                        "title": "早期人類馴服雙手行為 #3.5  (不只廢片咁簡單，是怪片w)【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "xC1YrMd5PM8",
+                        "image": "https://i.ytimg.com/vi/xC1YrMd5PM8/mqdefault.jpg",
+                        "title": "I hate you I love you - Diria Julie Cover",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
@@ -156,21 +168,21 @@
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
+                        "video_code": "B7CSF5PfVek",
+                        "image": "https://i.ytimg.com/vi/B7CSF5PfVek/mqdefault.jpg",
+                        "title": "【謎の朗読】日本語は難しいと思います 【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "qNTTEiDPTW8",
+                        "image": "https://i.ytimg.com/vi/qNTTEiDPTW8/mqdefault.jpg",
+                        "title": "【新年快樂】希望2022年大家都快樂！【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
                         "video_code": "Gj1uTBxHJ2U",
                         "image": "https://i.ytimg.com/vi/Gj1uTBxHJ2U/mqdefault.jpg",
                         "title": "早期人類馴服雙手行為 【HKVtuber/迪妮雅・朱莉】",
-                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
-                    },
-                    {
-                        "video_code": "zTZl0g1A1fk",
-                        "image": "https://i.ytimg.com/vi/zTZl0g1A1fk/mqdefault.jpg",
-                        "title": "【What Remains of Edith Finch】無人聲事故現場【HKVtuber/迪妮雅・朱莉】",
-                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
-                    },
-                    {
-                        "video_code": "COCpI08_nwc",
-                        "image": "https://i.ytimg.com/vi/COCpI08_nwc/mqdefault.jpg",
-                        "title": "早期人類馴服雙手累了，於是彈腦入面loop緊嘅歌【HKVtuber/迪妮雅・朱莉】",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     }
                 ]
@@ -194,9 +206,21 @@
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
+                        "video_code": "ZpcExZDh6c4",
+                        "image": "https://i.ytimg.com/vi/ZpcExZDh6c4/mqdefault.jpg",
+                        "title": "【#DJ夏季新衣裝】「今天是我新衣裝」卡，棉花糖雜談/台詞/凸待【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
                         "video_code": "j-AR-6rb_ME",
                         "image": "https://i.ytimg.com/vi/j-AR-6rb_ME/mqdefault.jpg",
                         "title": "【非正式歌回】咁啱開咗琴唔想收住，如果攰/餓/琴無電就收台",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "h-iYkDuTkPI",
+                        "image": "https://i.ytimg.com/vi/h-iYkDuTkPI/mqdefault.jpg",
+                        "title": "【Knights and Bikes 聯動】踩單車！Let's touch some grass! w/楓鈴【HKVtuber/迪妮雅・朱莉】",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
@@ -206,39 +230,27 @@
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
+                        "video_code": "r0-vVIIasN4",
+                        "image": "https://i.ytimg.com/vi/r0-vVIIasN4/mqdefault.jpg",
+                        "title": "【月見】今天是中秋節！【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
+                        "video_code": "FrxVjsIYwd8",
+                        "image": "https://i.ytimg.com/vi/FrxVjsIYwd8/mqdefault.jpg",
+                        "title": "【周會堂雜談】Talking in 深夜emotion【HKVtuber/迪妮雅・朱莉】",
+                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
+                    },
+                    {
                         "video_code": "7WxGXv8czns",
                         "image": "https://i.ytimg.com/vi/7WxGXv8czns/mqdefault.jpg",
                         "title": "【God Field 互動】互相傷害的卡Game w/路斯吱 & Chat！ 【HKVtuber/迪妮雅・朱莉】",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     },
                     {
-                        "video_code": "hwiPj-L87uk",
-                        "image": "https://i.ytimg.com/vi/hwiPj-L87uk/mqdefault.jpg",
-                        "title": "【Apex 聯動】Apex練槍！希望有Kill point！ w/Chris & 路君！ 【HKVtuber/迪妮雅・朱莉】",
-                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
-                    },
-                    {
-                        "video_code": "WgP0fVGXQbU",
-                        "image": "https://i.ytimg.com/vi/WgP0fVGXQbU/mqdefault.jpg",
-                        "title": "【DSE加油站】《魚我所欲也》孟子【HKVtuber/迪妮雅・朱莉】",
-                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
-                    },
-                    {
-                        "video_code": "43INt8oiw00",
-                        "image": "https://i.ytimg.com/vi/43INt8oiw00/mqdefault.jpg",
-                        "title": "【HBD to me】「今天是我生日」卡，膠歌/蛋糕/牛奶【HKVtuber/迪妮雅・朱莉】",
-                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
-                    },
-                    {
-                        "video_code": "F0Jqeu48kvA",
-                        "image": "https://i.ytimg.com/vi/F0Jqeu48kvA/mqdefault.jpg",
-                        "title": "算突發【香港地道粵語達人挑戰】做下卷，唱下歌(如有)😎【HKVtuber/迪妮雅・朱莉】",
-                        "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
-                    },
-                    {
-                        "video_code": "hJ1i2HdAuFo",
-                        "image": "https://i.ytimg.com/vi/hJ1i2HdAuFo/mqdefault.jpg",
-                        "title": "【The Stillness of the Wind】生命與失落【HKVtuber/迪妮雅・朱莉】",
+                        "video_code": "a5Ji_LoVyB4",
+                        "image": "https://i.ytimg.com/vi/a5Ji_LoVyB4/mqdefault.jpg",
+                        "title": "【周會堂雜談 #2】Talking in 深夜emotion【HKVtuber/迪妮雅・朱莉】",
                         "author": "Diria Julie / 迪妮雅・朱莉【HKVtuber】"
                     }
                 ]

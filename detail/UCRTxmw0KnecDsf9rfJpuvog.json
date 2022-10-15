@@ -1,16 +1,28 @@
 {
     "id": "UCRTxmw0KnecDsf9rfJpuvog",
     "header": {
-        "name": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】",
-        "image": "https://yt3.ggpht.com/9eJLh5qTQDUBcj73GdvzR8Z5WE3DZNZ-wPQmro_yMyfVvAtgjkqqyCuhwmITT3xhSwq6J-v-=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/WfT5d_hdPOwMN_fzFqxKxjYsvpZ1AT6xxE0ixjJy6e9WSp2OGMmpo2a9YUbyVZVNI3E5lTSQkA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "name": "伽羅 GaLo .Ch【 香港vtuber 】",
+        "image": "https://yt3.ggpht.com/raVRxjt4MRTvHRZHjQ4UjXRGjNwM2mHyCJ6Q_xQ3h4EoprHO0cyGO5aipCeZmQYPnjLbaglD0w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/mGgAeH704_18PpQhetHfjIhbcyu4C0vXyoR0y87LpLe7bSYxq6LCpPmRmZsyI26U780vos2s=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fdl6D5raAAA5q2Z?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fdl6D5raAAA5q2Z?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
                 "title": "描述",
-                "content": "香港最重量級Vtuber"
+                "content": "讓我們一同稱霸大海！"
             }
         },
         {
@@ -20,8 +32,13 @@
                 "map_list": [
                     {
                         "key": "名字",
-                        "content": "肥大叔\nUncle Fat",
+                        "content": "伽羅\nGaLo",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "4月17日",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -38,7 +55,27 @@
                     },
                     {
                         "key": "語言",
-                        "content": "廣東話",
+                        "content": "廣東話\n普通話",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#GaloLive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#GaloArt",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#GaloClip",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#GaloMeme",
                         "heightRate": "1"
                     }
                 ]
@@ -52,6 +89,18 @@
                     {
                         "key": "youtube",
                         "path": "UCRTxmw0KnecDsf9rfJpuvog"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "GaloShum"
+                    },
+                    {
+                        "key": "facebook",
+                        "path": "https://www.facebook.com/GaloShum/"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/galoshum/"
                     }
                 ]
             }
@@ -59,67 +108,31 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
+                "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "ZTDWYuppcmg",
-                        "image": "https://i.ytimg.com/vi/ZTDWYuppcmg/mqdefault.jpg",
-                        "title": "HKVtuber  ／ 絕對黃標 私密之放課後訪問  ／  肥大叔 [mbp-001] ／【香港 Grade A.VTubeR / 香港vtuber / vtuber 】",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
+                        "video_code": "iicmg5De-a8",
+                        "image": "https://i.ytimg.com/vi/iicmg5De-a8/mqdefault.jpg",
+                        "title": "伽羅 初配信！ 「本大爺登場！」",
+                        "author": "伽羅 GaLo .Ch【 香港vtuber 】"
                     },
                     {
-                        "video_code": "gJoNCYjvgzM",
-                        "image": "https://i.ytimg.com/vi/gJoNCYjvgzM/mqdefault.jpg",
-                        "title": "肥大叔 HKVtuber 2000訂！ / 自我介紹 Vtuber一問一答自己紹介 - 香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
+                        "video_code": "oWpUVYRKpzU",
+                        "image": "https://i.ytimg.com/vi/oWpUVYRKpzU/mqdefault.jpg",
+                        "title": "肥大叔 一週年 加 畢業 播歌 演唱會 - 9月17日 夜晚7點",
+                        "author": "伽羅 GaLo .Ch【 香港vtuber 】"
                     },
                     {
-                        "video_code": "4j2QkkPHtPM",
-                        "image": "https://i.ytimg.com/vi/4j2QkkPHtPM/mqdefault.jpg",
-                        "title": "肥大叔 HKVtuber / 《 收皮啦(鄉音版) 》 Cover (原曲Ado「うっせぇわ」) -  香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
+                        "video_code": "792SFzBgYPM",
+                        "image": "https://i.ytimg.com/vi/792SFzBgYPM/mqdefault.jpg",
+                        "title": "【直播】 第一屆 無下限 船務大會 - 伽羅live",
+                        "author": "伽羅 GaLo .Ch【 香港vtuber 】"
                     },
                     {
-                        "video_code": "TP0xXJP5DsQ",
-                        "image": "https://i.ytimg.com/vi/TP0xXJP5DsQ/mqdefault.jpg",
-                        "title": "肥大叔  嚴選 旺角 4大 必去 廁所 -  香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
-                    },
-                    {
-                        "video_code": "wAyGLzknocM",
-                        "image": "https://i.ytimg.com/vi/wAyGLzknocM/mqdefault.jpg",
-                        "title": "【 肥大叔 和你試 】 肥大叔 同你食 女僕 Cafe！ ( 附ASMR ) - 香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
-                    },
-                    {
-                        "video_code": "1koAjNrC-fs",
-                        "image": "https://i.ytimg.com/vi/1koAjNrC-fs/mqdefault.jpg",
-                        "title": "【肥大叔講經】 《 蜘蛛俠 》劇透 死全家？睇套戲點解咁嚴重？ - 香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
-                    },
-                    {
-                        "video_code": "4DkahM9Q96A",
-                        "image": "https://i.ytimg.com/vi/4DkahM9Q96A/mqdefault.jpg",
-                        "title": "【 肥大叔 先修班 】 肥大叔教你喺 巴士啪啪啪 - 香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
-                    },
-                    {
-                        "video_code": "nLzXG7_TJCQ",
-                        "image": "https://i.ytimg.com/vi/nLzXG7_TJCQ/mqdefault.jpg",
-                        "title": "來吧！！！！！！！！！！",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
-                    },
-                    {
-                        "video_code": "pP5SrGdlgmc",
-                        "image": "https://i.ytimg.com/vi/pP5SrGdlgmc/mqdefault.jpg",
-                        "title": "【香港vtuber 肥大叔 staycation 】 肥大叔 同你 爆房 ＠奕居 ＋ 開罐頭 ！- 香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
-                    },
-                    {
-                        "video_code": "QPjtm63Uzf8",
-                        "image": "https://i.ytimg.com/vi/QPjtm63Uzf8/mqdefault.jpg",
-                        "title": "【肥大叔食堂】 試伏員肥大叔 試食 大角咀 力奇 豬骨煲！- 香港 Grade A.VTubeR / 香港vtuber / vtuber",
-                        "author": "Uncle Fat 肥大叔【 香港 Grade A.VTubeR / 香港vtuber 】"
+                        "video_code": "NIzc9EnhSU0",
+                        "image": "https://i.ytimg.com/vi/NIzc9EnhSU0/mqdefault.jpg",
+                        "title": "【直播】首領的 誤解解答 - 伽羅live",
+                        "author": "伽羅 GaLo .Ch【 香港vtuber 】"
                     }
                 ]
             }

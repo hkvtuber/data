@@ -2,8 +2,8 @@
     "id": "UCoKH1_XNHlfMlvhytUjnfGg",
     "header": {
         "name": "Chris Ch.克里斯【HKVtuber】",
-        "image": "https://yt3.ggpht.com/5bbn5Tsmtjjdcg1HVKluO1__5iy7gsSYZ3wdjfPbf-v51N-SVDLr2OqONfgkEfuYVBGM474sTXo=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/o8biaiXVqj-N0PQqgwUFfvbbxL5SRaeh_gZmRXHrs97PSRbFeQiZfEGtOYUzlirScn8kVKyaDw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/JhvSZGGwGp2g0OFJOkyRU69g_NZsyVn_ItvIuUCuJJBImhv7qDtc_Zspm26lSQhliYFd7msYAQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/L8HhFnBsfdmMMH8Cg8GBt5evTgfORllAw42qffuBnGASu5rLIakRvtT3ZD05ow1Kv2xZiYR-DA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FH8q8rDVIAAsRWX?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FH8q8rDVIAAsRWX?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FZkFRAGaQAEhoJO?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZkFRAGaQAEhoJO?format=jpg&name=medium"
                     }
                 ]
             }
@@ -130,6 +130,12 @@
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
+                        "video_code": "5olyMC3ZLOk",
+                        "image": "https://i.ytimg.com/vi/5olyMC3ZLOk/mqdefault.jpg",
+                        "title": "釘宮三連？ 黑絲.大腿.很重要 #shorts",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
                         "video_code": "PT-5viXixRY",
                         "image": "https://i.ytimg.com/vi/PT-5viXixRY/mqdefault.jpg",
                         "title": "【練歌】第一次【香港Vtuber】",
@@ -142,9 +148,21 @@
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
+                        "video_code": "hdkb3u8Z5l4",
+                        "image": "https://i.ytimg.com/vi/hdkb3u8Z5l4/mqdefault.jpg",
+                        "title": "【100條影片紀念】Nya Nya Nya にゃん にゃん にゃん #shorts",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
                         "video_code": "suDUahR5Ioo",
                         "image": "https://i.ytimg.com/vi/suDUahR5Ioo/mqdefault.jpg",
                         "title": "【練歌】少女心事【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "Wq1oDELzeCU",
+                        "image": "https://i.ytimg.com/vi/Wq1oDELzeCU/mqdefault.jpg",
+                        "title": "【Q&A】為什麼不用魔法女聲出道？ #shorts",
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
@@ -154,27 +172,9 @@
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
-                        "video_code": "W61Xvj9IrwA",
-                        "image": "https://i.ytimg.com/vi/W61Xvj9IrwA/mqdefault.jpg",
-                        "title": "【道歉啟示】2022-05-14 #shorts",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "ObrtKJzm8JA",
-                        "image": "https://i.ytimg.com/vi/ObrtKJzm8JA/mqdefault.jpg",
-                        "title": "【配信OP】 舊世界的遭遇  version 1.2【香港Vtuber】",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "_MKve8d1qWU",
-                        "image": "https://i.ytimg.com/vi/_MKve8d1qWU/mqdefault.jpg",
-                        "title": "100訂達成！ #shorts",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "w09u5CYKRj4",
-                        "image": "https://i.ytimg.com/vi/w09u5CYKRj4/mqdefault.jpg",
-                        "title": "【精華】自選精華#3【香港Vtuber】",
+                        "video_code": "JtxbJeDX_Z0",
+                        "image": "https://i.ytimg.com/vi/JtxbJeDX_Z0/mqdefault.jpg",
+                        "title": "【展示】Live2D ver 1.1 展示",
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     }
                 ]
@@ -185,6 +185,12 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "NEgAIs3GuJI",
+                        "image": "https://i.ytimg.com/vi/NEgAIs3GuJI/mqdefault.jpg",
+                        "title": "【紀念】一週年紀念 2022-10-10【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
                     {
                         "video_code": "5EIXZi_Rxro",
                         "image": "https://i.ytimg.com/vi/5EIXZi_Rxro/mqdefault.jpg",
@@ -198,51 +204,45 @@
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
+                        "video_code": "o9Ed1xTfRiw",
+                        "image": "https://i.ytimg.com/vi/o9Ed1xTfRiw/mqdefault.jpg",
+                        "title": "【生日紀念回】Gartic Phone 觀眾場 2022-08-08【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ha6pPmyPS7E",
+                        "image": "https://i.ytimg.com/vi/ha6pPmyPS7E/mqdefault.jpg",
+                        "title": "【繪圖♀】作業台-隨便畫畫 2022-08-13 （香城中學美術學會）【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "B8WHQZYhzLg",
+                        "image": "https://i.ytimg.com/vi/B8WHQZYhzLg/mqdefault.jpg",
+                        "title": "【LoveChoice】 揀愛 #02 2022-08-24【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
+                        "video_code": "5FISjTB6Fa8",
+                        "image": "https://i.ytimg.com/vi/5FISjTB6Fa8/mqdefault.jpg",
+                        "title": "【繪圖♀】主題~Holostars EN‧Noir Vesper  2022-08-03（香城中學美術學會）【香港Vtuber】",
+                        "author": "Chris Ch.克里斯【HKVtuber】"
+                    },
+                    {
                         "video_code": "04Hh96JvZY8",
                         "image": "https://i.ytimg.com/vi/04Hh96JvZY8/mqdefault.jpg",
                         "title": "【女聲配信♀】調教魔法 2022-06-06【香港Vtuber】",
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
-                        "video_code": "rR4oLbefiQk",
-                        "image": "https://i.ytimg.com/vi/rR4oLbefiQk/mqdefault.jpg",
-                        "title": "【Left 4 Dead 2 】打喪屍？打同伴？ ft. 2貨, Schwarz Tiger, 星合豊 2022-07-22【香港Vtuber】",
+                        "video_code": "n2rAKMhsh6E",
+                        "image": "https://i.ytimg.com/vi/n2rAKMhsh6E/mqdefault.jpg",
+                        "title": "【雜談】Live2D ver 1.1 展示 w/ 路君 2022-09-09 【香港Vtuber】",
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     },
                     {
-                        "video_code": "VoGZOy9XwDM",
-                        "image": "https://i.ytimg.com/vi/VoGZOy9XwDM/mqdefault.jpg",
-                        "title": "【繪圖】畫畫V友 2022-04-19【香港Vtuber】",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "lUpglP18K9c",
-                        "image": "https://i.ytimg.com/vi/lUpglP18K9c/mqdefault.jpg",
-                        "title": "【LoveChoice】 揀愛 #01 2022-07-25【香港Vtuber】",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "nkdlQW2lJrk",
-                        "image": "https://i.ytimg.com/vi/nkdlQW2lJrk/mqdefault.jpg",
-                        "title": "【男男繪圖】作業台-摸摸Tiger  2022-05-08【香港Vtuber】",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "D7DTfqSDbk8",
-                        "image": "https://i.ytimg.com/vi/D7DTfqSDbk8/mqdefault.jpg",
-                        "title": "【Phasmophobia】初見! 男子組探靈任務 ft. 黑森千夜. 軒轅虛. 鐵球A 2022-04-11【香港Vtuber】",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "G6deqBQmV5Q",
-                        "image": "https://i.ytimg.com/vi/G6deqBQmV5Q/mqdefault.jpg",
-                        "title": "【練歌】突發魔法練歌 2022-05-21【香港Vtuber】",
-                        "author": "Chris Ch.克里斯【HKVtuber】"
-                    },
-                    {
-                        "video_code": "WTw9MF11hMo",
-                        "image": "https://i.ytimg.com/vi/WTw9MF11hMo/mqdefault.jpg",
-                        "title": "【FGO】第2部第6章完結記念PUガチャ【香港Vtuber】",
+                        "video_code": "XqvuuXAAsAI",
+                        "image": "https://i.ytimg.com/vi/XqvuuXAAsAI/mqdefault.jpg",
+                        "title": "【Don't Starve Together】集合吧，2貨餵食會！ w/  2貨, Diria Julie, 羽鳥楓鈴 2022-09-20【香港Vtuber】",
                         "author": "Chris Ch.克里斯【HKVtuber】"
                     }
                 ]

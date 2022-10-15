@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FcZgleOaIAATmBN?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FcZgleOaIAATmBN?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -103,9 +115,21 @@
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     },
                     {
+                        "video_code": "PGCTClVfCws",
+                        "image": "https://i.ytimg.com/vi/PGCTClVfCws/mqdefault.jpg",
+                        "title": "[To be continued]一死回到解放前",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
                         "video_code": "72I7rXX0Hys",
                         "image": "https://i.ytimg.com/vi/72I7rXX0Hys/mqdefault.jpg",
                         "title": "[APEX]大病回來恢健旅程?【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "3qPj1NecSQA",
+                        "image": "https://i.ytimg.com/vi/3qPj1NecSQA/mqdefault.jpg",
+                        "title": "▶遊戲配信◁ #APEX 突發練槍台【白鱗 ほし / HKVtuber】",
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     }
                 ]
@@ -120,6 +144,12 @@
                         "video_code": "sYaTN09zSFY",
                         "image": "https://i.ytimg.com/vi/sYaTN09zSFY/mqdefault.jpg",
                         "title": "【Escape from tarkov/逃離塔科夫】去tarkov玩【白鱗 ほし / HKVtuber】",
+                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
+                    },
+                    {
+                        "video_code": "1biNTYGEPNI",
+                        "image": "https://i.ytimg.com/vi/1biNTYGEPNI/mqdefault.jpg",
+                        "title": "▶遊戲配信◁ #APEX 練槍台【白鱗 ほし / HKVtuber】",
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     },
                     {
@@ -159,21 +189,15 @@
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     },
                     {
-                        "video_code": "I7txkMxeYOs",
-                        "image": "https://i.ytimg.com/vi/I7txkMxeYOs/mqdefault.jpg",
-                        "title": "[APEX] NG休閒台 【白鱗 ほし / HKVtuber】",
+                        "video_code": "5rMTqZy0fZg",
+                        "image": "https://i.ytimg.com/vi/5rMTqZy0fZg/mqdefault.jpg",
+                        "title": "▶遊戲配信◁ #APEX 鑽石12時耐久(上)【白鱗 ほし / HKVtuber】",
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     },
                     {
-                        "video_code": "5eUhVJyXSgU",
-                        "image": "https://i.ytimg.com/vi/5eUhVJyXSgU/mqdefault.jpg",
-                        "title": "[APEX] 新賽季新賽制 回歸鑽石之旅 第二季 【白鱗 ほし / HKVtuber】",
-                        "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
-                    },
-                    {
-                        "video_code": "W3n7ByGv6lE",
-                        "image": "https://i.ytimg.com/vi/W3n7ByGv6lE/mqdefault.jpg",
-                        "title": "[APEX/R6 ]上半場APEX 下半場R6【白鱗 ほし / HKVtuber】",
+                        "video_code": "HyPiBgRmUCA",
+                        "image": "https://i.ytimg.com/vi/HyPiBgRmUCA/mqdefault.jpg",
+                        "title": "▶遊戲配信◁ #APEX 突發練槍台【白鱗 ほし / HKVtuber】",
                         "author": "白鱗 ほし Hoshi Ch. 【HKVtuber】"
                     }
                 ]

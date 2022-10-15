@@ -2,8 +2,8 @@
     "id": "UC8Y1npAUbpbuOHjfSo2aiBg",
     "header": {
         "name": "出雲ふゆ / 雲仔【香港VTuber】",
-        "image": "https://yt3.ggpht.com/gxgOf47qoEx4tghOeTnjFxy2sV57QzsA8gmIH_jmuXSIHXmJa7OTDzBXw-_4Cj9t1ch1oCib=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/vXBYjpEZ_pgJmnkQ9gUWgsvD4x2PNqiNhNpi_elPj4rMTnubeVfFL--5SIhQZalXjFrqlkJN=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/VnoOTCGN8mmrXwsk9ZLuDI3UpXEYNgv-WcUmdbfPNekVbGDxpYseCQcwPzlvJ1euSsB6Xtukm4I=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/H91cmZFt0lxBtJhcTv1uTR_1-y2dDzvwlpuOndKyVa0nKvuqzPaRNDog6ljdDelauQXyrhb1=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -113,6 +113,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "hFB9sSJKQTk",
+                        "image": "https://i.ytimg.com/vi/hFB9sSJKQTk/mqdefault.jpg",
+                        "title": "Black Out / 出雲ふゆ cover 【歌ってみた】",
+                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
+                    },
+                    {
                         "video_code": "D0cMeUO0EbQ",
                         "image": "https://i.ytimg.com/vi/D0cMeUO0EbQ/mqdefault.jpg",
                         "title": "【自我介紹】Vtuber一問一答自己紹介 【出雲ふゆ/香港Vtuber】",
@@ -149,27 +155,21 @@
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     },
                     {
+                        "video_code": "V5msQjlCkRY",
+                        "image": "https://i.ytimg.com/vi/V5msQjlCkRY/mqdefault.jpg",
+                        "title": "[直播精華] 雲媽覺得雲仔嘈住晒, 唔記得個女生日重想個女快D嫁走?",
+                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
+                    },
+                    {
                         "video_code": "Fyf-pBGwSWk",
                         "image": "https://i.ytimg.com/vi/Fyf-pBGwSWk/mqdefault.jpg",
                         "title": "[直播精華] 雲仔面臨財務危機被迫兼差打工辛酸經驗流出",
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     },
                     {
-                        "video_code": "MrLZHxqw38M",
-                        "image": "https://i.ytimg.com/vi/MrLZHxqw38M/mqdefault.jpg",
-                        "title": "ベリーメロン Very Melon",
-                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
-                    },
-                    {
-                        "video_code": "z_f-c_7H-jU",
-                        "image": "https://i.ytimg.com/vi/z_f-c_7H-jU/mqdefault.jpg",
-                        "title": "[直播精華] 雲仔簽名會迷惑行為合集",
-                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
-                    },
-                    {
-                        "video_code": "V5msQjlCkRY",
-                        "image": "https://i.ytimg.com/vi/V5msQjlCkRY/mqdefault.jpg",
-                        "title": "[直播精華] 雲媽覺得雲仔嘈住晒, 唔記得個女生日重想個女快D嫁走?",
+                        "video_code": "7G3VnlMXidI",
+                        "image": "https://i.ytimg.com/vi/7G3VnlMXidI/mqdefault.jpg",
+                        "title": "烤肉Man 入門! 雲仔教你剪精華(有字幕)",
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     }
                 ]
@@ -184,6 +184,18 @@
                         "video_code": "Pj5qIfVSJM8",
                         "image": "https://i.ytimg.com/vi/Pj5qIfVSJM8/mqdefault.jpg",
                         "title": "[500訂搵工耐久台] 如果收台前500訂, 我就開00洗腳會",
+                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
+                    },
+                    {
+                        "video_code": "Ggl8Jt5ahNA",
+                        "image": "https://i.ytimg.com/vi/Ggl8Jt5ahNA/mqdefault.jpg",
+                        "title": "[追女教室] 由近日事件教你點樣追女仔唔會俾人當性騷擾!",
+                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
+                    },
+                    {
+                        "video_code": "pETtgWFP6DQ",
+                        "image": "https://i.ytimg.com/vi/pETtgWFP6DQ/mqdefault_live.jpg",
+                        "title": "[24小時] 如果廢青雲無做你老婆，每日生活點過？",
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     },
                     {
@@ -205,15 +217,15 @@
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     },
                     {
-                        "video_code": "SpIQ45l8U6g",
-                        "image": "https://i.ytimg.com/vi/SpIQ45l8U6g/mqdefault.jpg",
-                        "title": "出雲ふゆaka雲仔2.0新形象公開!",
-                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
-                    },
-                    {
                         "video_code": "3gXIbtAVhDg",
                         "image": "https://i.ytimg.com/vi/3gXIbtAVhDg/mqdefault.jpg",
                         "title": "[流量密碼] 洗白白",
+                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
+                    },
+                    {
+                        "video_code": "SpIQ45l8U6g",
+                        "image": "https://i.ytimg.com/vi/SpIQ45l8U6g/mqdefault.jpg",
+                        "title": "出雲ふゆaka雲仔2.0新形象公開!",
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     },
                     {
@@ -223,21 +235,9 @@
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     },
                     {
-                        "video_code": "6v3GgKB7BB0",
-                        "image": "https://i.ytimg.com/vi/6v3GgKB7BB0/mqdefault.jpg",
-                        "title": "[週邊服務台] 來簽名囉~",
-                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
-                    },
-                    {
-                        "video_code": "KqNpUGg2g3M",
-                        "image": "https://i.ytimg.com/vi/KqNpUGg2g3M/mqdefault.jpg",
-                        "title": "[流量密碼家庭裝] 雲仔大浴場",
-                        "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
-                    },
-                    {
-                        "video_code": "7s6i7SVsxoM",
-                        "image": "https://i.ytimg.com/vi/7s6i7SVsxoM/mqdefault.jpg",
-                        "title": "[努力扮工台] 試下督促我返工",
+                        "video_code": "3tkHtzAMbwI",
+                        "image": "https://i.ytimg.com/vi/3tkHtzAMbwI/mqdefault.jpg",
+                        "title": "估歌仔大賽! feat. @卯月 瑠花Ch. 【香港Vtuber】@偵探貓化靈【HKVtuber】 @真黑makuro【HKVTuber】@Ten Ch.宇巡天",
                         "author": "出雲ふゆ / 雲仔 Izumo Fuyu Ch."
                     }
                 ]

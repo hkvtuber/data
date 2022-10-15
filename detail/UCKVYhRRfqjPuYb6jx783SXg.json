@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FZE8G5_aUAIMJdg?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FZE8G5_aUAIMJdg?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -203,6 +191,12 @@
                         "author": "Kumo Ch. 若月くも【HKVTuber】"
                     },
                     {
+                        "video_code": "e8VA3d1fuNc",
+                        "image": "https://i.ytimg.com/vi/e8VA3d1fuNc/mqdefault.jpg",
+                        "title": "【#香港VTuber英雄聯盟邀請賽】決賽 wHo Am I vs 天啟四騎士與他們的流浪貓",
+                        "author": "Kumo Ch. 若月くも【HKVTuber】"
+                    },
+                    {
                         "video_code": "qskhqG9Av5w",
                         "image": "https://i.ytimg.com/vi/qskhqG9Av5w/mqdefault.jpg",
                         "title": "【#香港VTuber英雄聯盟邀請賽】Day 4 天啟四騎士與他們的流浪貓vs張中和與他的漂移海膽",
@@ -236,12 +230,6 @@
                         "video_code": "L5LfGr7IoWg",
                         "image": "https://i.ytimg.com/vi/L5LfGr7IoWg/mqdefault.jpg",
                         "title": "【二週年紀念+提早慶祝生日】❤人生初次凸待ち❤ ！【若月くも】",
-                        "author": "Kumo Ch. 若月くも【HKVTuber】"
-                    },
-                    {
-                        "video_code": "myB04qMx8IE",
-                        "image": "https://i.ytimg.com/vi/myB04qMx8IE/mqdefault.jpg",
-                        "title": "【歌枠】Kumoko初見歌枠!!!!!! 【若月くも】",
                         "author": "Kumo Ch. 若月くも【HKVTuber】"
                     }
                 ]

@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FJ8nKDDakAU1OHY?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FJ8nKDDakAU1OHY?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -167,9 +155,21 @@
                         "author": "夜皮【YAPI】"
                     },
                     {
+                        "video_code": "KNIrs_C8aXE",
+                        "image": "https://i.ytimg.com/vi/KNIrs_C8aXE/mqdefault.jpg",
+                        "title": "「APEX」14 RANK",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
                         "video_code": "tsyFWw6J_aI",
                         "image": "https://i.ytimg.com/vi/tsyFWw6J_aI/mqdefault.jpg",
                         "title": "【God Field】大家好!我是渣渣皮,是兄弟就來斬我吧 (參加型)",
+                        "author": "夜皮【YAPI】"
+                    },
+                    {
+                        "video_code": "WFEy1LIMkro",
+                        "image": "https://i.ytimg.com/vi/WFEy1LIMkro/mqdefault.jpg",
+                        "title": "【Splatoon3】新手!!你顏射我我亦顏射你",
                         "author": "夜皮【YAPI】"
                     },
                     {
@@ -179,33 +179,21 @@
                         "author": "夜皮【YAPI】"
                     },
                     {
-                        "video_code": "kFP7NiZOLi0",
-                        "image": "https://i.ytimg.com/vi/kFP7NiZOLi0/mqdefault.jpg",
-                        "title": "【APEX】升通行證  練習槍法",
-                        "author": "夜皮【YAPI】"
-                    },
-                    {
                         "video_code": "P0f9JaKHz_U",
                         "image": "https://i.ytimg.com/vi/P0f9JaKHz_U/mqdefault.jpg",
                         "title": "【虹彩六號 Rainbow six】掛機",
                         "author": "夜皮【YAPI】"
                     },
                     {
-                        "video_code": "fXhjvo_dgSs",
-                        "image": "https://i.ytimg.com/vi/fXhjvo_dgSs/mqdefault.jpg",
-                        "title": "【星之卡比 探索發現】 poi poi poi~",
+                        "video_code": "kFP7NiZOLi0",
+                        "image": "https://i.ytimg.com/vi/kFP7NiZOLi0/mqdefault.jpg",
+                        "title": "【APEX】升通行證  練習槍法",
                         "author": "夜皮【YAPI】"
                     },
                     {
                         "video_code": "IeKtRJfcKJQ",
                         "image": "https://i.ytimg.com/vi/IeKtRJfcKJQ/mqdefault.jpg",
                         "title": "【艾爾之光】由我來引導露,露的笑容由我來守護",
-                        "author": "夜皮【YAPI】"
-                    },
-                    {
-                        "video_code": "uE4oKBSsGWE",
-                        "image": "https://i.ytimg.com/vi/uE4oKBSsGWE/mqdefault.jpg",
-                        "title": "【Midnight Ghost Hunt】試game",
                         "author": "夜皮【YAPI】"
                     }
                 ]

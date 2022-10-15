@@ -2,8 +2,8 @@
     "id": "UCIky0zBXhvsUPMFRCWwXMBw",
     "header": {
         "name": "念慈【香港 Vtuber @台灣】",
-        "image": "https://yt3.ggpht.com/qZqfyoU683DjBKH0KSCCAQ7tq9Br8C_arCtFiXK5cysP03DDP_O7ZxrFw-jlHnCdyBK5tk9t=s88-c-k-c0x00ffffff-no-rj",
-        "bg": ""
+        "image": "https://yt3.ggpht.com/M-7XOEhUwNJoQoCTlpYA4UxFdngy1at_XC7SBPVrsejsvxe71LscuzVKe5Qn0jLR6Ghg4pOecg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/qPuoC3vzLO5yeV7AQd-nViJzXRrAo8oKsmU-3ZF-BjzMPfosbvwSr89CyJrmdy6npLUj1H74GQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -81,15 +81,21 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "wpY5larrc2o",
-                        "image": "https://i.ytimg.com/vi/wpY5larrc2o/mqdefault.jpg",
-                        "title": "@念慈@ 台灣食野真係咁平嗎？！ 【香港Vtuber】",
+                        "video_code": "ab6-ao5K7cU",
+                        "image": "https://i.ytimg.com/vi/ab6-ao5K7cU/mqdefault.jpg",
+                        "title": "台灣便利店是如何征服在台香港人？！香港Vtuber念慈",
                         "author": "念慈【香港 Vtuber @台灣】"
                     },
                     {
                         "video_code": "KJF4NVfjhCc",
                         "image": "https://i.ytimg.com/vi/KJF4NVfjhCc/mqdefault.jpg",
                         "title": "@念慈@ Vtuber問答 自我介紹 【香港Vtuber]",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    },
+                    {
+                        "video_code": "wpY5larrc2o",
+                        "image": "https://i.ytimg.com/vi/wpY5larrc2o/mqdefault.jpg",
+                        "title": "@念慈@ 台灣食野真係咁平嗎？！ 【香港Vtuber】",
                         "author": "念慈【香港 Vtuber @台灣】"
                     },
                     {
@@ -102,6 +108,12 @@
                         "video_code": "4JLw8jxpLyM",
                         "image": "https://i.ytimg.com/vi/4JLw8jxpLyM/mqdefault.jpg",
                         "title": "@念慈@ 香港人感到震撼！台灣獨有的中秋節文化 【香港Vtuber】",
+                        "author": "念慈【香港 Vtuber @台灣】"
+                    },
+                    {
+                        "video_code": "QCDMv7hKKJk",
+                        "image": "https://i.ytimg.com/vi/QCDMv7hKKJk/mqdefault.jpg",
+                        "title": "我在台灣租樓被迫遷！！！ 【香港Vtuber】",
                         "author": "念慈【香港 Vtuber @台灣】"
                     },
                     {

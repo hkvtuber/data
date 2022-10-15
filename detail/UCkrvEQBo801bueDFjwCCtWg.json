@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FZ3Az47UsAAzQnD?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZ3Az47UsAAzQnD?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -112,6 +124,12 @@
                         "image": "https://i.ytimg.com/vi/75G5TjnRE0A/mqdefault.jpg",
                         "title": "【廢片】喵！！！【HKVtuber/綾野凜 - Ayano Rin】",
                         "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
+                        "video_code": "7fX-92NO4DA",
+                        "image": "https://i.ytimg.com/vi/7fX-92NO4DA/mqdefault.jpg",
+                        "title": "【陰陽師】花痴凜又來了~上次7百幾抽都抽不到SP八岐大蛇，過了一個月終於儲夠碎片可以合成了！(內含花痴聲，請謹慎收看)【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
                     }
                 ]
             }
@@ -152,6 +170,12 @@
                         "author": "綾野凜-Ayano Rin【HKVtuber】"
                     },
                     {
+                        "video_code": "hbxla1WT93A",
+                        "image": "https://i.ytimg.com/vi/hbxla1WT93A/mqdefault.jpg",
+                        "title": "【半週年重大告知&凸待】今天是半週年啊~初次凸待，不知道會有多少人來呢w可以了解一下大家眼中的凜喵是怎樣的，有人說凜喵有可能第一次遲到？【HKVtuber/綾野凜 - Ayano Rin】",
+                        "author": "綾野凜-Ayano Rin【HKVtuber】"
+                    },
+                    {
                         "video_code": "kamwnZZRwn8",
                         "image": "https://i.ytimg.com/vi/kamwnZZRwn8/mqdefault.jpg",
                         "title": "【畫畫台】第一次在大家面前畫畫w凜喵對電繪了解不多﹐請見諒【HKVtuber/綾野凜 - Ayano Rin】",
@@ -173,12 +197,6 @@
                         "video_code": "n9T1MgPJjGM",
                         "image": "https://i.ytimg.com/vi/n9T1MgPJjGM/mqdefault.jpg",
                         "title": "【I wanna系列】小品遊戲&雜談 | 聽講好易會玩到發脾氣【HKVtuber/綾野凜 - Ayano Rin】",
-                        "author": "綾野凜-Ayano Rin【HKVtuber】"
-                    },
-                    {
-                        "video_code": "bv-8fLinUBA",
-                        "image": "https://i.ytimg.com/vi/bv-8fLinUBA/mqdefault.jpg",
-                        "title": "【INSIDE】相信應該唔會一次爆到機嘅，上次個個都唔恐怖，咁我相信今次都唔會驚嘅w #1【HKVtuber/綾野凜 - Ayano Rin】",
                         "author": "綾野凜-Ayano Rin【HKVtuber】"
                     }
                 ]

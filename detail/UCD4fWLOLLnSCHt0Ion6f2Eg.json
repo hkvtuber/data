@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FPDiRJaVsAAqMfo?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FPDiRJaVsAAqMfo?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -115,6 +103,12 @@
                         "author": "柊 瑛二 【香港Vtuber】"
                     },
                     {
+                        "video_code": "6Uae_-tImGw",
+                        "image": "https://i.ytimg.com/vi/6Uae_-tImGw/mqdefault.jpg",
+                        "title": "【Apex Legends】 S12大師軌跡 montage #6【柊瑛二】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
                         "video_code": "iADGKXMmJKY",
                         "image": "https://i.ytimg.com/vi/iADGKXMmJKY/mqdefault.jpg",
                         "title": "【Apex Legends】0 or 100 的男人  FT.8rice,津雲あられ【HKVtuber】",
@@ -133,6 +127,12 @@
                         "author": "柊 瑛二 【香港Vtuber】"
                     },
                     {
+                        "video_code": "UFSZUeBfGzw",
+                        "image": "https://i.ytimg.com/vi/UFSZUeBfGzw/mqdefault.jpg",
+                        "title": "【Apex Legends】 S12大師軌跡 montage #5【柊瑛二】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
                         "video_code": "op6bijjnaQk",
                         "image": "https://i.ytimg.com/vi/op6bijjnaQk/mqdefault.jpg",
                         "title": "【Apex Legends】 S12大師軌跡 montage #3【柊瑛二】",
@@ -145,21 +145,9 @@
                         "author": "柊 瑛二 【香港Vtuber】"
                     },
                     {
-                        "video_code": "noj8JZk051w",
-                        "image": "https://i.ytimg.com/vi/noj8JZk051w/mqdefault.jpg",
-                        "title": "【Apex Legends】APEX KILL Highlight #1【柊瑛二】",
-                        "author": "柊 瑛二 【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "evpMylU5C5o",
-                        "image": "https://i.ytimg.com/vi/evpMylU5C5o/mqdefault.jpg",
-                        "title": "【Apex Legends】APEX montage 個人精華 #2 【柊瑛二】",
-                        "author": "柊 瑛二 【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "GeFOgnYwZpE",
-                        "image": "https://i.ytimg.com/vi/GeFOgnYwZpE/mqdefault.jpg",
-                        "title": "[Apex Legends]　S7ダイヤに上がるの試合【柊瑛二】　[中/日字幕]",
+                        "video_code": "3Mgs4yxpPjw",
+                        "image": "https://i.ytimg.com/vi/3Mgs4yxpPjw/mqdefault.jpg",
+                        "title": "【Apex Legends】 S12大師軌跡 montage #4【柊瑛二】",
                         "author": "柊 瑛二 【香港Vtuber】"
                     }
                 ]
@@ -213,21 +201,21 @@
                         "author": "柊 瑛二 【香港Vtuber】"
                     },
                     {
+                        "video_code": "kKX5XaePV5U",
+                        "image": "https://i.ytimg.com/vi/kKX5XaePV5U/mqdefault.jpg",
+                        "title": "【APEX】單人由0開始上鑽石(金牌篇part 2) #102【柊瑛二】【粵語/日語/中文】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "m2jR_LrNze0",
+                        "image": "https://i.ytimg.com/vi/m2jR_LrNze0/mqdefault.jpg",
+                        "title": "【APEX】單人由0開始上鑽石(鉑金牌篇) #103【柊瑛二】【粵語/日語/中文】",
+                        "author": "柊 瑛二 【香港Vtuber】"
+                    },
+                    {
                         "video_code": "LIk5nBxohSM",
                         "image": "https://i.ytimg.com/vi/LIk5nBxohSM/mqdefault.jpg",
                         "title": "【マキオン】強くなりたい／好想變強【柊瑛二】【粵/日】",
-                        "author": "柊 瑛二 【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "vCm7pJ7Zylk",
-                        "image": "https://i.ytimg.com/vi/vCm7pJ7Zylk/mqdefault.jpg",
-                        "title": "【マキオン】輕鬆玩～軽くてやる～【柊瑛二/櫻庭良】【粵/日】",
-                        "author": "柊 瑛二 【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "1YLYKiJMa1g",
-                        "image": "https://i.ytimg.com/vi/1YLYKiJMa1g/mqdefault.jpg",
-                        "title": "【マキオン】第一次同V以外的人玩,一黎就打架ww【柊瑛二/櫻庭良/由可/庭爺】【粵/日】",
                         "author": "柊 瑛二 【香港Vtuber】"
                     }
                 ]

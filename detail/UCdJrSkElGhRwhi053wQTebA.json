@@ -12,12 +12,12 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FZJ19o3VQAEDluW?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FZJ19o3VQAEDluW?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FbZ7H74acAEVNsB?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbZ7H74acAEVNsB?format=jpg&name=medium"
                     },
                     {
-                        "image": "https://pbs.twimg.com/media/FZJ199NVsAELB5L?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FZJ199NVsAELB5L?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FbZ7H70aMAA5V2k?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbZ7H70aMAA5V2k?format=jpg&name=medium"
                     }
                 ]
             }
@@ -171,6 +171,12 @@
                         "video_code": "rO4xC-0Oq-w",
                         "image": "https://i.ytimg.com/vi/rO4xC-0Oq-w/mqdefault.jpg",
                         "title": "遲來的PADORU PADORU~~  パドるパドる ／ 葵鼠太郎",
+                        "author": "Aonezu Ch. 葵鼠たろう"
+                    },
+                    {
+                        "video_code": "gn_tfgTdnHw",
+                        "image": "https://i.ytimg.com/vi/gn_tfgTdnHw/mqdefault.jpg",
+                        "title": "【精華】慘被觀眾欺凌的Vtuber！【葵鼠太郎】",
                         "author": "Aonezu Ch. 葵鼠たろう"
                     }
                 ]

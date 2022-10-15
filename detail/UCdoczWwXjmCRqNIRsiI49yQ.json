@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FYvPY70VQAAkSLk?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FYvPY70VQAAkSLk?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -99,15 +87,15 @@
                         "author": "☭ 青爐 ☭"
                     },
                     {
-                        "video_code": "pJOnSDDejn8",
-                        "image": "https://i.ytimg.com/vi/pJOnSDDejn8/mqdefault.jpg",
-                        "title": "【爐火純傾】EP. 2【19/6/2022】",
-                        "author": "☭ 青爐 ☭"
-                    },
-                    {
                         "video_code": "LT38ijgvoUk",
                         "image": "https://i.ytimg.com/vi/LT38ijgvoUk/mqdefault.jpg",
                         "title": "【青爐大唱K日】神社線下聯動",
+                        "author": "☭ 青爐 ☭"
+                    },
+                    {
+                        "video_code": "pJOnSDDejn8",
+                        "image": "https://i.ytimg.com/vi/pJOnSDDejn8/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 2【19/6/2022】",
                         "author": "☭ 青爐 ☭"
                     },
                     {
@@ -129,9 +117,9 @@
                         "author": "☭ 青爐 ☭"
                     },
                     {
-                        "video_code": "p7SLCj7SFHY",
-                        "image": "https://i.ytimg.com/vi/p7SLCj7SFHY/mqdefault.jpg",
-                        "title": "【青爐TRPG】EP 1 完全隨興跑【16/03/2022】",
+                        "video_code": "uEWX8gE4JUA",
+                        "image": "https://i.ytimg.com/vi/uEWX8gE4JUA/mqdefault.jpg",
+                        "title": "【爐火純傾】EP. 7【14/8/2022】",
                         "author": "☭ 青爐 ☭"
                     },
                     {

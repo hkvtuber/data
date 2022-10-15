@@ -148,26 +148,6 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦重播",
-                "video_list": [
-                    {
-                        "video_code": "daWnB3ZQ11M",
-                        "image": "https://i.ytimg.com/vi/daWnB3ZQ11M/mqdefault.jpg",
-                        "title": "【CANT】來設計一些和幾位Vtuber閣下們形象相反的服飾。 (#1)",
-                        "author": "縫針 茜 | Akane Nuibari 【HKVtuber】"
-                    },
-                    {
-                        "video_code": "WVNcFPtw1og",
-                        "image": "https://i.ytimg.com/vi/WVNcFPtw1og/mqdefault.jpg",
-                        "title": "遊びましょう？",
-                        "author": "縫針 茜 | Akane Nuibari 【HKVtuber】"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "title_youtube",
-            "data": {
                 "title": "烤肉/精華",
                 "video_list": [
                     {

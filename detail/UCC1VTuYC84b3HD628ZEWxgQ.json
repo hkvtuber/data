@@ -2,26 +2,10 @@
     "id": "UCC1VTuYC84b3HD628ZEWxgQ",
     "header": {
         "name": "TOTO鈴薯陽葵【香港vtuber】",
-        "image": "https://yt3.ggpht.com/Be9hjWH1CCgRDje_msQeTYQpN1L_EBGayBG9YdfoXW6EXNtkgJck-gu82j8pIG4kZGOqOS0ej-c=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/vcA_QK8w2cHZ992EXyPkuRK4JptnidiZb2ZiC44dXJeMa4_sudMDS4mmRcNhLwmKGrNaRDd8=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/-y24FyLfLUvBfhJxDrxDVjVO3IeN_FrSLotoydLgYHryntsdNhkGdMalXdl3uAn5PcA1EZJIIg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FK6j-KtaUAImI-E?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FK6j-KtaUAImI-E?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FK6j-KwakAQ5Ran?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FK6j-KwakAQ5Ran?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -126,6 +110,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "mrNqBACp110",
+                        "image": "https://i.ytimg.com/vi/mrNqBACp110/mqdefault.jpg",
+                        "title": "【香港VTuber廣告】🌻《TOTO重大預告》3.0黑影🌻",
+                        "author": "TOTO鈴薯陽葵【香港vtuber】"
+                    },
+                    {
                         "video_code": "QpynuZ96A_s",
                         "image": "https://i.ytimg.com/vi/QpynuZ96A_s/mqdefault.jpg",
                         "title": "【香港VTuber】🥔TOTO、VTuber出道，0成本Vtuber！！！【自我介紹】",
@@ -177,12 +167,6 @@
                         "video_code": "in5wGypOpAc",
                         "image": "https://i.ytimg.com/vi/in5wGypOpAc/mqdefault.jpg",
                         "title": "【香港Vtuber】直播剪輯，直播事故！！🥔震驚！Vtuber直播屌觀眾？！到底是道德淪喪還是人性扭曲？！他又不是我的粉絲，我幹嘛要給他面子？",
-                        "author": "TOTO鈴薯陽葵【香港vtuber】"
-                    },
-                    {
-                        "video_code": "u4rn_NEuy0I",
-                        "image": "https://i.ytimg.com/vi/u4rn_NEuy0I/mqdefault.jpg",
-                        "title": "Minecraft 小品地圖《我要買漫畫！！》🥔爸爸你的A書到底藏在哪裡！人家那麼可愛當然是個男孩子啊！原來哥哥的地位那麼高！",
                         "author": "TOTO鈴薯陽葵【香港vtuber】"
                     }
                 ]

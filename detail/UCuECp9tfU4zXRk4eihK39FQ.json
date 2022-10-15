@@ -88,16 +88,42 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
-                        "video_code": "QjVjZjgl4Aw",
-                        "image": "https://i.ytimg.com/vi/QjVjZjgl4Aw/mqdefault.jpg",
-                        "title": "初次見面...來宣傳的 ! 預計八月中下出道 #shorts",
-                        "author": "松(預計八月中下出道)"
+                        "video_code": "yE4Iy_U2T9k",
+                        "image": "https://i.ytimg.com/vi/yE4Iy_U2T9k/mqdefault.jpg",
+                        "title": "失敗勇者的自我介紹?",
+                        "author": "松 Ch_新人"
                     },
                     {
-                        "video_code": "x_lZolWXROo",
-                        "image": "https://i.ytimg.com/vi/x_lZolWXROo/mqdefault.jpg",
-                        "title": "去看牙醫",
-                        "author": "松(預計八月中下出道)"
+                        "video_code": "ODRsifEZxPE",
+                        "image": "https://i.ytimg.com/vi/ODRsifEZxPE/mqdefault.jpg",
+                        "title": "(漫畫系列01)松的漂流生活起源!!!",
+                        "author": "松 Ch_新人"
+                    },
+                    {
+                        "video_code": "11G4kdN2g7E",
+                        "image": "https://i.ytimg.com/vi/11G4kdN2g7E/mqdefault.jpg",
+                        "title": "部分現代觀眾與部分V的近況節錄",
+                        "author": "松 Ch_新人"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "BsLaBZ2Ln-M",
+                        "image": "https://i.ytimg.com/vi/BsLaBZ2Ln-M/mqdefault.jpg",
+                        "title": "免費的初配信 !立刻點擊獲得尊貴歡迎套餐(•ө•)♡",
+                        "author": "松 Ch_新人"
+                    },
+                    {
+                        "video_code": "7xkXR7KBWCE",
+                        "image": "https://i.ytimg.com/vi/7xkXR7KBWCE/mqdefault.jpg",
+                        "title": "\"",
+                        "author": "松 Ch_新人"
                     }
                 ]
             }

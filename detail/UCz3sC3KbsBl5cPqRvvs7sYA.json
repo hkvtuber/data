@@ -1,0 +1,107 @@
+{
+    "id": "UCz3sC3KbsBl5cPqRvvs7sYA",
+    "header": {
+        "name": "竜神ハヤト 🐉 【HK /EN Vtuber】",
+        "image": "https://yt3.ggpht.com/SL5UUG0MSFEBiXqqbuYq0iBCVN3gKtN1mhOX9F_bIZaFIdS5M8uqNo5OCAa8xynXb5iv76UTmw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/b8vLCCT5Z0N4iJL1f4VxqZ3ZIo_CAmXfT1Ppp9KKyygMI-80ynme1bM6cSC325bi1oBeCW3juQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "竜神 翔人\n竜神ハヤト",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "9月4日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#HayatoOnAir",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#Hayatomusic​",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#AyatoNotHayato​",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#TatsukamiH​",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#竜裔\n#DragoonBorn​",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#AyatoNotHayato​",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UCz3sC3KbsBl5cPqRvvs7sYA"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "TatsukamiHayato"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/tatsukamihayato/"
+                    },
+                    {
+                        "key": "twitch",
+                        "path": "https://www.twitch.tv/tatsukamihayato"
+                    }
+                ]
+            }
+        }
+    ]
+}

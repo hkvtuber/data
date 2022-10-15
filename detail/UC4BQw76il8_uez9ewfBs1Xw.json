@@ -1,0 +1,100 @@
+{
+    "id": "UC4BQw76il8_uez9ewfBs1Xw",
+    "header": {
+        "name": "Seica Tsukino 月野星歌🐰🔸",
+        "image": "https://yt3.ggpht.com/MDDw8m0OkLKYjA6dCxN-TEIUjU4bvaEXCrpi2jTev0p5munW3HvxQZUUWDJCfwizLjZ65_t43w=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/X2KXZ8RAgQZfTOCsDWBX714rU8B9hcx67D7O5WA-ashKjkkBxc2HGipwDM5KTvpafMlzMkMJiF4=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FbaenYBacAYldDq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbaenYBacAYldDq?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/FbaepGmaUA4ojZt?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbaepGmaUA4ojZt?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "月野星歌\nSeica Tsukino",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "6月10日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "168cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n日文\n英文",
+                        "heightRate": "2.00"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#seicalive",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#seicart",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC4BQw76il8_uez9ewfBs1Xw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "seica_tsukino"
+                    }
+                ]
+            }
+        }
+    ]
+}

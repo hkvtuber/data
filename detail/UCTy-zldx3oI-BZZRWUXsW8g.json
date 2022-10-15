@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FNGyJ2UaIAEe05I?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FNGyJ2UaIAEe05I?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FernaaiaMAEwy-A?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FernaaiaMAEwy-A?format=jpg&name=medium"
                     }
                 ]
             }
@@ -159,9 +159,9 @@
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
-                        "video_code": "g3yvt8S42c4",
-                        "image": "https://i.ytimg.com/vi/g3yvt8S42c4/mqdefault.jpg",
-                        "title": "[hkvtuber/路斯吱] 麻雀一番街 - 繼續練習",
+                        "video_code": "ofJpt8x7FWQ",
+                        "image": "https://i.ytimg.com/vi/ofJpt8x7FWQ/mqdefault.jpg",
+                        "title": "[Hkvtuber/路斯吱] 眼紅紅 - 練習唱",
                         "author": "路斯吱 - HKVtuber"
                     }
                 ]
@@ -172,6 +172,12 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "SnZf8ZRV0QE",
+                        "image": "https://i.ytimg.com/vi/SnZf8ZRV0QE/mqdefault.jpg",
+                        "title": "[When Zi Talk] 刀劍神域 Prrogressive介紹及感想 (電影+漫畫版)",
+                        "author": "路斯吱 - HKVtuber"
+                    },
                     {
                         "video_code": "pE7qsVoPZGw",
                         "image": "https://i.ytimg.com/vi/pE7qsVoPZGw/mqdefault.jpg",
@@ -185,9 +191,9 @@
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
-                        "video_code": "9QCfjJDtxA0",
-                        "image": "https://i.ytimg.com/vi/9QCfjJDtxA0/mqdefault.jpg",
-                        "title": "[Hkvtuber]俄羅斯方塊-新手對決II",
+                        "video_code": "aW2Hxzb7NCA",
+                        "image": "https://i.ytimg.com/vi/aW2Hxzb7NCA/mqdefault.jpg",
+                        "title": "[hkvtuber] 再續孽緣之戰 w/早安, 羽鳥楓鈴",
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
@@ -197,15 +203,9 @@
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
-                        "video_code": "izxkISp_H38",
-                        "image": "https://i.ytimg.com/vi/izxkISp_H38/mqdefault.jpg",
-                        "title": "[HKvtuber/補祝生日] 路斯吱222歲 (倉鼠年)",
-                        "author": "路斯吱 - HKVtuber"
-                    },
-                    {
-                        "video_code": "ysB4RZ4tpIs",
-                        "image": "https://i.ytimg.com/vi/ysB4RZ4tpIs/mqdefault.jpg",
-                        "title": "[HKvtuber] 趁家中沒人- 再次突發歌回",
+                        "video_code": "9QCfjJDtxA0",
+                        "image": "https://i.ytimg.com/vi/9QCfjJDtxA0/mqdefault.jpg",
+                        "title": "[Hkvtuber]俄羅斯方塊-新手對決II",
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
@@ -215,21 +215,21 @@
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
-                        "video_code": "eiTCNwFimkM",
-                        "image": "https://i.ytimg.com/vi/eiTCNwFimkM/mqdefault.jpg",
-                        "title": "[HKvtuber] 約好的繼續歌回",
+                        "video_code": "izxkISp_H38",
+                        "image": "https://i.ytimg.com/vi/izxkISp_H38/mqdefault.jpg",
+                        "title": "[HKvtuber/補祝生日] 路斯吱222歲 (倉鼠年)",
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
-                        "video_code": "-vgpUN4-WDY",
-                        "image": "https://i.ytimg.com/vi/-vgpUN4-WDY/mqdefault.jpg",
-                        "title": "[HKvtuber] 遲來的 - 香港地理達人挑戰 -",
+                        "video_code": "MBYEACnaRIo",
+                        "image": "https://i.ytimg.com/vi/MBYEACnaRIo/mqdefault.jpg",
+                        "title": "[HKvtuber/路斯吱] 一言驚醒洛克人X1",
                         "author": "路斯吱 - HKVtuber"
                     },
                     {
-                        "video_code": "xLE2wNsNOSE",
-                        "image": "https://i.ytimg.com/vi/xLE2wNsNOSE/mqdefault.jpg",
-                        "title": "[HKvtuber/歌回] 與路斯吱唱唱歌",
+                        "video_code": "ysB4RZ4tpIs",
+                        "image": "https://i.ytimg.com/vi/ysB4RZ4tpIs/mqdefault.jpg",
+                        "title": "[HKvtuber] 趁家中沒人- 再次突發歌回",
                         "author": "路斯吱 - HKVtuber"
                     }
                 ]

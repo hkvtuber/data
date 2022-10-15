@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FH-68oxXMAEANvn?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FH-68oxXMAEANvn?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -118,6 +130,12 @@
                         "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
                     },
                     {
+                        "video_code": "WWJSla4taTQ",
+                        "image": "https://i.ytimg.com/vi/WWJSla4taTQ/mqdefault.jpg",
+                        "title": "【VTuber】英國和香港生活比較",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    },
+                    {
                         "video_code": "4xuP02yVOgg",
                         "image": "https://i.ytimg.com/vi/4xuP02yVOgg/mqdefault.jpg",
                         "title": "【VTuber】雪櫃大大帶我打大大隻嘅怪怪",
@@ -130,15 +148,15 @@
                         "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
                     },
                     {
-                        "video_code": "EfH99K5aW-0",
-                        "image": "https://i.ytimg.com/vi/EfH99K5aW-0/mqdefault.jpg",
-                        "title": "【HKVTuber】3P馬里奧派對 ft. NgReimond & Misuko",
-                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
-                    },
-                    {
                         "video_code": "KfEzT7mxfqw",
                         "image": "https://i.ytimg.com/vi/KfEzT7mxfqw/mqdefault.jpg",
                         "title": "【VTuber】香港與英國對待LGBT的看法及分析+個人感想",
+                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
+                    },
+                    {
+                        "video_code": "EfH99K5aW-0",
+                        "image": "https://i.ytimg.com/vi/EfH99K5aW-0/mqdefault.jpg",
+                        "title": "【HKVTuber】3P馬里奧派對 ft. NgReimond & Misuko",
                         "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
                     },
                     {
@@ -148,15 +166,9 @@
                         "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
                     },
                     {
-                        "video_code": "MxNy-5uBLBI",
-                        "image": "https://i.ytimg.com/vi/MxNy-5uBLBI/mqdefault.jpg",
-                        "title": "【VTuber】歐洲短途旅行雜談！ 巴黎篇",
-                        "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
-                    },
-                    {
-                        "video_code": "3sn4fIOVLZs",
-                        "image": "https://i.ytimg.com/vi/3sn4fIOVLZs/mqdefault.jpg",
-                        "title": "【VTuber】時空列車前往： 約克",
+                        "video_code": "CG1Q9FEjkq4",
+                        "image": "https://i.ytimg.com/vi/CG1Q9FEjkq4/mqdefault.jpg",
+                        "title": "【VTuber】Reimond and Arata 英加歐之旅",
                         "author": "Arata Clocksworth 鐘錶師兼時間旅行者 VTuber"
                     }
                 ]

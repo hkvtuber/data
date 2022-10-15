@@ -70,9 +70,21 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "vSjlha6gyFo",
+                        "image": "https://i.ytimg.com/vi/vSjlha6gyFo/mqdefault.jpg",
+                        "title": "【Silt】潛水員生吞恐怖巨獸👾黑色懸疑氛圍嚇到尖叫😱😱😱 潛入深海冒險🌊弱肉強食的世界‼️",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
                         "video_code": "_hEL972PqeY",
                         "image": "https://i.ytimg.com/vi/_hEL972PqeY/mqdefault.jpg",
                         "title": "【Minecraft地圖】老虎逃獄｜尋找鑰匙逃出密室｜小品監獄逃脫地圖",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "sTgpCCRPv3k",
+                        "image": "https://i.ytimg.com/vi/sTgpCCRPv3k/mqdefault.jpg",
+                        "title": "【Minecraft地圖】粉紅色坑爹地圖｜通關方法太無厘頭啦｜粉色的世界怎麼會被坑呢｜",
                         "author": "琥橞里 KoEri【香港vtuber】"
                     },
                     {
@@ -82,9 +94,9 @@
                         "author": "琥橞里 KoEri【香港vtuber】"
                     },
                     {
-                        "video_code": "sTgpCCRPv3k",
-                        "image": "https://i.ytimg.com/vi/sTgpCCRPv3k/mqdefault.jpg",
-                        "title": "【Minecraft地圖】粉紅色坑爹地圖｜通關方法太無厘頭啦｜粉色的世界怎麼會被坑呢｜",
+                        "video_code": "1Qz81cULL0I",
+                        "image": "https://i.ytimg.com/vi/1Qz81cULL0I/mqdefault.jpg",
+                        "title": "【閱讀空氣】不會看眼色的人挑戰閱讀空氣😵‍💫｜直播中途假髮掉了怎麼辦⁉️｜讀空氣成績竟然是差強人意😱 EP 1",
                         "author": "琥橞里 KoEri【香港vtuber】"
                     },
                     {
@@ -112,15 +124,9 @@
                         "author": "琥橞里 KoEri【香港vtuber】"
                     },
                     {
-                        "video_code": "qX5LeAYq1Cw",
-                        "image": "https://i.ytimg.com/vi/qX5LeAYq1Cw/mqdefault.jpg",
-                        "title": "【小廢片】呆呆老虎的正常發揮｜KoEri",
-                        "author": "琥橞里 KoEri【香港vtuber】"
-                    },
-                    {
-                        "video_code": "y0GEujfc1Ng",
-                        "image": "https://i.ytimg.com/vi/y0GEujfc1Ng/mqdefault.jpg",
-                        "title": "【1分鐘精華】比起逃獄，更想招募獄友的老虎｜因為手不夠長逐漸暴躁😖｜Minecraft地圖｜小品監獄逃脫地圖",
+                        "video_code": "sDEe37AUG-A",
+                        "image": "https://i.ytimg.com/vi/sDEe37AUG-A/mqdefault.jpg",
+                        "title": "【雙點校園】招聘了最搞笑的老師🤣🤣別亂喝藥劑呀🧪特點是虛弱膀胱💦 中文字幕",
                         "author": "琥橞里 KoEri【香港vtuber】"
                     }
                 ]
@@ -147,6 +153,48 @@
                         "video_code": "S75H-PmJtSg",
                         "image": "https://i.ytimg.com/vi/S75H-PmJtSg/mqdefault.jpg",
                         "title": "【PoppyPlaytime】夜闖廢棄玩具工廠🧸毛茸茸玩偶都動起來😱超刺激💥管道追逐戰",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "nsZ_XAnoNss",
+                        "image": "https://i.ytimg.com/vi/nsZ_XAnoNss/mqdefault.jpg",
+                        "title": "【浪貓Stray EP2】獲得小伙伴B/12🤖✅到達機械遺城🏬🌃 一起冒險吧🐾",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "NtJlxCfFS2E",
+                        "image": "https://i.ytimg.com/vi/NtJlxCfFS2E/mqdefault.jpg",
+                        "title": "【浪貓Stray EP6】菌克原來不是老鼠🐁🤮穿越「死路」追逐戰😱😱",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "LSgmOKPvzuY",
+                        "image": "https://i.ytimg.com/vi/LSgmOKPvzuY/mqdefault.jpg",
+                        "title": "【浪貓Stray EP4】攻上菌克快樂塔🤮破解秘密實驗室🧪看到了中城",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "vrQfBb7jQgw",
+                        "image": "https://i.ytimg.com/vi/vrQfBb7jQgw/mqdefault.jpg",
+                        "title": "【浪貓Stray EP1】萌貓勇闖機械地下城🐱🤖化身貓貓周圍搗亂🐾模型超逼真🐈",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "4aLixbS1X9E",
+                        "image": "https://i.ytimg.com/vi/4aLixbS1X9E/mqdefault.jpg",
+                        "title": "【浪貓Stray EP3】菌克由人類製造🆘😱細菌突變🦠挑戰貓貓勇者塔🛕惡戰喪屍老鼠",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "s2hArfd6bqo",
+                        "image": "https://i.ytimg.com/vi/s2hArfd6bqo/mqdefault.jpg",
+                        "title": "【浪貓Stray EP7】太多菌克蛋啦🥚🥚🥚到底是誰想出菌克蛋🤨",
+                        "author": "琥橞里 KoEri【香港vtuber】"
+                    },
+                    {
+                        "video_code": "1rt6Rn_js_I",
+                        "image": "https://i.ytimg.com/vi/1rt6Rn_js_I/mqdefault.jpg",
+                        "title": "【浪貓Stray EP10】被反骨二五仔背叛😱😱鬧市飆車逃亡🏃clementine犧牲👻怪錯佢㖭😥",
                         "author": "琥橞里 KoEri【香港vtuber】"
                     }
                 ]

@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/EzlX6xgVIAMkZ4F?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/EzlX6xgVIAMkZ4F?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -158,15 +146,15 @@
                         "author": "淡月楓 Maple Ch."
                     },
                     {
-                        "video_code": "8yAB2mvvwro",
-                        "image": "https://i.ytimg.com/vi/8yAB2mvvwro/mqdefault.jpg",
-                        "title": "【突發】半小時被爆門就關台【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓 Maple Ch."
-                    },
-                    {
                         "video_code": "TpK5iBsZB2g",
                         "image": "https://i.ytimg.com/vi/TpK5iBsZB2g/mqdefault.jpg",
                         "title": "Blue Monday 【淡月楓】【香港Vtuber】",
+                        "author": "淡月楓 Maple Ch."
+                    },
+                    {
+                        "video_code": "8yAB2mvvwro",
+                        "image": "https://i.ytimg.com/vi/8yAB2mvvwro/mqdefault.jpg",
+                        "title": "【突發】半小時被爆門就關台【淡月楓】【香港Vtuber】",
                         "author": "淡月楓 Maple Ch."
                     },
                     {
@@ -188,15 +176,15 @@
                         "author": "淡月楓 Maple Ch."
                     },
                     {
-                        "video_code": "_qqgwiR0D2w",
-                        "image": "https://i.ytimg.com/vi/_qqgwiR0D2w/mqdefault.jpg",
-                        "title": "回歸地球【淡月楓】【香港Vtuber】",
-                        "author": "淡月楓 Maple Ch."
-                    },
-                    {
                         "video_code": "1__RTlmjXoE",
                         "image": "https://i.ytimg.com/vi/1__RTlmjXoE/mqdefault.jpg",
                         "title": "【突發】我只懂唱歌【淡月楓】【香港Vtuber】",
+                        "author": "淡月楓 Maple Ch."
+                    },
+                    {
+                        "video_code": "_qqgwiR0D2w",
+                        "image": "https://i.ytimg.com/vi/_qqgwiR0D2w/mqdefault.jpg",
+                        "title": "回歸地球【淡月楓】【香港Vtuber】",
                         "author": "淡月楓 Maple Ch."
                     }
                 ]

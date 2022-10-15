@@ -2,10 +2,22 @@
     "id": "UC0pgs3MAgad2b7m_WtB6lTw",
     "header": {
         "name": "NeroroHub 触愛ネロロ【HK 觸手系新人VTuber】",
-        "image": "https://yt3.ggpht.com/vLd8wIyU-uJf_aTeWQsIlk-V9_KAzTn8xGI5H568_98xneWMExiSEpgVjFR8SYDotZcW-3Ni1Q=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/geaNisOi1H1hnfftsm2d3ybM6C9VhLc0adHmQzuVQHQi3TVXGUEmfUe78dK0-FC9tyrXiLSBpNk=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/bkmEqCZMZIWQ0Ykb0L0rOqwsvqxU07Z1gQrWHNBneeF8jfFLDqLoqtTn2gvC62r9WJnwrBRi=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fe3bngsVsAAAptJ?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fe3bngsVsAAAptJ?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -81,15 +93,15 @@
                         "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
                     },
                     {
-                        "video_code": "bnUafJiX8ks",
-                        "image": "https://i.ytimg.com/vi/bnUafJiX8ks/mqdefault.jpg",
-                        "title": "【原創曲試聽】藍のマスカレイド【HK VTuber / NeroroHub】",
-                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
-                    },
-                    {
                         "video_code": "wbJ9W05neTM",
                         "image": "https://i.ytimg.com/vi/wbJ9W05neTM/mqdefault.jpg",
                         "title": "🍖港V曾經直播時露胸？！【HK VTuber / NeroroHub】#妮蘿蘿章魚燒",
+                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
+                    },
+                    {
+                        "video_code": "bnUafJiX8ks",
+                        "image": "https://i.ytimg.com/vi/bnUafJiX8ks/mqdefault.jpg",
+                        "title": "【原創曲試聽】藍のマスカレイド【HK VTuber / NeroroHub】",
                         "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
                     },
                     {
@@ -149,6 +161,18 @@
                         "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
                     },
                     {
+                        "video_code": "XxvTnwsWdAc",
+                        "image": "https://i.ytimg.com/vi/XxvTnwsWdAc/mqdefault.jpg",
+                        "title": "【砌野】哥哥話比積木我砌 GUNDAM LERITH【HK VTuber / NeroroHub】",
+                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
+                    },
+                    {
+                        "video_code": "XtLQfkWJy5g",
+                        "image": "https://i.ytimg.com/vi/XtLQfkWJy5g/mqdefault.jpg",
+                        "title": "【砌野耐久】RG神高達 GOD GUNDAM 起床食完飯開始【HK VTuber / NeroroHub】",
+                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
+                    },
+                    {
                         "video_code": "vUNlUolr1Ds",
                         "image": "https://i.ytimg.com/vi/vUNlUolr1Ds/mqdefault.jpg",
                         "title": "【💗ASMR】NNN？哥哥為什麼要堅持呢？ft.妮蘿莉【HK VTuber / NeroroHub】",
@@ -167,6 +191,12 @@
                         "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
                     },
                     {
+                        "video_code": "iwx8SPJB2Og",
+                        "image": "https://i.ytimg.com/vi/iwx8SPJB2Og/mqdefault.jpg",
+                        "title": "【睇書】香港Cosplay 「異色眼寫真月刊」 ft.衍生【HK VTuber / NeroroHub】",
+                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
+                    },
+                    {
                         "video_code": "TfhBRfBePKY",
                         "image": "https://i.ytimg.com/vi/TfhBRfBePKY/mqdefault.jpg",
                         "title": "【Pr】如何為你的推剪烤肉 (入門篇)【HK VTuber / NeroroHub】",
@@ -182,24 +212,6 @@
                         "video_code": "uh9MkitRa9o",
                         "image": "https://i.ytimg.com/vi/uh9MkitRa9o/mqdefault.jpg",
                         "title": "【🥃訪談】情趣商店中的大小事。與前情趣用品店員的Girls' Talk【HK VTuber / NeroroHub】",
-                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
-                    },
-                    {
-                        "video_code": "-hZw975x7o8",
-                        "image": "https://i.ytimg.com/vi/-hZw975x7o8/mqdefault.jpg",
-                        "title": "【HoloCure】上癮預定？免費遊戲萬歲【HK VTuber / NeroroHub】",
-                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
-                    },
-                    {
-                        "video_code": "zggMntMC9eY",
-                        "image": "https://i.ytimg.com/vi/zggMntMC9eY/mqdefault.jpg",
-                        "title": "【🥃ASMR】枕邊雜談，才不是那種色色的直播啦【HK VTuber / NeroroHub】",
-                        "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
-                    },
-                    {
-                        "video_code": "NO5p_Nxln50",
-                        "image": "https://i.ytimg.com/vi/NO5p_Nxln50/mqdefault.jpg",
-                        "title": "一周年！！！【HK VTuber / NeroroHub】",
                         "author": "NeroroHub 觸愛家族【HK 精分系VTuber】"
                     }
                 ]

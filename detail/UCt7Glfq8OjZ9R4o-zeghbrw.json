@@ -2,8 +2,8 @@
     "id": "UCt7Glfq8OjZ9R4o-zeghbrw",
     "header": {
         "name": "沢田ユウ Yuu.Sawada CH",
-        "image": "https://yt3.ggpht.com/is-R2PeWH-m6B4ookhQZX9aY48nmD-lrqktarKb5QhxG9gHofQQT9imtiUapK_XFdyH3JB4g=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/uGDRsNdhCRvf7LOazzjYrXWP0SDENdTiiCldM8ZQscQ_8-F-RhmWQiVRf_-NcFJ1IAMPbpthZw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/_DRiPKAXiS_-ks7rDMlSjg7ZQgRZLCS8gdtIX6yH4BNSorxSYruzn5jn3_lk9Uabz8Zk1a_e=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/8M1hdGqDlFpGe730P4Kr6Sw_7MyHmQIFwype2XvOATnp2OxCv1B8m6E-02gUWXir-W3wgy8NpaU=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FTNVFOAaMAA8_fd?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FTNVFOAaMAA8_fd?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FeTcX51acAYZRl4?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FeTcX51acAYZRl4?format=jpg&name=medium"
                     }
                 ]
             }
@@ -104,15 +104,15 @@
                         "author": "沢田ユウ Yuu.Sawada CH"
                     },
                     {
-                        "video_code": "2yRUPGTxk1Y",
-                        "image": "https://i.ytimg.com/vi/2yRUPGTxk1Y/mqdefault.jpg",
-                        "title": "淑女的換衣時間",
-                        "author": "沢田ユウ Yuu.Sawada CH"
-                    },
-                    {
                         "video_code": "6WSsTLxIKso",
                         "image": "https://i.ytimg.com/vi/6WSsTLxIKso/mqdefault.jpg",
                         "title": "(Mic Test)日文ASMR?劇本朗讀",
+                        "author": "沢田ユウ Yuu.Sawada CH"
+                    },
+                    {
+                        "video_code": "2yRUPGTxk1Y",
+                        "image": "https://i.ytimg.com/vi/2yRUPGTxk1Y/mqdefault.jpg",
+                        "title": "淑女的換衣時間",
                         "author": "沢田ユウ Yuu.Sawada CH"
                     },
                     {
@@ -131,6 +131,18 @@
                         "video_code": "RJuBcygNQIw",
                         "image": "https://i.ytimg.com/vi/RJuBcygNQIw/mqdefault.jpg",
                         "title": "ASMR觸發音訓練 ASMR Triggering Practice #2(*不說話*No talking)",
+                        "author": "沢田ユウ Yuu.Sawada CH"
+                    },
+                    {
+                        "video_code": "MqN0OupaJgc",
+                        "image": "https://i.ytimg.com/vi/MqN0OupaJgc/mqdefault.jpg",
+                        "title": "2.0預告",
+                        "author": "沢田ユウ Yuu.Sawada CH"
+                    },
+                    {
+                        "video_code": "aXlA7TiubxU",
+                        "image": "https://i.ytimg.com/vi/aXlA7TiubxU/mqdefault.jpg",
+                        "title": "yu!@#$%^&^%$#@#m#$%^& &^%$#@e",
                         "author": "沢田ユウ Yuu.Sawada CH"
                     }
                 ]

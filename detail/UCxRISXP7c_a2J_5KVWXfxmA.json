@@ -110,15 +110,15 @@
                         "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
                     },
                     {
-                        "video_code": "TDXP2ecE3HE",
-                        "image": "https://i.ytimg.com/vi/TDXP2ecE3HE/mqdefault.jpg",
-                        "title": "近期報告～～【HKVtuber】",
-                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
-                    },
-                    {
                         "video_code": "fvYJRq41J44",
                         "image": "https://i.ytimg.com/vi/fvYJRq41J44/mqdefault.jpg",
                         "title": "【夢魔ねむ】發燒38度嘅KING【香港VTuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "TDXP2ecE3HE",
+                        "image": "https://i.ytimg.com/vi/TDXP2ecE3HE/mqdefault.jpg",
+                        "title": "近期報告～～【HKVtuber】",
                         "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
                     }
                 ]
@@ -129,6 +129,18 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "KlOsA94vB6w",
+                        "image": "https://i.ytimg.com/vi/KlOsA94vB6w/mqdefault.jpg",
+                        "title": "【初配信】ダダダダダメ天使は、駄目ですか？【HKVtuber/夢魔ねむ】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
+                        "video_code": "8Vqe9eUirXk",
+                        "image": "https://i.ytimg.com/vi/8Vqe9eUirXk/mqdefault.jpg",
+                        "title": "【重大報告】近期的最後一次直播",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
                     {
                         "video_code": "7H8jEGNvOdw",
                         "image": "https://i.ytimg.com/vi/7H8jEGNvOdw/mqdefault.jpg",
@@ -142,9 +154,9 @@
                         "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
                     },
                     {
-                        "video_code": "PXbYSEV1c9M",
-                        "image": "https://i.ytimg.com/vi/PXbYSEV1c9M/mqdefault.jpg",
-                        "title": "一直重復的發燒&退燒～～【HKVtuber】",
+                        "video_code": "sWSIKKS-gko",
+                        "image": "https://i.ytimg.com/vi/sWSIKKS-gko/mqdefault.jpg",
+                        "title": "【雜談】37.8いいいい～～【HKVtuber】",
                         "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
                     },
                     {
@@ -160,6 +172,12 @@
                         "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
                     },
                     {
+                        "video_code": "PXbYSEV1c9M",
+                        "image": "https://i.ytimg.com/vi/PXbYSEV1c9M/mqdefault.jpg",
+                        "title": "一直重復的發燒&退燒～～【HKVtuber】",
+                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
+                    },
+                    {
                         "video_code": "Ad856VoPr-I",
                         "image": "https://i.ytimg.com/vi/Ad856VoPr-I/mqdefault.jpg",
                         "title": "早上好zzz～【HKVtuber】",
@@ -169,24 +187,6 @@
                         "video_code": "DBbELqZo4Ek",
                         "image": "https://i.ytimg.com/vi/DBbELqZo4Ek/mqdefault.jpg",
                         "title": "唔直播唔舒服～【HKVtuber】",
-                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
-                    },
-                    {
-                        "video_code": "-X4A9ijdVeU",
-                        "image": "https://i.ytimg.com/vi/-X4A9ijdVeU/mqdefault.jpg",
-                        "title": "getting over it～【HKVtuber】",
-                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
-                    },
-                    {
-                        "video_code": "q5DMWY4X6o4",
-                        "image": "https://i.ytimg.com/vi/q5DMWY4X6o4/mqdefault.jpg",
-                        "title": "我不餓我不餓～【HKVtuber】",
-                        "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
-                    },
-                    {
-                        "video_code": "wm5H7_ylAxw",
-                        "image": "https://i.ytimg.com/vi/wm5H7_ylAxw/mqdefault.jpg",
-                        "title": "【歌】寝る前に～【HKVtuber】",
                         "author": "Nemu Ch.夢魔ねむ【HKVtuber】"
                     }
                 ]

@@ -112,15 +112,21 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "2DnBXqBqLSE",
+                        "image": "https://i.ytimg.com/vi/2DnBXqBqLSE/mqdefault.jpg",
+                        "title": "【自我介紹】Vtuber一問一答自己紹介 【栗子Ritsu┃HKVTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
                         "video_code": "3f5nxr-BRnw",
                         "image": "https://i.ytimg.com/vi/3f5nxr-BRnw/mqdefault.jpg",
                         "title": "【試唱】一分の妄想稅【栗子Ritsu┃HKVTuber】",
                         "author": "栗子ritsu ch.【HKVtuber】"
                     },
                     {
-                        "video_code": "2DnBXqBqLSE",
-                        "image": "https://i.ytimg.com/vi/2DnBXqBqLSE/mqdefault.jpg",
-                        "title": "【自我介紹】Vtuber一問一答自己紹介 【栗子Ritsu/HKVtuber】",
+                        "video_code": "QgwX4PCd3Ls",
+                        "image": "https://i.ytimg.com/vi/QgwX4PCd3Ls/mqdefault.jpg",
+                        "title": "【精華】他真的很壞欸!!!【栗子Ritsu┃香港VTuber】",
                         "author": "栗子ritsu ch.【HKVtuber】"
                     }
                 ]
@@ -165,6 +171,30 @@
                         "video_code": "VflkGTIAEXs",
                         "image": "https://i.ytimg.com/vi/VflkGTIAEXs/mqdefault.jpg",
                         "title": "【CARTO】#1 另類拼圖解謎遊戲,栗子能成功嗎?【栗子Ritsu┃香港VTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "HduATsHP15o",
+                        "image": "https://i.ytimg.com/vi/HduATsHP15o/mqdefault.jpg",
+                        "title": "【LEFT 4 DEAD 2】【國語】(音量注意)首次連動! Ft.虎靈Necro,菓菓,貓崎レオ",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "vFba-Ke6DEs",
+                        "image": "https://i.ytimg.com/vi/vFba-Ke6DEs/mqdefault.jpg",
+                        "title": "【DST】養不好兩隻老虎的話栗子就要升天了 Ft.虎靈,琸雅",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "MierjPG3o1Q",
+                        "image": "https://i.ytimg.com/vi/MierjPG3o1Q/mqdefault.jpg",
+                        "title": "【DARKWOOD】#1 聽說會玩到抑鬱【栗子Ritsu┃HKVTuber】",
+                        "author": "栗子ritsu ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "K48yT7ZaU-o",
+                        "image": "https://i.ytimg.com/vi/K48yT7ZaU-o/mqdefault.jpg",
+                        "title": "【Hollow Knight】#2 今天要拿技能【栗子Ritsu┃香港VTuber】",
                         "author": "栗子ritsu ch.【HKVtuber】"
                     }
                 ]

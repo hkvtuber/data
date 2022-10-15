@@ -2,8 +2,8 @@
     "id": "UCKBIfQZG2a3Etrt2VFSqNXw",
     "header": {
         "name": "Natthi Ch. 黑圈納蒂【HKVtuber】",
-        "image": "https://yt3.ggpht.com/RRaMB7_yQ9E3Q4PSGbZUm6B7tPYb4U0z9yuZiExATbBQdTlGBIEEwuQybsIZzX1CIeiskm_Q=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/uMMi7raksExyFeyETPWIXWiT4F4wecXO2QcVXWMyRLiOxW3P6LU43Pl3l5KCFo5PdvYPEJbg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/j0zH_S6LGv55bxAWodKf1ZjShHBUKHzenf7aPHmepEUS8Cev652heSCIi9pMQ31Ku11k3mCI5Lw=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/76RkDDRjG19zgcFyL2fOup863BNdfISUy_DGJzAGbXR_cF3Qx7Do3L_8yee7HeFCjubK6bjy=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FUCC5d_acAAeHa6?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FUCC5d_acAAeHa6?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FZVm6ZVaIAATt5-?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZVm6ZVaIAATt5-?format=jpg&name=medium"
                     }
                 ]
             }
@@ -142,6 +142,12 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "AYdSyunWvd4",
+                        "image": "https://i.ytimg.com/vi/AYdSyunWvd4/mqdefault.jpg",
+                        "title": "【一周年2.0】【新初配信】2.0解放 ! 【HKVTuber/黑圈納蒂】",
+                        "author": "Natthi Ch. 黑圈納蒂【HKVtuber】"
+                    },
+                    {
                         "video_code": "wh7120N0wCQ",
                         "image": "https://i.ytimg.com/vi/wh7120N0wCQ/mqdefault.jpg",
                         "title": "【半週年】首次凸待~一邊玩一邊傾計~終於開放DC(╯✧∇✧)╯【HKVTuber/黑圈納蒂】",
@@ -193,12 +199,6 @@
                         "video_code": "gj2FFfBgcN0",
                         "image": "https://i.ytimg.com/vi/gj2FFfBgcN0/mqdefault.jpg",
                         "title": "【Elden Ring / 艾爾登法環 】死完又死 ~ 死完又死 ~ 死完又死 ◑ω◐ 【HKVTuber/黑圈納蒂】",
-                        "author": "Natthi Ch. 黑圈納蒂【HKVtuber】"
-                    },
-                    {
-                        "video_code": "FgU1tBENyZE",
-                        "image": "https://i.ytimg.com/vi/FgU1tBENyZE/mqdefault.jpg",
-                        "title": "【Vtuber Keroro化計劃#01】首輪K隆星人~突擊地球୧༼✿ ͡◕ д ◕͡ ༽୨【畫畫台】【HKVTuber/黑圈納蒂】",
                         "author": "Natthi Ch. 黑圈納蒂【HKVtuber】"
                     }
                 ]

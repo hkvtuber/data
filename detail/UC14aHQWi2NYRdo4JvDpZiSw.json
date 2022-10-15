@@ -80,58 +80,64 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "-b1R9xw7GPw",
+                        "image": "https://i.ytimg.com/vi/-b1R9xw7GPw/mqdefault.jpg",
+                        "title": "ASMR: Logitech MX Mechanical Mini (Linear Red and Tactile Quiet Brown) feat. MX Keys Mini, K380, etc",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
+                    },
+                    {
                         "video_code": "adTtEvonres",
                         "image": "https://i.ytimg.com/vi/adTtEvonres/mqdefault.jpg",
                         "title": "[EN] Can your PS5 support PCIe 3.0 SSD? Let's find it out!",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
+                    },
+                    {
+                        "video_code": "t7vg7ZGLJqo",
+                        "image": "https://i.ytimg.com/vi/t7vg7ZGLJqo/mqdefault.jpg",
+                        "title": "[EN] Intel NUC12 Pro Wall Street Canyon Unbox! i5-1240P 12 Cores 16 Threads 64GB Ram 2TB SSD Homelab",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "6OmYHL6jgv0",
                         "image": "https://i.ytimg.com/vi/6OmYHL6jgv0/mqdefault.jpg",
                         "title": "[10分鐘科技] Apple M1X / M2 性能設計流出! MacBook Pro 14/16 預計會快4倍？新MacPro有40Core CPU 128Core GPU?",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
-                        "video_code": "-b1R9xw7GPw",
-                        "image": "https://i.ytimg.com/vi/-b1R9xw7GPw/mqdefault.jpg",
-                        "title": "ASMR: Logitech MX Mechanical Mini (Linear Red and Tactile Quiet Brown) feat. MX Keys Mini, K380, etc",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "video_code": "tBZ50MwzBDQ",
+                        "image": "https://i.ytimg.com/vi/tBZ50MwzBDQ/mqdefault.jpg",
+                        "title": "[香港首發開箱!] Intel NUC12 Pro 華爾街峽谷 Wall Street Canyon i5-1240P 12核16線程 64GB Ram 2TB SSD Homelab超迷你全能實驗室",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "Ilz0obMKZFQ",
                         "image": "https://i.ytimg.com/vi/Ilz0obMKZFQ/mqdefault.jpg",
                         "title": "[10分鐘流言終結者] PS5開放M.2 SSD，PCIe3.0 M.2 SSD到底用唔用得？",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
+                    },
+                    {
+                        "video_code": "OVJyAW8S5dk",
+                        "image": "https://i.ytimg.com/vi/OVJyAW8S5dk/mqdefault.jpg",
+                        "title": "Revolut Metal Gold vs Black finish",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
+                    },
+                    {
+                        "video_code": "puIoqMEVvwA",
+                        "image": "https://i.ytimg.com/vi/puIoqMEVvwA/mqdefault.jpg",
+                        "title": "[4K] Revolut Metal Gold vs Black Debit Card (feat. AmEx Centurion & Citi Prestige Credit Cards)",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "Az5RWVdW4sY",
                         "image": "https://i.ytimg.com/vi/Az5RWVdW4sY/mqdefault.jpg",
                         "title": "[EN] new iPad mini 6th Gen 2021 Review - No 4K 60Hz external display support???",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "_D3GZyHMawU",
                         "image": "https://i.ytimg.com/vi/_D3GZyHMawU/mqdefault.jpg",
                         "title": "Excel tips🔥 how to separate name in excel in 3 seconds😂",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "wgCcWEl2YFI",
-                        "image": "https://i.ytimg.com/vi/wgCcWEl2YFI/mqdefault.jpg",
-                        "title": "UniFi Dream Router (UDR) finally available on the store! #Unifi #UDR",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "dhpsAxhJPSM",
-                        "image": "https://i.ytimg.com/vi/dhpsAxhJPSM/mqdefault.jpg",
-                        "title": "[NFT入門系列#01] 同你一齊開第一個NFT銀包！教你點玩NFT~ METAMASK 使用教學",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "4DxQ0g_HiLY",
-                        "image": "https://i.ytimg.com/vi/4DxQ0g_HiLY/mqdefault.jpg",
-                        "title": "Excel 小技巧😂如何將全名快速分割",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     }
                 ]
             }
@@ -145,49 +151,37 @@
                         "video_code": "lrEVLzn94Ik",
                         "image": "https://i.ytimg.com/vi/lrEVLzn94Ik/mqdefault.jpg",
                         "title": "移英攻略#1 英國銀行系統介紹, 容易中伏位 及HSBC UK開戶簡易教學 最快30日即批！",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "mzP5xNjXL3o",
                         "image": "https://i.ytimg.com/vi/mzP5xNjXL3o/mqdefault.jpg",
                         "title": "香港首發開箱！Logitech MX Mechanical mini (紅軸/茶軸) & MX Master 3S | 對比 MX Keys Mini, K380, DREVO Cherry 銀軸",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "f6n49uVprCs",
-                        "image": "https://i.ytimg.com/vi/f6n49uVprCs/mqdefault.jpg",
-                        "title": "移英攻略#2 英國上網點算好？手機又點及早準備？一次幫你解答！",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "h061gDGVkhE",
                         "image": "https://i.ytimg.com/vi/h061gDGVkhE/mqdefault.jpg",
                         "title": "Logitech MX Mechanical mini 14日Review & Lubing機械軸上油改造大挑戰！簡單步驟動手起來將你既機械鍵盤變得好用十萬九千倍！",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "0vp8Wk4JpVw",
-                        "image": "https://i.ytimg.com/vi/0vp8Wk4JpVw/mqdefault.jpg",
-                        "title": "[No Ads] lofi hiphop/jazz cafe music - beats to relax, coding and study for 3 hours",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "h8gSVteiFCg",
-                        "image": "https://i.ytimg.com/vi/h8gSVteiFCg/mqdefault.jpg",
-                        "title": "[廢片直播] 同你一齊一邊傾計一邊安裝試玩最新 Microsoft Windows 11 測驗版 (Build 22000)",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
-                    },
-                    {
-                        "video_code": "XvNolvNFstg",
-                        "image": "https://i.ytimg.com/vi/XvNolvNFstg/mqdefault.jpg",
-                        "title": "[廢片直播] 任天堂係好野既，同你一齊玩平民化MOBA Pokemon Unite",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     },
                     {
                         "video_code": "xi5PAeOh2Bc",
                         "image": "https://i.ytimg.com/vi/xi5PAeOh2Bc/mqdefault.jpg",
                         "title": "移英攻略#3 英國最好的免年費信用卡申請指南 點樣快人一步申請同及早準備所需文件？",
-                        "author": "Nox Sayin Anything【駱晨 HKvTuber】"
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
+                    },
+                    {
+                        "video_code": "f6n49uVprCs",
+                        "image": "https://i.ytimg.com/vi/f6n49uVprCs/mqdefault.jpg",
+                        "title": "移英攻略#2 英國上網點算好？手機又點及早準備？一次幫你解答！",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
+                    },
+                    {
+                        "video_code": "0vp8Wk4JpVw",
+                        "image": "https://i.ytimg.com/vi/0vp8Wk4JpVw/mqdefault.jpg",
+                        "title": "[No Ads] lofi hiphop/jazz cafe music - beats to relax, coding and study for 3 hours",
+                        "author": "Nox Sayin Anything〖駱晨〗HKvTuber in UK"
                     }
                 ]
             }

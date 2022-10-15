@@ -2,7 +2,7 @@
     "id": "UCbn5UYDxFciNg7OJPHr4Cnw",
     "header": {
         "name": "Loxy. ch ロシー【HKVTuber】",
-        "image": "https://yt3.ggpht.com/gpoVt1Wm_kieC5DnWs7f3gHhYFSF8JO1YZdVZo5DzpWgmsbCaHIlX-x6UE9Z28uxU2KEr_IL_A=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/wmnI5PzYIe6yXea9EdqVN3k0HjFhMAsJgFx-0kSmPwoXZ8fPnTt3vWfwV98ng2MtL33_B1BF-A=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/7S1mYiIy5gTSXvrM0uTRhsusqujIOM5xlSt7ySe1BAEk_OLHxdagZD7a_C2YqOx7fmVv0X4Jjg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -105,6 +105,20 @@
         {
             "type": "title_youtube",
             "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "oYC0fXe2Pk0",
+                        "image": "https://i.ytimg.com/vi/oYC0fXe2Pk0/mqdefault.jpg",
+                        "title": "✨音樂創作✨【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
                 "title": "推薦重播",
                 "video_list": [
                     {
@@ -114,15 +128,15 @@
                         "author": "Loxy. ch ロシー【HKVTuber】"
                     },
                     {
-                        "video_code": "MVcTn8dLTfY",
-                        "image": "https://i.ytimg.com/vi/MVcTn8dLTfY/mqdefault.jpg",
-                        "title": "[💜繪畫配信💜] 我要令更多人接觸到Furry文化❗👌【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
-                        "author": "Loxy. ch ロシー【HKVTuber】"
-                    },
-                    {
                         "video_code": "jYBg8ufiQaU",
                         "image": "https://i.ytimg.com/vi/jYBg8ufiQaU/mqdefault.jpg",
                         "title": "[💜雜談配信💜] ⚠重大公告⚠【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    },
+                    {
+                        "video_code": "MVcTn8dLTfY",
+                        "image": "https://i.ytimg.com/vi/MVcTn8dLTfY/mqdefault.jpg",
+                        "title": "[💜繪畫配信💜] 我要令更多人接觸到Furry文化❗👌【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
                         "author": "Loxy. ch ロシー【HKVTuber】"
                     },
                     {
@@ -144,15 +158,15 @@
                         "author": "Loxy. ch ロシー【HKVTuber】"
                     },
                     {
-                        "video_code": "gv5Rg09Yb_A",
-                        "image": "https://i.ytimg.com/vi/gv5Rg09Yb_A/mqdefault.jpg",
-                        "title": "[魔物獵人物語2]在那次冒險之後的故事🥚🥚【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
-                        "author": "Loxy. ch ロシー【HKVTuber】"
-                    },
-                    {
                         "video_code": "dmKobmShg6g",
                         "image": "https://i.ytimg.com/vi/dmKobmShg6g/mqdefault.jpg",
                         "title": "[💜繪畫配信💜] 我要令更多人接觸到Furry文化❗👌Part : 2【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
+                        "author": "Loxy. ch ロシー【HKVTuber】"
+                    },
+                    {
+                        "video_code": "gv5Rg09Yb_A",
+                        "image": "https://i.ytimg.com/vi/gv5Rg09Yb_A/mqdefault.jpg",
+                        "title": "[魔物獵人物語2]在那次冒險之後的故事🥚🥚【 HK ケモノ系Vtuber 🦁🌙Loxy 洛斯】",
                         "author": "Loxy. ch ロシー【HKVTuber】"
                     },
                     {

@@ -3,7 +3,7 @@
     "header": {
         "name": "Souann早安 ch.",
         "image": "https://yt3.ggpht.com/7UYjrOC_tYnJwDZkEev0BUZl3LR8bIkr0MqVB29DBBDaBKtNLGiGxN8mk364BtEumWl3RiyZ1w=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/qA77tA2_BVLDeVpdWuC-WBtntkZ9h8xAcHhDKRvDiEe1Z9mSSYgElmCxi4uD2yAQaIC51pfc=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/Psabj0hsZvaHukPJyN8__GyfGodHCs41AQ1Jh8zHhB3EgYZPo1l1lOAbXIeMcxKAfyByG4d_Ng=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FXOdkrIaAAAt0B8?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FXOdkrIaAAAt0B8?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FbFLvcqUIAA9DDo?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbFLvcqUIAA9DDo?format=jpg&name=medium"
                     }
                 ]
             }
@@ -114,6 +114,12 @@
                         "author": "Souann早安 ch."
                     },
                     {
+                        "video_code": "xGMYklWSV9c",
+                        "image": "https://i.ytimg.com/vi/xGMYklWSV9c/mqdefault.jpg",
+                        "title": "【麻雀一番街】三麻第二組聯動日！不是你死就是我亡！ft.路斯吱,羽鳥楓鈴〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    },
+                    {
                         "video_code": "V_bSCTVIOyQ",
                         "image": "https://i.ytimg.com/vi/V_bSCTVIOyQ/mqdefault.jpg",
                         "title": "【Elden Ring】史城攻略!!!!!!〚早安 ☼ Souann〛",
@@ -138,6 +144,12 @@
                         "author": "Souann早安 ch."
                     },
                     {
+                        "video_code": "vwQfCw9pS3A",
+                        "image": "https://i.ytimg.com/vi/vwQfCw9pS3A/mqdefault.jpg",
+                        "title": "【全網公敵】今次你班人又衰咩〚早安 ☼ Souann〛",
+                        "author": "Souann早安 ch."
+                    },
+                    {
                         "video_code": "0AVx0_XIUvE",
                         "image": "https://i.ytimg.com/vi/0AVx0_XIUvE/mqdefault.jpg",
                         "title": "【Elden Ring】惡兆不死我不睡〚早安 ☼ Souann〛",
@@ -150,21 +162,9 @@
                         "author": "Souann早安 ch."
                     },
                     {
-                        "video_code": "vwQfCw9pS3A",
-                        "image": "https://i.ytimg.com/vi/vwQfCw9pS3A/mqdefault.jpg",
-                        "title": "【全網公敵】今次你班人又衰咩〚早安 ☼ Souann〛",
-                        "author": "Souann早安 ch."
-                    },
-                    {
                         "video_code": "8M1t_-zf8KA",
                         "image": "https://i.ytimg.com/vi/8M1t_-zf8KA/mqdefault.jpg",
                         "title": "【Elden Ring】支線RRRRRR〚早安 ☼ Souann〛",
-                        "author": "Souann早安 ch."
-                    },
-                    {
-                        "video_code": "gVdmvfPLaXw",
-                        "image": "https://i.ytimg.com/vi/gVdmvfPLaXw/mqdefault.jpg",
-                        "title": "【Elden Ring】希望唔會嬲到嚇親大家〚早安 ☼ Souann〛",
                         "author": "Souann早安 ch."
                     }
                 ]

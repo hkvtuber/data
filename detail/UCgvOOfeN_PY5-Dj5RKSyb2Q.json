@@ -2,10 +2,22 @@
     "id": "UCgvOOfeN_PY5-Dj5RKSyb2Q",
     "header": {
         "name": "Estelle Ch. 星羅エステル 【HKVtuber】",
-        "image": "https://yt3.ggpht.com/bCiJjI4bfH0oJJyYjqN0618w9hIScz5kNTQaUuuKizOSU8YFXO7PXXirjzRSRPf5O44fUY2E=s88-c-k-c0x00ffffff-no-rj",
-        "bg": ""
+        "image": "https://yt3.ggpht.com/aKQ9ito3FqDOem542482NO_VrivjPOcWl7DYujOMIG7MN0ZUXAjaHoCnC4wVD-H4ugoJw9M3sg=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/TrroMVLdmHtsEQDUiCT5lTlrYhqbuS-SGYI9M6eKncSm682kyqpF8mgsbxQup_9PgZ-33CJnHEg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FfAOJOXacAEVeaU?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FfAOJOXacAEVeaU?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -71,6 +83,34 @@
                     {
                         "key": "twitter",
                         "path": "seiraestelle"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "TuKzA34XQqQ",
+                        "image": "https://i.ytimg.com/vi/TuKzA34XQqQ/mqdefault.jpg",
+                        "title": "【グラブル】ラーHL 火マグナ編成 フルオート(オートガードON) GBF Ra Full Auto Fire Magna 【星羅エステル✯HKVtuber】",
+                        "author": "Estelle Ch. 星羅エステル 【HKVtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "H6XLRVW7Ozk",
+                        "image": "https://i.ytimg.com/vi/H6XLRVW7Ozk/mqdefault.jpg",
+                        "title": "【グラブル】2022年水着闇鍋フェス 預定天井1回 - Estelle Ch. 星羅エステル 【HKVtuber】",
+                        "author": "Estelle Ch. 星羅エステル 【HKVtuber】"
                     }
                 ]
             }

@@ -118,6 +118,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "Yv6VwLCY5L0",
+                        "image": "https://i.ytimg.com/vi/Yv6VwLCY5L0/mqdefault.jpg",
+                        "title": "【爬分必看】 新手也能輕鬆爬分神器 ! ! !Lact-450 《斯普拉遁 3》( Splatoon 3 )【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
                         "video_code": "Th1mTKI1iWk",
                         "image": "https://i.ytimg.com/vi/Th1mTKI1iWk/mqdefault.jpg",
                         "title": "【自我介紹】來自異世界的廢柴貓登場!【香港VTuber/新人Vtuber】",
@@ -132,13 +138,19 @@
                     {
                         "video_code": "XZ8GoVaSGhs",
                         "image": "https://i.ytimg.com/vi/XZ8GoVaSGhs/mqdefault.jpg",
-                        "title": "【音痴前哨戰】死了都要愛【蒼神子貓/HKVTuber】",
+                        "title": "【音痴前哨戰】死了都要愛感情版【蒼神子貓/HKVTuber】",
                         "author": "蒼神こねこKoneko Ch."
                     },
                     {
                         "video_code": "y2HxjbEgCWU",
                         "image": "https://i.ytimg.com/vi/y2HxjbEgCWU/mqdefault.jpg",
                         "title": "【POE】歡樂行街街~【蒼神子貓/HKVTuber】",
+                        "author": "蒼神こねこKoneko Ch."
+                    },
+                    {
+                        "video_code": "9SZuHZ50dy4",
+                        "image": "https://i.ytimg.com/vi/9SZuHZ50dy4/mqdefault.jpg",
+                        "title": "【Fate/GO】20抽抽中女梅林!?【蒼神子貓/HKVTuber】",
                         "author": "蒼神こねこKoneko Ch."
                     }
                 ]

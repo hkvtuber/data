@@ -141,6 +141,74 @@
                         "image": "https://i.ytimg.com/vi/lK-lIiBmNxg/mqdefault.jpg",
                         "title": "我不會玩Apex QQ",
                         "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "047Pr-eJ3gY",
+                        "image": "https://i.ytimg.com/vi/047Pr-eJ3gY/mqdefault.jpg",
+                        "title": "【Apex 精華】耳膜hp -1000000000000000",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "VTQgWsK7dns",
+                        "image": "https://i.ytimg.com/vi/VTQgWsK7dns/mqdefault.jpg",
+                        "title": "【2.0新衣裝】好久不見！不知不覺就半週年了耶~~",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "0tRdPUZqlZQ",
+                        "image": "https://i.ytimg.com/vi/0tRdPUZqlZQ/mqdefault.jpg",
+                        "title": "【主題雜談】牛牛也想開啟流量密碼~~~講笑ww",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "R_3CTUINlLM",
+                        "image": "https://i.ytimg.com/vi/R_3CTUINlLM/mqdefault.jpg",
+                        "title": "【雜談】隨便聊聊~！！2021檢討！2022目標訂立！",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "_9wm9QPkUDE",
+                        "image": "https://i.ytimg.com/vi/_9wm9QPkUDE/mqdefault.jpg",
+                        "title": "【上水了】好耐不見 aha~~ 有沒有想念牛牛！！",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "q8o1zwHMnLM",
+                        "image": "https://i.ytimg.com/vi/q8o1zwHMnLM/mqdefault.jpg",
+                        "title": "【BirdGut】聽講玩這個遊戲會爆氣www",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "4Mt1FZSX8K4",
+                        "image": "https://i.ytimg.com/vi/4Mt1FZSX8K4/mqdefault.jpg",
+                        "title": "【夜雜談】隨便聊！隨便收集意見！！不知道開什麼台啦~~~",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "JW1lHwrqpBk",
+                        "image": "https://i.ytimg.com/vi/JW1lHwrqpBk/mqdefault.jpg",
+                        "title": "【棉花糖】久違地來讀棉花糖~~希望能讀得完QQ",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "6Rmf6x8zmCI",
+                        "image": "https://i.ytimg.com/vi/6Rmf6x8zmCI/mqdefault.jpg",
+                        "title": "【宵夜和 牛】就算肥了 宵夜還是要吃hehe",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
+                    },
+                    {
+                        "video_code": "ZB0pZzqsgFs",
+                        "image": "https://i.ytimg.com/vi/ZB0pZzqsgFs/mqdefault.jpg",
+                        "title": "【Apex】太早起床了QQ 來健康Apex 晨運~~絕無綜藝 只有技術",
+                        "author": "白川由紀 Yuki 【HK Vtuber】"
                     }
                 ]
             }

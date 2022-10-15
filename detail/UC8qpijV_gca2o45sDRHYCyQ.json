@@ -1,0 +1,101 @@
+{
+    "id": "UC8qpijV_gca2o45sDRHYCyQ",
+    "header": {
+        "name": "森アキ Mori Aki【HK Vtuber】",
+        "image": "https://yt3.ggpht.com/_p34sloWqMxMVl1X1Vh5mmFczpNE2WdEGxJbSSh7xm2LAPlleTCCsCKe7KiwFVYjbQXatnhLCu4=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/0idO7iu7gGKp588XwS-8JzVJkvqj4D9aKTPC2Op1_dmzTOZs3YI9wt7BlVDG8qRCe3qnTf6FgA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fem9jn0aUAEtTqh?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fem9jn0aUAEtTqh?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": "居住於遠縫森林、想要成為VocaloidP的森林精靈"
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "森アキ\nMori Aki",
+                        "heightRate": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "通用Tag",
+                        "content": "#akinokusart",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#morinoLIVE",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "音樂Tag",
+                        "content": "#草間音樂台",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#moriartki",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#morinoCUT",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC8qpijV_gca2o45sDRHYCyQ"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "moriaki_kusama"
+                    }
+                ]
+            }
+        }
+    ]
+}

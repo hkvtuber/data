@@ -1,0 +1,110 @@
+{
+    "id": "UC7bTK_5vX7tqiICzO2bCBRw",
+    "header": {
+        "name": "天羽はなび Ch. Amaha Hanabi",
+        "image": "https://yt3.ggpht.com/pb0KBmMe5YZjAYZr_-pLdk6urEzRlDrSuaU3ncBierWZcvMZhNQhXASfKn6YuLeNCY7BYEoniQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/QshGOnbwcO5O3UAZrwhsZ2pnOLin4-eLresLhOC7Uy0hV86_relKscBZBWi2OPkQEwEBCcVPhuo=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fe7kWu5VQAA8SYV?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fe7kWu5VQAA8SYV?format=jpg&name=medium"
+                    },
+                    {
+                        "image": "https://pbs.twimg.com/media/Fe7kZM_VsAIr0zq?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fe7kZM_VsAIr0zq?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "天羽はなび\nAmaha Hanabi",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "11月17日",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話\n普通話\n日文\n英文",
+                        "heightRate": "2.67"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#精靈的旅途",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#精靈的寶箱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "R18 Fan Art Tag",
+                        "content": "#禁忌寶箱",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Name Tag",
+                        "content": "#小精靈",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#來一批純的精靈",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC7bTK_5vX7tqiICzO2bCBRw"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "amaha_hanabi"
+                    }
+                ]
+            }
+        }
+    ]
+}

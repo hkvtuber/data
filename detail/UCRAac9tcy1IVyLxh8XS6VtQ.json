@@ -2,10 +2,22 @@
     "id": "UCRAac9tcy1IVyLxh8XS6VtQ",
     "header": {
         "name": "雨川 紫 Purple",
-        "image": "https://yt3.ggpht.com/GyFgkP2TRyqzwsr67FKVxX9G9XY2Bz3CYyryfZxO621fdRXR6DNR3IbwUUnrGd4ty2ed4dTJ4g=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/c3gR0Olth5J_z2EIMNI1Rbscequ5vTuyrKkn6ln3WHXaZAuWt9-F-_8HjkCNNb6SAuLuKsQj-5U=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/ncE6cVPPVlvnfsJxtEFy00vLlPQfbr1J-x38jmoV3kwI1P5DvfVuPIFdpkAH-oFIst0DKooMxA=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fd69EGdVsAA8nwh?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fd69EGdVsAA8nwh?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
         {
             "type": "title_content",
             "data": {
@@ -76,28 +88,46 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "ZlCbrfSPs1A",
+                        "image": "https://i.ytimg.com/vi/ZlCbrfSPs1A/mqdefault.jpg",
+                        "title": "[GaLo初配信] [烤肉] Purple問了伽羅一個問題，佢點回應呢? #伽羅 #大伽羅",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
+                    },
+                    {
                         "video_code": "iZEfPJA5xj8",
                         "image": "https://i.ytimg.com/vi/iZEfPJA5xj8/mqdefault.jpg",
                         "title": "Vtuber日麻部 One Night交流戰 #香港vtuber #Vtuber日麻部",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
+                    },
+                    {
+                        "video_code": "41oaMK6FCug",
+                        "image": "https://i.ytimg.com/vi/41oaMK6FCug/mqdefault.jpg",
+                        "title": "Show \"Case\" Hololive Baelz x HYTE Y60 x Purple 直播機 #香港vtuber #hkvtuber #enterbaelz #自作PC #ak紫ch",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
                         "video_code": "kWm9gpc-f_M",
                         "image": "https://i.ytimg.com/vi/kWm9gpc-f_M/mqdefault.jpg",
                         "title": "Purple初配信土炮預告，請支持5月7日晚上8時半初配信",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
                         "video_code": "xYYGqJOoCbA",
                         "image": "https://i.ytimg.com/vi/xYYGqJOoCbA/mqdefault.jpg",
                         "title": "デビュー予告　-　パープルの初配信　－　5月7日夜9時半から",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
+                    },
+                    {
+                        "video_code": "1_fZ_HOP9JM",
+                        "image": "https://i.ytimg.com/vi/1_fZ_HOP9JM/mqdefault.jpg",
+                        "title": "[砌機現場] 幫電腦換新Ram [測試用短片]",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
                         "video_code": "Ytwtj40NV0g",
                         "image": "https://i.ytimg.com/vi/Ytwtj40NV0g/mqdefault.jpg",
                         "title": "遊戲王DM 鑽石1耐久台 Part1",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     }
                 ]
             }
@@ -111,61 +141,61 @@
                         "video_code": "uiagkPyMrdI",
                         "image": "https://i.ytimg.com/vi/uiagkPyMrdI/mqdefault.jpg",
                         "title": "Vtuber日麻部 One Night交流戰 #香港vtuber #Vtuber日麻部",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
+                    },
+                    {
+                        "video_code": "rHk8wXshEtA",
+                        "image": "https://i.ytimg.com/vi/rHk8wXshEtA/mqdefault.jpg",
+                        "title": "打咩牌好呀-無獎問答遊戲 #香港vtuber #hkvtuber #Vtuber日麻部",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
+                    },
+                    {
+                        "video_code": "rcczhcjb1Z4",
+                        "image": "https://i.ytimg.com/vi/rcczhcjb1Z4/mqdefault.jpg",
+                        "title": "［砌機現場］輕鬆自組文書機 Asrock B660 Deskmini Part2 #香港vtuber #hkvtuber #ak紫ch #ak紫tech #asrock",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
                         "video_code": "yhBq8uaE1iU",
                         "image": "https://i.ytimg.com/vi/yhBq8uaE1iU/mqdefault.jpg",
                         "title": "Vtuber日麻部 7月部活DAY1 熱身邀請賽 #香港vtuber #vtuber日麻部",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
                         "video_code": "iYLipY5oQrQ",
                         "image": "https://i.ytimg.com/vi/iYLipY5oQrQ/mqdefault.jpg",
                         "title": "HKVtuber 雨川紫 Purple デビュー初配信",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
                         "video_code": "qhYVxmm9qNE",
                         "image": "https://i.ytimg.com/vi/qhYVxmm9qNE/mqdefault.jpg",
                         "title": "Vtuber日麻部 7月部活DAY2 第一次誓師+票選懲罰遊戲 #香港vtuber  #Vtuber日麻部",
-                        "author": "紫"
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
-                        "video_code": "rbsGsn8lUQI",
-                        "image": "https://i.ytimg.com/vi/rbsGsn8lUQI/mqdefault.jpg",
-                        "title": "日麻部測試 (前半)+ MHR新角開荒(後半) #香港vtuber  #Vtuber日麻部 #麻雀一番街",
-                        "author": "紫"
+                        "video_code": "9-hf2M7JzsQ",
+                        "image": "https://i.ytimg.com/vi/9-hf2M7JzsQ/mqdefault.jpg",
+                        "title": "［砌機耐久］HYTE Y60x Hololive Baelz 聯名機箱開箱 #香港vtuber #hkvtuber",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
-                        "video_code": "fKaX7kdTz20",
-                        "image": "https://i.ytimg.com/vi/fKaX7kdTz20/mqdefault.jpg",
-                        "title": "日麻部事故現場 (第三直播室)",
-                        "author": "紫"
+                        "video_code": "olo7si49LWg",
+                        "image": "https://i.ytimg.com/vi/olo7si49LWg/mqdefault.jpg",
+                        "title": "［砌機現場］幫ななみ換機箱 #香港vtuber #hkvtuber #ak紫ch #ak紫tech #antec #asus",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
-                        "video_code": "PNm03ljWaXo",
-                        "image": "https://i.ytimg.com/vi/PNm03ljWaXo/mqdefault.jpg",
-                        "title": "日麻部第一次聯動預告 #香港vtuber  #Vtuber日麻部",
-                        "author": "紫"
+                        "video_code": "mDhAp1t6D7U",
+                        "image": "https://i.ytimg.com/vi/mDhAp1t6D7U/mqdefault.jpg",
+                        "title": "[日麻實況]麻雀一番街 4麻 炎陽桌or觀眾場  #香港vtuber #Vtuber日麻部",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     },
                     {
-                        "video_code": "MZYUA1zPETo",
-                        "image": "https://i.ytimg.com/vi/MZYUA1zPETo/mqdefault.jpg",
-                        "title": "突發砌機現場：換換病Purple今晚來換機箱",
-                        "author": "紫"
-                    },
-                    {
-                        "video_code": "JmEP42MGOPE",
-                        "image": "https://i.ytimg.com/vi/JmEP42MGOPE/mqdefault.jpg",
-                        "title": "星期六專題：談自組電腦",
-                        "author": "紫"
-                    },
-                    {
-                        "video_code": "EtH1Ok-u5jw",
-                        "image": "https://i.ytimg.com/vi/EtH1Ok-u5jw/mqdefault.jpg",
-                        "title": "MHRS 自由參與型貓車團 絕對貓車時間 #香港vtuber #hkvtuber #monsterhunterrisesunbreak",
-                        "author": "紫"
+                        "video_code": "IatAb9-HewM",
+                        "image": "https://i.ytimg.com/vi/IatAb9-HewM/mqdefault.jpg",
+                        "title": "初試 砌模型直播 #香港vtuber #hkvtuber #kotobukiya #壽屋 #メガミデバイス",
+                        "author": "Purple [HK Vtuber] [AkPurpleCh]"
                     }
                 ]
             }

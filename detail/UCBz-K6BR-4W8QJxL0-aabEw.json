@@ -63,6 +63,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "M3_37FEt9Ec",
+                        "image": "https://i.ytimg.com/vi/M3_37FEt9Ec/mqdefault.jpg",
+                        "title": "【復活耍廢台】復活當然要嚟耍下廢傾下計唱下歌！【猫宮琉璃・香港Vtuber】",
+                        "author": "猫宮琉璃 Nekomiya Ruri Ch.【HKVTuber】"
+                    },
+                    {
+                        "video_code": "fU-l3EEJHEM",
+                        "image": "https://i.ytimg.com/vi/fU-l3EEJHEM/mqdefault.jpg",
+                        "title": "【以身試伏台】腸粉界明將？奇怪腸粉試食會！  ft. 蒔幻 タイム【猫宮琉璃・香港Vtuber】",
+                        "author": "猫宮琉璃 Nekomiya Ruri Ch.【HKVTuber】"
+                    }
+                ]
+            }
         }
     ]
 }

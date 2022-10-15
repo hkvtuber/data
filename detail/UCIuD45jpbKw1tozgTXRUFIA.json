@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FW5QOc_aAAAJ8W9?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FW5QOc_aAAAJ8W9?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -197,12 +185,6 @@
                         "author": "神白 ウノ[香港Vtuber]"
                     },
                     {
-                        "video_code": "Fm9uXfpPqXU",
-                        "image": "https://i.ytimg.com/vi/Fm9uXfpPqXU/mqdefault.jpg",
-                        "title": "【香港Vtuber】同時視聽//接觸新文化/////是很多香香的女孩子！！！！[神白ウノwith淡月楓]",
-                        "author": "神白 ウノ[香港Vtuber]"
-                    },
-                    {
                         "video_code": "KNortXHKZag",
                         "image": "https://i.ytimg.com/vi/KNortXHKZag/mqdefault.jpg",
                         "title": "【香港Vtuber/台詞回】沒有我講不出的對白，只有你不敢放的！！！ [神白ウノ]",
@@ -245,9 +227,15 @@
                         "author": "神白 ウノ[香港Vtuber]"
                     },
                     {
-                        "video_code": "e2UIr2WwbAA",
-                        "image": "https://i.ytimg.com/vi/e2UIr2WwbAA/mqdefault.jpg",
-                        "title": "【香港Vtuber】隨心所欲台/////甚麼都玩一玩[神白ウノ/]",
+                        "video_code": "_dCZAesF2So",
+                        "image": "https://i.ytimg.com/vi/_dCZAesF2So/mqdefault.jpg",
+                        "title": "【香港Vtuber/殘酷二選一】希望可以見識下世界的殘酷  [神白ウノ]",
+                        "author": "神白 ウノ[香港Vtuber]"
+                    },
+                    {
+                        "video_code": "fKQIX_1JAKk",
+                        "image": "https://i.ytimg.com/vi/fKQIX_1JAKk/mqdefault.jpg",
+                        "title": "【香港Vtuber/雜談】3D的我也很可愛喔！！！！  [神白ウノ]",
                         "author": "神白 ウノ[香港Vtuber]"
                     }
                 ]

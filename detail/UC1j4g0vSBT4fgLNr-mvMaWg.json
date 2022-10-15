@@ -1,0 +1,110 @@
+{
+    "id": "UC1j4g0vSBT4fgLNr-mvMaWg",
+    "header": {
+        "name": "Kani可兒 Ch. 🍓草莓熊吸血姫🧸",
+        "image": "https://yt3.ggpht.com/2I39iNR7qEC99q40Kl643_mfzmbEsBPueUrhaQeiO9_cld-DHiAYB5KMmbIkOOpdW-2K6Zlubx0=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/NnPD08fd4PQ4Nmtwb04XCYA-qbCHDnVrZitEib14Hwr8UsYl-SduizGIn2kdc8vwAsomp8yXZg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    },
+    "body": [
+        {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fa5uKlQacAASG1Z?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fa5uKlQacAASG1Z?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_content",
+            "data": {
+                "title": "描述",
+                "content": ""
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "個人資料",
+                "map_list": [
+                    {
+                        "key": "名字",
+                        "content": "可兒\nKani",
+                        "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "4月8日",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "身高",
+                        "content": "159.9cm",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_map",
+            "data": {
+                "title": "關於直播",
+                "map_list": [
+                    {
+                        "key": "類別",
+                        "content": "個人勢",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "語言",
+                        "content": "廣東話",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "直播Tag",
+                        "content": "#Kanival0w0",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Fan Art Tag\n(有機會用在封面)",
+                        "content": "#吸血熊圖鑑",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "烤肉/精華Tag",
+                        "content": "#Kanival0w0",
+                        "heightRate": "1"
+                    },
+                    {
+                        "key": "Meme Tag",
+                        "content": "#可疑圖鑑",
+                        "heightRate": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_contact",
+            "data": {
+                "title": "更多聯絡方式",
+                "content": [
+                    {
+                        "key": "youtube",
+                        "path": "UC1j4g0vSBT4fgLNr-mvMaWg"
+                    },
+                    {
+                        "key": "twitter",
+                        "path": "KaniKuma0w0"
+                    },
+                    {
+                        "key": "IG",
+                        "path": "https://www.instagram.com/kani.kuma0w0/"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -2,8 +2,8 @@
     "id": "UCXW9RKZCOgSWfj92zhQqmkw",
     "header": {
         "name": "彼岸るりRuri Channel",
-        "image": "https://yt3.ggpht.com/dmosdmc7xXSk3vYknz9sXiJ3FvFtq1cgzM2KP-hJFcU5AEqfaWrXouudMXIE_kDRuYcFUBEljQ=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/klg18BSsp8U3pFUKSV5wYXo0-5L5OY486VQkHp0UPudKLcjciF9Kg8XFAZ2-p3vVYVROzcn7ng=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/nhju-f0O1yoYgED82IhmVM8r0dw9plbTO4BYVrx4K3yAUHHH4E6k6_6VH2tkQrgwLfIkYLLWxQ=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/ngUVc5pZMmpaTbazVWthPzPI1pAEphNOxLguW-W0W7xgcvrWPsaBNs_hsd6p_2tG6dxE2CfFyg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FX3h98caIAARaTr?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FX3h98caIAARaTr?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FasT87HUYAA3TS0?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FasT87HUYAA3TS0?format=jpg&name=medium"
                     }
                 ]
             }
@@ -88,6 +88,112 @@
                     {
                         "key": "twitter",
                         "path": "higanruri"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦影片",
+                "video_list": [
+                    {
+                        "video_code": "u7zjHYGrGFs",
+                        "image": "https://i.ytimg.com/vi/u7zjHYGrGFs/mqdefault.jpg",
+                        "title": "【歌ってみた】ダウナーウィッチ/Downer Witch【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "lCIPbopZ4g8",
+                        "image": "https://i.ytimg.com/vi/lCIPbopZ4g8/mqdefault.jpg",
+                        "title": "【重生出道前】 彼岸琉璃APEX HIGHLIGHT【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "6jd0ypAHnSE",
+                        "image": "https://i.ytimg.com/vi/6jd0ypAHnSE/mqdefault.jpg",
+                        "title": "【出道預告】 8月21日重生出道,開始回憶【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "c83xD8GkZv4",
+                        "image": "https://i.ytimg.com/vi/c83xD8GkZv4/mqdefault.jpg",
+                        "title": "生 痱 滋 現 況",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "n-oPHCo26Cs",
+                        "image": "https://i.ytimg.com/vi/n-oPHCo26Cs/mqdefault.jpg",
+                        "title": "彼岸るり-記憶管理員的工作",
+                        "author": "彼岸琉璃"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "r4V7IfdKTHw",
+                        "image": "https://i.ytimg.com/vi/r4V7IfdKTHw/mqdefault.jpg",
+                        "title": "【Re-初配信】｜重生綻放的彼岸花 , 琉璃色的記憶準備盛開｜【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "rt-kvEUDHHw",
+                        "image": "https://i.ytimg.com/vi/rt-kvEUDHHw/mqdefault.jpg",
+                        "title": "【劇透注意】彈丸論破V3｜黃金腦再臨 超高校級的剋星｜#01【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "E3un-kZoBA0",
+                        "image": "https://i.ytimg.com/vi/E3un-kZoBA0/mqdefault.jpg",
+                        "title": "【Splatoon3】｜好耶瞓過龍~咁就直接晏晝開啦(x｜【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "NZPAVCvHL5U",
+                        "image": "https://i.ytimg.com/vi/NZPAVCvHL5U/mqdefault.jpg",
+                        "title": "【雑談】｜談談全新的我、初翻唱、棉花糖｜【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "j5yhnxllPj0",
+                        "image": "https://i.ytimg.com/vi/j5yhnxllPj0/mqdefault.jpg",
+                        "title": "【雑談】｜就雑談呀不然你以為要幹什麼倒立嗎?｜【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "nYx31R8783g",
+                        "image": "https://i.ytimg.com/vi/nYx31R8783g/mqdefault.jpg",
+                        "title": "【Cult of the Lamb】｜中文叫進擊羔羊傳說笑死｜【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "8_lRbbSvS_0",
+                        "image": "https://i.ytimg.com/vi/8_lRbbSvS_0/mqdefault.jpg",
+                        "title": "【劇透注意】彈丸論破V3｜推理開始 解開真相｜#04【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "U_zvtUc9_2A",
+                        "image": "https://i.ytimg.com/vi/U_zvtUc9_2A/mqdefault.jpg",
+                        "title": "【劇透注意】彈丸論破V3｜推理和真相? 超高校級的咒術師｜#02【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "kR1Q_-VcEzQ",
+                        "image": "https://i.ytimg.com/vi/kR1Q_-VcEzQ/mqdefault.jpg",
+                        "title": "【工作時間】｜何謂工作台?Minecraft嗰隻?｜【彼岸るり】",
+                        "author": "彼岸琉璃"
+                    },
+                    {
+                        "video_code": "d499eIQal_w",
+                        "image": "https://i.ytimg.com/vi/d499eIQal_w/mqdefault.jpg",
+                        "title": "【SD GUNDAM 激鬥同盟】｜琉璃 站立在大地之上｜【彼岸るり】",
+                        "author": "彼岸琉璃"
                     }
                 ]
             }

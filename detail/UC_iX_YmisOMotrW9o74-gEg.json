@@ -3,7 +3,7 @@
     "header": {
         "name": "千惠里 ちゆり(香港Vtuber)",
         "image": "https://yt3.ggpht.com/9djt148HXiJ_DedKCR2Y8dqn70SX7md5goctNwzhsM70mxhG8aP5pND-PC7KZBzNq1ki8UTVtA=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/di9WC6PV-I32GPlTvze256TwQz-iumsOCR1QHt64kpLfZmgqAD3eNNNx3JZOEq5XjDj_Pkk9=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/NhROW3nDBFomObJkpsZDVEcjPegjyD74fG2c_EJ0pBU6UCmdgw_Rmgvt9wnUWpSizyefaDVYPg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FSr-1UKVUAAfALE?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FSr-1UKVUAAfALE?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FbFIjtbaIAEVASu?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbFIjtbaIAEVASu?format=jpg&name=medium"
                     }
                 ]
             }
@@ -120,12 +120,6 @@
                         "author": "千惠里 ちゆり(香港Vtuber)"
                     },
                     {
-                        "video_code": "bk30VEaGZZw",
-                        "image": "https://i.ytimg.com/vi/bk30VEaGZZw/mqdefault.jpg",
-                        "title": "買咗新嘅mic ε(≧∀≦)ゞ 初次上陣  (觀眾場開放中)",
-                        "author": "千惠里 ちゆり(香港Vtuber)"
-                    },
-                    {
                         "video_code": "GTWeEfUMDng",
                         "image": "https://i.ytimg.com/vi/GTWeEfUMDng/mqdefault.jpg",
                         "title": "千惠里 ちゆり(香港Vtuber)第一條short(๑•ั็ω•็ั๑) #shorts  #fallguys   #香港vtuber",
@@ -136,24 +130,6 @@
                         "image": "https://i.ytimg.com/vi/iboVU10ZJfQ/mqdefault.jpg",
                         "title": "このディオだ！ #shorts",
                         "author": "千惠里 ちゆり(香港Vtuber)"
-                    },
-                    {
-                        "video_code": "flnnj2_VXx0",
-                        "image": "https://i.ytimg.com/vi/flnnj2_VXx0/mqdefault.jpg",
-                        "title": "19/4(突發!)屋企網絡壞咗＼`•̀益•́´／用電話頂住先 今日同大家畫畫 驚爆數據淨係開到半個鐘இдஇ",
-                        "author": "千惠里 ちゆり(香港Vtuber)"
-                    },
-                    {
-                        "video_code": "ckrCMyozCZ0",
-                        "image": "https://i.ytimg.com/vi/ckrCMyozCZ0/mqdefault.jpg",
-                        "title": "要改今晚直播 嗚嗚嗚  -GTA5-",
-                        "author": "千惠里 ちゆり(香港Vtuber)"
-                    },
-                    {
-                        "video_code": "MbxrNLf3Qw4",
-                        "image": "https://i.ytimg.com/vi/MbxrNLf3Qw4/mqdefault.jpg",
-                        "title": "26/3sorry電腦有問題今日應該直播唔到(〒︿〒)",
-                        "author": "千惠里 ちゆり(香港Vtuber)"
                     }
                 ]
             }
@@ -163,6 +139,12 @@
             "data": {
                 "title": "推薦重播",
                 "video_list": [
+                    {
+                        "video_code": "pCQr6bDtRTc",
+                        "image": "https://i.ytimg.com/vi/pCQr6bDtRTc/mqdefault.jpg",
+                        "title": "[初配信] 惠里新衣裝/2.0/進化？全新惠里發佈會✧*｡٩(ˊᗜˋ*)و✧*｡",
+                        "author": "千惠里 ちゆり(香港Vtuber)"
+                    },
                     {
                         "video_code": "0XoTKZ8seqM",
                         "image": "https://i.ytimg.com/vi/0XoTKZ8seqM/mqdefault.jpg",
@@ -182,6 +164,12 @@
                         "author": "千惠里 ちゆり(香港Vtuber)"
                     },
                     {
+                        "video_code": "c4ywc4fL1d8",
+                        "image": "https://i.ytimg.com/vi/c4ywc4fL1d8/mqdefault.jpg",
+                        "title": "我未死㗎!!因為準備進化!好多嘢忙緊 (ఠ్ఠ ˓̭ ఠ్ఠ)少咗上水",
+                        "author": "千惠里 ちゆり(香港Vtuber)"
+                    },
+                    {
                         "video_code": "uDQZR7eMlWw",
                         "image": "https://i.ytimg.com/vi/uDQZR7eMlWw/mqdefault.jpg",
                         "title": "100訂閱慶祝 ξ( ✿＞◡❛)1首先雜談2同時視聽廢片3共同APEX 直播最後會公佈一百訂閱活動",
@@ -194,33 +182,21 @@
                         "author": "千惠里 ちゆり(香港Vtuber)"
                     },
                     {
-                        "video_code": "aT-2Ug5x2WE",
-                        "image": "https://i.ytimg.com/vi/aT-2Ug5x2WE/mqdefault.jpg",
-                        "title": "今日同繼續痴(千)漢並肩作戰(ﾒ ﾟ皿ﾟ)ﾒ APEX 觀眾場開放中",
-                        "author": "千惠里 ちゆり(香港Vtuber)"
-                    },
-                    {
                         "video_code": "2zFQSpTBmIg",
                         "image": "https://i.ytimg.com/vi/2zFQSpTBmIg/mqdefault.jpg",
                         "title": "150週年(訂閱)慶祝活動公佈ᕙ(•̤᷆ ॒ ູ•̤᷇)ᕘ₊˚",
                         "author": "千惠里 ちゆり(香港Vtuber)"
                     },
                     {
-                        "video_code": "NSA7ZgsnBEM",
-                        "image": "https://i.ytimg.com/vi/NSA7ZgsnBEM/mqdefault.jpg",
-                        "title": "砌模型之前顧客我要砌咩(͡ ͡° ͜ つ ͡͡°)冇獎問答遊戲",
+                        "video_code": "aT-2Ug5x2WE",
+                        "image": "https://i.ytimg.com/vi/aT-2Ug5x2WE/mqdefault.jpg",
+                        "title": "今日同繼續痴(千)漢並肩作戰(ﾒ ﾟ皿ﾟ)ﾒ APEX 觀眾場開放中",
                         "author": "千惠里 ちゆり(香港Vtuber)"
                     },
                     {
-                        "video_code": "IRIEMksyiew",
-                        "image": "https://i.ytimg.com/vi/IRIEMksyiew/mqdefault.jpg",
-                        "title": "今日我畫你猜 ＼(´◓Д◔`)／ 你留言我會根據你個名畫你出嚟",
-                        "author": "千惠里 ちゆり(香港Vtuber)"
-                    },
-                    {
-                        "video_code": "ppX9frnaidg",
-                        "image": "https://i.ytimg.com/vi/ppX9frnaidg/mqdefault.jpg",
-                        "title": "補番上次未一齊玩嘅觀眾(⁎˃ᆺ˂) APEX 觀眾場開放中",
+                        "video_code": "m-ekATnQQCA",
+                        "image": "https://i.ytimg.com/vi/m-ekATnQQCA/mqdefault.jpg",
+                        "title": "幫我網購揀衫衫٩(⚙ᴗ⚙)۶話我聽你鍾意咩衫!!歡迎推介著咩衫!!",
                         "author": "千惠里 ちゆり(香港Vtuber)"
                     }
                 ]

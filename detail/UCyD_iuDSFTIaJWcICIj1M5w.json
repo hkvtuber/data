@@ -2,7 +2,7 @@
     "id": "UCyD_iuDSFTIaJWcICIj1M5w",
     "header": {
         "name": "森羅アルケ . 港台Vtuber準備中",
-        "image": "https://yt3.ggpht.com/UDB-W86TiDiveKb4qF0TO0XksF2MkiCxUMkFAV6hp0mf0zDXWOTb63PXhnlTQuL2-CqGl66YOqE=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/mNTc4YgKau_Zl3mbRsI4NwszXzaAwvrfVwZJsho3XSmjQCI2tzisnrxBPn-bDoVxm9jdr0P_=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/AyK3stQTlKn4fuC1d3g9b94F8D1_GC2mwcAFiaxJ-mTZhXpIB5CBux-abu9HKLrbvdL4uMgmzxw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FU-Ddh1VsAAcWQy?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FU-Ddh1VsAAcWQy?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FdS75GrUcAASUG_?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FdS75GrUcAASUG_?format=jpg&name=medium"
                     }
                 ]
             }
@@ -82,34 +82,108 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "p1BlYRVd0to",
+                        "image": "https://i.ytimg.com/vi/p1BlYRVd0to/mqdefault.jpg",
+                        "title": "酔いどれ知らず／ Covered by森羅アルケ【歌ってみた】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "ZcS0noGF3IM",
+                        "image": "https://i.ytimg.com/vi/ZcS0noGF3IM/mqdefault.jpg",
+                        "title": "モザイクロール／ Covered by森羅アルケ【歌ってみた】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
                         "video_code": "07rI-Q9GLjw",
                         "image": "https://i.ytimg.com/vi/07rI-Q9GLjw/mqdefault.jpg",
                         "title": "KING / Covered by森羅アルケ【歌ってみた】",
-                        "author": "森羅アルケ . 港台Vtuber準備中"
+                        "author": "森羅アルケ . 港台Vtuber"
                     },
                     {
-                        "video_code": "e6kgmG9ShVM",
-                        "image": "https://i.ytimg.com/vi/e6kgmG9ShVM/mqdefault.jpg",
-                        "title": "Mobile Suit Gundam00 OP -L'Arc~en~Ciel - DAYBREAK'S BELL / Covered by森羅アルケ【歌ってみた】",
-                        "author": "森羅アルケ . 港台Vtuber準備中"
+                        "video_code": "nL2MeFqwH1E",
+                        "image": "https://i.ytimg.com/vi/nL2MeFqwH1E/mqdefault.jpg",
+                        "title": "サリシノハラ／ Covered by森羅アルケ【歌ってみた】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "o-ZJ48CnDgs",
+                        "image": "https://i.ytimg.com/vi/o-ZJ48CnDgs/mqdefault.jpg",
+                        "title": "（粗口慎入）龍系=聾系？！聾系觀眾：看歌回前要多帶幾副備用耳膜！#hkvtuber #台灣vtuber #vtuber",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "3h-LT02LwH8",
+                        "image": "https://i.ytimg.com/vi/3h-LT02LwH8/mqdefault.jpg",
+                        "title": "（音量注意）【烤肉精華】大力吹會怎樣？大草原ASMR線下聯動【桃野薔薇&森羅アルケ】",
+                        "author": "森羅アルケ . 港台Vtuber"
                     },
                     {
                         "video_code": "g2kVJ0iDkr8",
                         "image": "https://i.ytimg.com/vi/g2kVJ0iDkr8/mqdefault.jpg",
                         "title": "恋愛サーキュレーション / Covered by森羅アルケ【歌ってみた】",
-                        "author": "森羅アルケ . 港台Vtuber準備中"
+                        "author": "森羅アルケ . 港台Vtuber"
                     },
                     {
-                        "video_code": "ypE-NyBtj9U",
-                        "image": "https://i.ytimg.com/vi/ypE-NyBtj9U/mqdefault.jpg",
-                        "title": "百變怪之歌 / メタモンのうた「モンモンメタモン」 / Covered by森羅アルケ【歌ってみた】",
-                        "author": "森羅アルケ . 港台Vtuber準備中"
+                        "video_code": "0lyqh4sn2hI",
+                        "image": "https://i.ytimg.com/vi/0lyqh4sn2hI/mqdefault.jpg",
+                        "title": "ZA★WA．RU．DO",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "e6kgmG9ShVM",
+                        "image": "https://i.ytimg.com/vi/e6kgmG9ShVM/mqdefault.jpg",
+                        "title": "Mobile Suit Gundam00 OP -L'Arc~en~Ciel - DAYBREAK'S BELL / Covered by森羅アルケ【歌ってみた】",
+                        "author": "森羅アルケ . 港台Vtuber"
                     },
                     {
                         "video_code": "Sd5mAoPKTp8",
                         "image": "https://i.ytimg.com/vi/Sd5mAoPKTp8/mqdefault.jpg",
                         "title": "Kikuo - 塵塵呪詛 \"Chiri chiri juso\" / Covered by森羅アルケ【歌ってみた】",
-                        "author": "森羅アルケ . 港台Vtuber準備中"
+                        "author": "森羅アルケ . 港台Vtuber"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "4HqV4uhTwOY",
+                        "image": "https://i.ytimg.com/vi/4HqV4uhTwOY/mqdefault.jpg",
+                        "title": "【初配信】初配即歌回【森羅アルケ】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "q25NLmB0y98",
+                        "image": "https://i.ytimg.com/vi/q25NLmB0y98/mqdefault.jpg",
+                        "title": "【歌枠】初配翌日繼續歌回！！老人V家歌回！！【森羅アルケ】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "HbsEBtT07sg",
+                        "image": "https://i.ytimg.com/vi/HbsEBtT07sg/mqdefault.jpg",
+                        "title": "【歌枠】雙10歌回！動漫&V家歌！【森羅アルケ】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "bfQpi8bmhfA",
+                        "image": "https://i.ytimg.com/vi/bfQpi8bmhfA/mqdefault.jpg",
+                        "title": "【突發】捨不得關台所以用一個薔薔洗澡的時間來開雜談【森羅アルケ】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "REdBv5Iv4-M",
+                        "image": "https://i.ytimg.com/vi/REdBv5Iv4-M/mqdefault.jpg",
+                        "title": "【歌枠】鋼彈歌回！！俺がガンダムだ！【森羅アルケ】",
+                        "author": "森羅アルケ . 港台Vtuber"
+                    },
+                    {
+                        "video_code": "xgn6geQe6wA",
+                        "image": "https://i.ytimg.com/vi/xgn6geQe6wA/mqdefault.jpg",
+                        "title": "【突發】到底沒有感情問題算不算一個感情問題？來回應大家的感情問題！深夜感情台雜談【森羅アルケ ft.桃野薔薇】",
+                        "author": "森羅アルケ . 港台Vtuber"
                     }
                 ]
             }

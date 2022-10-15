@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FWGiIIUUsAEAjkq?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FWGiIIUUsAEAjkq?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -87,9 +75,27 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "9iEoYfdDQXA",
+                        "image": "https://i.ytimg.com/vi/9iEoYfdDQXA/mqdefault.jpg",
+                        "title": "【CoC TRPG】4個傻仔Glioma Aquarium【Nirvøc】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "76jFLCu-8CI",
+                        "image": "https://i.ytimg.com/vi/76jFLCu-8CI/mqdefault.jpg",
+                        "title": "【土曜夜未訓 #05】集合啦！礦工工友會【Nirvøc】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
                         "video_code": "xldzES6ObJ0",
                         "image": "https://i.ytimg.com/vi/xldzES6ObJ0/mqdefault.jpg",
                         "title": "【Nirvøc】歡迎來到(B)地(L)獄(live)~【Talkhub #1】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
+                        "video_code": "0_31J8AqhaI",
+                        "image": "https://i.ytimg.com/vi/0_31J8AqhaI/mqdefault.jpg",
+                        "title": "【鬼月企劃】我不想玩PIEN和天線寶寶我只想睡覺..【浣熊】",
                         "author": "Havoc in the nirvana【Nirvoc】"
                     },
                     {
@@ -111,39 +117,21 @@
                         "author": "Havoc in the nirvana【Nirvoc】"
                     },
                     {
+                        "video_code": "QAGM1tp_9e8",
+                        "image": "https://i.ytimg.com/vi/QAGM1tp_9e8/mqdefault.jpg",
+                        "title": "【鬼月企劃】夏夜奇談【Nirvøc】",
+                        "author": "Havoc in the nirvana【Nirvoc】"
+                    },
+                    {
                         "video_code": "f4l_Ea5AlQM",
                         "image": "https://i.ytimg.com/vi/f4l_Ea5AlQM/mqdefault.jpg",
                         "title": "【Talkhub #10】RG27檢討會【Nirvøc】",
                         "author": "Havoc in the nirvana【Nirvoc】"
                     },
                     {
-                        "video_code": "YbHYEmoYyYg",
-                        "image": "https://i.ytimg.com/vi/YbHYEmoYyYg/mqdefault.jpg",
-                        "title": "【Nirvøc】自由地獄Talk！【Talkhub #6】",
-                        "author": "Havoc in the nirvana【Nirvoc】"
-                    },
-                    {
-                        "video_code": "upJaKAhak64",
-                        "image": "https://i.ytimg.com/vi/upJaKAhak64/mqdefault.jpg",
-                        "title": "【土曜夜未訓 #01】估唔到跑都仲未執【Nirvøc】",
-                        "author": "Havoc in the nirvana【Nirvoc】"
-                    },
-                    {
-                        "video_code": "dw30tRADWlo",
-                        "image": "https://i.ytimg.com/vi/dw30tRADWlo/mqdefault.jpg",
-                        "title": "【土曜夜未訓 #04】你今日瞓咗未？【Nirvøc】",
-                        "author": "Havoc in the nirvana【Nirvoc】"
-                    },
-                    {
                         "video_code": "7xGMeiW_lJs",
                         "image": "https://i.ytimg.com/vi/7xGMeiW_lJs/mqdefault.jpg",
                         "title": "【土曜夜未訓 #03】一齊來跑安拉！【Nirvøc】",
-                        "author": "Havoc in the nirvana【Nirvoc】"
-                    },
-                    {
-                        "video_code": "lRkNjAddkKo",
-                        "image": "https://i.ytimg.com/vi/lRkNjAddkKo/mqdefault.jpg",
-                        "title": "【Nirvøc】初見即事故？！【Talkhub #0】",
                         "author": "Havoc in the nirvana【Nirvoc】"
                     }
                 ]

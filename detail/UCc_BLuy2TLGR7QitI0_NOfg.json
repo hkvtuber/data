@@ -3,21 +3,9 @@
     "header": {
         "name": "Ten Ch.アストラ天【Debut準備中】",
         "image": "https://yt3.ggpht.com/uKtMOQqmZXOqGH8-5ae-7HnJZylORMBkdf5O8L0XuCYPzeiFO4f0lYiH-vzHWJsPiXrBcxU7vA=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/7aV2OkVhSj_hT0n481s3XKoMq8h4HTdvj8Q3qoeVdzKWGYQrPcGWK26XP43Pj-JfDga7gkAPBrg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "bg": "https://yt3.ggpht.com/baFIf-w2f-XJ-h_e1q3XsH2c64jfg1zSLUuFo5gu_0ZjCpLOQfvKsaaQc7RNJ0hlRgksASn2fw=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FY2P2LhagAIA0n7?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FY2P2LhagAIA0n7?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -94,6 +82,12 @@
                         "author": "Ten Ch.宇巡天"
                     },
                     {
+                        "video_code": "yj80D8CIeuk",
+                        "image": "https://i.ytimg.com/vi/yj80D8CIeuk/mqdefault.jpg",
+                        "title": "【Cover】百變小櫻《Groovy!》- 宇巡天",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
                         "video_code": "3SObanCCAPo",
                         "image": "https://i.ytimg.com/vi/3SObanCCAPo/mqdefault.jpg",
                         "title": "同一個聖鬥士都係會犯同樣嘅錯N次",
@@ -108,9 +102,51 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "D0tTxS4Et9g",
+                        "image": "https://i.ytimg.com/vi/D0tTxS4Et9g/mqdefault.jpg",
+                        "title": "【周五恐遊夜】初見繁中Ib",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
+                        "video_code": "8Cc-ceFj9tc",
+                        "image": "https://i.ytimg.com/vi/8Cc-ceFj9tc/mqdefault.jpg",
+                        "title": "【觀眾參加型】第N次MON HUNT台 ft. @羽鳥楓鈴 Karin Ch. [HKVtuber]​",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
+                        "video_code": "5mFxGiYVnyc",
+                        "image": "https://i.ytimg.com/vi/5mFxGiYVnyc/mqdefault.jpg",
+                        "title": "【生日會】宇巡天生日會25歲嘅兩周年紀念(只係出道半周年)",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
                         "video_code": "03ZYMWSKqJc",
                         "image": "https://i.ytimg.com/vi/03ZYMWSKqJc/mqdefault.jpg",
                         "title": "【初配信】急降地球後的冒險終於要展開了 - 求其的外星生物",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
+                        "video_code": "WVxrDyOB9_0",
+                        "image": "https://i.ytimg.com/vi/WVxrDyOB9_0/mqdefault.jpg",
+                        "title": "【觀眾參加型】斯普...Splatoon 3: 今日想打爆D三文魚",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
+                        "video_code": "f7qOQDBLzHs",
+                        "image": "https://i.ytimg.com/vi/f7qOQDBLzHs/mqdefault.jpg",
+                        "title": "【周五恐遊夜】同 @Wisteria Starling ch.  一齊SpeedRun晒7個結局(2/7)",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
+                        "video_code": "Zh_vCDGwjgQ",
+                        "image": "https://i.ytimg.com/vi/Zh_vCDGwjgQ/mqdefault.jpg",
+                        "title": "【周五恐遊夜】最後兩個結局!小鬼們你們死定啦!",
+                        "author": "Ten Ch.宇巡天"
+                    },
+                    {
+                        "video_code": "xCUqaGtJdWY",
+                        "image": "https://i.ytimg.com/vi/xCUqaGtJdWY/mqdefault.jpg",
+                        "title": "【周五悲嗚夜】未開GAME電腦先悲嗚,其實今晚係雜談",
                         "author": "Ten Ch.宇巡天"
                     },
                     {
@@ -120,51 +156,9 @@
                         "author": "Ten Ch.宇巡天"
                     },
                     {
-                        "video_code": "bF_cKjxeya4",
-                        "image": "https://i.ytimg.com/vi/bF_cKjxeya4/mqdefault.jpg",
-                        "title": "【塗鴉台】想畫個GBF 第3回 而我的畫畫戰鬥力可是有5的存在",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "3kPyuhm0m50",
-                        "image": "https://i.ytimg.com/vi/3kPyuhm0m50/mqdefault.jpg",
-                        "title": "【為Switch版的SUN BREAK做好準備】準備打爆村任",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "7SdCzj0l9xg",
-                        "image": "https://i.ytimg.com/vi/7SdCzj0l9xg/mqdefault.jpg",
-                        "title": "【周五恐遊夜】日本恐怖的東西太多了,今次來點西洋「恐怖」 | 《BUFF DOGE》",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "L3I-l9s8Egc",
-                        "image": "https://i.ytimg.com/vi/L3I-l9s8Egc/mqdefault.jpg",
-                        "title": "【為Switch版的SUN BREAK做好準備】其實真係追唔切",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "EIw8otnpOr4",
-                        "image": "https://i.ytimg.com/vi/EIw8otnpOr4/mqdefault.jpg",
-                        "title": "【為Switch版的SUN BREAK做好準備】現在才開始玩MHR真的不會太遲嗎?",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "tvSUlJUI4kY",
-                        "image": "https://i.ytimg.com/vi/tvSUlJUI4kY/mqdefault.jpg",
-                        "title": "【塗鴉台】想畫個GBF 而我的畫畫戰鬥力可是有5的存在",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "h31x-MjXJbo",
-                        "image": "https://i.ytimg.com/vi/h31x-MjXJbo/mqdefault.jpg",
-                        "title": "【塗鴉台】估下楓鈴新裝",
-                        "author": "Ten Ch.宇巡天"
-                    },
-                    {
-                        "video_code": "QDahAmiACcg",
-                        "image": "https://i.ytimg.com/vi/QDahAmiACcg/mqdefault.jpg",
-                        "title": "【系列品鑒會】生化危機系列 | 13 菜鳥警員全「身」進化",
+                        "video_code": "lv-C5LgVKjs",
+                        "image": "https://i.ytimg.com/vi/lv-C5LgVKjs/mqdefault.jpg",
+                        "title": "【周五恐遊夜】鬼門已封,但仲有小鬼未返去地獄,小鬼們繼續耗子尾汁!",
                         "author": "Ten Ch.宇巡天"
                     }
                 ]

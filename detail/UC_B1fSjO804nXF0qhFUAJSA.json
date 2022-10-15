@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/EqDZ8TYUwAEOaD1?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/EqDZ8TYUwAEOaD1?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -105,61 +93,61 @@
                         "video_code": "Ao9ydXy5Z04",
                         "image": "https://i.ytimg.com/vi/Ao9ydXy5Z04/mqdefault.jpg",
                         "title": "😇",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "pxcJOv1bYV0",
                         "image": "https://i.ytimg.com/vi/pxcJOv1bYV0/mqdefault.jpg",
                         "title": "[meme]哇 ! 是珍妮佛羅狼星 ! ft.天狼星",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "rRKQe7uVGkA",
                         "image": "https://i.ytimg.com/vi/rRKQe7uVGkA/mqdefault.jpg",
                         "title": "猫咪大戰爭六週年[香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "t64MLDbr3rM",
                         "image": "https://i.ytimg.com/vi/t64MLDbr3rM/mqdefault.jpg",
                         "title": "Chitty Chitty bang bang",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "-k3yvdg7Kvw",
                         "image": "https://i.ytimg.com/vi/-k3yvdg7Kvw/mqdefault.jpg",
                         "title": "Padoru ~ Padoru ~~ [香港Vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "5TB5KfHk3jg",
                         "image": "https://i.ytimg.com/vi/5TB5KfHk3jg/mqdefault.jpg",
                         "title": "[ 迫 害 觀 眾 ]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "eo7jRhbX4Ww",
                         "image": "https://i.ytimg.com/vi/eo7jRhbX4Ww/mqdefault.jpg",
                         "title": "♡ 正太 ♡",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "xFmgOGB79ns",
                         "image": "https://i.ytimg.com/vi/xFmgOGB79ns/mqdefault.jpg",
                         "title": "???",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "9OtjRosNJXQ",
                         "image": "https://i.ytimg.com/vi/9OtjRosNJXQ/mqdefault.jpg",
                         "title": "[重大告知]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "Nd2c0zl1ZvE",
                         "image": "https://i.ytimg.com/vi/Nd2c0zl1ZvE/mqdefault.jpg",
                         "title": "恭喜!",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     }
                 ]
             }
@@ -173,61 +161,61 @@
                         "video_code": "suV6sySjJuk",
                         "image": "https://i.ytimg.com/vi/suV6sySjJuk/mqdefault.jpg",
                         "title": "[Live 2D 2.0公開 ✕ 生日直播]今日我生日!我話事!🎂[香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "0V7knVqSnAc",
                         "image": "https://i.ytimg.com/vi/0V7knVqSnAc/mqdefault.jpg",
                         "title": "[一週年紀念直播] 夢想還在繼續...大概...[香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "1iEh2oU5ln8",
                         "image": "https://i.ytimg.com/vi/1iEh2oU5ln8/mqdefault.jpg",
                         "title": "[Candy Crush] 玩懷舊 game ! ? ? ? [香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "IDxCWJp3HFw",
                         "image": "https://i.ytimg.com/vi/IDxCWJp3HFw/mqdefault.jpg",
                         "title": "[畫畫] 新 loading 畫面製作 [香港Vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "fY2QcGNwhZY",
                         "image": "https://i.ytimg.com/vi/fY2QcGNwhZY/mqdefault.jpg",
                         "title": "[兒童節特別節目] 視聴者参加型-初級畫畫班  [香港Vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "ISPqBHda7bU",
                         "image": "https://i.ytimg.com/vi/ISPqBHda7bU/mqdefault.jpg",
                         "title": "[switch 運動] go go go ! ~  [香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "3k5sYNutIpk",
                         "image": "https://i.ytimg.com/vi/3k5sYNutIpk/mqdefault.jpg",
                         "title": "[學習]日本語勉強？自學日文？[香港Vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "Vq_zCs3EVd4",
                         "image": "https://i.ytimg.com/vi/Vq_zCs3EVd4/mqdefault.jpg",
                         "title": "[天羽幻黄生日祭] 新Live2D公開+食蛋糕 ! ? [香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "WgWZA5AdYuk",
                         "image": "https://i.ytimg.com/vi/WgWZA5AdYuk/mqdefault.jpg",
                         "title": "[DOKI DOKI] 心跳?文學?愛情?......[香港vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     },
                     {
                         "video_code": "yuIdsxPOB34",
                         "image": "https://i.ytimg.com/vi/yuIdsxPOB34/mqdefault.jpg",
                         "title": "[天羽幻黃二周年] 歡迎凸待 ！！！[香港Vtuber]",
-                        "author": "天羽幻黄 ch.[香港Vtuber]"
+                        "author": "天羽幻黃 Amo Genou ch. [HKVtuber]"
                     }
                 ]
             }

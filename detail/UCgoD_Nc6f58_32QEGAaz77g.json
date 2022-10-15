@@ -2,7 +2,6 @@
     "id": "UCgoD_Nc6f58_32QEGAaz77g",
     "header": {
         "name": "水屋砂糖 Mizuya Sugar Ch.【香港VTuber】",
-        "image": "https://yt3.ggpht.com/ytc/AMLnZu9sMGrjx9HGywXHyNAD4Qn2dDhDIVRudbx5Mn14hA=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/liIq2qVHrxUeLyOGmtDfN-UPCwKFtuh4zNHwvM5VG0nLl8dZK4PmfUfb-SemWNTARs0pkShT=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
@@ -93,19 +92,13 @@
         {
             "type": "title_youtube",
             "data": {
-                "title": "推薦影片",
+                "title": "推薦重播",
                 "video_list": [
                     {
-                        "video_code": "uCfzzGIkfEM",
-                        "image": "https://i.ytimg.com/vi/uCfzzGIkfEM/mqdefault.jpg",
-                        "title": "SAY SO - Doja Cat／Japanese Version (cover) by 音準糖 ♡香港Vtuber♡",
-                        "author": "RIN with 水屋砂糖 Mizuya Sugar"
-                    },
-                    {
-                        "video_code": "KL86VfBWYZg",
-                        "image": "https://i.ytimg.com/vi/KL86VfBWYZg/mqdefault.jpg",
-                        "title": "カタオモイ - Aimer (cover)",
-                        "author": "RIN with 水屋砂糖 Mizuya Sugar"
+                        "video_code": "K64mQ1hN2u8",
+                        "image": "https://i.ytimg.com/vi/K64mQ1hN2u8/mqdefault.jpg",
+                        "title": "【開live】如何用AI將我的黑歷史變身成美少女😳😳⁽⁽ ◟(∗ ˊωˋ ∗)◞ ⁾⁾",
+                        "author": "葆琳 Polam"
                     }
                 ]
             }

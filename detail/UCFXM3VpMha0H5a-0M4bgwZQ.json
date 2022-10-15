@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FeTqygRVIAAmXUQ?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FeTqygRVIAAmXUQ?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -112,6 +124,18 @@
                         "author": "凱特斯Kates Sophia ch."
                     },
                     {
+                        "video_code": "BZcEfyUCeF0",
+                        "image": "https://i.ytimg.com/vi/BZcEfyUCeF0/mqdefault.jpg",
+                        "title": "[ Live2D showcase] Otowa Minai",
+                        "author": "凱特斯Kates Sophia ch."
+                    },
+                    {
+                        "video_code": "LE6U6GVnIig",
+                        "image": "https://i.ytimg.com/vi/LE6U6GVnIig/mqdefault.jpg",
+                        "title": "[ Live2D showcase] Darkliam Levia",
+                        "author": "凱特斯Kates Sophia ch."
+                    },
+                    {
                         "video_code": "HRnIZ8BIfl0",
                         "image": "https://i.ytimg.com/vi/HRnIZ8BIfl0/mqdefault.jpg",
                         "title": "【滿月特別建模showcase】Live2D showcase chibi form of Kates Sophia",
@@ -162,27 +186,27 @@
                         "author": "凱特斯Kates Sophia ch."
                     },
                     {
+                        "video_code": "S1LhGltjLNI",
+                        "image": "https://i.ytimg.com/vi/S1LhGltjLNI/mqdefault.jpg",
+                        "title": "yooooooooo",
+                        "author": "凱特斯Kates Sophia ch."
+                    },
+                    {
+                        "video_code": "Px9mcnXUop4",
+                        "image": "https://i.ytimg.com/vi/Px9mcnXUop4/mqdefault.jpg",
+                        "title": "【live2D工作台】 冇時間啦",
+                        "author": "凱特斯Kates Sophia ch."
+                    },
+                    {
                         "video_code": "kVpfPTcXswk",
                         "image": "https://i.ytimg.com/vi/kVpfPTcXswk/mqdefault.jpg",
                         "title": "【Live2D工作台】hi :D",
                         "author": "凱特斯Kates Sophia ch."
                     },
                     {
-                        "video_code": "Y3TeBMf-uQ8",
-                        "image": "https://i.ytimg.com/vi/Y3TeBMf-uQ8/mqdefault.jpg",
-                        "title": "【突發工作台】【Kates Sophia/香港vtuber】(re steam)",
-                        "author": "凱特斯Kates Sophia ch."
-                    },
-                    {
                         "video_code": "vdhmvESRopA",
                         "image": "https://i.ytimg.com/vi/vdhmvESRopA/mqdefault.jpg",
                         "title": "【突發工作台】【Kates Sophia/香港vtuber】",
-                        "author": "凱特斯Kates Sophia ch."
-                    },
-                    {
-                        "video_code": "4n8qXe3CTuw",
-                        "image": "https://i.ytimg.com/vi/4n8qXe3CTuw/mqdefault.jpg",
-                        "title": "【無聲工作台】 喉嚨不太舒服, 所以就聽聽音樂吧ww",
                         "author": "凱特斯Kates Sophia ch."
                     }
                 ]

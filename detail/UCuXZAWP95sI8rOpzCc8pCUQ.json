@@ -78,6 +78,26 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "jwxYZc7jliw",
+                        "image": "https://i.ytimg.com/vi/jwxYZc7jliw/mqdefault.jpg",
+                        "title": "【唱歌台】YT崩壞，酒後大破音【望月ゆめは】",
+                        "author": "ゆめ Time - 望月ゆめは"
+                    },
+                    {
+                        "video_code": "kAntI6jDrPg",
+                        "image": "https://i.ytimg.com/vi/kAntI6jDrPg/mqdefault.jpg",
+                        "title": "【唱歌台】酒後大破音【望月ゆめは】",
+                        "author": "ゆめ Time - 望月ゆめは"
+                    }
+                ]
+            }
         }
     ]
 }

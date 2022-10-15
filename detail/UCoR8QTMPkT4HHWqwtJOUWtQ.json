@@ -2,22 +2,10 @@
     "id": "UCoR8QTMPkT4HHWqwtJOUWtQ",
     "header": {
         "name": "~Kaano~ 白鼬かあの 【 HKVtuber】",
-        "image": "https://yt3.ggpht.com/LpoG3k-Y2aghdLBxwvqRCBO2vMv3-kL1z5t7LGpXLnOKDVlmmljecpl197WU19in1tIhpzKOJg=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/r33nGxTRcRPwatKQFhwTKlO5uL6DU2ZPqvVchYDFkD_ybr4f545hHWfJmIZihWKDNYm0awzlwa4=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/6mol-AFL4Rxz_Z7kGDfXRr9KGbYmZs4LO9K2Dg_rQ6EkxZexl6Mrwv3tgKuVVaLiBuFafnJEpKs=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FSTcqElaUAAGVxo?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FSTcqElaUAAGVxo?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -170,15 +158,15 @@
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     },
                     {
-                        "video_code": "s5MMlBaT-DE",
-                        "image": "https://i.ytimg.com/vi/s5MMlBaT-DE/mqdefault.jpg",
-                        "title": "《雑談？》~広東語～ 年賀状を書く！！+ ガチャww《香港Vtuber～白鼬かあの》",
-                        "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
-                    },
-                    {
                         "video_code": "d6EaNbypSw4",
                         "image": "https://i.ytimg.com/vi/d6EaNbypSw4/mqdefault.jpg",
                         "title": "《歌枠》#１～広東語～ メリークリスマス初歌枠だあ！！！《香港Vtuber～白鼬かあの》",
+                        "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
+                    },
+                    {
+                        "video_code": "JbT3VVCnGns",
+                        "image": "https://i.ytimg.com/vi/JbT3VVCnGns/mqdefault.jpg",
+                        "title": "《一周年記念》當初嘅初配信我究竟講咗啲咩？《香港Vtuber～白鼬かあの》",
                         "author": "~Kaano~ 白鼬かあの 【 HKVtuber】"
                     }
                 ]

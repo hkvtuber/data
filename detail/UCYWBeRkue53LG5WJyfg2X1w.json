@@ -7,22 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FLp544NVcAMkmiP?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FLp544NVcAMkmiP?format=jpg&name=medium"
-                    },
-                    {
-                        "image": "https://pbs.twimg.com/media/FLp55YCVgAIz-AZ?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FLp55YCVgAIz-AZ?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -162,27 +146,27 @@
                         "author": "奈々宮桜雪Ch.【HKVtuber】"
                     },
                     {
+                        "video_code": "qxx405NGXqM",
+                        "image": "https://i.ytimg.com/vi/qxx405NGXqM/mqdefault.jpg",
+                        "title": "【一分歌ってみた】深昏睡 ꒰ঌ covered by奈々宮桜雪【HKVtuber】໒꒱",
+                        "author": "奈々宮桜雪Ch.【HKVtuber】"
+                    },
+                    {
                         "video_code": "83MYP0xPtwY",
                         "image": "https://i.ytimg.com/vi/83MYP0xPtwY/mqdefault.jpg",
                         "title": "【Phasmophobia直播精華】耳膜破壞裝置【香港vtuber/奈々宮桜雪】",
                         "author": "奈々宮桜雪Ch.【HKVtuber】"
                     },
                     {
-                        "video_code": "enVOA0AQ6Ds",
-                        "image": "https://i.ytimg.com/vi/enVOA0AQ6Ds/mqdefault.jpg",
-                        "title": "雲仔起床 即刻收台",
-                        "author": "奈々宮桜雪Ch.【HKVtuber】"
-                    },
-                    {
-                        "video_code": "Mni3yeh61sU",
-                        "image": "https://i.ytimg.com/vi/Mni3yeh61sU/mqdefault.jpg",
-                        "title": "【歌枠剪輯】ミライ【香港vtuber/奈々宮桜雪】",
-                        "author": "奈々宮桜雪Ch.【HKVtuber】"
-                    },
-                    {
                         "video_code": "tGdAtir290E",
                         "image": "https://i.ytimg.com/vi/tGdAtir290E/mqdefault.jpg",
                         "title": "【釘宮三連】來就來誰怕誰!!!!月杏ムム!【香港vtuber/奈々宮桜雪】",
+                        "author": "奈々宮桜雪Ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "enVOA0AQ6Ds",
+                        "image": "https://i.ytimg.com/vi/enVOA0AQ6Ds/mqdefault.jpg",
+                        "title": "雲仔起床 即刻收台",
                         "author": "奈々宮桜雪Ch.【HKVtuber】"
                     }
                 ]
@@ -197,6 +181,12 @@
                         "video_code": "yYSWJDx_mBA",
                         "image": "https://i.ytimg.com/vi/yYSWJDx_mBA/mqdefault.jpg",
                         "title": "【初配信】新人治愈系IDOL正式出道!!!【香港vtuber/奈々宮桜雪】",
+                        "author": "奈々宮桜雪Ch.【HKVtuber】"
+                    },
+                    {
+                        "video_code": "ZAyiOjHSuqw",
+                        "image": "https://i.ytimg.com/vi/ZAyiOjHSuqw/mqdefault.jpg",
+                        "title": "【1週年紀念直播+凸待】謝謝大家這一年來的支持!!໒꒱⋆【香港vtuber/奈々宮桜雪】",
                         "author": "奈々宮桜雪Ch.【HKVtuber】"
                     },
                     {
@@ -245,12 +235,6 @@
                         "video_code": "nHkDSp5Wy6U",
                         "image": "https://i.ytimg.com/vi/nHkDSp5Wy6U/mqdefault.jpg",
                         "title": "【暴雨 HEAVY RAIN】事故連連ww feat.沢田ユウ【香港vtuber/奈々宮桜雪】",
-                        "author": "奈々宮桜雪Ch.【HKVtuber】"
-                    },
-                    {
-                        "video_code": "aal-WK94E6U",
-                        "image": "https://i.ytimg.com/vi/aal-WK94E6U/mqdefault.jpg",
-                        "title": "【恐怖遊戲】ぴえん!ぴえん!ぴえん!有請特別嘉賓!【香港vtuber/奈々宮桜雪】",
                         "author": "奈々宮桜雪Ch.【HKVtuber】"
                     }
                 ]

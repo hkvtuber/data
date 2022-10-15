@@ -2,22 +2,10 @@
     "id": "UCa6a_59s3wnxbZPBKU7vX_A",
     "header": {
         "name": "Rio Channel [HKVtuber]",
-        "image": "https://yt3.ggpht.com/TK75kCfM4FkayLsiCby27sjHHX9RNq0c_aKaJBeJBPDfvqW67XQGxqGS4OPzHdl0KweCnpV3=s88-c-k-c0x00ffffff-no-rj",
+        "image": "https://yt3.ggpht.com/s-D3PoBiZlKmkJORbxW_14bYUsec-qNk-KRjc4sMcBJaea1ygOsO4hsBMoXnjZewRz5TQ2v2_QE=s88-c-k-c0x00ffffff-no-rj",
         "bg": "https://yt3.ggpht.com/EfCRTRq_dyreLcOTNdhklIV1u3KHnfJAOWdTJIcrte67-Z3TZMR6k-FN09L9Adg2bwN4qBb_dg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
-        {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/E_bBwb3UcAI2t97?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/E_bBwb3UcAI2t97?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
         {
             "type": "title_content",
             "data": {
@@ -109,6 +97,12 @@
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
+                        "video_code": "P3k9qjv8wmg",
+                        "image": "https://i.ytimg.com/vi/P3k9qjv8wmg/mqdefault.jpg",
+                        "title": "頻道宣傳片 2022 Vol.1",
+                        "author": "Rio Channel [HKVtuber]"
+                    },
+                    {
                         "video_code": "XF0Ia1IaR5A",
                         "image": "https://i.ytimg.com/vi/XF0Ia1IaR5A/mqdefault.jpg",
                         "title": "[翻唱] 主能夠 【香港Vtuber 獅子山りお】",
@@ -139,9 +133,9 @@
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
-                        "video_code": "P3k9qjv8wmg",
-                        "image": "https://i.ytimg.com/vi/P3k9qjv8wmg/mqdefault.jpg",
-                        "title": "頻道宣傳片 2022 Vol.1",
+                        "video_code": "VkjM0GNsiDg",
+                        "image": "https://i.ytimg.com/vi/VkjM0GNsiDg/mqdefault.jpg",
+                        "title": "[Cover] Hear Me Cry【香港Vtuber 獅子山 Rio】",
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
@@ -154,12 +148,6 @@
                         "video_code": "KE8I9mkbfmQ",
                         "image": "https://i.ytimg.com/vi/KE8I9mkbfmQ/mqdefault.jpg",
                         "title": "[Cover] 就到聖誕 (Santa Claus is Coming to Town) 【香港Vtuber 獅子山りお】",
-                        "author": "Rio Channel [HKVtuber]"
-                    },
-                    {
-                        "video_code": "xSPLlozD6XI",
-                        "image": "https://i.ytimg.com/vi/xSPLlozD6XI/mqdefault.jpg",
-                        "title": "[Cover] KING 【新人香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     }
                 ]
@@ -219,15 +207,15 @@
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
-                        "video_code": "ZF2FmxVyoNc",
-                        "image": "https://i.ytimg.com/vi/ZF2FmxVyoNc/mqdefault.jpg",
-                        "title": "[推坑] 獅子山機場，開幕！！ 【香港Vtuber 獅子山りお】",
+                        "video_code": "KWY51ahHS04",
+                        "image": "https://i.ytimg.com/vi/KWY51ahHS04/mqdefault.jpg",
+                        "title": "[玩舊Game] 天誅 #3 (最終回)【香港Vtuber 獅子山 Rio】",
                         "author": "Rio Channel [HKVtuber]"
                     },
                     {
-                        "video_code": "UqIXmaZEstM",
-                        "image": "https://i.ytimg.com/vi/UqIXmaZEstM/mqdefault.jpg",
-                        "title": "[推坑] FF14 #002 轉職系統解放 【新人香港Vtuber 獅子山りお】",
+                        "video_code": "ZF2FmxVyoNc",
+                        "image": "https://i.ytimg.com/vi/ZF2FmxVyoNc/mqdefault.jpg",
+                        "title": "[推坑] 獅子山機場，開幕！！ 【香港Vtuber 獅子山りお】",
                         "author": "Rio Channel [HKVtuber]"
                     }
                 ]

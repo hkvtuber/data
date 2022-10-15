@@ -109,7 +109,13 @@
                     {
                         "video_code": "KI3u1I_kpuk",
                         "image": "https://i.ytimg.com/vi/KI3u1I_kpuk/mqdefault.jpg",
-                        "title": "【歌ってみた】百鬼祭/ 鬼塚れい[HK Vtuber] (Cover)",
+                        "title": "【歌ってみた】百鬼祭/ 鬼塚れい",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "6dfmDBb5TeA",
+                        "image": "https://i.ytimg.com/vi/6dfmDBb5TeA/mqdefault.jpg",
+                        "title": "【歌ってみた】HAPPY BIRTHDAY/ 鬼塚れい",
                         "author": "鬼塚れい [HK Vtuber]"
                     }
                 ]
@@ -121,27 +127,63 @@
                 "title": "推薦重播",
                 "video_list": [
                     {
+                        "video_code": "I9Q5f1gluDA",
+                        "image": "https://i.ytimg.com/vi/I9Q5f1gluDA/mqdefault.jpg",
+                        "title": "【突發】啱啱起身 傾下計然後去食飯【鬼塚れい/HK Vtuber】",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
                         "video_code": "W4JzVybRqDY",
                         "image": "https://i.ytimg.com/vi/W4JzVybRqDY/mqdefault.jpg",
                         "title": "【初配信】∇鬼塚れい/HK Vtuber∆",
                         "author": "鬼塚れい [HK Vtuber]"
                     },
                     {
-                        "video_code": "uTGcyzhAJE4",
-                        "image": "https://i.ytimg.com/vi/uTGcyzhAJE4/mqdefault.jpg",
-                        "title": "【雀魂】唔知仲記唔記得點打【鬼塚れい/HK Vtuber】",
+                        "video_code": "xKMgg0DQoTY",
+                        "image": "https://i.ytimg.com/vi/xKMgg0DQoTY/mqdefault.jpg",
+                        "title": "【Getting Over It】好難玩咁...（耐久台）【鬼塚れい/HK Vtuber】",
                         "author": "鬼塚れい [HK Vtuber]"
                     },
                     {
-                        "video_code": "yngMa_PcijQ",
-                        "image": "https://i.ytimg.com/vi/yngMa_PcijQ/mqdefault.jpg",
-                        "title": "【MHR】試下用自己對角狩獵【鬼塚れい/HK Vtuber】",
+                        "video_code": "QbIDFhNrhSw",
+                        "image": "https://i.ytimg.com/vi/QbIDFhNrhSw/mqdefault.jpg",
+                        "title": "【Never Have I Ever/遊戲聯動】到底大家有啲咩未做過呢？【鬼塚れい/HK Vtuber】",
                         "author": "鬼塚れい [HK Vtuber]"
                     },
                     {
-                        "video_code": "SC4mvzcmmfY",
-                        "image": "https://i.ytimg.com/vi/SC4mvzcmmfY/mqdefault.jpg",
-                        "title": "【STRAY】＃1 貓貓模擬器【鬼塚れい/HK Vtuber】",
+                        "video_code": "Vsn7hPo0l4c",
+                        "image": "https://i.ytimg.com/vi/Vsn7hPo0l4c/mqdefault.jpg",
+                        "title": "生日凸待ち+歌回【鬼塚れい/HK Vtuber】",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "KHpfv8Ee5os",
+                        "image": "https://i.ytimg.com/vi/KHpfv8Ee5os/mqdefault.jpg",
+                        "title": "【Jump King 耐久台】200訂找數！！！【鬼塚れい/HK Vtuber】",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "_JmUoeOeAr0",
+                        "image": "https://i.ytimg.com/vi/_JmUoeOeAr0/mqdefault.jpg",
+                        "title": "【突發/雜談】落湯鬼，傾下偈【鬼塚れい/HK Vtuber】",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "VhajednzzhY",
+                        "image": "https://i.ytimg.com/vi/VhajednzzhY/mqdefault.jpg",
+                        "title": "【雀魂/參加型】大家一齊嚟交流交流～【鬼塚れい/HK Vtuber】",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "hc1LAxq6d60",
+                        "image": "https://i.ytimg.com/vi/hc1LAxq6d60/mqdefault.jpg",
+                        "title": "【找數】 100訂台詞回【鬼塚れい/HK Vtuber】",
+                        "author": "鬼塚れい [HK Vtuber]"
+                    },
+                    {
+                        "video_code": "jI2QTo1WjIQ",
+                        "image": "https://i.ytimg.com/vi/jI2QTo1WjIQ/mqdefault.jpg",
+                        "title": "【雜談】有冇人嚟日本旅行?(啱啱食完譚仔)【鬼塚れい/HK Vtuber】",
                         "author": "鬼塚れい [HK Vtuber]"
                     }
                 ]

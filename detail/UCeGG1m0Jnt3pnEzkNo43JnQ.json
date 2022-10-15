@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/Fb2kvncXgAMXHOm?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fb2kvncXgAMXHOm?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -95,9 +107,39 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "oh9FxR84gIs",
+                        "image": "https://i.ytimg.com/vi/oh9FxR84gIs/mqdefault.jpg",
+                        "title": "【Illustration Making】看看雪櫃玩火 ｜雪櫃/Reiha  #Shorts",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
                         "video_code": "hTlVpCQgX9Y",
                         "image": "https://i.ytimg.com/vi/hTlVpCQgX9Y/mqdefault.jpg",
                         "title": "【Live2D showcase】雪櫃/Reiha ver3.0 Live2D model介紹｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "EJ13W487KTY",
+                        "image": "https://i.ytimg.com/vi/EJ13W487KTY/mqdefault.jpg",
+                        "title": "【Live2D showcase】雪櫃/Reiha ver3.1 Live2D model介紹｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "4qXwrHG47Pk",
+                        "image": "https://i.ytimg.com/vi/4qXwrHG47Pk/mqdefault.jpg",
+                        "title": "法語急口令挑戰 Une frigo qui parle française｜雪櫃/Reiha #Shorts",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "kTtBHD_jw1o",
+                        "image": "https://i.ytimg.com/vi/kTtBHD_jw1o/mqdefault.jpg",
+                        "title": "【傳畫遊戲】人類嘅力量可以點改變一張畫？ （with 我的大佬和V朋友）｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "ZcLmiWtJMfA",
+                        "image": "https://i.ytimg.com/vi/ZcLmiWtJMfA/mqdefault.jpg",
+                        "title": "【GTA5】日常九鳥事篇 with 九九 (GTA5 funny moment and fail)｜雪櫃/Reiha",
                         "author": "雪櫃 / Reiha Ch."
                     },
                     {
@@ -107,9 +149,21 @@
                         "author": "雪櫃 / Reiha Ch."
                     },
                     {
+                        "video_code": "Cy9pT_47XjU",
+                        "image": "https://i.ytimg.com/vi/Cy9pT_47XjU/mqdefault.jpg",
+                        "title": "【Illustration making】Chibi Character 2022.9.20 イラストメイキング｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
                         "video_code": "CdsIAQ10-Bo",
                         "image": "https://i.ytimg.com/vi/CdsIAQ10-Bo/mqdefault.jpg",
                         "title": "Ver3.0公佈予告ＰＶ｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "3FzsTBjIRFg",
+                        "image": "https://i.ytimg.com/vi/3FzsTBjIRFg/mqdefault.jpg",
+                        "title": "【MHRSunbreak】電龍與棘龍的禁忌戀情 ｜雪櫃/Reiha  #Shorts",
                         "author": "雪櫃 / Reiha Ch."
                     }
                 ]
@@ -133,9 +187,21 @@
                         "author": "雪櫃 / Reiha Ch."
                     },
                     {
+                        "video_code": "wo8tTyT012U",
+                        "image": "https://i.ytimg.com/vi/wo8tTyT012U/mqdefault.jpg",
+                        "title": "【ELDEN RING#1】初次接觸魂系｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
                         "video_code": "s-yESfOCHwk",
                         "image": "https://i.ytimg.com/vi/s-yESfOCHwk/mqdefault.jpg",
                         "title": "【Ver.3.0公開】挑戰自己各種極限嘅新模+重新自我介紹 ｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "UIlldpBa5SM",
+                        "image": "https://i.ytimg.com/vi/UIlldpBa5SM/mqdefault.jpg",
+                        "title": "【300訂THX】畫icon俾大佬們，只要cm就會畫！（閒時會整meme）｜雪櫃/Reiha",
                         "author": "雪櫃 / Reiha Ch."
                     },
                     {
@@ -145,39 +211,27 @@
                         "author": "雪櫃 / Reiha Ch."
                     },
                     {
-                        "video_code": "mujxkX5CLnI",
-                        "image": "https://i.ytimg.com/vi/mujxkX5CLnI/mqdefault.jpg",
-                        "title": "【初配信】「雪櫃、V出道！」自我介紹＋MHIB｜雪櫃/Reiha",
-                        "author": "雪櫃 / Reiha Ch."
-                    },
-                    {
                         "video_code": "pRVWXkMXhLE",
                         "image": "https://i.ytimg.com/vi/pRVWXkMXhLE/mqdefault.jpg",
                         "title": "【週日乜都傾畫畫台#9 月尾SP！】跳出畫框，畫出宇宙｜雪櫃/Reiha",
                         "author": "雪櫃 / Reiha Ch."
                     },
                     {
+                        "video_code": "mujxkX5CLnI",
+                        "image": "https://i.ytimg.com/vi/mujxkX5CLnI/mqdefault.jpg",
+                        "title": "【初配信】「雪櫃、V出道！」自我介紹＋MHIB｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
+                        "video_code": "zZavHVjwc1g",
+                        "image": "https://i.ytimg.com/vi/zZavHVjwc1g/mqdefault.jpg",
+                        "title": "【二百訂Thx】一齊塡Vtuber一問一答自我介紹歌詞｜雪櫃/Reiha",
+                        "author": "雪櫃 / Reiha Ch."
+                    },
+                    {
                         "video_code": "sDg9t36BKvk",
                         "image": "https://i.ytimg.com/vi/sDg9t36BKvk/mqdefault.jpg",
                         "title": "【MHRSunbreak #2(斷網後重開)】   (到冰狼龍)單人狩獵笛主線全攻略 ｜雪櫃/Reiha",
-                        "author": "雪櫃 / Reiha Ch."
-                    },
-                    {
-                        "video_code": "x8_zqe6jJRo",
-                        "image": "https://i.ytimg.com/vi/x8_zqe6jJRo/mqdefault.jpg",
-                        "title": "【小遊戲雜談會＋日麻】來個深度交流！ Feat. Arata, Reimond, ユラ｜雪櫃Reiha",
-                        "author": "雪櫃 / Reiha Ch."
-                    },
-                    {
-                        "video_code": "wlZd3KG8yEc",
-                        "image": "https://i.ytimg.com/vi/wlZd3KG8yEc/mqdefault.jpg",
-                        "title": "【雪櫃半周年記念】趕工後嘅回歸直播，一堆感言＆ V限定凸待｜雪櫃/Reiha",
-                        "author": "雪櫃 / Reiha Ch."
-                    },
-                    {
-                        "video_code": "elF_6QeUU5I",
-                        "image": "https://i.ytimg.com/vi/elF_6QeUU5I/mqdefault.jpg",
-                        "title": "【MHRSunbreak #5】(觀眾參加場)升MR刷素材｜雪櫃/Reiha",
                         "author": "雪櫃 / Reiha Ch."
                     }
                 ]

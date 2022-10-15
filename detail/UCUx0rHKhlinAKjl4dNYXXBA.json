@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FYuSGK5VsAA3fiW?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FYuSGK5VsAA3fiW?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FbjoYhPVEAAHY9X?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FbjoYhPVEAAHY9X?format=jpg&name=medium"
                     }
                 ]
             }
@@ -142,9 +142,21 @@
                         "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
+                        "video_code": "cFod_jb_Kww",
+                        "image": "https://i.ytimg.com/vi/cFod_jb_Kww/mqdefault.jpg",
+                        "title": "【歌回精華】要愛愛full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    },
+                    {
                         "video_code": "VfwVNo0u6P0",
                         "image": "https://i.ytimg.com/vi/VfwVNo0u6P0/mqdefault.jpg",
                         "title": "可以喜歡Kana嗎🥺💖",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    },
+                    {
+                        "video_code": "GBxRLyNRues",
+                        "image": "https://i.ytimg.com/vi/GBxRLyNRues/mqdefault.jpg",
+                        "title": "【歌回精華】學貓叫full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
                         "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
@@ -154,27 +166,59 @@
                         "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
-                        "video_code": "cFod_jb_Kww",
-                        "image": "https://i.ytimg.com/vi/cFod_jb_Kww/mqdefault.jpg",
-                        "title": "【歌回精華】要愛愛full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
-                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
-                    },
-                    {
                         "video_code": "qVQTMWHdtbA",
                         "image": "https://i.ytimg.com/vi/qVQTMWHdtbA/mqdefault.jpg",
                         "title": "我的秘密full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
                         "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
-                        "video_code": "cK7Y4-rdk-M",
-                        "image": "https://i.ytimg.com/vi/cK7Y4-rdk-M/mqdefault.jpg",
-                        "title": "戀愛畫板full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
+                        "video_code": "pTQZ_MxwLHU",
+                        "image": "https://i.ytimg.com/vi/pTQZ_MxwLHU/mqdefault.jpg",
+                        "title": "心動距離❤️((沒有聲音是正常的",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "__jRfCX3ucE",
+                        "image": "https://i.ytimg.com/vi/__jRfCX3ucE/mqdefault.jpg",
+                        "title": "【❤️初配信❤️】來參見妖界的貓妖吧！🐱萌貓出沒🐱│ 貓又伽夏Kana❤️",
                         "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     },
                     {
-                        "video_code": "GBxRLyNRues",
-                        "image": "https://i.ytimg.com/vi/GBxRLyNRues/mqdefault.jpg",
-                        "title": "【歌回精華】學貓叫full ver. cover by Kana Ch. 貓又ガシア【HKvtuber】",
+                        "video_code": "b4wdiYDeaBc",
+                        "image": "https://i.ytimg.com/vi/b4wdiYDeaBc/mqdefault.jpg",
+                        "title": "【 Five Nights at Freddy's 4】好驚啊啊啊啊QAQ應該...不會暴言吧!!!!!!【貓又ガシア/香港VTuber】",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    },
+                    {
+                        "video_code": "rzYRGo300Ms",
+                        "image": "https://i.ytimg.com/vi/rzYRGo300Ms/mqdefault.jpg",
+                        "title": "【普通話限定台】一星期一次的限定台，這次是限定歌回!!【貓又ガシア/香港VTuber】",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    },
+                    {
+                        "video_code": "TXsmTx-tGWo",
+                        "image": "https://i.ytimg.com/vi/TXsmTx-tGWo/mqdefault.jpg",
+                        "title": "【❤️突發歌回❤️】突然想唱歌♥專心唱歌不會說話喔│ 貓又伽夏Kana❤️",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    },
+                    {
+                        "video_code": "qgFkHhYZw_0",
+                        "image": "https://i.ytimg.com/vi/qgFkHhYZw_0/mqdefault.jpg",
+                        "title": "【❤️Poppy Playtime❤️】你離我遠點，保持社交距離啦幹！！！不要過來QAQ│ 貓又伽夏Kana❤️",
+                        "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
+                    },
+                    {
+                        "video_code": "FtfQXDhMZtk",
+                        "image": "https://i.ytimg.com/vi/FtfQXDhMZtk/mqdefault.jpg",
+                        "title": "【❤️黑相集❤️】其實我不知道這個是玩什麼的(x │ 貓又伽夏Kana❤️",
                         "author": "Kana Ch. 貓又かか【可愛偶像歌手】"
                     }
                 ]

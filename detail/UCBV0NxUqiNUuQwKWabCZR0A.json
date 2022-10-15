@@ -2,8 +2,8 @@
     "id": "UCBV0NxUqiNUuQwKWabCZR0A",
     "header": {
         "name": "藻原もずく【香港Vtuber】",
-        "image": "https://yt3.ggpht.com/wZ_kkRotud2zdJhb1pCVPfZZPKMM4U27qsbRmno5J2wnfth3qfrXy75tRZwATm-GX7N0zXNR=s88-c-k-c0x00ffffff-no-rj",
-        "bg": "https://yt3.ggpht.com/npFOMNpvmB5UstMkYVoblxAdJOvancc1w-SLhe1EuXYUMyW7xtVkGlMDdS6S1GcrsgyIQjx-YQ=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+        "image": "https://yt3.ggpht.com/DKVMLCdfVoeFoSM4Tg0swFCzAfK3GbIvPNjbVmjdhxZo1TX5Mb57Zf_i7E1n3ZRt2FCh3K8Z=s88-c-k-c0x00ffffff-no-rj",
+        "bg": "https://yt3.ggpht.com/4FhChKivVCGr0SzmqDX7jirNo_T8VkFfNxm2h7tzb3C7op-ckuR5c8Bla4oBH7D5kOmYuexerg=w1080-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
     },
     "body": [
         {
@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FDlRG89VgAA24FK?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FDlRG89VgAA24FK?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/FZjz_IvUIAE_2y_?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FZjz_IvUIAE_2y_?format=jpg&name=medium"
                     }
                 ]
             }
@@ -122,6 +122,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "0A5sIYsTzMQ",
+                        "image": "https://i.ytimg.com/vi/0A5sIYsTzMQ/mqdefault.jpg",
+                        "title": "【歌ってみた／試唱】QUEEN / Kanaria - covered by 藻原もずく【藻原もずく/香港Vtuber】#shorts",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
                         "video_code": "W30ZEYflvbA",
                         "image": "https://i.ytimg.com/vi/W30ZEYflvbA/mqdefault.jpg",
                         "title": "【自我介紹】Vtuber一問一答自己紹介 【藻原もずく/香港Vtuber】",
@@ -146,9 +152,9 @@
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
-                        "video_code": "6p-d8KeUgMQ",
-                        "image": "https://i.ytimg.com/vi/6p-d8KeUgMQ/mqdefault.jpg",
-                        "title": "【香港Vtuber精華】老闆在留言區指責我的工作態度?! 【藻原もずく/HKVtuber】",
+                        "video_code": "CIaWz0yas0Q",
+                        "image": "https://i.ytimg.com/vi/CIaWz0yas0Q/mqdefault.jpg",
+                        "title": "QUEEN / Kanaria - covered by 藻原もずく",
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
@@ -158,9 +164,9 @@
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
-                        "video_code": "exNvfCplQ14",
-                        "image": "https://i.ytimg.com/vi/exNvfCplQ14/mqdefault.jpg",
-                        "title": "PRE-DEBUT",
+                        "video_code": "6p-d8KeUgMQ",
+                        "image": "https://i.ytimg.com/vi/6p-d8KeUgMQ/mqdefault.jpg",
+                        "title": "【香港Vtuber精華】老闆在留言區指責我的工作態度?! 【藻原もずく/HKVtuber】",
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
@@ -170,15 +176,9 @@
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
-                        "video_code": "eDAJ0FB19SA",
-                        "image": "https://i.ytimg.com/vi/eDAJ0FB19SA/mqdefault.jpg",
-                        "title": "【香港Vtuber精華】老公天下第一 (觀眾點歌)【藻原もずく/香港Vtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "zMZ-gPF_lvI",
-                        "image": "https://i.ytimg.com/vi/zMZ-gPF_lvI/mqdefault.jpg",
-                        "title": "【🐟世界海洋日🐠】♥️愛惜海洋生態💙 由您我開始做起✨  feat. 藻原もずく, 灯里クリオ, 水澄のぞみ, Dumbo子, 伊香いくら, 触愛ネロロ 【HKVtuber】#Shorts",
+                        "video_code": "exNvfCplQ14",
+                        "image": "https://i.ytimg.com/vi/exNvfCplQ14/mqdefault.jpg",
+                        "title": "PRE-DEBUT",
                         "author": "藻原もずく【香港Vtuber】"
                     }
                 ]
@@ -202,9 +202,21 @@
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
+                        "video_code": "6vtmgU_Ajyw",
+                        "image": "https://i.ytimg.com/vi/6vtmgU_Ajyw/mqdefault.jpg",
+                        "title": "【一周年紀念】藻類星球新制服✨披露 + 棉花糖雜談【藻原もずく/香港Vtuber】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
                         "video_code": "ki7tWF_b_aE",
                         "image": "https://i.ytimg.com/vi/ki7tWF_b_aE/mqdefault.jpg",
                         "title": "【香港地理達人挑戰】家裡蹲使用有限的出外遊玩記憶完成整份試題【藻原もずく/香港Vtuber】",
+                        "author": "藻原もずく【香港Vtuber】"
+                    },
+                    {
+                        "video_code": "qFqHmUaP6pA",
+                        "image": "https://i.ytimg.com/vi/qFqHmUaP6pA/mqdefault.jpg",
+                        "title": "【突發歌】 1投票=1曲！ 會變成耐久台嗎！？ 【藻原もずく/香港Vtuber】",
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
@@ -232,21 +244,9 @@
                         "author": "藻原もずく【香港Vtuber】"
                     },
                     {
-                        "video_code": "o4UamA1e3eI",
-                        "image": "https://i.ytimg.com/vi/o4UamA1e3eI/mqdefault.jpg",
-                        "title": "【千訂感謝＋收益化紀念✨】藻原研討會有獎問答比賽🥇回饋最忠誠的組員💥【藻原もずく/香港Vtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "dQGkBxumBa4",
-                        "image": "https://i.ytimg.com/vi/dQGkBxumBa4/mqdefault.jpg",
-                        "title": "【突發歌】食完飯唔坐低住【藻原もずく/香港Vtuber】",
-                        "author": "藻原もずく【香港Vtuber】"
-                    },
-                    {
-                        "video_code": "l9jYcSVq4aQ",
-                        "image": "https://i.ytimg.com/vi/l9jYcSVq4aQ/mqdefault.jpg",
-                        "title": "【歌耐久】500訂感謝💕50曲耐久🧪【藻原もずく/香港Vtuber】",
+                        "video_code": "lspAow9kwxs",
+                        "image": "https://i.ytimg.com/vi/lspAow9kwxs/mqdefault.jpg",
+                        "title": "【香城中學交換生校園月】 ✝ 主日崇拜 ✝  敬拜、讚美獻詩 feat.呀希(水澄のぞみ)【藻原もずく/香港Vtuber】",
                         "author": "藻原もずく【香港Vtuber】"
                     }
                 ]

@@ -140,6 +140,20 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "KrcvVm745OU",
+                        "image": "https://i.ytimg.com/vi/KrcvVm745OU/mqdefault.jpg",
+                        "title": "HAppy birthdAY",
+                        "author": "米良 艾露 / Mera Airu"
+                    }
+                ]
+            }
         }
     ]
 }

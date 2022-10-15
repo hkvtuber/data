@@ -12,8 +12,8 @@
                 "title": "人設圖",
                 "image_list": [
                     {
-                        "image": "https://pbs.twimg.com/media/FY_FVDHagAQThii?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FY_FVDHagAQThii?format=jpg&name=medium"
+                        "image": "https://pbs.twimg.com/media/Fe9k5TUUAAEvkds?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/Fe9k5TUUAAEvkds?format=jpg&name=medium"
                     }
                 ]
             }
@@ -34,6 +34,11 @@
                         "key": "名字",
                         "content": "軒轅虛\nKYON",
                         "heightRate": "2"
+                    },
+                    {
+                        "key": "生日",
+                        "content": "8月12日",
+                        "heightRate": "1"
                     }
                 ]
             }
@@ -88,6 +93,12 @@
                 "title": "推薦影片",
                 "video_list": [
                     {
+                        "video_code": "qlUsP5GfuNc",
+                        "image": "https://i.ytimg.com/vi/qlUsP5GfuNc/mqdefault.jpg",
+                        "title": "【Cover】上陣 Last Evolution Version. Cover by Kyon【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
                         "video_code": "8FL_v_1LS3M",
                         "image": "https://i.ytimg.com/vi/8FL_v_1LS3M/mqdefault.jpg",
                         "title": "【Cover】 《熾熱審判》Time Judged all 粵語版 （幪面超人OOO插曲）【軒轅虛KYON】",
@@ -100,15 +111,15 @@
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
-                        "video_code": "qlUsP5GfuNc",
-                        "image": "https://i.ytimg.com/vi/qlUsP5GfuNc/mqdefault.jpg",
-                        "title": "【Cover】上陣 Last Evolution Version. Cover by Kyon【軒轅虛KYON】",
-                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
-                    },
-                    {
                         "video_code": "1spPPsIu7es",
                         "image": "https://i.ytimg.com/vi/1spPPsIu7es/mqdefault.jpg",
                         "title": "【單人靈探】當鬼遇上鬼 預告篇 【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "GGcXjSK3kKQ",
+                        "image": "https://i.ytimg.com/vi/GGcXjSK3kKQ/mqdefault.jpg",
+                        "title": "【Cover】中秋你注定一人 Cover by Kyon【軒轅虛KYON】",
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
@@ -140,12 +151,6 @@
                         "image": "https://i.ytimg.com/vi/Vl2jshrpc1w/mqdefault.jpg",
                         "title": "【半周年紀念】虛子【軒轅虛KYON】",
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
-                    },
-                    {
-                        "video_code": "oS956fdDrXI",
-                        "image": "https://i.ytimg.com/vi/oS956fdDrXI/mqdefault.jpg",
-                        "title": "【?????】阿虛復活！【軒轅虛KYON】",
-                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     }
                 ]
             }
@@ -168,9 +173,27 @@
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
+                        "video_code": "8zibw6KKyUc",
+                        "image": "https://i.ytimg.com/vi/8zibw6KKyUc/mqdefault.jpg",
+                        "title": "【真人靈探】九月份當鬼遇上鬼 Ft.Tiger【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
                         "video_code": "Ev_DvCvfXc0",
                         "image": "https://i.ytimg.com/vi/Ev_DvCvfXc0/mqdefault.jpg",
                         "title": "【初配信】虛之降臨祭！半人半鬼的降魔師終於出道啦！ 【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "oX8HsAn3Jfw",
+                        "image": "https://i.ytimg.com/vi/oX8HsAn3Jfw/mqdefault.jpg",
+                        "title": "【單人靈探】鬼月特輯 當鬼遇上鬼 網上直播版【軒轅虛KYON】",
+                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
+                    },
+                    {
+                        "video_code": "ZtwBM2NkvAw",
+                        "image": "https://i.ytimg.com/vi/ZtwBM2NkvAw/mqdefault.jpg",
+                        "title": "【香城中學交換生校園月】香中文化祭 - 夏日祭！【軒轅虛KYON】",
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
@@ -186,33 +209,15 @@
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
-                        "video_code": "vQM5FtCWhoI",
-                        "image": "https://i.ytimg.com/vi/vQM5FtCWhoI/mqdefault.jpg",
-                        "title": "【LOL】江湖規矩 隻揪隻100回合！  F.T TIGER【軒轅虛KYON】",
-                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
-                    },
-                    {
-                        "video_code": "LkstPit8zYk",
-                        "image": "https://i.ytimg.com/vi/LkstPit8zYk/mqdefault.jpg",
-                        "title": "【清明掃墓】清明上山 團拜阿虛 FT.黑森千夜 雲仔 奈々宮桜雪 羽鳥楓鈴 克里斯 狐師傅 社畜A星野ニア 沢田ユウ【軒轅虛KYON】",
-                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
-                    },
-                    {
                         "video_code": "j_TZ9aO_aAA",
                         "image": "https://i.ytimg.com/vi/j_TZ9aO_aAA/mqdefault.jpg",
                         "title": "【JSC】Jump scare challenge #25 F.T 小林あいす【軒轅虛KYON】",
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     },
                     {
-                        "video_code": "mPx7R2MtvH8",
-                        "image": "https://i.ytimg.com/vi/mPx7R2MtvH8/mqdefault.jpg",
-                        "title": "【雀魂觀眾場】拯救虛子大作戰！Ft.奈々宮桜雪【軒轅虛KYON】",
-                        "author": "軒轅虛 KYON Ch. 【香港VTuber】"
-                    },
-                    {
-                        "video_code": "iVzY_uweS84",
-                        "image": "https://i.ytimg.com/vi/iVzY_uweS84/mqdefault.jpg",
-                        "title": "【MD】第一屆MD法老王大賽抽選現場【軒轅虛KYON】",
+                        "video_code": "LkstPit8zYk",
+                        "image": "https://i.ytimg.com/vi/LkstPit8zYk/mqdefault.jpg",
+                        "title": "【清明掃墓】清明上山 團拜阿虛 FT.黑森千夜 雲仔 奈々宮桜雪 羽鳥楓鈴 克里斯 狐師傅 社畜A星野ニア 沢田ユウ【軒轅虛KYON】",
                         "author": "軒轅虛 KYON Ch. 【香港VTuber】"
                     }
                 ]

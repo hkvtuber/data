@@ -94,6 +94,38 @@
                         "image": "https://i.ytimg.com/vi/wN2yxgkufrk/mqdefault.jpg",
                         "title": "絶え間なく藍色 / 獅子志司 (Cover) 霧羅埼かげ",
                         "author": "Kage ch. 霧羅埼かげ"
+                    },
+                    {
+                        "video_code": "JmDGbs3vgk8",
+                        "image": "https://i.ytimg.com/vi/JmDGbs3vgk8/mqdefault.jpg",
+                        "title": "絶望さん／霧羅埼かげ　【歌ってみた】",
+                        "author": "Kage ch. 霧羅埼かげ"
+                    },
+                    {
+                        "video_code": "1rT4BJYukEc",
+                        "image": "https://i.ytimg.com/vi/1rT4BJYukEc/mqdefault.jpg",
+                        "title": "アイロニック/霧羅埼かげ　【歌ってみた】",
+                        "author": "Kage ch. 霧羅埼かげ"
+                    },
+                    {
+                        "video_code": "TrVLASXQjeQ",
+                        "image": "https://i.ytimg.com/vi/TrVLASXQjeQ/mqdefault.jpg",
+                        "title": "黒と薔薇と血と赤と／霧羅埼かげ　【歌ってみた】",
+                        "author": "Kage ch. 霧羅埼かげ"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title_youtube",
+            "data": {
+                "title": "推薦重播",
+                "video_list": [
+                    {
+                        "video_code": "EWF8dUnqPqk",
+                        "image": "https://i.ytimg.com/vi/EWF8dUnqPqk/mqdefault.jpg",
+                        "title": "【誕生日凸待ち】友達ください、誰が来てください。。。【 霧羅埼かげ】",
+                        "author": "Kage ch. 霧羅埼かげ"
                     }
                 ]
             }

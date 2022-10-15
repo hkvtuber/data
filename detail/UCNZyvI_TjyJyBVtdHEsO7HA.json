@@ -7,18 +7,6 @@
     },
     "body": [
         {
-            "type": "title_image",
-            "data": {
-                "title": "人設圖",
-                "image_list": [
-                    {
-                        "image": "https://pbs.twimg.com/media/FULs6pOVIAIPKMO?format=jpg&name=small",
-                        "image_big": "https://pbs.twimg.com/media/FULs6pOVIAIPKMO?format=jpg&name=medium"
-                    }
-                ]
-            }
-        },
-        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -113,9 +101,9 @@
                         "author": "零肆04 Ch."
                     },
                     {
-                        "video_code": "_NZt_en196g",
-                        "image": "https://i.ytimg.com/vi/_NZt_en196g/mqdefault.jpg",
-                        "title": "翻唱 - 米亞 MYA「講你知123！」清唱 short ver.  | 零肆04 Ch.【HKVTuber】",
+                        "video_code": "OUlsAXRF47o",
+                        "image": "https://i.ytimg.com/vi/OUlsAXRF47o/mqdefault.jpg",
+                        "title": "【高登歌膠唱】家姐（原曲：單車）Cover｜零肆04 Ch.",
                         "author": "零肆04 Ch."
                     },
                     {
@@ -125,21 +113,21 @@
                         "author": "零肆04 Ch."
                     },
                     {
+                        "video_code": "_NZt_en196g",
+                        "image": "https://i.ytimg.com/vi/_NZt_en196g/mqdefault.jpg",
+                        "title": "翻唱 - 米亞 MYA「講你知123！」清唱 short ver.  | 零肆04 Ch.【HKVTuber】",
+                        "author": "零肆04 Ch."
+                    },
+                    {
                         "video_code": "tzduWvEDhUM",
                         "image": "https://i.ytimg.com/vi/tzduWvEDhUM/mqdefault.jpg",
                         "title": "貓咪的瞳孔會在瞄準/捕捉獵物時放大喔",
                         "author": "零肆04 Ch."
                     },
                     {
-                        "video_code": "OUlsAXRF47o",
-                        "image": "https://i.ytimg.com/vi/OUlsAXRF47o/mqdefault.jpg",
-                        "title": "【高登歌膠唱】家姐（原曲：單車）Cover｜零肆04 Ch.",
-                        "author": "零肆04 Ch."
-                    },
-                    {
-                        "video_code": "5xE9vxDXW7E",
-                        "image": "https://i.ytimg.com/vi/5xE9vxDXW7E/mqdefault.jpg",
-                        "title": "TODAY IS PADORU DAY！！| 零肆04 Ch.【HKVTuber】",
+                        "video_code": "uCoUIzC6DI0",
+                        "image": "https://i.ytimg.com/vi/uCoUIzC6DI0/mqdefault.jpg",
+                        "title": "［04隨便粵翻］CL - ‘HELLO BITCHES’  Cover ｜零肆04 Ch.",
                         "author": "零肆04 Ch."
                     }
                 ]
@@ -193,15 +181,15 @@
                         "author": "零肆04 Ch."
                     },
                     {
-                        "video_code": "WKf0fERPvOU",
-                        "image": "https://i.ytimg.com/vi/WKf0fERPvOU/mqdefault.jpg",
-                        "title": "【APEX耐久】 輸出訓練 |  零肆04 Ch.",
-                        "author": "零肆04 Ch."
-                    },
-                    {
                         "video_code": "4QoQQSDUmUA",
                         "image": "https://i.ytimg.com/vi/4QoQQSDUmUA/mqdefault.jpg",
                         "title": "公開自己的性癖大會！~BL篇~ ft. Enn，伊香，Dumbo子 | 零肆04 Ch.【HKVTuber】",
+                        "author": "零肆04 Ch."
+                    },
+                    {
+                        "video_code": "WKf0fERPvOU",
+                        "image": "https://i.ytimg.com/vi/WKf0fERPvOU/mqdefault.jpg",
+                        "title": "【APEX耐久】 輸出訓練 |  零肆04 Ch.",
                         "author": "零肆04 Ch."
                     },
                     {

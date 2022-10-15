@@ -7,6 +7,18 @@
     },
     "body": [
         {
+            "type": "title_image",
+            "data": {
+                "title": "人設圖",
+                "image_list": [
+                    {
+                        "image": "https://pbs.twimg.com/media/FeVAvHfVUAAzWAc?format=jpg&name=small",
+                        "image_big": "https://pbs.twimg.com/media/FeVAvHfVUAAzWAc?format=jpg&name=medium"
+                    }
+                ]
+            }
+        },
+        {
             "type": "title_content",
             "data": {
                 "title": "描述",
@@ -164,15 +176,15 @@
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
-                        "video_code": "GzpDkDv5S9E",
-                        "image": "https://i.ytimg.com/vi/GzpDkDv5S9E/mqdefault.jpg",
-                        "title": "【APEX抽箱】謝絕晴天白雲！頭目要來玩課金遊戲了！謝絕晴天白雲【HKvtuber/酒吞クロナ】",
-                        "author": "Kurona Ch.酒吞玖蘿娜"
-                    },
-                    {
                         "video_code": "MreoLJTsgCk",
                         "image": "https://i.ytimg.com/vi/MreoLJTsgCk/mqdefault.jpg",
                         "title": "【頭目！我想和你唱】終於可以和大家合唱了【HKvtuber/酒吞クロナ】",
+                        "author": "Kurona Ch.酒吞玖蘿娜"
+                    },
+                    {
+                        "video_code": "GzpDkDv5S9E",
+                        "image": "https://i.ytimg.com/vi/GzpDkDv5S9E/mqdefault.jpg",
+                        "title": "【APEX抽箱】謝絕晴天白雲！頭目要來玩課金遊戲了！謝絕晴天白雲【HKvtuber/酒吞クロナ】",
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
@@ -182,9 +194,21 @@
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
+                        "video_code": "qJNxxgPsJQY",
+                        "image": "https://i.ytimg.com/vi/qJNxxgPsJQY/mqdefault.jpg",
+                        "title": "【會員開通+新衣裝】會員終於開通了！謝謝大家的支持!【HKvtuber | 酒吞玖蘿娜】",
+                        "author": "Kurona Ch.酒吞玖蘿娜"
+                    },
+                    {
                         "video_code": "JaB2e8yA30Y",
                         "image": "https://i.ytimg.com/vi/JaB2e8yA30Y/mqdefault.jpg",
                         "title": "【收益化開通】今天大酒大肉！【HKvtuber | 酒吞玖蘿娜】",
+                        "author": "Kurona Ch.酒吞玖蘿娜"
+                    },
+                    {
+                        "video_code": "C3pnpB8yFqQ",
+                        "image": "https://i.ytimg.com/vi/C3pnpB8yFqQ/mqdefault.jpg",
+                        "title": "【☠一週年達成☠】謝謝你願意和頭目一起走到這裡【HKVTuber ☠ 酒吞玖蘿娜】",
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
@@ -194,27 +218,15 @@
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
-                        "video_code": "UU5BGLk2gtc",
-                        "image": "https://i.ytimg.com/vi/UU5BGLk2gtc/mqdefault.jpg",
-                        "title": "【鬥陣特攻】 突發！小萌新來了！【HKvtuber/酒吞クロナ】",
-                        "author": "Kurona Ch.酒吞玖蘿娜"
-                    },
-                    {
-                        "video_code": "TNv3dLwDIes",
-                        "image": "https://i.ytimg.com/vi/TNv3dLwDIes/mqdefault.jpg",
-                        "title": "【初配信】惡鬼組初次集合【HKvtuber/酒吞クロナ】",
-                        "author": "Kurona Ch.酒吞玖蘿娜"
-                    },
-                    {
                         "video_code": "zFaR7uN4KW0",
                         "image": "https://i.ytimg.com/vi/zFaR7uN4KW0/mqdefault.jpg",
                         "title": "【即聽即學】頭目來挑戰大家想聽的中文歌吧【HKvtuber | 酒吞クロナ】",
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     },
                     {
-                        "video_code": "fPYAEav-Dhk",
-                        "image": "https://i.ytimg.com/vi/fPYAEav-Dhk/mqdefault.jpg",
-                        "title": "【歌回】再次當起頭頭姐姐的角色唱兒歌啦【HKvtuber/酒吞クロナ】",
+                        "video_code": "TNv3dLwDIes",
+                        "image": "https://i.ytimg.com/vi/TNv3dLwDIes/mqdefault.jpg",
+                        "title": "【初配信】惡鬼組初次集合【HKvtuber/酒吞クロナ】",
                         "author": "Kurona Ch.酒吞玖蘿娜"
                     }
                 ]
